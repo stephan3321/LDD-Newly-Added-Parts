@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35442" />
+    <Annotation designname="GEAR WHEEL 2X2, Z6" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0.32" tz="-2">
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0" tz="-2">
+      29:0:1,22:2:1,22:2:1,22:2:1,29:0:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      29:0:1,22:2:1,22:2:1,22:2:1,29:0:1,
+    </Custom2DField>
+    <Hinge type="69" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.4" ty="0.26" tz="-1.2"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.73667800426483" minY="0" minZ="-2.7" maxX="0.936679005622864" maxY="0.48" maxZ="0.3" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.73667800426483" minY="0" minZ="-2.7" maxX="0.936679005622864" maxY="0.48" maxZ="0.3" />
+  </GeometryBounding>
+</LEGOPrimitive>

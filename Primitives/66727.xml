@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="66727" />
+    <Annotation designname="Wheel Rim 11 x 18 with Drilled Disc Brake" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0.2" />
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0.24">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="139" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.88" minY="-0.88" minZ="-0.64" maxX="0.88" maxY="0.88" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.88" minY="-0.88" minZ="-0.64" maxX="0.88" maxY="0.88" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

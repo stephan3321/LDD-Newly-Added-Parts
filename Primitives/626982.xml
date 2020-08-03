@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="626982" />
+    <Annotation designname="LAPTOP" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.45" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.625" ty="1.1957" tz="-0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.39" minY="0" minZ="-0.6498" maxX="0.59" maxY="1.28284" maxZ="-0.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.39" minY="0" minZ="-0.6498" maxX="0.59" maxY="1.28284" maxZ="-0.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

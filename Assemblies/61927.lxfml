@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="61927"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="LINEAR ACTUATOR 10-15 M"/>
+		<Environment name="Standard"/>
+    <Annotation wire_="62271,62273"/>
+    <Annotation wire="62274,62275"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="62271" uuid="db4b8434-2a2e-4119-8555-59b804c5988c">
+			<Part refID="0" designID="62271" materials="21,0" decoration="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="yes"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="62275" uuid="a3768fa0-1296-4f7a-a66d-d16c06487ce9">
+			<Part refID="1" designID="62275" materials="21">
+				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,12,0.800000011921,-0.800000011921" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="62273" uuid="2a9234d0-e66e-4e71-9b14-0c70c3c10db9">
+			<Part refID="2" designID="62273" materials="21">
+				<Bone refID="2" transformation="0,0,1,0,1,0,-1,0,0,0.40000000596,0.800000011921,-0.40000000596" freeze="yes"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="62274" uuid="90ee8d90-a4a1-4bb6-badd-b140d3dc875a">
+			<Part refID="3" designID="62274" materials="21">
+				<Bone refID="3" transformation="-1,0,0,0,1,0,0,0,-1,12,0.800000011921,-0.800000011921" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Mikkel Bech Jensen [gaia]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2887"/>
+    <Annotation designname="SWITCH RACK"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.08" sY="0.17" sZ="1.87" angle="180.0" ax="-0.707107" ay="0.0" az="0.707107" tx="-0.260824" ty="0.3" tz="0.2"/>
+	  <Box sX="4.78" sY="0.12" sZ="0.17" angle="180.0" ax="-0.707107" ay="0.0" az="-0.707107" tx="1.51918" ty="0.610001" tz="-0.04"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.692304" ay="0.0" az="-0.721606" tx="-1.27345" ty="0.610001" tz="4.33794"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.662457" ay="0.0" az="-0.7491" tx="-1.3429" ty="0.610001" tz="3.53862"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.650296" ay="0.0" az="-0.759681" tx="-1.46001" ty="0.610001" tz="2.7332"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.648621" ay="0.0" az="-0.761111" tx="-1.59101" ty="0.610001" tz="1.92235"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.626766" ay="-3.18573e-007" az="-0.779208" tx="-1.7403" ty="0.610001" tz="1.1253"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.594872" ay="-3.9783e-007" az="-0.80382" tx="-1.94101" ty="0.61" tz="0.359973"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.558285" ay="0.0" az="-0.829649" tx="-2.20981" ty="0.61" tz="-0.399672"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.534527" ay="3.46929e-007" az="-0.845152" tx="-2.53243" ty="0.610001" tz="-1.13641"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.532695" ay="0.0" az="-0.846307" tx="-2.87909" ty="0.61" tz="-1.87023"/>
+	  <Box sX="0.408" sY="0.12" sZ="0.17" angle="180.0" ax="0.538211" ay="4.67904e-007" az="-0.84281" tx="-3.22827" ty="0.61" tz="-2.60554"/>
+	  <Box sX="0.6" sY="0.12" sZ="0.17" angle="180.0" ax="0.536375" ay="0.0" az="-0.84398" tx="-3.6565" ty="0.61" tz="-3.52023"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="70" axes="2" angle="90" ax="0" ay="1" az="0" tx="0.0" ty="0" tz="0.0"/>
+	  <Rail type="2" length="9.6" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="1.52" ty="0.759998" tz="4.76"/>
+    <Rail type="2" length="0.894431" angle="2.67335" ax="-3.74665e-006" ay="1.0" az="0.0" tx="-1.26" ty="0.759999" tz="4.76"/>
+    <Rail type="2" length="0.932995" angle="7.79528" ax="-1.28314e-006" ay="1.0" az="0.0" tx="-1.30172" ty="0.759999" tz="3.86654"/>
+    <Rail type="2" length="0.95999" angle="8.99857" ax="-1.11099e-006" ay="1.0" az="0.0" tx="-1.42826" ty="0.759999" tz="2.94217"/>
+    <Rail type="2" length="0.912969" angle="10.1517" ax="-9.84236e-007" ay="1.0" az="0.0" tx="-1.57842" ty="0.759999" tz="1.99399"/>
+	  <Rail type="2" length="0.904382" angle="15.2398" ax="-6.53472e-007" ay="1.0" az="0.0" tx="-1.73933" ty="0.759999" tz="1.09531"/>
+	  <Rail type="2" length="0.904425" angle="20.6368" ax="-4.80179e-007" ay="1.0" az="0.0" tx="-1.97706" ty="0.76" tz="0.222736"/>
+	  <Rail type="2" length="0.951531" angle="24.895" ax="-3.96056e-007" ay="1.0" az="0.0" tx="-2.29581" ty="0.76" tz="-0.623655"/>
+	  <Rail type="2" length="0.960009" angle="25.2005" ax="-3.91099e-007" ay="1.0" az="0.0" tx="-2.69637" ty="0.76" tz="-1.48677"/>
+	  <Rail type="2" length="0.959994" angle="25.1983" ax="-3.91134e-007" ay="1.0" az="0.0" tx="-3.10513" ty="0.76" tz="-2.35541"/>
+	  <Rail type="2" length="1.03443" angle="25.2033" ax="-3.91054e-007" ay="1.0" az="0.0" tx="-3.51385" ty="0.76" tz="-3.22405"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="-1.20618,0.38,-0.0400002" mass="15.3000001907" frictionType="0"/>
+  <Paths>
+    <Path type="1" points="2">
+      1.52,0.759998,4.76:1.52,0.759998,-4.84
+    </Path>
+    <Path type="1" points="11">
+      -1.26,0.759999,4.76:-1.30172,0.759999,3.86654:-1.42826,0.759999,2.94217:-1.57842,0.759999,1.99399:-1.73933,0.759999,1.09531:-1.97706,0.76,0.222733:-2.29581,0.76,-0.623655:-2.69637,0.76,-1.48677:-3.10513,0.76,-2.35541:-3.51385,0.76,-3.22405:-3.95434,0.76,-4.16
+    </Path>
+  </Paths>
+  <Bounding>
+    <AABB minX="-4.23236" minY="-9.22379e-007" minZ="-4.84" maxX="1.82" maxY="0.760001" maxZ="4.76"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.23236" minY="-9.22379e-007" minZ="-4.84" maxX="1.82" maxY="0.760001" maxZ="4.76"/>
+  </GeometryBounding>
+</LEGOPrimitive>

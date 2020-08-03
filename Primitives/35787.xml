@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35787" />
+    <Annotation designname="Tile, Modified 2 x 2 Triangular" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,23:4:1,9:4:1,15:4,22:2:1,
+      29:0:1,29:0:1,22:2:1,9:4:1,22:2:1,
+      29:0:1,29:0:1,29:0:1,23:4:1,22:2:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.28" minY="0" minZ="-0.400035" maxX="1.2" maxY="0.32" maxZ="1.08" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.28" minY="0" minZ="-0.400035" maxX="1.2" maxY="0.32" maxZ="1.08" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

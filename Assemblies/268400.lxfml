@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="268400"/>
+		<Annotation designname="MONORAIL MOTOR"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2684" uuid="0f53f9ee-6647-4b30-bd55-65f50a57e0f8">
+			<Part refID="0" designID="2684" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2685" uuid="3e2d666c-701b-43b9-80ec-6911f905f22e">
+			<Part refID="1" designID="2685" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,0,-1,0,1,0,0,1.14,2.1718" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="2685" uuid="2abf64ed-9100-4d74-9175-ddb1e094d369">
+			<Part refID="2" designID="2685" materials="21">
+				<Bone refID="2" transformation="-1,0,0,0,0,1,0,1,0,0,1.14,-2.1718" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="2682" uuid="bdb0f18c-bdce-49bb-980c-789bf8ca201d">
+			<Part refID="3" designID="2682" materials="21">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,0,0.94,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="2683" uuid="9fa8079d-7fde-4864-b7ce-c766fcc76d55">
+			<Part refID="4" designID="2683" materials="21">
+				<Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,-0.4,5.48,0.4" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="5" designID="2688" uuid="da9c7168-2383-4352-9834-4da92b91e064">
+			<Part refID="5" designID="2688" materials="21">
+				<Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,0,0.44,1.56" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="6" designID="2688" uuid="ba1c7268-2384-4352-9834-4da92c91e074">
+			<Part refID="6" designID="2688" materials="21">
+				<Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,0,0.44,-1.56" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="7" designID="9075" uuid="bf1d7268-2384-4052-9134-4da92c91e074">
+			<Part refID="7" designID="9075" materials="21">
+				<Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,-0.56,0.14,0.0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

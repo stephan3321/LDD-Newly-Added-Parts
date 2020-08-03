@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65426" />
+    <Annotation designname="Wedge, Plate 4 x 2 Right, Pointed" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.32" tz="-0.4">
+      29:0:1,23:4:1,29:0:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,22:1:1,
+      29:0:1,29:0:1,22:2:1,29:0:1,22:2:1,29:0:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.8" minY="0" minZ="-1.14" maxX="2" maxY="0.48" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="0" minZ="-1.14" maxX="2" maxY="0.48" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30034" />
+    <Annotation designname="Panel 3 x 5 Solar/Clip-On/Deltoid" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.8" ty="0.248" tz="0.16" />
+    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1" minY="0" minZ="-2" maxX="2" maxY="1" maxZ="2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1" minY="0" minZ="-2" maxX="2" maxY="1" maxZ="2" />
+  </GeometryBounding>
+</LEGOPrimitive>

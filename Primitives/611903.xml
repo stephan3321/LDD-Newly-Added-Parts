@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="611903" />
+    <Annotation designname="Minifig Helmet Visor SW Clone Trooper" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.72" minY="-0.48" minZ="-0.08" maxX="0.72" maxY="0.08" maxZ="1.039832" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.72" minY="-0.48" minZ="-0.08" maxX="0.72" maxY="0.08" maxZ="1.039832" />
+  </GeometryBounding>
+</LEGOPrimitive>

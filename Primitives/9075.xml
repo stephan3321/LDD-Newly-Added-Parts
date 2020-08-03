@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9075"/>
+    <Annotation designname="MEAL GEAR"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0,0,0" mass="15.3000001907" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.32" minY="-0.14" minZ="-0.32" maxX="0.32" maxY="0.14" maxZ="0.32"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.32" minY="-0.14" minZ="-0.32" maxX="0.32" maxY="0.14" maxZ="0.32"/>
+  </GeometryBounding>
+</LEGOPrimitive>

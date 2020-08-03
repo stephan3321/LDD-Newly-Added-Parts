@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Marc Klein [marckl]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4695"/>
+    <Annotation designname="Lever"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.0675" sY="0.215" sZ="0.79" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="-0.78" ty="0.0" tz="-0.24"/>
+	  <Box sX="0.215" sY="0.0675" sZ="0.79" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="-0.78" ty="0.0" tz="-0.24"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90.0" ax="0.0" ay="0.0" az="-1.0" tx="-1.58" ty="0.0" tz="-0.24"/>
+    <Hinge type="184" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.24"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.40828,0,0,0,0.693333,0,0,0,1.67495" centerOfMass="-0.69928,0.0,-0.24" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.58" minY="-0.6552" minZ="-0.48" maxX="0.18144" maxY="0.655201" maxZ="0.0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.58" minY="-0.6552" minZ="-0.48" maxX="0.18144" maxY="0.655201" maxZ="0.0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

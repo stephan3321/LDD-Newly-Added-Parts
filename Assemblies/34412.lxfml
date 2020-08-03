@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+		<Annotation designname="MINI UPPER P. W/ARM COR.KNOB"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3820">
+			<Part refID="0" designID="3820" materials="21">
+				<Bone refID="0" transformation="0.98325502872467041,0.18223486840724945,0,-0.18223486840724945,0.98325502872467041,0,0,0,1,1.2779839038848877,0.67039865255355835,0.68287879228591919"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3819">
+			<Part refID="1" designID="3819" materials="21">
+				<Bone refID="1" transformation="0.98325502872467041,0.18223486840724945,0,-0.18223486840724945,0.98325502872467041,0,0,0,1,1.0200002193450928,0.91000014543533325,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="3814">
+			<Part refID="2" designID="3814" materials="21,0,0">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="34335">
+			<Part refID="3" designID="34335" materials="21">
+				<Bone refID="3" transformation="0.98325484991073608,-0.18223553895950317,0,0,0,1,-0.18223555386066437,-0.98325490951538086,0,-0.22000022232532501,0.91000032424926758,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

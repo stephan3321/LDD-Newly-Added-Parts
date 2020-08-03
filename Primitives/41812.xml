@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41812" />
+    <Annotation designname="Shooter W/ Cross Axle, No. 1" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="2" length="0.16" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0" tz="-1.32" />
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="1" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="-1.2" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.547999978065491" minY="-1.20000004768372" minZ="-1.48000001907349" maxX="0.547999978065491" maxY="0.400000005960464" maxZ="1.60000002384186" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.547999978065491" minY="-1.20000004768372" minZ="-1.48000001907349" maxX="0.547999978065491" maxY="0.400000005960464" maxZ="1.60000002384186" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="324950"/>
+		<Annotation designname="4 BALL JOINT STEERING ASSEMBLY"/>
+		<Annotation maingroupid="372"/>
+		<Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="32495" uuid="09687805-1114-4129-9aae-8f505a446de6">
+			<Part refID="0" designID="32495" materials="24">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="32496" uuid="99310d11-b203-480d-8bb6-5510370a76f0">
+			<Part refID="1" designID="32496" materials="24">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0.19" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

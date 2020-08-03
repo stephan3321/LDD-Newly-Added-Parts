@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6085" />
+    <Annotation designname="Cockpit 5 x 8 x 3" />
+    <Annotation maingroupid="277" />
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-3.6" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="2" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0.64" tz="0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="1.28" tz="1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="2.88" tz="2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="90" ax="1" ay="0" az="0" tx="-1.2" ty="2.88" tz="3.6">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-3.59999990463257" minY="0" minZ="-0.400000005960464" maxX="2.79999995231628" maxY="3.03999996185303" maxZ="3.75999999046326" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.59999990463257" minY="0" minZ="-0.400000005960464" maxX="2.79999995231628" maxY="3.03999996185303" maxZ="3.75999999046326" />
+  </GeometryBounding>
+</LEGOPrimitive>

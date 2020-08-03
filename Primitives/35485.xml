@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35485" />
+    <Annotation designname="MINI ACCESSORY, NO. 5" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.3" ty="0.16" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.950671" minY="0" minZ="-1.746671" maxX="0.950668" maxY="0.32" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.950671" minY="0" minZ="-1.746671" maxX="0.950668" maxY="0.32" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

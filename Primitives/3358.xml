@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3358" />
+    <Annotation designname="Fence Gate 1 x 3 x 2" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.6" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="120" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0.5" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-1.6" ty="0.4" tz="0.12">
+      29:0,29:0,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0,29:0,
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-1.6" ty="1.2" tz="-0.12">
+      29:0,29:0,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2" minY="0" minZ="-0.400009989738464" maxX="0.400009989738464" maxY="1.75999999046326" maxZ="0.400009989738464" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="0" minZ="-0.400009989738464" maxX="0.400009989738464" maxY="1.75999999046326" maxZ="0.400009989738464" />
+  </GeometryBounding>
+</LEGOPrimitive>

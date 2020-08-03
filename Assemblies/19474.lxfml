@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="19474"/>
+		<Annotation designname="PNEUMATIC SWITCH W. HOLES"/>
+		<Annotation maingroupid="388"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="9417" uuid="f21be23a-101f-4fa4-8a3b-5335693b7de2">
+			<Part refID="0" designID="9417" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="9419" uuid="cd5723c8-c8f3-4267-b095-986fe6a039a7">
+			<Part refID="1" designID="9419" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,1.6,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

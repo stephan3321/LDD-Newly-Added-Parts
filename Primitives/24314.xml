@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24314" />
+    <Annotation designname="WHEEL 21x2 W/3.2 HOLE" />
+    <Annotation maingroupid="267" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.234" tz="-0.2" />
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="60" ax="0" ay="0" az="1" tx="0.2027" ty="-0.117" tz="-0.2" />
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="120" ax="0" ay="0" az="1" tx="0.2027" ty="0.117" tz="-0.2" />
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.234" tz="-0.2" />
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="120" ax="0" ay="0" az="-1" tx="-0.2027" ty="0.117" tz="-0.2" />
+    <Box sX="0.138985" sY="0.014018" sZ="0.19" angle="60" ax="0" ay="0" az="-1" tx="-0.2027" ty="-0.117" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6104" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="30" ax="0" ay="0" az="1" tx="-0.3052" ty="0.5287" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="60" ax="0" ay="0" az="1" tx="-0.5287" ty="0.3052" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="90" ax="0" ay="0" az="1" tx="-0.6104" ty="0" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="120" ax="0" ay="0" az="1" tx="-0.5287" ty="-0.3052" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="150" ax="0" ay="0" az="1" tx="-0.3052" ty="-0.5287" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.6104" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="150" ax="0" ay="0" az="-1" tx="0.3052" ty="-0.5287" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="120" ax="0" ay="0" az="-1" tx="0.5287" ty="-0.3052" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="90" ax="0" ay="0" az="-1" tx="0.6104" ty="0" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="60" ax="0" ay="0" az="-1" tx="0.5287" ty="0.3052" tz="-0.2" />
+    <Box sX="0.260865" sY="0.390435" sZ="0.09" angle="30" ax="0" ay="0" az="-1" tx="0.3052" ty="0.5287" tz="-0.2" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="86" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="-0.2" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.046544" minY="-1.046544" minZ="-0.4" maxX="1.046544" maxY="1.046544" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.046544" minY="-1.046544" minZ="-0.4" maxX="1.046544" maxY="1.046544" maxZ="0" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="43056" />
+    <Annotation designname="PLATE 2X4, W/ HINGE 4,85, BOTTOM" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0.32" tz="-1.2">
+      29:0,29:0,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      29:0,29:0,23:4:1,29:0:1,23:4:1,0:4,23:4:1,0:4,23:4:1,
+      29:0,29:0,18:4,23:4:1,18:4,23:4:1,18:4,23:4:1,18:2:1,
+      29:0,29:0,23:4:1,29:0:1,23:4:1,0:4,23:4:1,0:4,23:4:1,
+      29:0,29:0,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,23:4:1,15:4,23:4:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4,23:4:1,7:4,23:4:1,7:4,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,23:4:1,15:4,23:4:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4" />
+    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="-0.4" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-2" ty="0.56" tz="0.4" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-2.4" ty="0.18" tz="0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="28" oriented="0" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="0.16" tz="-0.4" />
+    <Hinge type="28" oriented="0" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="-0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2.4" minY="0" minZ="-1.2" maxX="1.2" maxY="0.96" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.4" minY="0" minZ="-1.2" maxX="1.2" maxY="0.96" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

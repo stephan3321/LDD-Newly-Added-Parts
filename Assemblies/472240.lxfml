@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="472240"/>
+		<Annotation designname="PNEUMATIC CYLINDER 2X7"/>
+		<Annotation maingroupid="388"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+    <Annotation wire="2806,2796"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="47224" uuid="1893ec9f-53d7-4bea-b5d9-44102d41c5c2">
+			<Part refID="0" designID="47224" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,-1,0,0,0,-1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2806" uuid="4e4f10fa-2e16-4574-8a3f-d19aa6c407ff">
+			<Part refID="1" designID="2806" materials="21">
+				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,7.6,0,0.4" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="2796" uuid="ccf6b994-40ae-4122-8ada-75574dadfef7">
+			<Part refID="2" designID="2796" materials="21">
+				<Bone refID="2" transformation="-1,0,0,0,1,0,0,0,-1,7.6,0,0.4" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

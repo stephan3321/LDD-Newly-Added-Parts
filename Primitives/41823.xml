@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41823" />
+    <Annotation designname="FENCE 3X3X2" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="6" height="6" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      29:0:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,23:4:1,1:4,23:4:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,23:4:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      18:1:1,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      23:4:1,1:4,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      18:1:1,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="6" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0:1,29:0:1,29:0:1,29:0:1,22:1:1,22:2:1,22:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,15:4,22:2:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,15:4,22:2:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:1:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2" maxY="2.08" maxZ="2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2" maxY="2.08" maxZ="2" />
+  </GeometryBounding>
+</LEGOPrimitive>

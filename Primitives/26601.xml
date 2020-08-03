@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26601" />
+    <Annotation designname="PLATE 2X2, CORNER, 45 DEG." />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.15" sZ="0.79" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.39" sY="0.15" sZ="0.39" angle="90" ax="0" ay="-1" az="0" tx="-0.0008" ty="0.16" tz="0.8" />
+    <Box sX="0.145169" sY="0.15" sZ="0.061889" angle="45" ax="0" ay="1" az="0" tx="0.46" ty="0.16" tz="1.0394" />
+    <Box sX="0.555685" sY="0.045" sZ="0.272062" angle="45" ax="0" ay="1" az="0" tx="0.6006" ty="0.265" tz="0.6006" />
+    <Box sX="0.145169" sY="0.15" sZ="0.061889" angle="45" ax="0" ay="1" az="0" tx="1.0394" ty="0.16" tz="0.4589" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:3:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,29:0:1,29:0:1,
+      18:1:1,23:4:1,18:1:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.96,0,0,0,0.500667,0,0,0,0" centerOfMass="0.8,0.248,0.8" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="1.2" maxY="0.497" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="1.2" maxY="0.497" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

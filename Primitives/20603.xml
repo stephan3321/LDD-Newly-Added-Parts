@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="20603" />
+    <Annotation designname="MINI HEAD NO. 12 TOP" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.350593" sY="0.47" sZ="0.350624" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.48" tz="0" />
+    <Box sX="0.539079" sY="0.269391" sZ="0.060914" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.1755" tz="0.5585" />
+    <Box sX="0.337876" sY="0.315583" sZ="0.069075" angle="60" ax="0" ay="1" az="0" tx="-0.5023" ty="-0.2217" tz="-0.29" />
+    <Box sX="0.337876" sY="0.181327" sZ="0.069075" angle="120" ax="0" ay="1" az="0" tx="-0.5023" ty="-0.0874" tz="0.29" />
+    <Box sX="0.337876" sY="0.315583" sZ="0.069075" angle="120" ax="0" ay="1" az="0" tx="0.5023" ty="-0.2217" tz="-0.29" />
+    <Box sX="0.337876" sY="0.181327" sZ="0.069075" angle="60" ax="0" ay="1" az="0" tx="0.5023" ty="-0.0874" tz="0.29" />
+    <Box sX="0.337876" sY="0.315583" sZ="0.069075" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.2217" tz="-0.58" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.836137" minY="-0.587689" minZ="-0.735178" maxX="0.851757" maxY="1.137" maxZ="0.65214" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.836137" minY="-0.587689" minZ="-0.735178" maxX="0.851757" maxY="1.137" maxZ="0.65214" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38394;35705" />
+    <Annotation designname="MINI CAR, NO. 2" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.8999" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.0999" ty="0" tz="0" />
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.0181" ty="0.32" tz="-1.5848">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,2:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="60" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.381918" ty="-0.190565" tz="1.11589"/>
+    <Hinge type="60" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.381918" ty="-0.190565" tz="-1.15898"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.540768980979919" minY="-0.424708008766174" minZ="-1.86214101314545" maxX="1.30460405349731" maxY="0.872438013553619" maxZ="1.86567199230194" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.540768980979919" minY="-0.424708008766174" minZ="-1.86214101314545" maxX="1.30460405349731" maxY="0.872438013553619" maxZ="1.86567199230194" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

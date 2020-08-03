@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32823" />
+    <Annotation designname="MINI FIGURE HELMET, NO. 71, BOTTOM" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="-0.02" tz="0" />
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="-0.02" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4003" ty="0.08" tz="0.4008">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.757889986038208" minY="-0.00829400029033422" minZ="-0.605590999126434" maxX="0.757889986038208" maxY="0.749369025230408" maxZ="0.604265987873077" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.757889986038208" minY="-0.00829400029033422" minZ="-0.605590999126434" maxX="0.757889986038208" maxY="0.749369025230408" maxZ="0.604265987873077" />
+  </GeometryBounding>
+</LEGOPrimitive>

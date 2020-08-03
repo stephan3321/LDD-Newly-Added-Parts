@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49618" />
+    <Annotation designname="ROOF TILE 1X8X3, DEG. 25, NO. 1" />
+    <Annotation maingroupid="205" />
+    <Annotation maingroupname="BRICKS, WITH SLOPE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="2.88" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="16" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.401554" maxX="0.4" maxY="3.04" maxZ="6" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.401554" maxX="0.4" maxY="3.04" maxZ="6" />
+  </GeometryBounding>
+</LEGOPrimitive>

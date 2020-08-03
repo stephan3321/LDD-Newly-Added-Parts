@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35189" />
+    <Annotation designname="DESIGN ELEMENT, W/ 4.85 HOLE" />
+    <Annotation maingroupid="372" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Hinge type="188" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="1.2" />
+    <Hinge type="185" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="1.2" />
+    <Axel type="4" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.6" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0.6928" ty="-0.4" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="-0.6928" ty="-0.4" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.8" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2.120006" minY="-2.119962" minZ="-0.8" maxX="2.120006" maxY="2.12" maxZ="1.44" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.120006" minY="-2.119962" minZ="-0.8" maxX="2.120006" maxY="2.12" maxZ="1.44" />
+  </GeometryBounding>
+</LEGOPrimitive>

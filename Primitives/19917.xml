@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19917"/>
+    <Annotation designname="MINI FIGURE COLLAR NO.1"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.049798" sY="0.047349" sZ="0.249575" angle="0" ax="0" ay="1" az="0" tx="-0.389799" ty="0.057651" tz="0"/>
+    <Box sX="0.050121" sY="0.084943" sZ="0.249575" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.026705" tz="0.470122"/>
+    <Box sX="0.049798" sY="0.047349" sZ="0.249575" angle="180" ax="0" ay="1" az="0" tx="0.389799" ty="0.057651" tz="0"/>
+    <Box sX="0.049798" sY="0.047349" sZ="0.249575" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.057651" tz="-0.389799"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="-0.075" tz="0"/>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="-0.075" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.19859,0,0,0,0.326503,0,0,0,0.164287" centerOfMass="0,0.158583,0.208515" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.662041" minY="-0.075" minZ="-0.527155" maxX="0.662041" maxY="0.392167" maxZ="0.944184"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.662041" minY="-0.075" minZ="-0.527155" maxX="0.662041" maxY="0.385" maxZ="0.944184"/>
+  </GeometryBounding>
+</LEGOPrimitive>

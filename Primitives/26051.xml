@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26051" />
+    <Annotation designname="MINI HEAD, NO. 2005" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.231362" sY="0.7395" sZ="0.041266" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7495" tz="0.2996" />
+    <Box sX="0.417588" sY="0.33902" sZ="0.023069" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.5784" tz="-0.1331" />
+    <Box sX="0.231362" sY="0.7395" sZ="0.041266" angle="90" ax="0" ay="1" az="0" tx="0.2996" ty="0.7495" tz="0" />
+    <Box sX="0.231362" sY="0.7395" sZ="0.041266" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.7495" tz="-0.2996" />
+    <Box sX="0.231362" sY="0.7395" sZ="0.041266" angle="90" ax="0" ay="-1" az="0" tx="-0.2996" ty="0.7495" tz="0" />
+    <Box sX="0.417588" sY="0.233696" sZ="0.589942" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.7524" tz="0.492" />
+    <Box sX="0.074802" sY="0.205661" sZ="0.087667" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.409" tz="0.8112" />
+    <Box sX="0.173407" sY="0.501788" sZ="0.654072" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0" ty="1.0574" tz="-0.7601" />
+    <Box sX="0.417588" sY="0.225304" sZ="0.589942" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0.4836" ty="0.7524" tz="0" />
+    <Box sX="0.173407" sY="0.536202" sZ="0.559418" angle="164.1081" ax="-0.0993" ay="0.8109" az="0.5767" tx="0.6223" ty="0.6594" tz="-0.7483" />
+    <Box sX="0.189435" sY="0.097654" sZ="0.214936" angle="90.0383" ax="-0.8813" ay="0.4718" az="0.0258" tx="0.5354" ty="1.4239" tz="0.2849" />
+    <Box sX="0.417588" sY="0.225304" sZ="0.589942" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.4836" ty="0.7524" tz="0" />
+    <Box sX="0.173407" sY="0.536202" sZ="0.559418" angle="73.1403" ax="0.9586" ay="0.232" az="-0.165" tx="-0.6223" ty="0.6594" tz="-0.7483" />
+    <Box sX="0.189435" sY="0.097654" sZ="0.214936" angle="141.009" ax="0.0194" ay="0.7499" az="-0.6613" tx="-0.5354" ty="1.4239" tz="0.2849" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.865676,0,0,0,0.613793,0,0,0,0" centerOfMass="0,0.854006,-0.206125" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.01643" minY="-0.045017" minZ="-1.45668" maxX="1.01643" maxY="1.75303" maxZ="1.04443" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.934045" minY="-0.018952" minZ="-1.37113" maxX="0.934045" maxY="1.75303" maxZ="1.04443" />
+  </GeometryBounding>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
+</LEGOPrimitive>

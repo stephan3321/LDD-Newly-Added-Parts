@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4508;251" />
+    <Annotation designname="Turntable 2 x 2 Plate with Hinge" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Hinge type="30" oriented="1" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.11" tz="-0.4" />
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="170" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.4" ty="0.16" tz="0.8" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="-0.006935" minZ="-1.2" maxX="0.4" maxY="0.326935" maxZ="0.96" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-0.006935" minZ="-1.2" maxX="0.4" maxY="0.326935" maxZ="0.96" />
+  </GeometryBounding>
+</LEGOPrimitive>

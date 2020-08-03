@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2682"/>
+    <Annotation designname="BOGEY CONTACT SWITCH"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.2" sY="0.07" sZ="0.07" angle="98.4211" ax="-0.357407" ay="-0.357407" az="0.862856" tx="-1.89" ty="-0.588" tz="0.0"/>
+	  <Box sX="0.17" sY="0.11" sZ="0.04" angle="98.4211" ax="-0.357407" ay="-0.357407" az="0.862856" tx="-1.78393" ty="-0.445" tz="0.148492"/>
+	  <Box sX="0.17" sY="0.11" sZ="0.04" angle="98.4211" ax="0.357407" ay="0.357407" az="0.862856" tx="-1.78393" ty="-0.445" tz="-0.148492"/>
+	  <Box sX="0.17" sY="0.11" sZ="0.04" angle="98.4211" ax="0.357407" ay="0.357407" az="0.862856" tx="1.78393" ty="-0.445" tz="0.148492"/>
+	  <Box sX="0.17" sY="0.11" sZ="0.04" angle="98.4211" ax="-0.357407" ay="-0.357407" az="0.862856" tx="1.78393" ty="-0.445" tz="-0.148492"/>
+	  <Box sX="0.2" sY="0.07" sZ="0.07" angle="98.4211" ax="-0.357407" ay="-0.357407" az="0.862856" tx="1.89" ty="-0.588" tz="0.0"/>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="-5.36442e-007,-0.400001,0" mass="15.3000001907" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.0" minY="-0.800001" minZ="-0.26" maxX="2.0" maxY="-3.20375e-007" maxZ="0.26"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.0" minY="-0.800001" minZ="-0.26" maxX="2.0" maxY="-3.20375e-007" maxZ="0.26"/>
+  </GeometryBounding>
+</LEGOPrimitive>

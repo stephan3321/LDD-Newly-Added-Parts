@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28974" />
+    <Annotation designname="MINI FIG. BACK PLATE W. KNOB" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="0.56">
+      29:0,29:0,29:0,
+      29:0,3:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:96,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.12" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:96,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.400002" minY="-0.96" minZ="-0.4" maxX="0.400002" maxY="0.16" maxZ="0.72" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400002" minY="-0.96" minZ="-0.4" maxX="0.400002" maxY="0.16" maxZ="0.72" />
+  </GeometryBounding>
+</LEGOPrimitive>

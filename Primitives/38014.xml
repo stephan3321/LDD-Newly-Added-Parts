@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38014" />
+    <Annotation designname="Minifig Cup with Bar Handle" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.42328" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="-0.64" ty="0.2167" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.799998" minY="0" minZ="-0.450011" maxX="0.450011" maxY="0.64" maxZ="0.45" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.799998" minY="0" minZ="-0.450011" maxX="0.450011" maxY="0.64" maxZ="0.45" />
+  </GeometryBounding>
+</LEGOPrimitive>

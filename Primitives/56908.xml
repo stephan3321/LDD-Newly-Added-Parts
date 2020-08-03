@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="56908"/>
+    <Annotation designname="RIM WIDE 43,2X26 W 6 HOL. Ø4.8"/>
+    <Annotation maingroupid="366"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="0" ax="0" ay="1" az="0" tx="-1.83654" ty="0" tz="-0.8"/>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="60" ax="0" ay="0" az="1" tx="-0.918269" ty="-1.59049" tz="-0.8"/>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="120" ax="0" ay="0" az="1" tx="0.918269" ty="-1.59049" tz="-0.8"/>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="180" ax="0" ay="0" az="1" tx="1.83654" ty="0" tz="-0.8"/>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="120" ax="0" ay="0" az="-1" tx="0.918269" ty="1.59049" tz="-0.8"/>
+    <Box sX="0.06132" sY="1.01797" sZ="1.29" angle="60" ax="0" ay="0" az="-1" tx="-0.918269" ty="1.59049" tz="-0.8"/>
+    <Box sX="0.075503" sY="0.075503" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.175503" ty="0.175503" tz="-1.2"/>
+    <Box sX="0.075503" sY="0.075503" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="-0.175503" ty="-0.175503" tz="-1.2"/>
+    <Box sX="0.075503" sY="0.075503" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.175503" ty="-0.175503" tz="-1.2"/>
+    <Box sX="0.075503" sY="0.075503" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.175503" ty="0.175503" tz="-1.2"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="29.99999" ax="0" ay="0" az="1" tx="-0.330087" ty="0.571728" tz="-0.8"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="-0.660174" ty="0" tz="-0.8"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="149.99998" ax="0" ay="0" az="1" tx="-0.330087" ty="-0.571728" tz="-0.8"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="149.99998" ax="0" ay="0" az="-1" tx="0.330087" ty="-0.571728" tz="-0.8"/>
+    <Box sX="0.175002" sY="0.0055" sZ="0.59" angle="90" ax="0" ay="0" az="-1" tx="0.325497" ty="0" tz="-0.6"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="29.99999" ax="0" ay="0" az="-1" tx="0.330087" ty="0.571728" tz="-0.8"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.52653" tz="-0.944583"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="60" ax="0" ay="0" az="1" tx="-1.32202" ty="0.763266" tz="-0.944583"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="120" ax="0" ay="0" az="1" tx="-1.32202" ty="-0.763266" tz="-0.944583"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="180" ax="0" ay="0" az="1" tx="0" ty="-1.52653" tz="-0.944583"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="120" ax="0" ay="0" az="-1" tx="1.32202" ty="-0.763266" tz="-0.944583"/>
+    <Box sX="0.49" sY="0.351468" sZ="0.426893" angle="60" ax="0" ay="0" az="-1" tx="1.32202" ty="0.763266" tz="-0.944583"/>
+    <Box sX="0.076389" sY="0.307286" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.660174" ty="0" tz="-0.8"/>
+    <Box sX="0.175002" sY="0.0055" sZ="0.59" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.325497" tz="-0.6"/>
+    <Box sX="0.175002" sY="0.0055" sZ="0.59" angle="90" ax="0" ay="0" az="1" tx="-0.325497" ty="0" tz="-0.6"/>
+    <Box sX="0.175002" sY="0.0055" sZ="0.59" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.325497" tz="-0.6"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0.8" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="93.84096" ax="-0.935113" ay="0.250563" az="-0.250563" tx="-0.69282" ty="0.4" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="93.84096" ax="-0.935113" ay="-0.250563" az="0.250563" tx="-0.69282" ty="-0.4" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0" ty="-0.8" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="158.90941" ax="-0.186157" ay="-0.694747" az="0.694747" tx="0.69282" ty="-0.4" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="158.90941" ax="-0.186157" ay="0.694747" az="-0.694747" tx="0.69282" ty="0.4" tz="-0.4"/>
+    <Fixed type="15" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="15" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="13.86496,0,0,0,13.871,0,0,0,20.71215" centerOfMass="-0.000448,2.6E-005,-0.85745" mass="9.32999992371" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.16" minY="-2.16" minZ="-2.1" maxX="2.16" maxY="2.16" maxZ="0.5"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.16" minY="-2.16" minZ="-2.1" maxX="2.16" maxY="2.16" maxZ="0.5"/>
+  </GeometryBounding>
+</LEGOPrimitive>

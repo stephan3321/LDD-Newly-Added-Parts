@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="45846;46534" />
+    <Annotation designname="MINI HELMET, NO. 235" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.704259514808655" minY="-0.792618989944458" minZ="-0.763019442558289" maxX="0.703928470611572" maxY="0.608479976654053" maxZ="0.717167556285858" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.704259514808655" minY="-0.792618989944458" minZ="-0.763019442558289" maxX="0.703928470611572" maxY="0.608479976654053" maxZ="0.717167556285858" />
+  </GeometryBounding>
+</LEGOPrimitive>

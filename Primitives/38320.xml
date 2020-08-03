@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38320" />
+    <Annotation designname="Window 1 x 2 x 2 Pane Lattice Diamond" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="57" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1443" ty="0.31" tz="0.2" />
+    <Fixed type="57" axes="2" angle="180" ax="1" ay="0" az="0" tx="-0.1443" ty="1.81" tz="0.2" />
+    <Fixed type="57" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9757" ty="0.31" tz="0.2" />
+    <Fixed type="57" axes="2" angle="180" ax="0" ay="0" az="1" tx="0.9757" ty="1.81" tz="0.2" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.260002" minY="0.299998" minZ="0.12" maxX="1.060002" maxY="1.82000208" maxZ="0.28" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.260002" minY="0.299998" minZ="0.12" maxX="1.060002" maxY="1.82000208" maxZ="0.28" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26073" />
+    <Annotation designname="MINI CONTAINER NO. 1" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+<Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.12" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.92972" minY="-1.260008" minZ="-0.4" maxX="0.92972" maxY="0.62" maxZ="1.496565" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.92972" minY="-1.260008" minZ="-0.4" maxX="0.92972" maxY="0.62" maxZ="1.496565" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

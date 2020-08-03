@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39739" />
+    <Annotation designname="TILE 1X1, HEART, NO. 1" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.35" ty="0" tz="-0.35">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.462" minY="0" minZ="-0.462" maxX="0.462" maxY="0.32" maxZ="0.462" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.462" minY="0" minZ="-0.462" maxX="0.462" maxY="0.32" maxZ="0.462" />
+  </GeometryBounding>
+</LEGOPrimitive>

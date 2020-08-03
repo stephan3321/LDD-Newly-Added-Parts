@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65581" />
+    <Annotation designname="Lantern" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,22:2:1,29:0,
+      22:2:1,5:4:32,22:2:1,
+      29:0,22:2:1,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.28" tz="0.4">
+      29:0,18:2:1,29:0,
+      18:2:1,3:4:37,18:2:1,
+      29:0,18:2:1,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.48" tz="-0.4">
+      29:0,18:2:1,29:0,
+      18:2:1,3:4:37,18:2:1,
+      29:0,18:2:1,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.5" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.25" ty="2.16" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.78" minY="0" minZ="-0.56" maxX="0.78" maxY="2.32" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.78" minY="0" minZ="-0.56" maxX="0.78" maxY="2.32" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

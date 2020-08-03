@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39789" />
+    <Annotation designname="BRICK 2X4 W/ CROSS HOLE" />
+    <Annotation maingroupid="204" />
+    <Annotation maingroupname="BRICKS, SPECIAL Ø4.85 HOLE AND CONNECTING BUSH" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Axel type="4" length="0.96" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="-0.4" ty="0.96" tz="-0.4" />
+    <Axel type="4" length="0.96" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.4" ty="0.96" tz="-0.4" />
+    <Axel type="4" length="0.96" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="1.2" ty="0.96" tz="-0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="2" maxY="1.12" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="2" maxY="1.12" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

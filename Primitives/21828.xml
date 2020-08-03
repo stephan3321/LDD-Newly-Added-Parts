@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="21828"/>
+    <Annotation designname="Piston"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="10"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.196626" sY="0.02" sZ="0.31" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.021626" ty="0.28" tz="-0.4"/>
+	  <Box sX="0.196626" sY="0.02" sZ="0.31" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.021626" ty="-0.28" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="202.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.305742" ty="0.126642" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.126642" ty="-0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.5" ax="0.0" ay="0.0" az="-1.0" tx="0.305742" ty="-0.126642" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.5" ax="0.0" ay="0.0" az="1.0" tx="0.126642" ty="0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.5" ax="0.0" ay="0.0" az="-1.0" tx="0.126643" ty="-0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="157.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.305742" ty="-0.126643" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.5" ax="0.0" ay="0.0" az="1.0" tx="-0.126643" ty="0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.5" ax="0.0" ay="0.0" az="1.0" tx="0.305742" ty="0.126643" tz="-0.4"/>
+	  <Box sX="0.224" sY="0.235" sZ="0.235" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.565026" ty="0.0" tz="-0.4"/>
+    <Box sX="2.70" sY="0.11" sZ="0.11" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="3.52" ty="0.0" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90.0" ax="-1.0" ay="0.0" az="0.0" tx="0.0" ty="0.0" tz="0.0"/>
+    <Hinge type="134" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="5.84" ty="0" tz="-0.4"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.8">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.052591,0,0,0,0.159505,0,0,0,0.163519" centerOfMass="0.2,0.0,-0.4" mass="0.600000023842" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.8" maxX="6.24" maxY="0.4" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.8" maxX="6.24" maxY="0.4" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

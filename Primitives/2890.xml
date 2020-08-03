@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2890"/>
+    <Annotation designname="RACK SHOVER"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="1.49012e-007,0.36,1.26" mass="0.1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.54" minY="-0.12" minZ="-0.28" maxX="0.54" maxY="0.84" maxZ="2.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.54" minY="-0.12" minZ="-0.28" maxX="0.54" maxY="0.84" maxZ="2.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46524;40931" />
+    <Annotation designname="BRICK 2X6, W/ SOUND, LIGHT, NO. 1" />
+    <Annotation maingroupid="292" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,29:0:1,29:0:1,29:0:1,18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2.8" minY="0" minZ="-1.2" maxX="2" maxY="1.12" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.8" minY="0" minZ="-1.2" maxX="2" maxY="1.12" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
+</LEGOPrimitive>

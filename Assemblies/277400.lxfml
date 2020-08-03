@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="277400;74013"/>
+		<Annotation designname="MONORAIL TRACK MONOSWITCH"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation wire="2774,2772,2771"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2774" uuid="f4cf9978-7ce8-4ed7-8a68-3abd6eee54fe">
+			<Part refID="0" designID="2774" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2772" uuid="07219b87-41d3-4be0-88fe-1f22e1807c2a">
+			<Part refID="1" designID="2772" materials="21">
+				<Bone refID="1" transformation="0,0,1,0,1,0,-1,0,0,-2.4,0,-10.4" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="2773" uuid="250edef3-0e21-4124-bbd3-ad01e690ee98">
+			<Part refID="2" designID="2773" materials="21">
+				<Bone refID="2" transformation="0,0,1,0,1,0,-1,0,0,0.4,0.48,-9.2" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="2771" uuid="2d7eec73-f03f-42c7-8b53-67747fc1f02c">
+			<Part refID="3" designID="2771" materials="21">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,4.8,0.96,-8.8" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

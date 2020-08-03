@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="611904" />
+    <Annotation designname="Minifig Helmet Rangefinder for SW Clone Trooper Helmet" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="15" length="0.11" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.08" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.300000011920929" minY="0" minZ="-0.150000005960464" maxX="0.239999994635582" maxY="1.39999997615814" maxZ="0.150000005960464" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.300000011920929" minY="0" minZ="-0.150000005960464" maxX="0.239999994635582" maxY="1.39999997615814" maxZ="0.150000005960464" />
+  </GeometryBounding>
+</LEGOPrimitive>

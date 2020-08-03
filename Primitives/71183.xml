@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="71183" />
+    <Annotation designname="Bar 1L with 1 x 1 x 2/3 Light Holder" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.58" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0.7" tz="0" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="1.1" tz="-0.12" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.48" maxX="0.4" maxY="1.5" maxZ="0.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.48" maxX="0.4" maxY="1.5" maxZ="0.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

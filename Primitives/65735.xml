@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65735" />
+    <Annotation designname="Windscreen 1 x 10 x 4" />
+    <Annotation maingroupid="277" />
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="20" height="2" angle="0" ax="1" ay="0" az="0" tx="-4.4" ty="3.841" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,23:4:1,18:2:1,23:4:1,18:2:1
+    </Custom2DField>
+    <Custom2DField type="22" width="20" height="2" angle="0" ax="1" ay="0" az="0" tx="-4.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-4.4" minY="0" minZ="-0.4" maxX="3.6" maxY="4" maxZ="0.400001" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.4" minY="0" minZ="-0.4" maxX="3.6" maxY="4" maxZ="0.400001" />
+  </GeometryBounding>
+</LEGOPrimitive>

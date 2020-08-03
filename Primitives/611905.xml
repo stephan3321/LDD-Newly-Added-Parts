@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="611905" />
+    <Annotation designname="Minifig Helmet Floodlight for SW Clone Trooper Helmet" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="15" length="0.14" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.319999992847443" minY="-0.529999971389771" minZ="-0.159999996423721" maxX="0.140000000596046" maxY="0.699999988079071" maxZ="0.159999996423721" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.319999992847443" minY="-0.529999971389771" minZ="-0.159999996423721" maxX="0.140000000596046" maxY="0.699999988079071" maxZ="0.159999996423721" />
+  </GeometryBounding>
+</LEGOPrimitive>

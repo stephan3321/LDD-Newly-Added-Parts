@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Marc Klein [marckl]
+Editted for LDD by Jester94
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="56145"/>
+    <Annotation designname="RIM WIDE W.CROSS 30x20"/>
+    <Annotation maingroupid="266"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="0" ax="0" ay="1" az="0" tx="-0.808923" ty="0" tz="-0.148201"/>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="60" ax="0" ay="0" az="-1" tx="-0.404462" ty="0.700548" tz="-0.148201"/>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="120" ax="0" ay="0" az="-1" tx="0.404462" ty="0.700548" tz="-0.148201"/>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="180" ax="0" ay="0" az="1" tx="0.808923" ty="0" tz="-0.148201"/>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="60" ax="0" ay="0" az="1" tx="-0.404462" ty="-0.700548" tz="-0.148201"/>
+    <Box sX="0.40342" sY="0.252511" sZ="0.528824" angle="120" ax="0" ay="0" az="1" tx="0.404462" ty="-0.700548" tz="-0.148201"/>
+    <Box sX="0.063752" sY="0.063752" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.175752" ty="0.175753" tz="-0.4"/>
+    <Box sX="0.063752" sY="0.063752" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="-0.175753" ty="0.175752" tz="-0.4"/>
+    <Box sX="0.063752" sY="0.063752" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.175752" ty="-0.175753" tz="-0.4"/>
+    <Box sX="0.063752" sY="0.063752" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="0.175753" ty="-0.175752" tz="-0.4"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="165.00002" ax="0" ay="0" az="1" tx="-0.353061" ty="-1.31758" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="135" ax="0" ay="0" az="1" tx="-0.964552" ty="-0.964531" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="104.99999" ax="0" ay="0" az="1" tx="-1.31759" ty="-0.353032" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="74.99999" ax="0" ay="0" az="1" tx="-1.31758" ty="0.353061" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="45" ax="0" ay="0" az="1" tx="-0.964531" ty="0.964552" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="14.99998" ax="0" ay="0" az="1" tx="-0.353032" ty="1.31759" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="165.00002" ax="0" ay="0" az="-1" tx="0.353032" ty="-1.31759" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="135" ax="0" ay="0" az="-1" tx="0.964531" ty="-0.964552" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="104.99999" ax="0" ay="0" az="-1" tx="1.31758" ty="-0.353061" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="74.99999" ax="0" ay="0" az="-1" tx="1.31759" ty="0.353032" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="45" ax="0" ay="0" az="-1" tx="0.964552" ty="0.964531" tz="0"/>
+    <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="14.99998" ax="0" ay="0" az="-1" tx="0.353061" ty="1.31758" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Fixed type="17" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Fixed type="17" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.00099,0,0,0,4.00682,0,0,0,5.48819" centerOfMass="-0.002351,-4.6E-005,-0.064818" mass="4.30000019073" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.54456" minY="-1.54456" minZ="-1" maxX="1.54456" maxY="1.54456" maxZ="1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.49708" minY="-1.52012" minZ="-1" maxX="1.49708" maxY="1.52012" maxZ="1"/>
+  </GeometryBounding>
+</LEGOPrimitive>

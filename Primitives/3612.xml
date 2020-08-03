@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3612" />
+    <Annotation designname="Arm Piece Straight with 2 and 3 Fingers" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Hinge type="172" oriented="0" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.48" ty="0.4" tz="0" />
+    <Hinge type="173" oriented="0" angle="0" ax="1" ay="0" az="0" tx="0.48" ty="0.4" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.88001" minY="0" minZ="-0.4" maxX="0.863124" maxY="0.8" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.88001" minY="0" minZ="-0.4" maxX="0.863124" maxY="0.8" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

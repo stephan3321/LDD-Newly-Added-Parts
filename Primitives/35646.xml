@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35646" />
+    <Annotation designname="DESIGN BRICK 1X1X1 1/3" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.480424" minY="0" minZ="-0.477396" maxX="0.479804" maxY="1.146592" maxZ="0.47878" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.480424" minY="0" minZ="-0.477396" maxX="0.479804" maxY="1.146592" maxZ="0.47878" />
+  </GeometryBounding>
+</LEGOPrimitive>

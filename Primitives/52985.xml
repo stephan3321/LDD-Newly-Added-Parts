@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="52985" />
+    <Annotation designname="Tyre, Dia. 69X28" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="14" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-3.45" minY="-3.449955" minZ="-1.46" maxX="3.45" maxY="3.449955" maxZ="1.26" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.45" minY="-3.449955" minZ="-1.46" maxX="3.45" maxY="3.449955" maxZ="1.26" />
+  </GeometryBounding>
+</LEGOPrimitive>

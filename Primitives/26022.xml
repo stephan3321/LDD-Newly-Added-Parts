@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26022" />
+    <Annotation designname="Rail 2X8, W/ 3.2 Shaft" />
+    <Annotation maingroupid="274" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-3.6">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-3.6">
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,0:4:1,23:4:1,0:4:1,29:0:1,
+      29:0:1,18:2:1,23:4:1,18:2:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="2">
+      29:0:1,18:2:1,23:4:1,18:2:1,29:0:1,
+      29:0:1,0:4:1,23:4:1,0:4:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Axel type="7" length="6.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-1.6" ty="0.88" tz="2.8" />
+    <Axel type="7" length="6.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.8" ty="0.88" tz="2.8" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.76" minY="0" minZ="-3.6" maxX="0.96" maxY="1.04" maxZ="2.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.76" minY="0" minZ="-3.6" maxX="0.96" maxY="1.04" maxZ="2.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

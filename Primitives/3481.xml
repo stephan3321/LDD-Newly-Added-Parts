@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3481" />
+    <Annotation designname="Plate, Modified 2 x 2 with Helicopter Tail Rotor Holder" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.4" ty="0.64" tz="1.84" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="1.28" maxZ="1.68000007" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="1.28" maxZ="1.68000007" />
+  </GeometryBounding>
+</LEGOPrimitive>

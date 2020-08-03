@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44709" />
+    <Annotation designname="Weapon, No. 20" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.64" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="0.24" ty="1.3242" tz="0.1861">
+      29:0:1,29:0:1,29:0:1,
+      29:0:1,1:4,29:0:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="-0.24" ty="0.5242" tz="0.1861">
+      29:0:1,29:0:1,29:0:1,
+      29:0:1,1:4,29:0:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="71.9" ax="1" ay="0" az="0" tx="-0.4" ty="1.43" tz="0.8465">
+      29:0:1,29:0:1,29:0:1,
+      29:0:1,1:4,29:0:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="161.9" ax="1" ay="0" az="0" tx="-0.4" ty="0.665" tz="1.09">
+      29:0:1,29:0:1,29:0:1,
+      29:0:1,1:4,29:0:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.299145" maxX="0.4" maxY="1.396592" maxZ="1.190217" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.299145" maxX="0.4" maxY="1.396592" maxZ="1.190217" />
+  </GeometryBounding>
+</LEGOPrimitive>

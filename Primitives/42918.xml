@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42918" />
+    <Annotation designname="BRICK 2X8,OUTSIDE BOW,W/ CUT OUT,NO. 1" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+<Connectivity>
+    <Custom2DField type="22" width="12" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1, 
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1, 
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,  
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0.32" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.64" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2" minY="-0.001067" minZ="-1.200011" maxX="4.4" maxY="0.959891" maxZ="0.400011" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="-0.001067" minZ="-1.200011" maxX="4.4" maxY="0.959891" maxZ="0.400011" />
+  </GeometryBounding>
+</LEGOPrimitive>

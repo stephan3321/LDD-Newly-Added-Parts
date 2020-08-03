@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9145"/>
+    <Annotation designname="Basehousing"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.196626" sY="0.02" sZ="0.31" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.021626" ty="0.28" tz="-0.4"/>
+	  <Box sX="0.196626" sY="0.02" sZ="0.31" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.021626" ty="-0.28" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="202.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.305742" ty="0.126642" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.126642" ty="-0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.5" ax="0.0" ay="0.0" az="-1.0" tx="0.305742" ty="-0.126642" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.5" ax="0.0" ay="0.0" az="1.0" tx="0.126642" ty="0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.5" ax="0.0" ay="0.0" az="-1.0" tx="0.126643" ty="-0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="157.5" ax="0.0" ay="0.0" az="-1.0" tx="-0.305742" ty="-0.126643" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.5" ax="0.0" ay="0.0" az="1.0" tx="-0.126643" ty="0.305742" tz="-0.4"/>
+	  <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.5" ax="0.0" ay="0.0" az="1.0" tx="0.305742" ty="0.126643" tz="-0.4"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.555" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="3.625" ty="-0.3505" tz="-0.4"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.415" angle="98.421" ax="0.357407" ay="0.862856" az="0.357407" tx="3.7657" ty="-0.245163" tz="-0.645163"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.405" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="3.78" ty="0.0" tz="-0.7505"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.415" angle="211.4" ax="-0.678598" ay="-0.281085" az="-0.678598" tx="3.7657" ty="0.245163" tz="-0.645163"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.555" angle="180.0" ax="-0.707107" ay="0.0" az="-0.707107" tx="3.625" ty="0.3505" tz="-0.4"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.415" angle="148.6" ax="-0.678598" ay="0.281085" az="-0.678598" tx="3.7657" ty="0.245163" tz="-0.154837"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.405" angle="240.0" ax="0.57735" ay="-0.57735" az="0.57735" tx="3.78" ty="0.0" tz="-0.0495"/>
+	  <Box sX="0.13" sY="0.01" sZ="3.415" angle="98.421" ax="-0.357407" ay="0.862856" az="-0.357407" tx="3.7657" ty="-0.245163" tz="-0.154837"/>
+	  <Box sX="0.1" sY="0.33" sZ="0.1" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="0.4" ty="-0.68" tz="-0.4"/>
+	  <Box sX="0.1" sY="0.33" sZ="0.1" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="6.8" ty="-0.68" tz="-0.4"/>
+	  <Box sX="0.38" sY="0.0055" sZ="0.3" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="6.88" ty="-0.38" tz="-0.4"/>
+	  <Box sX="0.38" sY="0.0055" sZ="0.3" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="6.88" ty="0.38" tz="-0.4"/>
+	  <Box sX="0.38" sY="0.0055" sZ="0.3" angle="120.0" ax="0.57735" ay="0.57735" az="0.57735" tx="6.88" ty="0.0" tz="-0.02"/>
+	  <Box sX="0.38" sY="0.0055" sZ="0.3" angle="120.0" ax="0.57735" ay="0.57735" az="0.57735" tx="6.88" ty="0.0" tz="-0.78"/>
+	  <Box sX="0.0837051" sY="0.221668" sZ="0.01" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="7.17" ty="0.294585" tz="-0.4"/>
+	  <Box sX="0.0834318" sY="0.215645" sZ="0.01" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="7.17" ty="-0.292161" tz="-0.4"/>
+	  <Box sX="0.38" sY="0.0838043" sZ="0.01" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="7.17" ty="0.0" tz="-0.102134"/>
+	  <Box sX="0.38" sY="0.0836314" sZ="0.01" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="7.17" ty="0.0" tz="-0.694469"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90.0" ax="-1.0" ay="0.0" az="0.0" tx="0.0" ty="0.0" tz="0.0"/>
+    <Slider type="44" length="5.2" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="1.76" ty="0" tz="-0.4"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.8">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.989438,0,0,0,2.23803,0,0,0,2.45345" centerOfMass="3.4,-0.32,-0.4" mass="2.09999990463" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-1.04" minZ="-0.8" maxX="7.2" maxY="0.4" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-1.04" minZ="-0.8" maxX="7.2" maxY="0.4" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

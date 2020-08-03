@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2337" />
+    <Annotation designname="Windscreen 4 x 4 x 2 Canopy Extender" />
+    <Annotation maingroupid="277" />
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.06" sY="0.8" sZ="1.3" angle="0" ax="1" ay="0" az="0" tx="-1.92" ty="-0.88" tz="1.36" />
+    <Box sX="0.06" sY="0.7" sZ="0.1" angle="0" ax="1" ay="0" az="0" tx="-1.92" ty="-0.96" tz="-0.24" />
+    <Box sX="0.06" sY="0.8" sZ="1.3" angle="0" ax="1" ay="0" az="0" tx="1.12" ty="-0.88" tz="1.36" />
+    <Box sX="0.06" sY="0.7" sZ="0.1" angle="0" ax="1" ay="0" az="0" tx="1.12" ty="-0.96" tz="-0.24" />
+    <Box sX="1.5" sY="0.06" sZ="1.3" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.08" tz="1.36" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="168" oriented="0" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="-0.4" ty="0" tz="2.96" />
+    <Hinge type="169" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.4" ty="0" tz="-0.24" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2" minY="-1.76" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="3.12" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="-1.76" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="3.12" />
+  </GeometryBounding>
+</LEGOPrimitive>

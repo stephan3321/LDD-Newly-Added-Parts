@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30014" />
+    <Annotation designname="Arm Holder Brick 1 x 2 with 2 Horizontal Fingers" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="173" oriented="0" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.56" tz="1" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="0.4" maxY="1.12" maxZ="1.31999993" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="0.4" maxY="1.12" maxZ="1.31999993" />
+  </GeometryBounding>
+</LEGOPrimitive>

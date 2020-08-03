@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2884"/>
+    <Annotation designname="INNER WHEEL"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="1.19209e-007,0.08,0" mass="0.1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.1" minY="-0.12" minZ="-2.1" maxX="2.1" maxY="0.28" maxZ="2.1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.1" minY="-0.12" minZ="-2.1" maxX="2.1" maxY="0.28" maxZ="2.1"/>
+  </GeometryBounding>
+</LEGOPrimitive>

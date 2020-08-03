@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Magnus Forsberg [MagFors]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36841"/>
+    <Annotation designname="ANGULAR PLATE 1,5 TOP 1X1 1/2"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.395" sY="0.15" sZ="0.47" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.0" ty="0.16" tz="0.08"/>
+	  <Box sX="0.395" sY="0.39" sZ="0.07" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.0" ty="-0.08" tz="0.48"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,2:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="-0.4" ty="0.32" tz="0.56">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,3:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.4" ty="0.0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.088019,0,0,0,0.182989,0,0,0,0.155379" centerOfMass="0.0,0.009,0.1685" mass="0.600000023842" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.48" minZ="-0.4" maxX="0.4" maxY="0.498" maxZ="0.737"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.48" minZ="-0.4" maxX="0.4" maxY="0.498" maxZ="0.737"/>
+  </GeometryBounding>
+</LEGOPrimitive>

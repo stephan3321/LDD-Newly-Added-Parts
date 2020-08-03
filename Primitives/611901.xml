@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="611901" />
+    <Annotation designname="Minifig Armour SW Clone Trooper Tasset" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="-0.04" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="-0.04" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.439481" minY="-1" minZ="-0.52" maxX="1.23948" maxY="0.04" maxZ="0.52" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.439481" minY="-1" minZ="-0.52" maxX="1.23948" maxY="0.04" maxZ="0.52" />
+  </GeometryBounding>
+</LEGOPrimitive>

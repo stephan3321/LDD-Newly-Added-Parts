@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98107" />
+    <Annotation designname="HALF DOME W. 4 SNAPØ87.7 MULTI" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="147" axes="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="146" axes="2" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0" ty="0" tz="0" />
+    <Fixed type="148" axes="2" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0" ty="0.4" tz="-0.2" />
+    <Custom2DField type="23" width="4" height="4" angle="90" ax="-1" ay="0" az="0" tx="-0.8" ty="-0.8" tz="-4.48">
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1,
+      23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,
+      18:2:1,23:4:1,18:4,23:4:1,18:2:1,
+      23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-4.48" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-4.399526" minY="-4.399526" minZ="-4.64" maxX="4.399526" maxY="4.399526" maxZ="0.64" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.399526" minY="-4.399526" minZ="-4.64" maxX="4.399526" maxY="4.399526" maxZ="0.64" />
+  </GeometryBounding>
+</LEGOPrimitive>

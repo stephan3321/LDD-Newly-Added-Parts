@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30073" />
+    <Annotation designname="Door 1 x 6 x 8 Left" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="7.68" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="7.84" maxZ="0.607801" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="7.84" maxZ="0.607801" />
+  </GeometryBounding>
+</LEGOPrimitive>

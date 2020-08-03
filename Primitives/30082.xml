@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30082" />
+    <Annotation designname="Arm Piece with Tow Ball and Clip" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Ball type="3" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.32" tz="0.8" />
+    <Axel type="6" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.320001" minY="0" minZ="-0.139625" maxX="0.320001" maxY="0.640002" maxZ="1.120001" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.320001" minY="0" minZ="-0.139625" maxX="0.320001" maxY="0.640002" maxZ="1.120001" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32803" />
+    <Annotation designname="BRICK 2X2X2/3, INVERTED BOW" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,29:0:1,
+      23:4:1,1:4:1,29:0:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,29:0:1,
+      18:1:1,23:4:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0.002699" minZ="-1.200356" maxX="0.4" maxY="0.8" maxZ="0.400356" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0.002699" minZ="-1.200356" maxX="0.4" maxY="0.8" maxZ="0.400356" />
+  </GeometryBounding>
+</LEGOPrimitive>

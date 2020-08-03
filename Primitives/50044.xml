@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50044;35179" />
+    <Annotation designname="MINI WIG, W/ HAT, NO. 13" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.797195971012115" minY="-1.15359902381897" minZ="-0.797194004058838" maxX="0.797195971012115" maxY="1.13705205917358" maxZ="0.797195971012115" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.797195971012115" minY="-1.15359902381897" minZ="-0.797194004058838" maxX="0.797195971012115" maxY="1.13705205917358" maxZ="0.797195971012115" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0" />
+</LEGOPrimitive>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="26288"/>
+		<Annotation designname="PNEUMATIC HAND PUMP (NEW)"/>
+		<Annotation maingroupid="388"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+    <Annotation wire="9329,932901"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="26280" uuid="f257652f-bebe-4ae6-b532-6d8b161bedf3">
+			<Part refID="0" designID="26280" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,-1,0,0,0,-1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="9329" uuid="57067838-f89b-4bba-8199-359803e97c65">
+			<Part refID="1" designID="9329" materials="21">
+				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,8.0,0.0,-0.4" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="932901" uuid="41f6513c-c03e-459e-9519-8c8318814bda">
+			<Part refID="2" designID="932901" materials="21">
+				<Bone refID="2" transformation="-1,0,0,0,1,0,0,0,-1,8.0,0.0,-0.4" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

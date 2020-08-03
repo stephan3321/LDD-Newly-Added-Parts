@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Mikkel Bech Jensen [gaia]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2881"/>
+    <Annotation designname="BOTTOM PART"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+  	<Box sX="0.79" sY="0.1" sZ="0.79" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.11" tz="-0.4"/>
+	  <Box sX="0.79" sY="0.075" sZ="2.29" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-3.6" ty="0.28" tz="-3.66"/>
+  </Collision>
+  <Connectivity>
+	  <Custom2DField type="22" width="4" height="4" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.4" ty="0.0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0.45742,0.4,-1.2" mass="15.3000001907" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-4.4" minY="-2.60638e-006" minZ="-12.24" maxX="5.31484" maxY="0.800002" maxZ="9.84"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.4" minY="-2.60638e-006" minZ="-12.24" maxX="5.31484" maxY="0.800002" maxZ="9.84"/>
+  </GeometryBounding>
+</LEGOPrimitive>

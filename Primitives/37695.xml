@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37695" />
+    <Annotation designname="Plant Stem with  3 Leaves with Bar and Pin Holes" />
+    <Annotation maingroupid="228" />
+    <Annotation maingroupname="PLANTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="21" length="0.7" requireGrabbing="0" startCapped="1" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="14" length="0.29" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.96" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.699180006980896" minY="0" minZ="-0.495871990919113" maxX="0.699778974056244" maxY="1.26567196846008" maxZ="0.796015977859497" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.699180006980896" minY="0" minZ="-0.495871990919113" maxX="0.699778974056244" maxY="1.26567196846008" maxZ="0.796015977859497" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35563" />
+    <Annotation designname="ROOF 2X4X4" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="3.84" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,
+      29:0:1,18:2:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,15:4:1,22:2:1,
+      29:0:1,23:4:1,22:3:1,22:2:1,22:2:1,22:2:1,22:3:1,23:4:1,29:0:1,
+      29:0:1,23:4:1,22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,23:4:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.99955" minY="0" minZ="-0.4" maxX="1.19955" maxY="4" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.99955" minY="0" minZ="-0.4" maxX="1.19955" maxY="4" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

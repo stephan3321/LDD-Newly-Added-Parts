@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28802" />
+    <Annotation designname="ANGLE PLATE 1X2/1X4 W/ ROUNDED CORNERS" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="0.16" tz="0"/>
+    <Box sX="1.59" sY="0.07" sZ="0.39" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="-0.08" tz="0.48"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="90" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="0.56">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.187627,0,0,0,0.961254,0,0,0,0.93304" centerOfMass="0.4,0.009,0.169" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.2" minY="-0.48" minZ="-0.400000036" maxX="2" maxY="0.498000056" maxZ="0.7380001" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-0.48" minZ="-0.400000036" maxX="2" maxY="0.498000056" maxZ="0.7380001" />
+  </GeometryBounding>
+</LEGOPrimitive>

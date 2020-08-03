@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="377201" />
+    <Annotation designname="Animal Bat Emblem 3 x 4" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,3:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.557351" minY="0" minZ="-1.15" maxX="1.557351" maxY="0.8" maxZ="1.148726" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.557351" minY="0" minZ="-1.15" maxX="1.557351" maxY="0.8" maxZ="1.148726" />
+  </GeometryBounding>
+</LEGOPrimitive>

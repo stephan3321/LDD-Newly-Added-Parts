@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36036" />
+    <Annotation designname="Skirt" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="1.6" tz="0.8" />
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.399101" minY="0" minZ="-0.4" maxX="1.199101" maxY="2.04" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.399101" minY="0" minZ="-0.4" maxX="1.199101" maxY="2.04" maxZ="1.2" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0" />
+</LEGOPrimitive>

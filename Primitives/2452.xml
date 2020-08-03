@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2452"/>
+    <Annotation designname="PLATE 1X2 W. HINGE"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0"/>
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.075" ty="0.16" tz="0.65"/>
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.725" ty="0.16" tz="0.65"/>
+    <Box sX="0.453693" sY="0.077518" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0.063693"/>
+    <Box sX="0.654302" sY="0.077518" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.725" ty="0.16" tz="0.264302"/>
+    <Box sX="0.654302" sY="0.077518" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.075" ty="0.16" tz="0.264302"/>
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0.65"/>
+    <Box sX="0.654302" sY="0.077518" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0.264302"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32119" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="170" oriented="0" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0.4" ty="0.16" tz="0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.076474,0,0,0,0.161247,0,0,0,0.10296" centerOfMass="0.4,0.249,0.2778" mass="0.439999997616" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.9556"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.9556"/>
+  </GeometryBounding>
+</LEGOPrimitive>

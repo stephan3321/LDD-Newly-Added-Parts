@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24601" />
+    <Annotation designname="CREATURE, NO. 27" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.27301" sY="0.042333" sZ="0.27301" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.1438" tz="0" />
+    <Box sX="0.317419" sY="0.455538" sZ="0.156924" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6171" tz="-0.4237" />
+    <Box sX="0.241716" sY="0.554603" sZ="0.023286" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5662" tz="-0.29" />
+    <Box sX="0.121892" sY="0.123989" sZ="0.239915" angle="90" ax="0" ay="1" az="0" tx="-0.5067" ty="0.5288" tz="-0.0196" />
+    <Box sX="0.241716" sY="0.554603" sZ="0.023286" angle="90" ax="0" ay="1" az="0" tx="-0.29" ty="0.5662" tz="0" />
+    <Box sX="0.318474" sY="0.372573" sZ="0.169016" angle="90" ax="0" ay="1" az="0" tx="-0.4358" ty="0.5991" tz="-0.0485" />
+    <Box sX="0.391271" sY="0.434747" sZ="0.156924" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.5416" tz="0.4237" />
+    <Box sX="0.241716" sY="0.554603" sZ="0.023286" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.5662" tz="0.29" />
+    <Box sX="0.269925" sY="0.372573" sZ="0.156924" angle="90" ax="0" ay="-1" az="0" tx="0.4237" ty="0.5991" tz="0" />
+    <Box sX="0.241716" sY="0.554603" sZ="0.023286" angle="90" ax="0" ay="-1" az="0" tx="0.29" ty="0.5662" tz="0" />
+    <Box sX="0.121892" sY="0.123989" sZ="0.227823" angle="90" ax="0" ay="-1" az="0" tx="0.4946" ty="0.5288" tz="-0.0196" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="200" oriented="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.771823" minY="0" minZ="-0.693211" maxX="0.77223" maxY="1.261029" maxZ="0.75199" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.771823" minY="0" minZ="-0.693211" maxX="0.77223" maxY="1.261029" maxZ="0.75199" />
+  </GeometryBounding>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4" />
+</LEGOPrimitive>

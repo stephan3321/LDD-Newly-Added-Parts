@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2670"/>
+    <Annotation designname="MONORAIL TRACK STRAIGHT SHORT"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="1.58" sY="0.38" sZ="1.57" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.6" tz="-2.8"/>
+	  <Box sX="0.79" sY="0.1" sZ="0.79" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.11" tz="-2.8"/>
+	  <Box sX="0.9" sY="0.1" sZ="0.35" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.11" tz="-0.02"/>
+	  <Box sX="1.26" sY="0.38" sZ="0.76" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.6" tz="-0.43"/>
+	  <Box sX="0.17" sY="0.14" sZ="3.19" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="1.13" tz="-2.8"/>
+	  <Box sX="0.79" sY="0.485" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.495" tz="0.36"/>
+	  <Box sX="0.065" sY="0.38" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.795" ty="0.6" tz="0.36"/>
+	  <Box sX="0.065" sY="0.38" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="1.595" ty="0.6" tz="0.36"/>
+	  <Box sX="0.155" sY="0.38" sZ="0.06" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="1.36" ty="0.6" tz="0.39"/>
+	  <Box sX="0.9" sY="0.1" sZ="0.35" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.11" tz="-5.58"/>
+	  <Box sX="0.065" sY="0.38" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="1.595" ty="0.6" tz="-5.96"/>
+	  <Box sX="0.155" sY="0.38" sZ="0.06" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.56" ty="0.6" tz="-5.99"/>
+	  <Box sX="0.79" sY="0.485" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.495" tz="-5.96"/>
+	  <Box sX="0.065" sY="0.38" sZ="0.03" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.795" ty="0.6" tz="-5.96"/>
+	  <Box sX="1.26" sY="0.38" sZ="0.76" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.6" tz="-5.17"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="22" axes="2" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0.4"/>
+    <Fixed type="23" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0" tz="0.4"/>
+    <Fixed type="22" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0" tz="-6.0"/>
+    <Fixed type="23" axes="2" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="-6.0"/>
+    <Rail type="2" length="6.4" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.28" tz="0.4"/>
+	  <Custom2DField type="22" width="4" height="16" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.4" ty="1.19209e-007" tz="-6.0">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+	  </Custom2DField>
+	  <Custom2DField type="23" width="4" height="2" angle="240.0" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.88" ty="1.0" tz="-6.0">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+	  </Custom2DField>
+	  <Custom2DField type="23" width="4" height="2" angle="240.0" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.88" ty="1.0" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+	  </Custom2DField>
+	  <Custom2DField type="23" width="4" height="2" angle="120.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="1.68" ty="0.2" tz="-6.0">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+	  </Custom2DField>
+	  <Custom2DField type="23" width="4" height="2" angle="120.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="1.68" ty="0.2" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+	  </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0.4,0.64,-2.8" mass="15.3000001907" frictionType="0"/>
+  <Paths>
+    <Path type="1" points="2">
+      0.4,1.28,0.4:0.4,1.28,-6.0
+    </Path>
+  </Paths>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-6.06" maxX="2" maxY="1.28" maxZ="0.46"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-6.06" maxX="2" maxY="1.28" maxZ="0.46"/>
+  </GeometryBounding>
+</LEGOPrimitive>

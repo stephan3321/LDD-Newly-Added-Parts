@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35654" />
+    <Annotation designname="Fender, Front, No.1" />
+    <Annotation maingroupid="272" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.88" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="-0.08" ty="0.2391" tz="0" />
+    <Axel type="7" length="0.88" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="-0.08" ty="1.4391" tz="0.32" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2" minY="0" minZ="-0.212884" maxX="1.2" maxY="1.679093" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="0" minZ="-0.212884" maxX="1.2" maxY="1.679093" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

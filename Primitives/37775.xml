@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37775" />
+    <Annotation designname="FLAME, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.08" sY="0.1" sZ="0.08" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.08" sY="0.1" sZ="0.08" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1" tz="0" />
+    <Box sX="0.16" sY="0.1" sZ="0.16" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1" tz="0" />
+    <Box sX="0.113136" sY="0.446" sZ="0.296" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.646" tz="0.008" />
+  </Collision>
+<Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.2" tz="0"/>
+    <Axel type="7" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.159999996423721" minY="-0.200000002980232" minZ="-0.287999987602234" maxX="0.159999996423721" maxY="1.09200000762939" maxZ="0.303999990224838" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.159999996423721" minY="-0.200000002980232" minZ="-0.287999987602234" maxX="0.159999996423721" maxY="1.09200000762939" maxZ="0.303999990224838" />
+  </GeometryBounding>
+</LEGOPrimitive>

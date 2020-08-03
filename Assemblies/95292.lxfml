@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+    <Annotation aliases="95292;41475;74741;75348"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="BIG SHOCK ABSORBER"/>
+    <Annotation wire=""/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2909" uuid="dda24434-4ea8-4f28-ad52-4520b6d04c98">
+			<Part refID="0" designID="2909" materials="21">
+				<Bone refID="0" transformation="0,1,0,1,0,0,0,0,-1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2910" uuid="95947725-3422-455b-acbd-5d5b1a2cba62">
+			<Part refID="1" designID="2910" materials="21">
+				<Bone refID="1" transformation="0,1,0,1,0,0,0,0,-1,5.2000002861022949,0,-0.40000000596046448" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

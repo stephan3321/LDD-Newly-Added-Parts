@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2771"/>
+    <Annotation designname="WHEEL"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.75" sY="0.1" sZ="0.36" angle="90.0" ax="0.0" ay="-1.0" az="0.0" tx="0.4" ty="-0.11" tz="-0.4"/>
+	  <Box sX="0.75" sY="0.1" sZ="0.36" angle="45.0" ax="0.0" ay="-1.0" az="0.0" tx="0.4" ty="-0.11" tz="-0.4"/>
+	  <Box sX="0.75" sY="0.1" sZ="0.36" angle="45.0" ax="0.0" ay="1.0" az="0.0" tx="0.4" ty="-0.11" tz="-0.4"/>
+	  <Box sX="0.75" sY="0.1" sZ="0.36" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="-0.11" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="31" oriented="1" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="-0.22" tz="-0.4"/>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0.4,-0.081,-0.4" mass="15.3000001907" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.449871" minY="-0.339999" minZ="-1.24987" maxX="1.24987" maxY="0.178" maxZ="0.44987"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.449871" minY="-0.339999" minZ="-1.24987" maxX="1.24987" maxY="0.178" maxZ="0.44987"/>
+  </GeometryBounding>
+</LEGOPrimitive>

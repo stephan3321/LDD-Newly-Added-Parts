@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Gerald Lasser [GeraldLasser]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41682"/>
+    <Annotation designname="TILE 2X2 W/ 1X2 VERTICAL PLATE"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.15" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="-0.4"/>
+    <Box sX="0.79" sY="0.39" sZ="0.15" angle="180.0" ax="1.62921e-007" ay="0.0" az="-1.0" tx="0.4" ty="0.72" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="90.0" ax="-1.0" ay="0.0" az="0.0" tx="-0.4" ty="0.32" tz="-0.56">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="90.0" ax="-1.0" ay="0.0" az="0.0" tx="-0.4" ty="0.32" tz="-0.24">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.120331,0,0,0,0.233532,0,0,0,0.120331" centerOfMass="0.4,0.56,-0.4" mass="0.479999989271" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.12" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.12" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

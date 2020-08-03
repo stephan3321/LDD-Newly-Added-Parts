@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="48177;34706" />
+    <Annotation designname="MINI ARMOUR, NO. 14" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.12" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.7461850643158" minY="-1.05709397792816" minZ="-0.923215985298157" maxX="1.73856401443481" maxY="1.18907999992371" maxZ="0.936544001102448" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.7461850643158" minY="-1.05709397792816" minZ="-0.923215985298157" maxX="1.73856401443481" maxY="1.18907999992371" maxZ="0.936544001102448" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0" />
+</LEGOPrimitive>

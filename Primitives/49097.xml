@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49097" />
+    <Annotation designname="Mudguard 3 x 3 x 1 with Arch Round" />
+    <Annotation maingroupid="272" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.788152" minY="-0.64" minZ="-1.2" maxX="1.58815193" maxY="0.560195" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.788152" minY="-0.64" minZ="-1.2" maxX="1.58815193" maxY="0.560195" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

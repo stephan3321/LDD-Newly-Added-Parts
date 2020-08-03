@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="61189"/>
+    <Annotation designname="Clone Helmet W. Ø1.5 HOLE"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.419256" sY="0.059084" sZ="0.538662" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.22513" tz="-0.048662"/>
+    <Box sX="0.065" sY="0.066146" sZ="0.611197" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.50475" tz="-0.200956"/>
+    <Box sX="0.016127" sY="0.439838" sZ="0.312919" angle="139.05142" ax="0" ay="1" az="0" tx="0.334758" ty="-0.405251" tz="0.464026"/>
+    <Box sX="0.016127" sY="0.444091" sZ="0.296999" angle="144.50247" ax="0" ay="-1" az="0" tx="0.380443" ty="-0.400998" tz="-0.441344"/>
+    <Box sX="0.016127" sY="0.439838" sZ="0.312919" angle="40.94855" ax="0" ay="1" az="0" tx="-0.334758" ty="-0.405251" tz="0.464026"/>
+    <Box sX="0.016127" sY="0.444091" sZ="0.296999" angle="35.49752" ax="0" ay="-1" az="0" tx="-0.380443" ty="-0.400998" tz="-0.441344"/>
+    <Box sX="0.016127" sY="0.444091" sZ="0.183117" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.400998" tz="-0.662635"/>
+    <Box sX="0.016127" sY="0.444091" sZ="0.183117" angle="90.34463" ax="-0.077324" ay="0.994003" az="-0.077324" tx="0" ty="-0.403519" tz="0.684456"/>
+    <Box sX="0.016127" sY="0.352464" sZ="0.183117" angle="0" ax="0" ay="1" az="0" tx="0.548571" ty="-0.492625" tz="0"/>
+    <Box sX="0.016127" sY="0.352464" sZ="0.183117" angle="180" ax="0" ay="1" az="0" tx="-0.548571" ty="-0.492625" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="1.26" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="0.63" ty="-0.053174" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="-0.049754" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+      <Hinge type="50" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="-0.0532 m" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.249697,0,0,0,0.204931,0,0,0,0.199684" centerOfMass="0,-0.18108,0.017951" mass="0.699999988079" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0"/>
+  <Bounding>
+    <AABB minX="-0.672003" minY="-0.858187" minZ="-0.89083" maxX="0.672003" maxY="0.580896" maxZ="0.851844"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.672003" minY="-0.858187" minZ="-0.89083" maxX="0.672003" maxY="0.580896" maxZ="0.851844"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37195" />
+    <Annotation designname="Wheel Cover 28 Spoke - 18mm D" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.6" tz="0">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.194352" minY="0" minZ="-0.64" maxX="1.194348" maxY="2.388879" maxZ="0.292" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.194352" minY="0" minZ="-0.64" maxX="1.194348" maxY="2.388879" maxZ="0.292" />
+  </GeometryBounding>
+</LEGOPrimitive>

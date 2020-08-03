@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="500183" />
+    <Annotation designname="Weapon, Bar on Front, Stud on Back" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="0.36" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="7" length="0.68824" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.72" tz="0.313" />
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.8" tz="-0.4">
+      29:0:1,29:0:1,29:0:1,
+      29:0:1,1:4:1,29:0:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.358612" minY="0" minZ="-0.311761" maxX="0.358612" maxY="0.96" maxZ="1" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.358612" minY="0" minZ="-0.311761" maxX="0.358612" maxY="0.96" maxZ="1" />
+  </GeometryBounding>
+</LEGOPrimitive>

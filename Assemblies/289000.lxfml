@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="289000;74781"/>
+		<Annotation designname="MONORAIL TRACK POINT LEFT"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation wire="2883,2884,2911,2890,2885,2886"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2885" uuid="598d48fd-ea4a-4129-87ff-f494664a1149">
+			<Part refID="0" designID="2885" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2886" uuid="20c13d2c-2316-49b5-b5e8-3ce928f590c0">
+			<Part refID="1" designID="2886" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.6,0,-11.2" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="2887" uuid="5caae84f-2245-43e4-aa4f-e185ff17d167">
+			<Part refID="2" designID="2887" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-1.12,0.52,-5.96" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="2883" uuid="c5719794-238a-46cc-9a37-0c64bc0466bc">
+			<Part refID="3" designID="2883" materials="21">
+				<Bone refID="3" transformation="0,0,-1,0,1,0,1,0,0,3.20563,0.356324,-13.3" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="2884" uuid="20719706-08f8-4c85-8a2e-4822900539fd">
+			<Part refID="4" designID="2884" materials="21">
+				<Bone refID="4" transformation="0.615662,0,0.788011,0,1,0,-0.788011,0,0.615662,0.4,0.48,-7.04" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="5" designID="2911" uuid="e8f25bee-c8ec-49af-b0be-de16dd8ce41a">
+			<Part refID="5" designID="2911" materials="21">
+				<Bone refID="5" transformation="-0.983885,0,0.178802,0,-1,0,0.178802,0,0.983885,0.953933,0.494999,-8.63936" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="6" designID="2911" uuid="a0b142b5-b5dd-4e1c-bdf8-c6e2d00bc063">
+			<Part refID="6" designID="2911" materials="21">
+				<Bone refID="6" transformation="0.939693,0,-0.34202,0,-1,0,-0.34202,0,-0.939693,-2.42332,0.495,-9.60788" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="7" designID="2890" uuid="e24341e7-cb1c-488e-99d9-20f86f98f3ac">
+			<Part refID="7" designID="2890" materials="21">
+				<Bone refID="7" transformation="-1,0,1.74846e-007,0,1,0,-1.74846e-007,0,-1,0.405626,0.495,-15.74" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="8" designID="2890" uuid="552f27ec-a583-4d1c-a984-5fec1178860b">
+			<Part refID="8" designID="2890" materials="21">
+				<Bone refID="8" transformation="-0.793355,0,0.60876,0,1,0,-0.60876,0,-0.793355,-3.47475,0.75691,-12.4926" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

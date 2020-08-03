@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24021;20923" />
+    <Annotation designname="HELMET NO. 82" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.698989987373352" minY="-0.929288029670715" minZ="-0.652549028396606" maxX="0.698989987373352" maxY="0.475991010665894" maxZ="0.886168003082275" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.698989987373352" minY="-0.929288029670715" minZ="-0.652549028396606" maxX="0.698989987373352" maxY="0.475991010665894" maxZ="0.886168003082275" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

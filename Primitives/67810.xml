@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67810" />
+    <Annotation designname="BRICK W/ BOW 2X2X1 1/3" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      29:0:1,23:4:1,18:1:1,
+      29:0:1,0:4:1,23:4:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-0.4">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,
+      29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:3:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      29:0:1,29:0:1,22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="0.4" maxY="1.276099" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="0.4" maxY="1.276099" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
+<LXFML versionMajor="4" versionMinor="0">
+	<Meta>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="399"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS"/>
+		<Annotation designname="BIG SHOCK ABSORBER"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2909">
+			<Part refID="0" designID="2909" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2910">
+			<Part refID="1" designID="2910" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,5.2000002861022949,0.40000000596046448"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

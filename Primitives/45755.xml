@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="45755" />
+    <Annotation designname="Mini Costume, No. 14" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.532417" minY="-2.24" minZ="-0.66" maxX="1.532417" maxY="0.64" maxZ="0.66" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.532417" minY="-2.24" minZ="-0.66" maxX="1.532417" maxY="0.64" maxZ="0.66" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>

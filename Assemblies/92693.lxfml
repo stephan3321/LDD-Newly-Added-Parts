@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="92693"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="LINEAR ACTUATOR 7-9 M"/>
+    <Annotation wire="92695,92694"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92695" uuid="2dec0d6f-f48b-49a0-9408-6c88be29ac88">
+			<Part refID="0" designID="92695" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92694" uuid="e05b52be-d22a-4583-b89f-e08355862a6e">
+			<Part refID="1" designID="92694" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="92696" uuid="fa913491-c83d-4610-bee1-00a5da50f47e">
+			<Part refID="2" designID="92696" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-1.20000004768,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

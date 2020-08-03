@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Marc Klein [marckl]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2805"/>
+    <Annotation designname="Gasket"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+    <Hinge type="135" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="4.48" ty="0" tz="-0.72"/>
+    <Slider type="49" length="0.36" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="4.48" ty="0" tz="-0.72"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.043872,0,0,0,1.95234,0,0,0,1.95235" centerOfMass="2.66,-5.66244e-007,-0.72" mass="18.1000003815" frictionType="0"/>
+  <Bounding>
+    <AABB minX="4.48" minY="-0.600001" minZ="-1.3193" maxX="4.72" maxY="0.6" maxZ="-0.120699"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="4.48" minY="-0.600001" minZ="-1.3193" maxX="4.72" maxY="0.6" maxZ="-0.120699"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32593;28985" />
+    <Annotation designname="MINI WIG, NO. 168" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.771480023860931" minY="-1.78100991249084" minZ="-0.406190007925034" maxX="0.782469987869263" maxY="0.909420013427734" maxZ="1.17127001285553" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.771480023860931" minY="-1.78100991249084" minZ="-0.406190007925034" maxX="0.782469987869263" maxY="0.909420013427734" maxZ="1.17127001285553" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

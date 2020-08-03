@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="268600"/>
+		<Annotation designname="MONORAIL BOGEY"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2686" uuid="f88c9149-d04c-47d6-8396-831c4f0c8f66">
+			<Part refID="0" designID="2686" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2697" uuid="da2c7868-2383-4352-9834-4dc92b91e074">
+			<Part refID="1" designID="2697" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,0,-1,0,1,0,0,1.24,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="2688" uuid="da9c7868-2383-4352-9834-4da92b91e074">
+			<Part refID="2" designID="2688" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0,0.44,1" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="2688" uuid="ba1c7868-2384-4352-9834-4da92b91e074">
+			<Part refID="3" designID="2688" materials="21">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,0,0.44,-1" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

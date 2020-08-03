@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library (treads need work)
+Original Author: Gerald Lasser [GeraldLasser]
+Edited for LDD by Zweifuss
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46335" />
+    <Annotation designname="MOTORCYCLE TYRE Ø 94.3 x 38" />
+    <Annotation maingroupid="367" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.20237004756927" sY="0.375196009874344" sZ="1.82489609718323" angle="15" ax="0" ay="0" az="1" tx="-1.0714" ty="3.9984" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.375196009874344" sZ="1.82489609718323" angle="15" ax="0" ay="0" az="-1" tx="1.0714" ty="3.9984" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.384452998638153" sZ="1.82489609718323" angle="45" ax="0" ay="0" az="-1" tx="2.9205" ty="2.9205" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.37891298532486" sZ="1.82489609718323" angle="75" ax="0" ay="0" az="-1" tx="3.9948" ty="1.0704" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.379514008760452" sZ="1.82489609718323" angle="105" ax="0" ay="0" az="-1" tx="3.9942" ty="-1.0702" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.384452998638153" sZ="1.82489609718323" angle="135" ax="0" ay="0" az="-1" tx="2.9205" ty="-2.9205" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.372299998998642" sZ="1.82489609718323" angle="165" ax="0" ay="0" az="-1" tx="1.0721" ty="-4.0012" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.369179010391235" sZ="1.82489609718323" angle="165" ax="0" ay="0" az="1" tx="-1.0729" ty="-4.0042" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.384452998638153" sZ="1.82489609718323" angle="135" ax="0" ay="0" az="1" tx="-2.9205" ty="-2.9205" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.37891298532486" sZ="1.82489609718323" angle="105" ax="0" ay="0" az="1" tx="-3.9948" ty="-1.0704" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.379514008760452" sZ="1.82489609718323" angle="75" ax="0" ay="0" az="1" tx="-3.9942" ty="1.0702" tz="-0.0075" />
+    <Box sX="1.20237004756927" sY="0.384452998638153" sZ="1.82489609718323" angle="45" ax="0" ay="0" az="1" tx="-2.9205" ty="2.9205" tz="-0.0075" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="82" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8" />
+    <Fixed type="82" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8" />
+    <Fixed type="82" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0.8" />
+    <Fixed type="82" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="324.57828,0,0,0,0,0,0,0,0" centerOfMass="0,0,-0.400727" mass="17.2999992371" frictionType="1" />
+  <Bounding>
+    <AABB minX="-4.74488019943237" minY="-4.74488019943237" minZ="-1.87927794456482" maxX="4.74488019943237" maxY="4.744873046875" maxZ="1.87927794456482" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.74488019943237" minY="-4.74488019943237" minZ="-1.87927794456482" maxX="4.74488019943237" maxY="4.744873046875" maxZ="1.87927794456482" />
+  </GeometryBounding>
+</LEGOPrimitive>

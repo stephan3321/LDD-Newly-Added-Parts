@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93064" />
+    <Annotation designname="GENERAL HEAD 1" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.507996" sY="0.445871" sZ="0.245399" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4771" tz="0.513" />
+    <Box sX="0.410468" sY="0.445871" sZ="0.120913" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4771" tz="-0.3824" />
+    <Box sX="0.146224" sY="0.200661" sZ="0.53194" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.2525" tz="0.0023" />
+    <Box sX="0.101263" sY="0.448066" sZ="0.409842" angle="170.116" ax="0" ay="1" az="0" tx="-0.3784" ty="0.4749" tz="-0.0571" />
+    <Box sX="0.101263" sY="0.448066" sZ="0.409842" angle="9.884" ax="0" ay="1" az="0" tx="0.3784" ty="0.4749" tz="-0.0571" />
+    <Box sX="0.404539" sY="0.380458" sZ="0.079612" angle="10.7587" ax="-1" ay="0" az="0" tx="0" ty="-0.1694" tz="0.8357" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.78299" minY="-0.584502" minZ="-0.939986" maxX="0.78299" maxY="1.59256291" maxZ="1.14184" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.78299" minY="-0.584502" minZ="-0.939986" maxX="0.78299" maxY="1.59256291" maxZ="1.14184" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

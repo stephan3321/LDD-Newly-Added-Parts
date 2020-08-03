@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19303" />
+    <Annotation designname="Mini Figure Helmet, No. 71, Top" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.5991" minY="-0.6608" minZ="-0.6995" maxX="0.5991" maxY="0.3435" maxZ="0.6482" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5991" minY="-0.6608" minZ="-0.6995" maxX="0.5991" maxY="0.3435" maxZ="0.6482" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30371" />
+    <Annotation designname="Head Modified SW Gungan Split Eyes Plain" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="-0.0252" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="200" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.0252" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.19208" minY="-1.753353" minZ="-0.87628" maxX="1.19208" maxY="1.4842" maxZ="1.338064" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.19208" minY="-1.753353" minZ="-0.87628" maxX="1.19208" maxY="1.4842" maxZ="1.338064" />
+  </GeometryBounding>
+</LEGOPrimitive>

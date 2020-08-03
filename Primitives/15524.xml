@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15524" />
+    <Annotation designname="Minifig Head Lisa Simpson" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.676379" sZ="0.161933" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.751304" tz="-0.416816"/>
+    <Box sX="0.567335" sY="0.27973" sZ="0.632566" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.887907" tz="-0.01351"/>
+    <Box sX="0.49" sY="0.626112" sZ="0.145724" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.706454" tz="0.400607"/>
+    <Box sX="0.293352" sY="0.186421" sZ="0.268636" angle="25.34934" ax="-1" ay="0" az="0" tx="0" ty="0.467153" tz="0.812776"/>
+    <Box sX="0.125775" sY="0.092902" sZ="0.162853" angle="50.22829" ax="-1" ay="0" az="0" tx="0" ty="0.730609" tz="1.13117"/>
+    <Box sX="0.228969" sY="0.284653" sZ="0.061957" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.22896" tz="0.150375"/>
+    <Box sX="0.228969" sY="0.273011" sZ="0.080187" angle="90" ax="0" ay="1" az="0" tx="0.168859" ty="1.21732" tz="-0.000255"/>
+    <Box sX="0.228969" sY="0.273011" sZ="0.080187" angle="90" ax="0" ay="-1" az="0" tx="-0.168859" ty="1.21732" tz="-0.000255"/>
+    <Box sX="0.228969" sY="0.284237" sZ="0.080187" angle="180" ax="0" ay="1" az="0" tx="0" ty="1.22855" tz="-0.169114"/>
+    <Box sX="0.261863" sY="0.57869" sZ="0.064172" angle="90" ax="0" ay="-1" az="0" tx="-0.321126" ty="0.588948" tz="-0.002071"/>
+    <Box sX="0.261863" sY="0.57869" sZ="0.064172" angle="90" ax="0" ay="1" az="0" tx="0.321126" ty="0.588948" tz="-0.002071"/>
+    <Box sX="0.30195" sY="0.344528" sZ="0.092744" angle="21.672" ax="-0.297997" ay="-0.72346" az="0.622739" tx="-0.801518" ty="1.37986" tz="-0.457671"/>
+    <Box sX="0.109595" sY="0.393151" sZ="0.378943" angle="13.5879" ax="0" ay="0" az="1" tx="-0.581664" ty="0.649739" tz="-0.072686"/>
+    <Box sX="0.30195" sY="0.344528" sZ="0.092744" angle="164.36601" ax="-0.118172" ay="-0.991382" az="0.056548" tx="0.801518" ty="1.37986" tz="-0.457671"/>
+    <Box sX="0.109595" sY="0.393151" sZ="0.378943" angle="180" ax="0.118299" ay="0.992978" az="0" tx="0.581664" ty="0.649739" tz="-0.072686"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.211009" grabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.31339" tz="-0.000255"/>
+    <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.647145,0,0,0,0.888393,0,0,0,0.809576" centerOfMass="0,0.923305,0.278726" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.25548" minY="0" minZ="-0.764798" maxX="1.25548" maxY="1.84661" maxZ="1.32225"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.25548" minY="0" minZ="-0.764798" maxX="1.25548" maxY="1.84661" maxZ="1.32225"/>
+  </GeometryBounding>
+</LEGOPrimitive>

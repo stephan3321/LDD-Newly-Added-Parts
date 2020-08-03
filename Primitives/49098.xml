@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49098" />
+    <Annotation designname="Wheel Cover 10 Spoke Inset" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.52" tz="-0.24">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.118215" minY="0.001786" minZ="-0.24" maxX="1.118214" maxY="2.238214" maxZ="0.24" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.118215" minY="0.001786" minZ="-0.24" maxX="1.118214" maxY="2.238214" maxZ="0.24" />
+  </GeometryBounding>
+</LEGOPrimitive>
