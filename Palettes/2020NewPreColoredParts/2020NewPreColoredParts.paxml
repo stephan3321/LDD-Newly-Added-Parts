@@ -420,5 +420,8 @@
 			<SubMaterial surfaceID="1" materialID="26"/>
 			<SubMaterial surfaceID="2" materialID="199"/>
 		</Brick>
+		<Brick designID="37598" materialID="192" quantity="1" ItemNos="6219053">
+			<Decoration surfaceID="1" decorationID="11119"/>
+		</Brick>
 	</Bag>
 </PAXML>
