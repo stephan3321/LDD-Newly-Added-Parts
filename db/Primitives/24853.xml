@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24853"/>
+    <Annotation designname="POWERED UP Battery Lid"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-2.3399,1.35,-3.60003" mass="18.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-5.8399" minY="0.7" minZ="-6.32003" maxX="1.1601" maxY="2.0" maxZ="-0.880028"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.8399" minY="0.7" minZ="-6.32003" maxX="1.1601" maxY="2.0" maxZ="-0.880028"/>
+  </GeometryBounding>
+</LEGOPrimitive>

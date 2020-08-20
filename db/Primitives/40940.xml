@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40940"/>
+    <Annotation designname="POWERED UP OUTPUT DRIVE"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.39" sY="0.063787" sZ="0.063787" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="0.16379" ty="-0.163787" tz="-0.40025"/>
+	  <Box sX="0.39" sY="0.063787" sZ="0.063787" angle="120.0" ax="0.57735" ay="0.57735" az="-0.57735" tx="-0.16379" ty="-0.163787" tz="-0.40025"/>
+	  <Box sX="0.39" sY="0.063787" sZ="0.063787" angle="180.0" ax="-0.707107" ay="0.0" az="0.707107" tx="-0.16379" ty="0.163787" tz="-0.40025"/>
+	  <Box sX="0.39" sY="0.063787" sZ="0.063787" angle="120.0" ax="-0.57735" ay="0.57735" az="0.57735" tx="0.16379" ty="0.163787" tz="-0.40025"/>
+  </Collision>
+  <Connectivity>
+	  <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120.0" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0.0" ty="0.0" tz="0.0"/>
+    <Hinge type="229" oriented="1" angle="120.0" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0.0" ty="0.0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.081666,0,0,0,0.108333,0,0,0,0.108333" centerOfMass="0,0,-0.44" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.36" minY="-0.36" minZ="-0.88" maxX="0.36" maxY="0.36" maxZ="0.0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="-0.36" minZ="-0.88" maxX="0.36" maxY="0.36" maxZ="0.0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

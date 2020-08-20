@@ -1,0 +1,25 @@
+20200819
+=========
+
+Added assemblies (parts):
+• 22127 (25560,25561,24849,24853,34745,9320)
+• 22169 (9479,9485,9486,40940,238160)
+• 22172 (41014,41041,41089,40940,238160)
+• 54675 (9367,9368,9390,9391,238160,9363)
+
+Updated parts:
+• 46882 - now decoratable
+• 32187 - updated connection points
+• 18926 - updated connection points
+• 18923 - updated connection points
+
+Added decorations:
+• 6316344 for 46882 (named 11129 due to LDD Template restrictions)
+
+Other notes:
+• Created a custom Template in the Mindstorms Theme: 2020 New Pre-Colored Parts.
+  Place in the Palettes folder.
+• Updated MaterialNames: added 353 'Vibrant Coral', added "Silver Ink.," to 298. 
+• Updated CurrentMaterials.xml: added 353 'Vibrant Coral', moved 107 'Bright Bluish Green' and 298 'Silver Ink., Cool silver, drum lacq' to Current colors.
+• Updated Materials.xml: added 353 'Vibrant Coral'.
+• Unzipped the LDDExtended.lif, add the included 'LDDExtended' folder to the Templates folder, removed LDDExtended.lif.

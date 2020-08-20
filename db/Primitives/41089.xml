@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41089"/>
+    <Annotation designname="POWERED UP XL-MOTOR Cable Lock"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.228907" sY="0.345791" sZ="0.401125" angle="180.0" ax="-1.0" ay="0.0" az="0.0" tx="-5.56144" ty="0.8" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.054" sZ="0.390508" angle="170.0" ax="0.0" ay="0.0" az="-1.0" tx="-5.17401" ty="0.120972" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="145.0" ax="0.0" ay="0.0" az="-1.0" tx="-5.23302" ty="0.250459" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="125.0" ax="0.0" ay="0.0" az="-1.0" tx="-5.34821" ty="0.369088" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="100.0" ax="0.0" ay="0.0" az="-1.0" tx="-5.51544" ty="0.437795" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="180.0" ax="-0.461749" ay="-0.887011" az="1.72707e-007" tx="-5.34821" ty="1.23059" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="180.0" ax="-0.300706" ay="-0.953717" az="2.76375e-007" tx="-5.23301" ty="1.34922" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.054" sZ="0.390508" angle="180.0" ax="-0.087156" ay="-0.996195" az="0.0" tx="-5.17405" ty="1.47315" tz="-1.2"/>
+	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="180.0" ax="-0.642788" ay="-0.766044" az="0.0" tx="-5.51544" ty="1.16189" tz="-1.2"/>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-5.43962,0.800058,-1.19963" mass="18.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-5.79962" minY="-0.359942" minZ="-2.27963" maxX="-5.07962" maxY="1.96006" maxZ="-0.119625"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.79962" minY="-0.359942" minZ="-2.27963" maxX="-5.07962" maxY="1.96006" maxZ="-0.119625"/>
+  </GeometryBounding>
+</LEGOPrimitive>

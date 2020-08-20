@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="54675,69730"/>
+		<Annotation designname="POWERED UP/SPIKE ANGULAR L-MOTOR"/>
+    <Annotation maingroupid="393"/>
+    <Annotation maingroupname="POWERED UP"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation wire="9367,9368,9390,9391,238160,9363"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="9367" uuid="d86c150f-b260-4080-b5ca-7e448004278e">
+			<Part refID="0" designID="9367" materials="21">
+				<Bone refID="0" transformation="-1,-1.50996e-007,0,1.50996e-007,-1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="9368" uuid="802c3a67-e92e-4d0a-9ded-912e9b37acfd">
+			<Part refID="1" designID="9368" materials="21">
+				<Bone refID="1" transformation="-1,-1.50996e-007,0,1.50996e-007,-1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="9390" uuid="dc76e785-0a3f-4e6a-a828-db58590ae82f">
+			<Part refID="2" designID="9390" materials="21">
+				<Bone refID="2" transformation="-1,-1.50996e-007,0,1.50996e-007,-1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="9391" uuid="7a63c1aa-cf96-44ba-be81-6db1f6580338">
+			<Part refID="3" designID="9391" materials="21">
+				<Bone refID="3" transformation="-1,-1.50996e-007,0,1.50996e-007,-1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="238160" uuid="59fa829a-9a2f-418d-be02-4d488d7720fd">
+			<Part refID="4" designID="238160" materials="21">
+				<Bone refID="4" transformation="0,1,0,0,0,1,1,0,0,6.7,-1.36,-2" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="5" designID="23816" uuid="655d052d-e5fa-404e-9cfa-68245d2f6bcc">
+			<Part refID="5" designID="23816" materials="21">
+				<Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,9,-1.64,-2" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="6" designID="9363" uuid="651d052d-e5fa-414e-9cfa-68245c2f6bcc">
+			<Part refID="6" designID="9363" materials="21">
+				<Bone refID="6" transformation="1,0,0,0,0,-1,0,1,0,0.8,1.2,-2" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

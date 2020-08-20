@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="238160"/>
+    <Annotation designname="POWERED UP Wire"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+    <Annotation wireMarker="90,-90,0,0.0,0,0.5"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="0,0,-0.4" mass="18.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.083122" minY="-0.376962" minZ="-0.8" maxX="0.083122" maxY="0.376962" maxZ="0.0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.083122" minY="-0.376962" minZ="-0.8" maxX="0.083122" maxY="0.376962" maxZ="0.0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

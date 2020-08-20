@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9320"/>
+    <Annotation designname="POWERED UP Hub Socket"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.396913" sY="0.357574" sZ="0.0177587" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="0.0" ty="0.192413" tz="0.36"/>
+	  <Box sX="0.616483" sY="0.357574" sZ="0.0565184" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="0.0" ty="-0.260284" tz="0.36"/>
+	  <Box sX="0.0538494" sY="0.357574" sZ="0.202918" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="0.56" ty="0.0" tz="0.36"/>
+	  <Box sX="0.0538731" sY="0.357574" sZ="0.202918" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="-0.56" ty="0.0" tz="0.36"/>
+	  <Box sX="0.503661" sY="0.0621333" sZ="0.199698" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="0.0" ty="0.0" tz="0.654539"/>
+  </Collision>
+  <Connectivity>
+	  <Fixed type="154" axes="2" angle="240.0" ax="-0.57735" ay="0.57735" az="0.57735" tx="0.0" ty="-0.11" tz="0.0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="0,0,0.36" mass="18.5" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.62" minY="-0.32" minZ="0.0" maxX="0.62" maxY="0.32" maxZ="0.72"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.62" minY="-0.32" minZ="0.0" maxX="0.62" maxY="0.32" maxZ="0.72"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="34745"/>
+    <Annotation designname="POWERED UP Hub Button"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+  </Collision>
+  <Connectivity>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="0,0.26,0" mass="18.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.408" minY="0.0" minZ="-0.408" maxX="0.408" maxY="0.52" maxZ="0.408"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.408" minY="0.0" minZ="-0.408" maxX="0.408" maxY="0.52" maxZ="0.408"/>
+  </GeometryBounding>
+</LEGOPrimitive>
