@@ -64,5 +64,10 @@
 	<Material MatID="329" />
 	<Material MatID="330" />
 	<Material MatID="336" />
+	<Material MatID="341" />
+	<Material MatID="351" />
 	<Material MatID="353" />
+	<Material MatID="360" />
+	<Material MatID="362" />
+	<Material MatID="364" />
 </Materials>

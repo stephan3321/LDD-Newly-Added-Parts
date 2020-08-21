@@ -58,7 +58,6 @@
 		<Material id ="324"/>
 		<Material id ="325"/>
 		<Material id ="326"/>
-		<Material id ="353"/>
 
 		<Material id ="309"/>
 		<Material id ="310"/>
@@ -76,7 +75,6 @@
 		<Material id ="105"/>
 		<Material id ="145"/>
 		<Material id ="9"/>
-		<Material id ="20"/>
 		<Material id ="153"/>
 		<Material id ="139"/>
 		<Material id ="179"/>
@@ -84,5 +82,11 @@
 		<Material id ="298"/>
 		<Material id ="329"/>
 		<Material id ="330"/>
+		<Material id ="341"/>
+		<Material id ="351"/>
+		<Material id ="353"/>
+		<Material id ="360"/>
+		<Material id ="362"/>
+		<Material id ="364"/>
 	</Grid>
 </MaterialDefinition>

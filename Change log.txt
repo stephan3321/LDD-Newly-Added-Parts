@@ -1,4 +1,11 @@
-20200819
+20200821
+=========
+
+Other notes:
+• Added new colors: 341 'Tr. Bright Orange Glitter', 351 'Tr. Bright Green Glitter', 36﻿0 'Tr. Clear Opal', 362 '﻿Tr. Blue Opal' and 364 'Tr. Med. Red. Violet Opal'
+
+
+20200820
 =========
 
 Added assemblies (parts):
