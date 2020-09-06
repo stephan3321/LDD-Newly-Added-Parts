@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="293"/>
+		<Annotation maingroupname="POWER FUNCTIONS"/>
+		<Annotation designname="RJ12/LEGO converter cable"/>
+		<Annotation aliases="54690"/>
+		<Annotation wire=""/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="60410">
+			<Part refID="0" designID="60410" materials="21,0" decoration="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-2,0,-1.20000004768" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="58124">
+			<Part refID="1" designID="58124" materials="21,0" decoration="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,2,0,2.80000019073" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

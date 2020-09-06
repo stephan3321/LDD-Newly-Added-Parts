@@ -5,13 +5,14 @@ Updated by Equilibrium
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="41896"/>
-    <Annotation designname="RIM 43,2 X 26"/>
+    <Annotation designname="RIM WIDE Ø43,2 X 26"/>
     <Annotation maingroupid="366"/>
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
     <Annotation platformid="300"/>
     <Annotation platformname="TECHNIC"/>
     <Annotation version="4"/>
   </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
   <Collision>
     <Box sX="0.080728" sY="0.080728" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.180728" ty="0.180728" tz="-0.8"/>
     <Box sX="0.080728" sY="0.080728" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="-0.180728" ty="0.180728" tz="-0.8"/>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Jeff Boen
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6594"/>
+    <Annotation designname="TYRE Ø49,6 X 28 VR"/>
+    <Annotation maingroupid="366"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  <Collision>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="60.0" ax="0.0" ay="0.0" az="-1.0" tx="1.73855" ty="1.00375" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="30.0" ax="0.0" ay="0.0" az="-1.0" tx="1.00375" ty="1.73855" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.0" ty="2.0075" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="150.0" ax="0.0" ay="0.0" az="-1.0" tx="1.00375" ty="-1.73855" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="120.0" ax="0.0" ay="0.0" az="-1.0" tx="1.73855" ty="-1.00375" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="90.0" ax="0.0" ay="0.0" az="-1.0" tx="2.0075" ty="0.0" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="240.0" ax="0.0" ay="0.0" az="-1.0" tx="-1.73855" ty="-1.00375" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="210.0" ax="0.0" ay="0.0" az="-1.0" tx="-1.00375" ty="-1.73855" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="180.0" ax="0.0" ay="0.0" az="-1.0" tx="0.0" ty="-2.0075" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="30.0" ax="0.0" ay="0.0" az="1.0" tx="-1.00375" ty="1.73855" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="60.0" ax="0.0" ay="0.0" az="1.0" tx="-1.73855" ty="1.00375" tz="0.0"/>
+	  <Box sX="0.622702" sY="0.146105" sZ="1.35806" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="-2.0075" ty="0.0" tz="0.0"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="168" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="571.55029,0,0,0,571.4353,0,0,0,966.68317" centerOfMass="0,0,0" mass="51.608001709" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.48" minY="-2.48242" minZ="-1.4" maxX="2.48" maxY="2.48242" maxZ="1.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.48" minY="-2.48242" minZ="-1.4" maxX="2.48" maxY="2.48242" maxZ="1.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

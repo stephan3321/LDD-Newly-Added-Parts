@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Rolf Osterthun [Rolf]
+Edited for LDD by jester, colissions by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="67329" />
@@ -9,6 +14,9 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.795634627342224" sY="0.793766379356384" sZ="0.397942930459976" angle="0" ax="1" ay="0" az="0" tx="-0.3987" ty="0.8015" tz="0" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="1.6" tz="-0.4">
       18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,

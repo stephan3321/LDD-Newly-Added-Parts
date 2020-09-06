@@ -28,13 +28,13 @@ Updated by Equilibrium
   </Collision>
   <Connectivity>
     <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
-    <Fixed type="14" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="14" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="268.39624,0,0,0,265.18436,0,0,0,427.58765" centerOfMass="0.002381,0.000422,-0.810331" mass="31.0900001526" frictionType="1"/>
+  <PhysicsAttributes inertiaTensor="268.39624,0,0,0,265.18436,0,0,0,427.58765" centerOfMass="0.002381,0.000422,-0.8" mass="31.0900001526" frictionType="1"/>
   <Bounding>
-    <AABB minX="-4.07404" minY="-4.07404" minZ="-2.7" maxX="4.07404" maxY="4.07404" maxZ="1.1"/>
+    <AABB minX="-4.08015" minY="-4.08015" minZ="-2.7" maxX="4.08016" maxY="4.08016" maxZ="1.1"/>
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-4.07404" minY="-4.07404" minZ="-2.7" maxX="4.07404" maxY="4.07404" maxZ="1.1"/>
+    <AABB minX="-4.08015" minY="-4.08015" minZ="-2.7" maxX="4.08016" maxY="4.08016" maxZ="1.1"/>
   </GeometryBounding>
 </LEGOPrimitive>

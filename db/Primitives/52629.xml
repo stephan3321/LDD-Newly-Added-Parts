@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="52629" />
+    <Annotation designname="Ball, Hard Plastic 19mm D. (Spike Prime)" />
+    <Annotation maingroupid="392" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.948299646377563" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.959" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Ball type="15" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.959999978542328" minY="0" minZ="-0.959999978542328" maxX="0.959999978542328" maxY="1.92000007629395" maxZ="0.959999978542328" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.959999978542328" minY="0" minZ="-0.959999978542328" maxX="0.959999978542328" maxY="1.92000007629395" maxZ="0.959999978542328" />
+  </GeometryBounding>
+</LEGOPrimitive>

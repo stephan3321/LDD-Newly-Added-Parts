@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37452" />
+    <Annotation designname="Brick, Modified 1 x 2 x 2 with Paper / Photo Holder" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.795984625816345" sY="0.956766128540039" sZ="0.39323964715004" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="0.9593" tz="0.0045" />
+    <Box sX="0.783622145652771" sY="0.0548614263534546" sZ="0.0940876677632332" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="1.12" tz="0.4873" />
+    <Box sX="0.783622145652771" sY="0.438021898269653" sZ="0.0769565477967262" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="1.12" tz="0.6464" />
+    <Box sX="0.697827219963074" sY="0.438021898269653" sZ="0.0769565477967262" angle="89.9599" ax="0" ay="0" az="-1" tx="0.3972" ty="1.12" tz="0.6464" />
+    <Box sX="0.740977644920349" sY="0.0401616096496582" sZ="0.0769565477967262" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="1.5893" tz="0.6464" />
+    <Box sX="0.704007267951965" sY="0.0401616096496582" sZ="0.0769565477967262" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="1.6581" tz="0.6464" />
+    <Box sX="0.61526095867157" sY="0.0401616096496582" sZ="0.0769565477967262" angle="0" ax="1" ay="0" az="0" tx="0.3972" ty="1.729" tz="0.6464" />
+    <Box sX="0.740977644920349" sY="0.0401616096496582" sZ="0.0769565477967262" angle="180.0027" ax="0" ay="0" az="1" tx="0.3972" ty="0.6502" tz="0.6464" />
+    <Box sX="0.704007267951965" sY="0.0401616096496582" sZ="0.0769565477967262" angle="180.0027" ax="0" ay="0" az="1" tx="0.3972" ty="0.5813" tz="0.6464" />
+    <Box sX="0.61526095867157" sY="0.0401616096496582" sZ="0.0769565477967262" angle="180.0027" ax="0" ay="0" az="1" tx="0.3972" ty="0.5104" tz="0.6464" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4012" ty="1.92" tz="-0.391">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4012" ty="0" tz="-0.391">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0,0" mass="0.00182" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.400000005960464" minY="2.37336195141324E-09" minZ="-0.400000005960464" maxX="1.19905722141266" maxY="2.07999992370605" maxZ="0.726722419261932" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400000005960464" minY="2.37336195141324E-09" minZ="-0.400000005960464" maxX="1.19905722141266" maxY="2.07999992370605" maxZ="0.726722419261932" />
+  </GeometryBounding>
+</LEGOPrimitive>
