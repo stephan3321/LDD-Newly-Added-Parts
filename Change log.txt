@@ -16,7 +16,7 @@ Updated parts:
 • 29096 - Updated collision data, is now decoratable
 • 2995 - Changed default orientation
 • 2996 - Changed default orientation, fixed collision error
-• 41896 - Changed default orientation
+• 41896 - Changed default orientation, made multi-colorable
 • 45982 - Improved 3D model
 • 56908 - Changed default orientation, improved 3D model, improved collision
 • 54690 - Moved to Electric parts category
