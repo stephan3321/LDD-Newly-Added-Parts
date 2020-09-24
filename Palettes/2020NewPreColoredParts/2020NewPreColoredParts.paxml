@@ -10,6 +10,12 @@
 			<Part designID="2890" materialID="2"/>
 			<Part designID="2911" materialID="20"/>
 		</Assembly>
+		<Assembly designID="464900" quantity="1" ItemNos="6275902">
+			<Part designID="9476" materialID="194"/>
+			<Part designID="9477" materialID="199"/>
+			<Part designID="46434" materialID="199"/>
+			<Part designID="46490" materialID="194"/>
+		</Assembly>
 		<Assembly designID="289000" quantity="1" ItemNos="2890000">
 			<Part designID="2883" materialID="2"/>
 			<Part designID="2884" materialID="20"/>
@@ -428,6 +434,18 @@
 		</Brick>
 		<Brick designID="37383" materialID="140" quantity="1" ItemNos="6217976">
 			<SubMaterial surfaceID="1" materialID="315"/>
+		</Brick>
+		<Brick designID="999992" materialID="199" quantity="1" ItemNos="9999920">
+			<SubMaterial surfaceID="1" materialID="199"/>
+			<SubMaterial surfaceID="2" materialID="1"/>
+			<SubMaterial surfaceID="3" materialID="310"/>
+			<SubMaterial surfaceID="4" materialID="309"/>
+			<SubMaterial surfaceID="5" materialID="26"/>
+			<SubMaterial surfaceID="6" materialID="310"/>
+			<SubMaterial surfaceID="7" materialID="309"/>
+			<SubMaterial surfaceID="8" materialID="26"/>
+			<SubMaterial surfaceID="9" materialID="40"/>
+			<SubMaterial surfaceID="10" materialID="309"/>
 		</Brick>
 		<Brick designID="29096" materialID="40" quantity="1" ItemNos="6205311">
 			<Decoration surfaceID="1" decorationID="562328"/>

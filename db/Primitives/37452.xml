@@ -1,9 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!--
-Derived from The LDraw Parts Library
-Orginal Author: Philippe Hurbain [Philo]
-Edited for LDD by Stephan
--->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="37452" />
@@ -40,9 +35,9 @@ Edited for LDD by Stephan
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0,0" mass="0.00182" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.400000005960464" minY="2.37336195141324E-09" minZ="-0.400000005960464" maxX="1.19905722141266" maxY="2.07999992370605" maxZ="0.726722419261932" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.199057" maxY="2.08" maxZ="0.726722" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.400000005960464" minY="2.37336195141324E-09" minZ="-0.400000005960464" maxX="1.19905722141266" maxY="2.07999992370605" maxZ="0.726722419261932" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.199057" maxY="2.08" maxZ="0.726722" />
   </GeometryBounding>
 </LEGOPrimitive>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46434"/>
+    <Annotation designname="3 SNAP GEARBLOCK"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.147591" sY="0.147591" sZ="0.478337" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.692536" ty="0.40017" tz="-0.294"/>
+	  <Box sX="0.15259" sY="0.15259" sZ="0.489535" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.692536" ty="0.40017" tz="-0.294"/>
+	  <Box sX="0.151373" sY="0.151373" sZ="0.486809" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.0" ty="-0.796166" tz="-0.29261"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.70697" ty="0.0" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="90.0" ax="0.0" ay="0.0" az="-1.0" tx="0.0" ty="0.70697" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="0.0" ty="-0.70697" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="180.0" ax="0.0" ay="0.0" az="-1.0" tx="0.70697" ty="0.0" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="225.0" ax="0.0" ay="0.0" az="-1.0" tx="0.499908" ty="-0.499899" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="45.0" ax="0.0" ay="0.0" az="1.0" tx="-0.499899" ty="-0.499908" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="135.0" ax="0.0" ay="0.0" az="-1.0" tx="0.499899" ty="0.499908" tz="0.29497"/>
+	  <Box sX="0.299299" sY="0.410952" sZ="0.085031" angle="45.0" ax="0.0" ay="0.0" az="-1.0" tx="-0.499908" ty="0.499899" tz="0.29497"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="90.0" ax="0.0" ay="0.0" az="-1.0" tx="0.0" ty="0.618053" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="45.0" ax="0.0" ay="0.0" az="-1.0" tx="-0.437033" ty="0.437025" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.618053" ty="0.0" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="45.0" ax="0.0" ay="0.0" az="1.0" tx="-0.437025" ty="-0.437033" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="0.0" ty="-0.618053" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="225.0" ax="0.0" ay="0.0" az="-1.0" tx="0.437033" ty="-0.437025" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="180.0" ax="0.0" ay="0.0" az="-1.0" tx="0.618053" ty="0.0" tz="0.499493"/>
+	  <Box sX="0.468187" sY="0.450235" sZ="0.085031" angle="135.0" ax="0.0" ay="0.0" az="-1.0" tx="0.437025" ty="0.437033" tz="0.499493"/>
+  </Collision>
+  <Connectivity>
+	  <Axel type="3" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="120.0" ax="-0.57735" ay="0.577351" az="-0.57735" tx="0.693" ty="0.4" tz="0"/>
+	  <Axel type="3" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="120.0" ax="-0.57735" ay="0.577351" az="-0.57735" tx="-0.693" ty="0.4" tz="0"/>
+	  <Axel type="3" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="120.0" ax="-0.57735" ay="0.577351" az="-0.57735" tx="0" ty="-0.8" tz="0"/>
+    <Hinge type="185" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.4"/>
+    <Fixed type="23" axes="2" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="0.0" ty="0.0" tz="0.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.892111,0,0,0,0.891074,0,0,0,0.86029" centerOfMass="0,0,-0.0999999" mass="2.25" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.2" minY="-1.2" minZ="-0.8" maxX="1.2" maxY="1.2" maxZ="0.6"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-1.2" minZ="-0.8" maxX="1.2" maxY="1.2" maxZ="0.6"/>
+  </GeometryBounding>
+</LEGOPrimitive>

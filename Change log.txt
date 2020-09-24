@@ -1,3 +1,25 @@
+20200924
+=========
+
+New parts:
+• 44861 (outlines need improvements), 46372, 49283, 52730, 52731, 999992 (BuWizz 2.0)
+
+New assemblies:
+• 464900 (9476, 9477, 46434, 46490)
+
+Updated parts:
+• 37383 - Updated collision data
+• 37452 - Updated outlines
+• 6594 - Updated 3D model
+• 22253 - Updated 3D model
+• 32180 - Updated 3D model
+• 32077 - Improved outlines
+• 45982 - Updated collision data
+
+Other notes:
+• Updated 2020NewPreColoredParts palette with 464900, 999992 (BuWizz 2.0)
+
+
 20200906
 =========
 

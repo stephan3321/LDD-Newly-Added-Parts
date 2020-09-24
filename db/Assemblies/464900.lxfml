@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="464900"/>
+		<Annotation designname="WHEEL HUB WITH PLANETARY GEAR REDUCTION"/>
+		<Annotation maingroupid="372"/>
+		<Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="46490" uuid="41bd2988-8ac6-4aa1-b219-085e0fe390b3">
+			<Part refID="0" designID="46490" materials="24">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="9476" uuid="1a6b35a0-42c8-4eff-ad1f-b129ff74044f">
+			<Part refID="1" designID="9476" materials="24">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,-1.2" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="46434" uuid="d7819c7d-e5ca-4536-8d99-13b774900cde">
+			<Part refID="2" designID="46434" materials="24">
+				<Bone refID="2" transformation="0,1,0,-1,0,0,0,0,1,0,0,-1.6" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="9477" uuid="98238fb3-a541-4fe6-b39e-7a11f8b9fa58">
+			<Part refID="3" designID="9477" materials="24">
+				<Bone refID="3" transformation="0,1,0,-1,0,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
