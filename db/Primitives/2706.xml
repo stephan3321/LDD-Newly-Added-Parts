@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author(s): Orion Pobursky [OrionP]
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2706" />
+    <Annotation designname="Technic Action Figure Foot" />
+    <Annotation maingroupid="341" />
+    <Annotation maingroupname="HANDS AND FEETS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.340442" sY="0.152651" sZ="0.731222" angle="0" ax="1" ay="0" az="0" tx="0.4035" ty="0.1585" tz="0.2037" />
+    <Box sX="0.387447" sY="0.152651" sZ="0.605876" angle="0" ax="1" ay="0" az="0" tx="0.4035" ty="0.1585" tz="0.2037" />
+    <Box sX="0.238599" sY="0.152651" sZ="0.782144" angle="0" ax="1" ay="0" az="0" tx="0.4035" ty="0.1585" tz="0.2233" />
+    <Box sX="0.111613" sY="0.171336" sZ="0.186267" angle="0" ax="1" ay="0" az="0" tx="0.4006" ty="0.4056" tz="-0.1742" />
+    <Box sX="0.111613" sY="0.030272" sZ="0.151001" angle="0" ax="1" ay="0" az="0" tx="0.4006" ty="0.6143" tz="-0.1639" />
+    <Box sX="0.173822" sY="0.030272" sZ="0.102222" angle="75" ax="-1" ay="0" az="0" tx="0.4006" ty="0.72" tz="-0.0138" />
+    <Box sX="0.173822" sY="0.030272" sZ="0.102222" angle="75" ax="-1" ay="0" az="0" tx="0.4006" ty="0.8128" tz="-0.3194" />
+    <Box sX="0.173822" sY="0.030272" sZ="0.102222" angle="125" ax="-1" ay="0" az="0" tx="0.4006" ty="0.8522" tz="-0.0374" />
+    <Box sX="0.173822" sY="0.030272" sZ="0.102222" angle="125" ax="-1" ay="0" az="0" tx="0.4006" ty="0.6693" tz="-0.2974" />
+    <Box sX="0.173822" sY="0.030272" sZ="0.102222" angle="169.425" ax="1" ay="0" az="0" tx="0.4006" ty="0.913" tz="-0.2022" />
+  </Collision>
+  <Connectivity>
+    <Ball type="3" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.74" tz="-0.18" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="0" minY="0" minZ="-0.5689" maxX="0.8" maxY="0.98" maxZ="1.0311" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0" minY="0" minZ="-0.5689" maxX="0.8" maxY="0.98" maxZ="1.0311" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -10,6 +10,382 @@
 			<Part designID="2890" materialID="2"/>
 			<Part designID="2911" materialID="20"/>
 		</Assembly>
+		<Assembly designID="32283c01" quantity="1" ItemNos="3228300">
+			<Part designID="32283" materialID="26">
+				<SubMaterial surfaceID="1" materialID="27"/>
+			</Part>
+			<Part designID="9063" materialID="1"/>
+		</Assembly>
+		<Assembly designID="9062" quantity="1" ItemNos="3228301">
+			<Part designID="9062" materialID="27">
+				<SubMaterial surfaceID="1" materialID="26"/>
+			</Part>
+			<Part designID="9063" materialID="1"/>
+		</Assembly>
+		<Assembly designID="9062" quantity="1" ItemNos="3228302">
+			<Part designID="9062" materialID="26">
+				<SubMaterial surfaceID="1" materialID="26"/>
+			</Part>
+			<Part designID="9063" materialID="1"/>
+		</Assembly>
+		<Assembly designID="37191c01" quantity="1" ItemNos="6224427">
+			<Part designID="37191" materialID="21"/>
+			<Part designID="3818" materialID="21"/>
+			<Part designID="3819" materialID="21"/>
+			<Part designID="3820" materialID="21"/>
+		</Assembly>
+		<Assembly designID="37191c01" quantity="1" ItemNos="6224429">
+			<Part designID="37191" materialID="23"/>
+			<Part designID="3818" materialID="23"/>
+			<Part designID="3819" materialID="23"/>
+			<Part designID="3820" materialID="23"/>
+		</Assembly>
+		<Assembly designID="37191c01" quantity="1" ItemNos="6306263">
+			<Part designID="37191" materialID="37"/>
+			<Part designID="3818" materialID="37"/>
+			<Part designID="3819" materialID="37"/>
+			<Part designID="3820" materialID="37"/>
+		</Assembly>
+		<Assembly designID="5292" quantity="1" ItemNos="4177239">
+			<Part designID="42908" materialID="26">
+				<SubMaterial surfaceID="1" materialID="21"/>
+				<SubMaterial surfaceID="2" materialID="309"/>
+			</Part>
+			<Part designID="9910" materialID="21"/>
+		</Assembly>
+		<Assembly designID="6272c01" quantity="1" ItemNos="6272000">
+			<Part designID="6272" materialID="26">
+				<SubMaterial surfaceID="1" materialID="21"/>
+				<SubMaterial surfaceID="2" materialID="21"/>
+				<SubMaterial surfaceID="3" materialID="309"/>
+			</Part>
+			<Part designID="9015" materialID="21"/>
+			<Part designID="9014" materialID="26"/>
+		</Assembly>
+		<Assembly designID="6282c01" quantity="1" ItemNos="6282000">
+			<Part designID="6282" materialID="26">
+				<SubMaterial surfaceID="1" materialID="27"/>
+				<SubMaterial surfaceID="2" materialID="27"/>
+			</Part>
+			<Part designID="43461" materialID="27"/>
+			<Part designID="43463" materialID="27"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698002">
+			<Part designID="2698" materialID="26"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+
+
+
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698003">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="21"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698004">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="1"/>
+
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698005">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698006">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="1"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698008">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698009">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698012">
+			<Part designID="2698" materialID="2"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="26"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="26"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698013">
+			<Part designID="2698" materialID="107"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="107"/>
+			<Part designID="2704" materialID="107"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="107"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698015">
+			<Part designID="2698" materialID="23"/>
+			<Part designID="2700" materialID="2"/>
+			<Part designID="2701" materialID="2"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698019">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="26"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="26"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698021">
+			<Part designID="2698" materialID="2"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698022">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="28"/>
+			<Part designID="2701" materialID="28"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="1"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698023">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="21"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698027">
+			<Part designID="2698" materialID="106"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="26"/>
+			<Part designID="2704" materialID="106"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="26"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698028">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="21"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698029">
+			<Part designID="2698" materialID="2"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="26"/>
+			<Part designID="2704" materialID="26"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="192"/>
+			<Part designID="2709" materialID="26"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698031">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698032">
+			<Part designID="2698" materialID="24"/>
+			<Part designID="2700" materialID="24"/>
+			<Part designID="2701" materialID="24"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="24"/>
+			<Part designID="2704" materialID="24"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="24"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698033">
+			<Part designID="2698" materialID="23"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698034">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="21"/>
+			<Part designID="2701" materialID="21"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="21"/>
+			<Part designID="2704" materialID="21"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="21"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698036">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="21"/>
+			<Part designID="2701" materialID="21"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="1"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698037">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="1"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698038">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698039">
+			<Part designID="2698" materialID="1"/>
+			<Part designID="2700" materialID="26"/>
+			<Part designID="2701" materialID="26"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="1"/>
+			<Part designID="2704" materialID="1"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="1"/>
+		</Assembly>
+		<Assembly designID="2698c01" quantity="1" ItemNos="2698040">
+			<Part designID="2698" materialID="21"/>
+			<Part designID="2700" materialID="23"/>
+			<Part designID="2701" materialID="23"/>
+			<Part designID="2702" materialID="24"/>
+			<Part designID="2703" materialID="23"/>
+			<Part designID="2704" materialID="23"/>
+			<Part designID="2706" materialID="26"/>
+			<Part designID="2707" materialID="24"/>
+			<Part designID="2708" materialID="26"/>
+			<Part designID="2709" materialID="23"/>
+		</Assembly>
 		<Assembly designID="464900" quantity="1" ItemNos="6275902">
 			<Part designID="9476" materialID="194"/>
 			<Part designID="9477" materialID="199"/>

@@ -1,3 +1,26 @@
+20201017
+=========
+
+New parts:
+• [outlines need improvements]: 1023, 1024, 1025, 1026, 2738, 2999, 30037, 32079, 32137, 66909
+
+New assemblies:
+• 2698c01 (2698, 2700, 2701, 2702, 2703, 2704, 2706, 2707, 2708, 2709)
+• 5292 (42908, 9910)
+• 6272c01 (9015, 6272, 9014)
+• 6282c01 (43461, 43463)
+• 9062 (9062, 9063)
+• 32283c01 (32283, 9063)
+• 37191c01 (37191, 3818, 3819, 3820)
+
+Updated parts:
+• 3958 - Updated collision data
+• 3033 - Updated collision data
+• 3020 - Updated collision data
+
+Other notes:
+• Updated 2020NewPreColoredParts palette with: 5292, 3x 37191, 2x 9062, 32283, 6282, 6272, 24x 2698
+
 20200924
 =========
 
