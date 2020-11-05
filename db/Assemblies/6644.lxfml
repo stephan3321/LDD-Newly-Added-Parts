@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Miguel Agullo [MiguelAgullo]
+Assembled for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Annotation aliases="6644"/>
+    <Annotation designname="Technic Flex-System Ball Connector"/>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="386"/>
+	<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+  </Meta>
+  <Bricks cameraRef="0">
+    <Brick refID="0" designID="6644">
+      <Part refID="0" designID="6644" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.8,0,0.44">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6645">
+      <Part refID="1" designID="6645" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.76,0.16,0.02">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>
