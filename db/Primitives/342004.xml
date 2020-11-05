@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Editted and Created for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="342004" />
+    <Annotation designname="Flex Cable 4L" />
+    <Annotation maingroupid="391" />
+    <Annotation maingroupname="TUBES" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Flex>
+    <Bone boneId="0" angle="0.0002" ax="1" ay="0" az="0" tx="-1.977" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.083469" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0.0651" ty="0" tz="0" />
+        <Box sX="0.145432" sY="0.041113" sZ="0.038876" angle="0" ax="1" ay="0" az="0" tx="0.2541" ty="0" tz="0" />
+        <Box sX="0.083469" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0.474" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999000" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="7" length="0.1" grabbing="0" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.05" ty="0" tz="0" />
+        <Axel type="6" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.1866,-0.00524999999999999,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.0234" minY="-0.0853" minZ="-0.08" maxX="0.3966" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="1" flexCheckConnection="0,0,0" angle="0.0002" ax="1" ay="0" az="0" tx="-1.5831" ty="0.3067" tz="0">
+      <Connectivity>
+        <Ball type="999001" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999002" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.2494,-0.00524999999999999,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.4173" minY="-0.0853" minZ="-0.08" maxX="0.9161" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="2" flexCheckConnection="0,1,1" angle="0.0002" ax="1" ay="0" az="0" tx="-1.1891" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.180559" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999003" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999000" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.0188" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.0654,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.3913" minY="-0.0852" minZ="-0.08" maxX="0.5221" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="3" flexCheckConnection="0,2,1" angle="0.0002" ax="1" ay="0" az="0" tx="-0.7952" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.180559" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999001" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999002" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.0951" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.12815,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.4052" minY="-0.0852" minZ="-0.08" maxX="0.6615" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="4" flexCheckConnection="0,3,1" angle="0.0002" ax="1" ay="0" az="0" tx="-0.4012" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.180559" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999003" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999000" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.2119" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.0523" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.2675,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.2658" minY="-0.0852" minZ="-0.08" maxX="0.8008" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="5" flexCheckConnection="0,4,1" angle="0.0002" ax="1" ay="0" az="0" tx="-0.0073" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.180559" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999001" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999002" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.0712" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.14025,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.1264" minY="-0.0852" minZ="-0.08" maxX="0.4069" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="6" flexCheckConnection="0,5,1" angle="0.0002" ax="1" ay="0" az="0" tx="0.3866" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.180559" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Ball type="999003" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Ball type="999000" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.28" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.1974" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.14635,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.5203" minY="-0.0852" minZ="-0.08" maxX="0.813" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="7" flexCheckConnection="0,6,1" angle="0.0002" ax="1" ay="0" az="0" tx="0.7806" ty="0.3067" tz="0">
+      <Connectivity>
+        <Ball type="999001" flexAttributes="-0.06,0.06,20,10,10" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+        <Fixed type="999002" angle="0" ax="1" ay="0" az="0" tx="0.3939" ty="0" tz="0" />
+        <Axel type="6" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.3267" ty="0" tz="0" />
+        <Axel type="7" length="0.1" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.297" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.019,-0.0052,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.381" minY="-0.0852" minZ="-0.08" maxX="0.419" maxY="0.0748" maxZ="0.08" />
+      </Bounding>
+    </Bone>
+    <Bone boneId="8" flexCheckConnection="0,7,1" angle="0.0002" ax="1" ay="0" az="0" tx="1.1745" ty="0.3067" tz="0">
+      <Collision>
+        <Box sX="0.083469" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="-0.0668" ty="0" tz="0" />
+        <Box sX="0.145432" sY="0.041113" sZ="0.038876" angle="0" ax="1" ay="0" az="0" tx="-0.27" ty="0" tz="0" />
+        <Box sX="0.083469" sY="0.060263" sZ="0.064874" angle="0" ax="1" ay="0" az="0" tx="-0.4789" ty="0" tz="0" />
+      </Collision>
+      <Connectivity>
+        <Fixed type="999003" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+      </Connectivity>
+      <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0,0" mass="0" frictionType="0" />
+      <Bounding>
+        <AABB minX="-0.0001" minY="-0.0001" minZ="-0.0001" maxX="0.0001" maxY="0.0001" maxZ="0.0001" />
+      </Bounding>
+    </Bone>
+  </Flex>
+  <Bounding>
+    <AABB minX="-0.9374" minY="0.2214" minZ="-0.08" maxX="2.2626" maxY="0.3815" maxZ="0.08" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9374" minY="0.2214" minZ="-0.08" maxX="2.2626" maxY="0.3815" maxZ="0.08" />
+  </GeometryBounding>
+</LEGOPrimitive>

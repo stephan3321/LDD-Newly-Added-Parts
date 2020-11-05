@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="664201" />
+    <Annotation designname="Technic, Flex Cable End Top, Pin Connection" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.048977" sY="0.195832" sZ="0.344741" angle="0" ax="1" ay="0" az="0" tx="-0.3042" ty="0.2005" tz="-0.7662" />
+    <Box sX="0.23667" sY="0.05517" sZ="0.297017" angle="180" ax="0" ay="1" az="0" tx="0.0002" ty="0.3412" tz="-0.8129" />
+    <Box sX="0.02296" sY="0.065808" sZ="0.2035" angle="0" ax="1" ay="0" az="0" tx="-0.1049" ty="0.2147" tz="-0.7311" />
+    <Box sX="0.02296" sY="0.065808" sZ="0.2035" angle="0" ax="1" ay="0" az="0" tx="0.1038" ty="0.2147" tz="-0.7311" />
+    <Box sX="0.022079" sY="0.02928" sZ="0.287343" angle="52.7236" ax="0" ay="0" az="1" tx="0.267" ty="0.3201" tz="-0.7487" />
+    <Box sX="0.040878" sY="0.05517" sZ="0.0547" angle="180" ax="0" ay="1" az="0" tx="0.1901" ty="0.3412" tz="-0.464" />
+    <Box sX="0.040878" sY="0.05517" sZ="0.0547" angle="180" ax="0" ay="1" az="0" tx="-0.1898" ty="0.3412" tz="-0.4601" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.3199" ty="0.2815" tz="-0.58" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.36" minY="0" minZ="-1.12" maxX="0.32" maxY="0.4" maxZ="-0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="0" minZ="-1.12" maxX="0.32" maxY="0.4" maxZ="-0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

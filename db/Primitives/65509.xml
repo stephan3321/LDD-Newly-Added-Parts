@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Original Author: Philippe Hurbain [Philo]
+Edited for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65509" />
+    <Annotation designname="Plate, Modified 2 x 4 with 2 Studs (Double Jumper)" />
+    <Annotation maingroupid="215" />
+    <Annotation maingroupname="PLATES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.55249309539795" sY="0.0171710997819901" sZ="0.740595936775208" angle="0" ax="1" ay="0" az="0" tx="1.2032" ty="0.0217" tz="-0.395" />
+    <Box sX="1.58440637588501" sY="0.136537820100784" sZ="0.785750508308411" angle="0" ax="1" ay="0" az="0" tx="1.2032" ty="0.1793" tz="-0.4009" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.32" tz="-0.8">
+      29:0,29:0,29:0,
+      29:0,3:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="1.6" ty="0.32" tz="-0.8">
+      29:0,29:0,29:0,
+      29:0,3:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="1.2,0.208084,-0.4" mass="0.917999982834" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3968" minY="0" minZ="-1.2009" maxX="2.8032" maxY="0.48" maxZ="0.3991" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3968" minY="0" minZ="-1.2009" maxX="2.8032" maxY="0.48" maxZ="0.3991" />
+  </GeometryBounding>
+</LEGOPrimitive>

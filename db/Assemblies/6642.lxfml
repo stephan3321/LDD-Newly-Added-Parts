@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Reinhard "Ben" Beneke [Ben_aus_BS]
+Assembled for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0" name="6642">
+  <Meta>
+    <Annotation aliases="6642"/>
+    <Annotation designname="Technic, Flex Cable End Double, Pin Connection"/>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="386"/>
+	<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>  </Meta>
+  <Bricks cameraRef="0">
+    <Brick refID="0" designID="6642">
+      <Part refID="0" designID="6642" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="664201">
+      <Part refID="1" designID="664201" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.40209996700286865,-0.0015000380808487535,0.40000006556510925">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="6644">
+      <Part refID="2" designID="6644" materials="21">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,1.3619999885559082,0.15999999642372131,0.39999991655349731">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

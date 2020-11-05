@@ -28,6 +28,13 @@ Editted for LDD by Kuramapika1
   </Collision>
   <Connectivity>
     <Ball type="3" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.74" tz="-0.18" />
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.56">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,22:2:1,
+      22:2:1,15:4:2,22:2:1,
+      22:2:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
   </Connectivity>
   <Bounding>
     <AABB minX="0" minY="0" minZ="-0.5689" maxX="0.8" maxY="0.98" maxZ="1.0311" />

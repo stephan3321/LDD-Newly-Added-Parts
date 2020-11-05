@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2420;63325" />
+    <Annotation designname="CORNER PLATE 1X2X2" />
+    <Annotation maingroupid="215" />
+    <Annotation maingroupname="PLATES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.79" sZ="0.05482" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="0.2625" tz="0.4" />
+    <Box sX="0.39" sY="0.79" sZ="0.05482" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.3986" ty="0.2549" tz="0.003" />
+    <Box sX="0.070121" sY="0.79" sZ="0.154761" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.3968" ty="0.1603" tz="-0.3268" />
+    <Box sX="0.070121" sY="0.44222" sZ="0.154761" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.0852" ty="0.1603" tz="0.3245" />
+    <Box sX="0.070121" sY="0.386239" sZ="0.154761" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.7968" ty="0.1603" tz="1.1266" />
+    <Box sX="0.070121" sY="0.79" sZ="0.154761" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.1255" ty="0.1603" tz="0.3931" />
+    <Box sX="0.070121" sY="0.372421" sZ="0.154761" angle="90" ax="1" ay="0" az="0" tx="0.4772" ty="0.1603" tz="0.7308" />
+    <Box sX="0.070121" sY="0.391217" sZ="0.154761" angle="90" ax="1" ay="0" az="0" tx="-0.3266" ty="0.1603" tz="-0.0006" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:3:1,23:4:1,18:2:1,
+      29:0:1,29:0:1,23:4:1,0:4:1,23:4:1,
+      29:0:1,29:0:1,18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:3:1,9:4:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,15:4:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.122382,0,0,0,0.223147,0,0,0,0.122382" centerOfMass="0.4,0.249,0.4" mass="0.523000001907" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

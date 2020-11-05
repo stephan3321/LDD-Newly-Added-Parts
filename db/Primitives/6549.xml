@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Donald Sutter [technog]
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6549" />
+    <Annotation designname="Stick Shift" />
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.210836" sY="0.080177" sZ="1.59" angle="90" ax="1" ay="0" az="0" tx="0.0004" ty="2.5688" tz="0.0014" />
+    <Box sX="0.210836" sY="0.080177" sZ="1.59" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.0002" ty="2.5688" tz="0.0012" />
+    <Box sX="0.163241" sY="0.163241" sZ="0.39" angle="98.4201" ax="0.8629" ay="-0.3574" az="0.3574" tx="0.0004" ty="1.7469" tz="0.0014" />
+    <Box sX="0.163241" sY="0.163241" sZ="0.39" angle="90" ax="1" ay="0" az="0" tx="0.0004" ty="1.7469" tz="0.0014" />
+    <Box sX="0.301359" sY="0.372682" sZ="0.255525" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.301359" sY="0.367065" sZ="0.272581" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.188607" sY="0.433356" sZ="0.272581" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.280214" sY="0.372682" sZ="0.241944" angle="23.9837" ax="0" ay="1" az="0" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.301359" sY="0.367065" sZ="0.272581" angle="107.2632" ax="0.4784" ay="-0.4784" az="-0.7364" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.188607" sY="0.433356" sZ="0.272581" angle="107.2632" ax="0.4784" ay="-0.4784" az="-0.7364" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.280214" sY="0.372682" sZ="0.241944" angle="23.9837" ax="0" ay="-1" az="0" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.301359" sY="0.367065" sZ="0.272581" angle="107.2632" ax="-0.4784" ay="0.4784" az="-0.7364" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.188607" sY="0.433356" sZ="0.272581" angle="107.2632" ax="-0.4784" ay="0.4784" az="-0.7364" tx="0" ty="1.01" tz="0" />
+    <Box sX="0.20529" sY="0.125501" sZ="0.091422" angle="0" ax="1" ay="0" az="0" tx="-0.008" ty="0.5065" tz="0" />
+    <Box sX="0.180359" sY="0.125501" sZ="0.091422" angle="90" ax="0" ay="-1" az="0" tx="0.001" ty="0.5065" tz="0" />
+    <Box sX="0.264164" sY="0.125501" sZ="0.064786" angle="0" ax="1" ay="0" az="0" tx="0.001" ty="0.1906" tz="0" />
+    <Box sX="0.378123" sY="0.028796" sZ="0.064786" angle="0" ax="1" ay="0" az="0" tx="0.001" ty="0.0646" tz="0" />
+    <Box sX="0.087986" sY="0.051306" sZ="0.161325" angle="73.5271" ax="0" ay="-1" az="0" tx="-0.1435" ty="0.0895" tz="-0.0552" />
+    <Box sX="0.076348" sY="0.051306" sZ="0.15962" angle="73.3434" ax="0" ay="-1" az="0" tx="0.1649" ty="0.0895" tz="0.0605" />
+    <Box sX="0.087986" sY="0.051306" sZ="0.161325" angle="71.7377" ax="0" ay="1" az="0" tx="-0.1782" ty="0.0895" tz="0.0454" />
+    <Box sX="0.076348" sY="0.051306" sZ="0.15962" angle="73.2451" ax="0" ay="1" az="0" tx="0.206" ty="0.0895" tz="-0.0589" />
+  </Collision>
+  <Connectivity>
+    <Ball type="5" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.98" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.5448" minY="0" minZ="-0.56" maxX="0.5448" maxY="4.16" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5448" minY="0" minZ="-0.56" maxX="0.5448" maxY="4.16" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

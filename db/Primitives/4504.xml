@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: James Jessiman
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4504" />
+    <Annotation designname="Hinge Plate 1 x 6 with 2 and 3 Fingers On Ends" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.270584" sY="0.15" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.8898" ty="0.16" tz="0" />
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="-0.65" ty="0.16" tz="-0.325" />
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="-0.65" ty="0.16" tz="0.325" />
+    <Box sX="0.853693" sY="0.077518" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.3363" ty="0.16" tz="0" />
+    <Box sX="1.0543" sY="0.077518" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.1357" ty="0.16" tz="0.325" />
+    <Box sX="1.0543" sY="0.077518" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.1357" ty="0.16" tz="-0.325" />
+    <Box sX="0.14" sY="0.15" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="-0.65" ty="0.16" tz="0" />
+    <Box sX="1.0543" sY="0.077518" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.1357" ty="0.16" tz="0" />
+    <Box sX="1.196648" sY="0.15" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="3.1949" ty="0.16" tz="0" />
+    <Box sX="0.14" sY="0.15" sZ="0.0775" angle="180" ax="0" ay="1" az="0" tx="4.6423" ty="0.16" tz="0.1625" />
+    <Box sX="0.14" sY="0.15" sZ="0.0775" angle="180" ax="0" ay="1" az="0" tx="4.6423" ty="0.16" tz="-0.1625" />
+    <Box sX="0.853693" sY="0.077518" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="3.656" ty="0.16" tz="0" />
+    <Box sX="1.0543" sY="0.077518" sZ="0.0775" angle="180" ax="0" ay="1" az="0" tx="3.8566" ty="0.16" tz="-0.1625" />
+    <Box sX="1.0543" sY="0.077518" sZ="0.0775" angle="180" ax="0" ay="1" az="0" tx="3.8566" ty="0.16" tz="0.1625" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="170" oriented="0" angle="180" ax="0" ay="0.7071" az="0.7071" tx="-0.8" ty="0.16" tz="0" />
+    <Hinge type="171" oriented="0" angle="90" ax="1" ay="0" az="0" tx="4.8" ty="0.16" tz="0" />
+    <Custom2DField type="23" width="12" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="12" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.030397,0,0,0,0.17661,0,0,0,0.155821" centerOfMass="0.188728,0.207323,0" mass="0.42199999094" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.96" minY="0" minZ="-0.4" maxX="4.96" maxY="0.498" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.96" minY="0" minZ="-0.4" maxX="4.96" maxY="0.498" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>
