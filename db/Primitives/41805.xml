@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41805" />
+    <Annotation designname="MINI VISOR, NO. 13" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.199779" sY="0.385505" sZ="0.0138" angle="14.1982" ax="-1" ay="0" az="0" tx="0" ty="0.171769" tz="0.702177"/>
+    <Box sX="0.039892" sY="0.094613" sZ="0.089266" angle="2.92661" ax="0.704539" ay="0.69075" az="-0.162756" tx="-0.64887" ty="0.013812" tz="-0.046925"/>
+    <Box sX="0.039892" sY="0.217215" sZ="0.154565" angle="10.69175" ax="0" ay="1" az="0" tx="-0.622163" ty="0.019044" tz="0.19233"/>
+    <Box sX="0.034471" sY="0.346524" sZ="0.243844" angle="43.04333" ax="-0.037301" ay="0.995476" az="-0.087384" tx="-0.447972" ty="0.034695" tz="0.535797"/>
+    <Box sX="0.039892" sY="0.094613" sZ="0.089266" angle="177.97856" ax="-0.004157" ay="0.999829" az="0.017994" tx="0.64887" ty="0.013812" tz="-0.046925"/>
+    <Box sX="0.039892" sY="0.217215" sZ="0.154565" angle="169.30825" ax="0" ay="1" az="0" tx="0.622163" ty="0.019044" tz="0.19233"/>
+    <Box sX="0.034471" sY="0.346524" sZ="0.243844" angle="137.16103" ax="-0.034436" ay="0.999299" az="-0.014699" tx="0.447972" ty="0.034695" tz="0.535797"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.15347825,0,0,0,0.24407352,0,0,0,0.23397794" centerOfMass="0,0.104818,0.330665" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.697753" minY="-0.358943" minZ="-0.164674" maxX="0.697753" maxY="0.568579" maxZ="0.826004"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.697753" minY="-0.358943" minZ="-0.164674" maxX="0.697753" maxY="0.568579" maxZ="0.826004"/>
+  </GeometryBounding>>
+</LEGOPrimitive>

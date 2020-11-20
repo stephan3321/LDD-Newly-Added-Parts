@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39796" />
+    <Annotation designname="MINI MASK, NO. 8" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.093165" sY="0.115468" sZ="0.011412" angle="134.98143" ax="0.953282" ay="0.144511" az="0.265273" tx="-0.102556" ty="0.311144" tz="0.628843"/>
+    <Box sX="0.190042" sY="0.039143" sZ="0.049453" angle="128.70009" ax="0" ay="-1" az="0" tx="-0.317358" ty="0.057036" tz="-0.254252"/>
+    <Box sX="0.255029" sY="0.039143" sZ="0.049453" angle="70.69552" ax="0" ay="-1" az="0" tx="-0.36473" ty="0.057036" tz="0.174998"/>
+    <Box sX="0.088063" sY="0.11966" sZ="0.014177" angle="117.39706" ax="0" ay="1" az="0" tx="-0.190497" ty="0.144623" tz="0.573321"/>
+    <Box sX="0.093165" sY="0.115468" sZ="0.011412" angle="164.65603" ax="0.247278" ay="0.386291" az="0.888613" tx="0.102556" ty="0.311144" tz="0.628843"/>
+    <Box sX="0.206558" sY="0.039143" sZ="0.049453" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.057036" tz="-0.391778"/>
+    <Box sX="0.190042" sY="0.039143" sZ="0.049453" angle="51.29991" ax="0" ay="-1" az="0" tx="0.317358" ty="0.057036" tz="-0.254252"/>
+    <Box sX="0.255029" sY="0.039143" sZ="0.049453" angle="109.30448" ax="0" ay="-1" az="0" tx="0.36473" ty="0.057036" tz="0.174998"/>
+    <Box sX="0.088063" sY="0.11966" sZ="0.014177" angle="62.60294" ax="0" ay="1" az="0" tx="0.190497" ty="0.144623" tz="0.573321"/>
+    <Box sX="0.181051" sY="0.106243" sZ="0.065132" angle="173.80201" ax="-0.70607" ay="0.70607" az="0.05414" tx="0" ty="0.018016" tz="0.772475"/>
+    <Box sX="0.16631" sY="0.106243" sZ="0.065132" angle="145.11643" ax="-0.671301" ay="0.671301" az="0.314182" tx="0" ty="-0.253166" tz="0.637135"/>
+    <Box sX="0.103388" sY="0.103388" sZ="0.06154" angle="45" ax="0" ay="0" az="1" tx="0" ty="-0.341149" tz="0.50833"/>
+    <Box sX="0.019259" sY="0.055453" sZ="0.140747" angle="147.09112" ax="-0.026241" ay="-0.990651" az="-0.133873" tx="-0.419805" ty="0.180451" tz="0.357417"/>
+    <Box sX="0.019259" sY="0.055453" sZ="0.140747" angle="36.36069" ax="0.411496" ay="-0.907835" az="0.08066" tx="0.419805" ty="0.180451" tz="0.357417"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.107618" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.26676902,0,0,0,0.26740949,0,0,0,0.1835531" centerOfMass="0,0.013328,0.215419" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.525633" minY="-0.510475" minZ="-0.509797" maxX="0.525633" maxY="0.53713" maxZ="0.940635"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.525633" minY="-0.510475" minZ="-0.509797" maxX="0.525633" maxY="0.53713" maxZ="0.940635"/>
+  </GeometryBounding>
+</LEGOPrimitive>

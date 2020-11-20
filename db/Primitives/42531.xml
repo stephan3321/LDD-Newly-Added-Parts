@@ -2,7 +2,7 @@
 <!--
 Derived from The LDraw Parts Library
 Orginal Author: Philippe Hurbain [Philo]
-Editted for LDD by Equilibrium
+Edited for LDD by Equilibrium
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -14,6 +14,7 @@ Editted for LDD by Equilibrium
     <Annotation platformname="TECHNIC"/>
     <Annotation version="1"/>
   </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
   <Collision>
 	  <Box sX="0.60743" sY="0.016254" sZ="0.370854" angle="178.547" ax="-0.0542833" ay="-0.957053" az="0.284784" tx="1.8" ty="0.186144" tz="0.427723"/>
 	  <Box sX="0.619281" sY="0.043732" sZ="0.179822" angle="180.0" ax="0.0" ay="-1.0" az="0.0" tx="2.4" ty="0.388946" tz="0.58589"/>

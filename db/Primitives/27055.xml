@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="27055" />
+    <Annotation designname="KEY RING AND CHAIN" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+    <Collision>
+    <Box sX="0.239411" sY="1.13055" sZ="0.090455" angle="0" ax="0" ay="1" az="0" tx="0" ty="-2.1318" tz="0"/>
+    <Box sX="0.041418" sY="0.723739" sZ="0.046181" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-4.22689" tz="0"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="90" ax="0" ay="0" az="1" tx="0" ty="-1.0952" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="45" ax="0" ay="0" az="1" tx="-0.774426" ty="-0.774426" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="0" ax="0" ay="1" az="0" tx="-1.0952" ty="0" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="45" ax="0" ay="0" az="-1" tx="-0.774426" ty="0.774426" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="90" ax="0" ay="0" az="-1" tx="0" ty="1.0952" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="135" ax="0" ay="0" az="-1" tx="0.774426" ty="0.774426" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="180" ax="0" ay="0" az="1" tx="1.0952" ty="0" tz="-0.028608"/>
+    <Box sX="0.113182" sY="0.517359" sZ="0.056328" angle="135" ax="0" ay="0" az="1" tx="0.774426" ty="-0.774426" tz="-0.028608"/>
+    <Box sX="0.041418" sY="0.144801" sZ="0.13376" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-3.69121" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="1.07713" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="-0.707107" ay="0" az="-0.707107" tx="0" ty="-3.8953" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.2645199,0,0,0,0.58076173,0,0,0,3.7504243" centerOfMass="0.044626,-1.86578,0" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-1.22029" minY="-4.97243" minZ="-0.377208" maxX="1.30954" maxY="1.24087" maxZ="0.377208"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.19046" minY="-4.97243" minZ="-0.377208" maxX="1.30954" maxY="1.24087" maxZ="0.377208"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92760" />
+    <Annotation designname="EETH KOTH WIG" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.565131" sY="0.201175" sZ="0.579558" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2243" tz="-0.1174" />
+    <Box sX="0.478546" sY="0.368704" sZ="0.156231" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3452" tz="-0.6836" />
+    <Box sX="0.219298" sY="0.563244" sZ="0.130664" angle="0" ax="1" ay="0" az="0" tx="0" ty="-1.3131" tz="-0.6515" />
+    <Box sX="0.141329" sY="0.624633" sZ="0.148322" angle="0" ax="1" ay="0" az="0" tx="-0.4717" ty="-1.3012" tz="0.5618" />
+    <Box sX="0.045259" sY="0.213396" sZ="0.330914" angle="90" ax="0" ay="1" az="0" tx="-0.0173" ty="-0.1134" tz="0.5659" />
+    <Box sX="0.045259" sY="0.458867" sZ="0.330914" angle="30" ax="0" ay="1" az="0" tx="-0.4988" ty="-0.4799" tz="0.268" />
+    <Box sX="0.045259" sY="0.352381" sZ="0.330914" angle="30" ax="0" ay="-1" az="0" tx="-0.4815" ty="-0.3734" tz="-0.34" />
+    <Box sX="0.141329" sY="0.624633" sZ="0.148322" angle="0" ax="1" ay="0" az="0" tx="0.472" ty="-1.3012" tz="0.5618" />
+    <Box sX="0.045259" sY="0.458867" sZ="0.330914" angle="150" ax="0" ay="1" az="0" tx="0.4988" ty="-0.4799" tz="0.268" />
+    <Box sX="0.045259" sY="0.352381" sZ="0.330914" angle="150" ax="0" ay="-1" az="0" tx="0.4815" ty="-0.3734" tz="-0.34" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.467631,0,0,0,0.299102,0,0,0,0.437276" centerOfMass="0.001238,-0.439506,-0.129565" mass="0.939999997616" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.733519" minY="-1.96037" minZ="-0.86721" maxX="0.733519" maxY="0.447688" maxZ="0.750449" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.733519" minY="-1.96037" minZ="-0.86721" maxX="0.733519" maxY="0.447688" maxZ="0.750449" />
+  </GeometryBounding>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
+</LEGOPrimitive>

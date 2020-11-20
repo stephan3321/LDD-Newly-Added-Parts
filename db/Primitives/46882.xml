@@ -14,6 +14,7 @@ Edited for LDD by Equilibrium
     <Annotation platformname="TECHNIC"/>
     <Annotation version="1"/>
   </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
   <Collision>
 	  <Box sX="2.9822" sY="0.0663499" sZ="0.225849" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="3.2" ty="-0.326019" tz="-0.564151"/>
 	  <Box sX="0.395113" sY="0.021" sZ="0.065" angle="180.0" ax="0.0" ay="-1.0" az="0.0" tx="0.0" ty="0.341" tz="-0.075"/>

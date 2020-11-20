@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24108" />
+    <Annotation designname="BLADE NO. 1" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="0.39" sZ="0.103137" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.4" tz="0"/>
+    <Box sX="0.762952" sY="0.163078" sZ="0.05785" angle="0" ax="0" ay="1" az="0" tx="0.000272" ty="1.43774" tz="0"/>
+    <Box sX="0.134876" sY="0.228663" sZ="0.054754" angle="45" ax="0" ay="0" az="1" tx="-0.507645" ty="1.19683" tz="-0.00383"/>
+    <Box sX="0.134876" sY="0.248259" sZ="0.054754" angle="45" ax="0" ay="0" az="-1" tx="0.518648" ty="1.2294" tz="0"/>
+    <Box sX="0.161691" sY="0.086047" sZ="0.140948" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.103953" tz="0"/>
+    <Box sX="0.32295" sY="1.75164" sZ="0.042865" angle="0" ax="0" ay="1" az="0" tx="0" ty="3.23871" tz="0"/>
+    <Box sX="0.337196" sY="0.328538" sZ="0.147906" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.13853" tz="0"/>
+    <Box sX="0.145678" sY="1.89651" sZ="0.042865" angle="0" ax="0" ay="1" az="0" tx="0" ty="3.38358" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.76" tz="-0.16">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.56" tz="0.16">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.62559,0,0,0,0.24442553,0,0,0,2.7938529" centerOfMass="0.002778,2.58613,0" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.784008" minY="-0.2" minZ="-0.338" maxX="0.789565" maxY="5.37226" maxZ="0.338"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.784008" minY="-0.2" minZ="-0.338" maxX="0.784014" maxY="5.37226" maxZ="0.338"/>
+  </GeometryBounding>
+</LEGOPrimitive>

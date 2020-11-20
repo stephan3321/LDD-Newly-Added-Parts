@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39294" />
+    <Annotation designname="LEG, FISHTAIL, FEMALE" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.384576" sY="0.343544" sZ="0.334054" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.353544" tz="0"/>
+    <Box sX="0.325665" sY="0.445813" sZ="0.253711" angle="15.87521" ax="-0.548098" ay="0.063734" az="-0.833983" tx="-0.128845" ty="1.07016" tz="-0.013092"/>
+    <Box sX="0.177507" sY="0.655184" sZ="0.163129" angle="53.85253" ax="-0.136264" ay="0.049407" az="-0.98944" tx="0.805752" ty="0.942037" tz="-0.198259"/>
+    <Box sX="0.177507" sY="0.309196" sZ="0.163129" angle="139.79981" ax="-0.064222" ay="-0.027583" az="-0.997554" tx="1.0082" ty="0.634609" tz="-0.189793"/>
+    <Box sX="0.132156" sY="0.355464" sZ="0.150328" angle="0" ax="0" ay="1" az="0" tx="0.301459" ty="1.82489" tz="-0.101456"/>
+    <Box sX="0.107676" sY="0.250461" sZ="0.283126" angle="0" ax="0" ay="1" az="0" tx="0.27698" ty="1.71988" tz="-0.101456"/>
+    <Box sX="0.132156" sY="0.355464" sZ="0.150328" angle="180" ax="0" ay="1" az="0" tx="-0.302444" ty="1.82489" tz="-0.101456"/>
+    <Box sX="0.107676" sY="0.250461" sZ="0.283126" angle="180" ax="0" ay="1" az="0" tx="-0.277965" ty="1.71988" tz="-0.101456"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="220" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="-0.000289" ty="1.86124" tz="-0.09"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.46266278,0,0,0,0.3931589,0,0,0,0.73936131" centerOfMass="0.446614,1.10132,-0.029984" mass="1" frictionType="0"/>
+  <Color faces="0,0"/>
+  <Decoration faces="VME_11201646_LEG_Paint_1"/>
+  <Bounding>
+    <AABB minX="-0.555776" minY="-0.000179" minZ="-0.447944" maxX="1.449" maxY="2.20282" maxZ="0.387976"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.542886" minY="-0.000179" minZ="-0.426474" maxX="1.35209" maxY="2.20282" maxZ="0.387976"/>
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>
