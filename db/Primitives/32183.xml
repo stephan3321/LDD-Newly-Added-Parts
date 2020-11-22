@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Marc Klein [marckl]
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32183" />
+    <Annotation designname="Shock Absorber 10L Damped, Piston Rod" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.196626" sY="0.02" sZ="0.31" angle="90" ax="0" ay="0" az="1" tx="-0.2748" ty="0.0193" tz="-0.0008" />
+    <Box sX="0.196626" sY="0.02" sZ="0.31" angle="90.0197" ax="0" ay="0" az="1" tx="0.2852" ty="0.0195" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.4803" ax="0" ay="0" az="-1" tx="-0.1213" ty="-0.3079" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.4803" ax="0" ay="0" az="-1" tx="0.3109" ty="-0.1287" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.5197" ax="0" ay="0" az="1" tx="0.1317" ty="0.3035" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="157.5197" ax="0" ay="0" az="1" tx="-0.3006" ty="0.1243" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="22.5197" ax="0" ay="0" az="1" tx="0.3108" ty="0.1245" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="67.4803" ax="0" ay="0" az="-1" tx="0.1319" ty="-0.3079" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="157.4803" ax="0" ay="0" az="-1" tx="-0.3005" ty="-0.1289" tz="-0.0008" />
+    <Box sX="0.010789" sY="0.114266" sZ="0.39" angle="112.5197" ax="0" ay="0" az="1" tx="-0.1215" ty="0.3035" tz="-0.0008" />
+    <Box sX="0.26" sY="0.16" sZ="0.16" angle="90.0197" ax="0" ay="0" az="1" tx="0.005" ty="0.5978" tz="-0.0008" />
+    <Box sX="1.66" sY="0.16" sZ="0.16" angle="120.0114" ax="0.5772" ay="0.5774" az="0.5774" tx="0.0043" ty="2.5478" tz="-0.0008" />
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="2.085" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.6" minY="-0.40001" minZ="-0.60000056" maxX="0.6" maxY="4.36" maxZ="0.5999995" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6" minY="-0.40001" minZ="-0.60000056" maxX="0.6" maxY="4.36" maxZ="0.5999995" />
+  </GeometryBounding>
+</LEGOPrimitive>

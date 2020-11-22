@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Guy Vivan [guyvivan]
+Assembled for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="392"/>
+	<Annotation maingroupname="ELECTRIC PARTS"/>
+	<Annotation designname="Electric RC Race Buggy Receiver Unit with Auxiliary Output (Complete)"/>
+	<Annotation aliases="6272c01"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="9015">
+      <Part refID="0" designID="9015" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,1.9600000381469727,-1.0200002193450928">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6272">
+      <Part refID="1" designID="6272" materials="21,0,0,0" decoration="0,0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0,-1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="9014">
+      <Part refID="2" designID="9014" materials="21">
+        <Bone refID="2" transformation="0,0,1,-1,0,0,0,-1,0,2.3999998569488525,1.9600001573562622,-6.0399994850158691">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="9014">
+      <Part refID="3" designID="9014" materials="21">
+        <Bone refID="3" transformation="0,0,1,1,0,0,0,1,0,-4.820000171661377,1.9600001573562622,-6.0399999618530273">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

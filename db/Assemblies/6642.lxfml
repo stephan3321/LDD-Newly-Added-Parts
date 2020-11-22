@@ -25,8 +25,8 @@ Assembled for LDD by Kuramapika1
         </Bone>
       </Part>
     </Brick>
-    <Brick refID="2" designID="6645">
-      <Part refID="2" designID="6645" materials="21">
+    <Brick refID="2" designID="664402">
+      <Part refID="2" designID="664402" materials="21">
         <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,1.3619999885559082,0.15999999642372131,0.39999991655349731">
         </Bone>
       </Part>

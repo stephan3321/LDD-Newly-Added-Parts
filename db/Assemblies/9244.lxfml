@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: James Jessiman
+Assembled for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="385"/>
+		<Annotation maingroupname="CONNECTORS"/>
+		<Annotation designname="UNIVERSAL JOINT 4L"/>
+		<PartMap part="3712" offset="1,0,1.2" relativeTo="3326" relativeToOffset="1,0,0"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3712">
+			<Part refID="0" designID="3712" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3326">
+			<Part refID="1" designID="3326" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,1.2"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="3712">
+			<Part refID="2" designID="3712" materials="21">
+				<Bone refID="2" transformation="0,-1,0,-1,0,0,0,0,-1,0,0,2.4"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

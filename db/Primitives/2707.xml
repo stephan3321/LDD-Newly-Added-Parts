@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author(s): Philippe Hurbain [Philo]
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2707" />
+    <Annotation designname="Technic Action Figure Head" />
+    <Annotation maingroupid="342" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.355459" sY="0.536539" sZ="0.527619" angle="0" ax="1" ay="0" az="0" tx="0" ty="7.7855" tz="-0.1598" />
+    <Box sX="0.211457" sY="0.24219" sZ="0.245251" angle="0" ax="1" ay="0" az="0" tx="0" ty="7.0386" tz="-0.1598" />
+    <Box sX="0.211457" sY="0.145176" sZ="0.29388" angle="0" ax="1" ay="0" az="0" tx="0" ty="6.7596" tz="-0.1598" />
+    <Box sX="0.044431" sY="0.082447" sZ="0.072749" angle="23.9421" ax="-1" ay="0" az="0" tx="0" ty="7.8263" tz="0.4729" />
+    <Box sX="0.056895" sY="0.536539" sZ="0.315462" angle="0" ax="1" ay="0" az="0" tx="0.4859" ty="7.7855" tz="-0.1598" />
+    <Box sX="0.056895" sY="0.536539" sZ="0.315462" angle="0" ax="1" ay="0" az="0" tx="-0.4778" ty="7.7855" tz="-0.1598" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="8.32" tz="-0.58">
+      29:0:0,29:0:0,29:0:0,
+      29:0:0,3:4:34,29:0:0,
+      29:0:0,29:0:0,29:0:0
+    </Custom2DField>
+    <Ball type="3" angle="0" ax="1" ay="0" az="0" tx="0" ty="6.66" tz="-0.18" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.72" minY="6.58" minZ="-0.8089" maxX="0.72" maxY="8.48" maxZ="0.5911" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.72" minY="6.58" minZ="-0.8089" maxX="0.72" maxY="8.48" maxZ="0.5911" />
+  </GeometryBounding>
+</LEGOPrimitive>

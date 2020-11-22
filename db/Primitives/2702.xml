@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author(s): Donald Sutter [technog]
+Editted for LDD by Kuramapika1
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2702" />
+    <Annotation designname="Technic Action Figure Hand" />
+    <Annotation maingroupid="341" />
+    <Annotation maingroupname="HANDS AND FEETS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.23978" sY="0.088821" sZ="0.070491" angle="0" ax="1" ay="0" az="0" tx="3.1604" ty="6.4747" tz="-0.1747" />
+    <Box sX="0.111682" sY="0.13834" sZ="0.077798" angle="0" ax="1" ay="0" az="0" tx="3.2773" ty="6.4747" tz="-0.1747" />
+    <Box sX="0.017648" sY="0.115682" sZ="0.189386" angle="52.1373" ax="0" ay="0" az="1" tx="3.5091" ty="6.2231" tz="-0.1747" />
+    <Box sX="0.035943" sY="0.115682" sZ="0.189386" angle="27.0192" ax="0" ay="0" az="1" tx="3.4203" ty="6.3242" tz="-0.1747" />
+    <Box sX="0.035943" sY="0.115682" sZ="0.189386" angle="40.1797" ax="0" ay="0" az="1" tx="3.9178" ty="6.6278" tz="-0.1747" />
+    <Box sX="0.035943" sY="0.115682" sZ="0.189386" angle="60.048" ax="0" ay="0" az="1" tx="3.7962" ty="6.7388" tz="-0.1747" />
+    <Box sX="0.035943" sY="0.115682" sZ="0.189386" angle="103.3231" ax="0" ay="0" az="1" tx="3.6426" ty="6.7682" tz="-0.1747" />
+    <Box sX="0.035943" sY="0.115682" sZ="0.189386" angle="130.2747" ax="0" ay="0" az="1" tx="3.4488" ty="6.6722" tz="-0.1747" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="15" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="3.1" ty="6.48" tz="-0.169" />
+    <Axel type="2" length="0.2" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="3.668" ty="6.48" tz="-0.06" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="2.908" minY="6.12" minZ="-0.3689" maxX="4.028" maxY="6.84" maxZ="0.0311" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="2.908" minY="6.12" minZ="-0.3689" maxX="4.028" maxY="6.84" maxZ="0.0311" />
+  </GeometryBounding>
+</LEGOPrimitive>

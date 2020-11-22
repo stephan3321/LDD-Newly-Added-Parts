@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="41894c01">
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Guy Vivan [guyvivan]
+Editted for LDD by Kuramapika1
+-->
+  <Meta>
+    <Annotation aliases="41894" />
+    <Annotation designname="Technic Steering Arm With 2 Ball Joints (Complete)" />
+    <Annotation maingroupid="387" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="10" />
+  </Meta>
+  <Bricks cameraRef="0">
+    <Brick refID="0" designID="41894">
+      <Part refID="0" designID="41894" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,2,0,2.8000001907348633">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41895">
+      <Part refID="1" designID="41895" materials="21">
+        <Bone refID="1" transformation="0.99999988079071045,0,0,0,-1,0,0,0,-1,2,2.7999999523162842,2.8000001907348633">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="32496">
+      <Part refID="2" designID="32496" materials="21">
+        <Bone refID="2" transformation="0,-0.99999988079071045,0,0,0,1,-0.99999994039535522,0,0,2.7899997234344482,1.3999999761581421,2.8000004291534424">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Assembled for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Annotation aliases="32181c01, 63144-f1"/>
+    <Annotation designname="Shock Absorber 10L Damped (Complete)"/>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="386"/>
+	<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+	<Annotation wire="32183"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="32183">
+      <Part refID="0" designID="32183" materials="21">
+        <Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,0.4,0.4,1.2" freeze="no"/>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="32181">
+      <Part refID="1" designID="32181" materials="21,0" decoration="0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.4,0.88,1.2" freeze="no"/>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

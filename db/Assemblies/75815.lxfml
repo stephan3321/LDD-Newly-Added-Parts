@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author(s): Magnus Forsberg [MagFors]
+Editted for LDD by Kuramapika1
+-->
+<LXFML versionMajor="5" versionMinor="0" name="75815">
+    <Meta>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="392"/>
+	<Annotation maingroupname="ELECTRIC PARTS"/>
+	<Annotation designname="Electric Technic Fiber Optics Element"/>
+  </Meta>
+  <Bricks cameraRef="0">
+    <Brick refID="0" designID="6637">
+      <Part refID="0" designID="6637" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1.0000001192092896,0,0,0,1,0,0,0.79999995231628418">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6639">
+      <Part refID="1" designID="6639" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0.0062001598998904228,0.79809993505477905">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

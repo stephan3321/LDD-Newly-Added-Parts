@@ -39,6 +39,8 @@ Editted for LDD by Kuramapika1
   </Collision>
   <Connectivity>
     <Ball type="5" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.98" tz="0" />
+    <Axel type="5" length="2.0" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="2.0" tz="0"/>
+    <Axel type="13" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="1.2" tz="0"/>
   </Connectivity>
   <Bounding>
     <AABB minX="-0.5448" minY="0" minZ="-0.56" maxX="0.5448" maxY="4.16" maxZ="0.56" />
