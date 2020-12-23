@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="654682;1006317" />
+    <Annotation designname="UTENSIL TROLLS TREBLE CLEF" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.219986" sY="0.081844" sZ="0.219986" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.09345" tz="0"/>
+    <Box sX="0.219986" sY="0.081844" sZ="0.219986" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.09345" tz="0"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.795943" angle="0" ax="0" ay="1" az="0" tx="0.032232" ty="0.310133" tz="-0.020041"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.249013" angle="26.63689" ax="0" ay="-1" az="0" tx="0.148356" ty="0.310133" tz="-1.05751"/>
+    <Box sX="0.138447" sY="0.081844" sZ="0.03265" angle="115.9107" ax="0" ay="-1" az="0" tx="0.010824" ty="0.310133" tz="-1.14796"/>
+    <Box sX="0.153355" sY="0.081844" sZ="0.03265" angle="115.9107" ax="0" ay="-1" az="0" tx="0.273235" ty="0.310133" tz="-0.937551"/>
+    <Box sX="0.157805" sY="0.081844" sZ="0.160595" angle="0" ax="0" ay="1" az="0" tx="0.314893" ty="0.310133" tz="0.069531"/>
+    <Box sX="0.157805" sY="0.081844" sZ="0.160595" angle="33.40943" ax="0" ay="1" az="0" tx="0.201282" ty="0.310133" tz="0.304922"/>
+    <Box sX="0.157805" sY="0.081844" sZ="0.160595" angle="32.89863" ax="0" ay="-1" az="0" tx="0.21644" ty="0.310133" tz="-0.108846"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.263951" angle="43.08233" ax="0" ay="-1" az="0" tx="-0.185986" ty="0.310133" tz="-0.51706"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.263951" angle="53.59841" ax="0" ay="1" az="0" tx="-0.218741" ty="0.310133" tz="0.291271"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.263951" angle="0.893998" ax="0" ay="-1" az="0" tx="-0.205159" ty="0.310133" tz="-0.07861"/>
+    <Box sX="0.111618" sY="0.081844" sZ="0.19568" angle="0.893998" ax="0" ay="-1" az="0" tx="-0.416336" ty="0.310133" tz="-0.081905"/>
+    <Box sX="0.159873" sY="0.081844" sZ="0.173299" angle="0" ax="0" ay="1" az="0" tx="-0.260592" ty="0.310133" tz="0.908569"/>
+    <Box sX="0.153909" sY="0.081844" sZ="0.166865" angle="44.22006" ax="0" ay="-1" az="0" tx="-0.253623" ty="0.310133" tz="0.901407"/>
+    <Box sX="0.051391" sY="0.081844" sZ="0.134391" angle="14.79366" ax="0" ay="-1" az="0" tx="0.060422" ty="0.310133" tz="0.844919"/>
+    <Box sX="0.051391" sY="0.081844" sZ="0.101558" angle="64.78263" ax="0" ay="-1" az="0" tx="-0.074439" ty="0.310133" tz="1.03507"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.53681256,0,0,0,0.62355204,0,0,0,0.11367039" centerOfMass="-0.039499,0.200988,-0.109748" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.587782" minY="0" minZ="-1.36276" maxX="0.508785" maxY="0.401977" maxZ="1.14327"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.587782" minY="0" minZ="-1.36276" maxX="0.508785" maxY="0.401977" maxZ="1.14327"/>
+  </GeometryBounding>
+</LEGOPrimitive>

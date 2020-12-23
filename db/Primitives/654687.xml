@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="654687;1006355" />
+    <Annotation designname="UTENSIL TROLLS HEART WITH PIN" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.040008" sY="0.16215" sZ="0.040008" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.17215" tz="0"/>
+    <Box sX="0.278448" sY="0.089383" sZ="0.21348" angle="0" ax="0" ay="1" az="0" tx="-0.001053" ty="0.312117" tz="-0.01752"/>
+    <Box sX="0.112469" sY="0.089383" sZ="0.286062" angle="0" ax="0" ay="1" az="0" tx="-0.008584" ty="0.312117" tz="0.042419"/>
+    <Box sX="0.36412" sY="0.089383" sZ="0.129743" angle="0" ax="0" ay="1" az="0" tx="-0.019119" ty="0.312117" tz="-0.118758"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.212095" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.066975289,0,0,0,0.11399743,0,0,0,0.075325912" centerOfMass="-0.008486,0.206048,0.002359" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.436881" minY="0" minZ="-0.395724" maxX="0.419909" maxY="0.412095" maxZ="0.400442"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.436881" minY="0" minZ="-0.395724" maxX="0.419909" maxY="0.412095" maxZ="0.400442"/>
+  </GeometryBounding>
+</LEGOPrimitive>

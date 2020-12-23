@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="654681;1006362" />
+    <Annotation designname="UTENSIL TROLLS MANDOLIN / LUTE" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.096301" sY="0.270789" sZ="0.096301" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.254669" tz="0"/>
+    <Box sX="0.179923" sY="0.196812" sZ="0.045539" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.706657" tz="0.061537"/>
+    <Box sX="0.179923" sY="0.196812" sZ="0.072319" angle="0" ax="0" ay="1" az="0" tx="-0.004487" ty="0.876709" tz="-0.07632"/>
+    <Box sX="0.021862" sY="0.065312" sZ="0.046967" angle="180" ax="0.92388" ay="-0.382683" az="0" tx="-0.335571" ty="-0.117994" tz="0"/>
+    <Box sX="0.268384" sY="0.062771" sZ="0.08821" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.112985" tz="0"/>
+    <Box sX="0.021862" sY="0.068821" sZ="0.046967" angle="135" ax="0" ay="0" az="-1" tx="0.32461" ty="-0.13477" tz="0"/>
+    <Box sX="0.195116" sY="0.415011" sZ="0.136152" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.227" tz="-0.031351"/>
+    <Box sX="0.265896" sY="0.415011" sZ="0.136152" angle="90" ax="0" ay="0" az="1" tx="0" ty="1.25612" tz="-0.031351"/>
+    <Box sX="0.239111" sY="0.138754" sZ="0.05311" angle="90" ax="0" ay="0" az="1" tx="0.403164" ty="1.2829" tz="-0.005302"/>
+    <Box sX="0.239111" sY="0.138754" sZ="0.05311" angle="90" ax="0" ay="0" az="1" tx="-0.380121" ty="1.2829" tz="-0.005302"/>
+    <Box sX="0.060987" sY="0.323156" sZ="0.072179" angle="90" ax="0" ay="0" az="1" tx="-0.016383" ty="1.603" tz="0.033775"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.46106" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.004295" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.35584509,0,0,0,0.15430257,0,0,0,0.47553232" centerOfMass="3.6E-05,0.702086,-0.067866" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.641045" minY="-0.30569" minZ="-0.295732" maxX="0.641116" maxY="1.70986" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.641045" minY="-0.30569" minZ="-0.295732" maxX="0.641116" maxY="1.70986" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

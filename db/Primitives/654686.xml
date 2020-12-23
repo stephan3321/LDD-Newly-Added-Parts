@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="654686;1006361" />
+    <Annotation designname="TROLLS GLASSES, ANGLED HEARTS WITH PIN" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.606411" sY="0.077773" sZ="0.158331" angle="0" ax="0" ay="1" az="0" tx="0.000133" ty="0.298337" tz="0.042051"/>
+    <Box sX="0.10403" sY="0.077773" sZ="0.298483" angle="0" ax="0" ay="1" az="0" tx="-0.203593" ty="0.298337" tz="0.008645"/>
+    <Box sX="0.10403" sY="0.077773" sZ="0.298483" angle="0" ax="0" ay="1" az="0" tx="0.203578" ty="0.298337" tz="0.008645"/>
+    <Box sX="0.038941" sY="0.056775" sZ="0.077328" angle="0" ax="0" ay="1" az="0" tx="-0.681319" ty="0.288889" tz="-0.019061"/>
+    <Box sX="0.015795" sY="0.044362" sZ="0.077328" angle="45" ax="0" ay="0" az="-1" tx="-0.667169" ty="0.327854" tz="-0.019061"/>
+    <Box sX="0.015795" sY="0.044362" sZ="0.077328" angle="180" ax="-0.382683" ay="0.92388" az="0" tx="0.667169" ty="0.327854" tz="-0.019061"/>
+    <Box sX="0.038941" sY="0.056775" sZ="0.077328" angle="180" ax="0" ay="1" az="0" tx="0.681319" ty="0.288889" tz="-0.019061"/>
+    <Box sX="0.202992" sY="0.077773" sZ="0.037702" angle="17.4363" ax="0" ay="-1" az="0" tx="-0.394778" ty="0.298337" tz="0.228655"/>
+    <Box sX="0.202992" sY="0.077773" sZ="0.037702" angle="17.436" ax="0" ay="1" az="0" tx="0.394763" ty="0.298337" tz="0.228658"/>
+    <Box sX="0.041022" sY="0.155886" sZ="0.041022" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.165886" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.198538" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.055304102,0,0,0,0.22944254,0,0,0,0.20085918" centerOfMass="0,0.200203,-0.000136" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.749998" minY="0" minZ="-0.354863" maxX="0.749998" maxY="0.400405" maxZ="0.354591"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.749998" minY="0" minZ="-0.354863" maxX="0.749998" maxY="0.400405" maxZ="0.354591"/>
+  </GeometryBounding>
+</LEGOPrimitive>

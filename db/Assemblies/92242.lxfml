@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="92242;38558"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINIDOLL TORSO MAN"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="92242">
+      <Part refID="0" designID="92242" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="92246">
+      <Part refID="1" designID="92246" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="0.999999940395355224609375,0,0,0,0,-1,0,1,0,0.5,0.678409993648529052734375,-0.0330380015075206756591796875">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="92247">
+      <Part refID="2" designID="92247" materials="21,0,0" decoration="0,0">
+        <Bone refID="2" transformation="0.999999940395355224609375,0,0,0,0,-1,0,1,0,-0.5,0.678409993648529052734375,-0.0330380015075206756591796875">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

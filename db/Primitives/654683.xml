@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="654683;1006319" />
+    <Annotation designname=" TROLLS EIGHTH NOTE (QUAVER)" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.154806" sY="0.05472" sZ="0.693139" angle="0" ax="0" ay="1" az="0" tx="0.229556" ty="0.312037" tz="-1.0977"/>
+    <Box sX="0.030721" sY="0.05472" sZ="0.070074" angle="41.10994" ax="0" ay="1" az="0" tx="0.872923" ty="0.312037" tz="-0.927476"/>
+    <Box sX="0.08397" sY="0.05472" sZ="0.15374" angle="34.49877" ax="0" ay="1" az="0" tx="0.68995" ty="0.312037" tz="-1.08583"/>
+    <Box sX="0.08397" sY="0.05472" sZ="0.135059" angle="22.69066" ax="0" ay="1" az="0" tx="0.537531" ty="0.312037" tz="-1.37585"/>
+    <Box sX="0.08397" sY="0.05472" sZ="0.148089" angle="38.82345" ax="0" ay="1" az="0" tx="0.394516" ty="0.312037" tz="-1.6211"/>
+    <Box sX="0.071055" sY="0.05472" sZ="0.163875" angle="54.11752" ax="0" ay="1" az="0" tx="0.588195" ty="0.312037" tz="-1.08473"/>
+    <Box sX="0.030721" sY="0.05472" sZ="0.102262" angle="75.01178" ax="0" ay="1" az="0" tx="0.818455" ty="0.312037" tz="-0.906384"/>
+    <Box sX="0.222001" sY="0.105587" sZ="0.22329" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.126477" tz="0"/>
+    <Box sX="0.271978" sY="0.063702" sZ="0.271978" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.309933" tz="0"/>
+    <Box sX="0.271978" sY="0.063702" sZ="0.271978" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.309933" tz="0"/>
+    <Box sX="0.154371" sY="0.05472" sZ="0.189187" angle="0" ax="0" ay="1" az="0" tx="0.229122" ty="0.312037" tz="-0.195374"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.42313195,0,0,0,0.5677901,0,0,0,0.16936231" centerOfMass="0.276101,0.1925,-0.699892" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.410216" minY="0" minZ="-1.81" maxX="0.962418" maxY="0.385" maxZ="0.410216"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.410216" minY="0" minZ="-1.81" maxX="0.962418" maxY="0.385" maxZ="0.410216"/>
+  </GeometryBounding>
+</LEGOPrimitive>

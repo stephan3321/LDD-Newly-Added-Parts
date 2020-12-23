@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92245" />
+    <Annotation designname="RIGHT ARM, FEMALE NO. 1" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.027897" sY="0.063833" sZ="0.133296" angle="180" ax="0" ay="1" az="0" tx="-0.797897" ty="-1.096" tz="-0.172276"/>
+    <Box sX="0.01894" sY="0.108088" sZ="0.135959" angle="180" ax="0.487963" ay="0.872865" az="0" tx="-0.697289" ty="-0.941817" tz="-0.174938"/>
+    <Box sX="0.077554" sY="0.369787" sZ="0.102139" angle="180" ax="0.258819" ay="0.965926" az="0" tx="-0.340824" ty="-0.633446" tz="-0.166009"/>
+    <Box sX="0.066142" sY="0.164627" sZ="0.10578" angle="171.0856" ax="0.142049" ay="0.975246" az="0.169464" tx="-0.139847" ty="-0.224796" tz="-0.108458"/>
+    <Box sX="0.049256" sY="0.130839" sZ="0.116235" angle="180" ax="0" ay="1" az="0" tx="-0.062629" ty="-0.001202" tz="-0.01045"/>
+    <Box sX="0.021167" sY="0.063833" sZ="0.132786" angle="17.09596" ax="0" ay="0" az="-1" tx="-0.407704" ty="-1.1182" tz="-0.172786"/>
+    <Box sX="0.025786" sY="0.084009" sZ="0.135959" angle="41.31755" ax="0" ay="0" az="1" tx="-0.442018" ty="-0.987444" tz="-0.174938"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="223" oriented="1" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="6" length="0.433122" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-0.6" ty="-1.12" tz="0.119103"/>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-1" ty="-0.72" tz="-0.03">
+      29:0,29:0,29:0,
+      29:0,0:4:40,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Slider type="42" length="0.44" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="-0.6" ty="-1.06" tz="-0.320897"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.20193879,0,0,0,0.097245711,0,0,0,0.25828763" centerOfMass="-0.366647,-0.566109,-0.076498" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.846639" minY="-1.30399" minZ="-0.324178" maxX="0.113344" maxY="0.171774" maxZ="0.171182"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.846639" minY="-1.30399" minZ="-0.324178" maxX="0.113344" maxY="0.171774" maxZ="0.171182"/>
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

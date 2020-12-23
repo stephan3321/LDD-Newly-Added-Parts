@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="23065;22119;41250;51930"/>
+    <Annotation maingroupid="101"/>
+    <Annotation maingroupname="VARIOUS PARTS"/>
+    <Annotation platformid="100"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation designname="BALL Ø 52 MM, CHARCOAL GREY [DUPLO BALL FOR BALL TUBE]"/>
+    <Annotation aliases="23065;71368;22119;41250;40000;51930"/>
+  </Annotations>
+  <Collision>
+    <Sphere radius="2.59" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="63.54399,0,0,0,63.54398,0,0,0,63.54399" centerOfMass="0,0,0" mass="14.1000003815" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.6" minY="-2.6" minZ="-2.6" maxX="2.6" maxY="2.6" maxZ="2.6"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.6" minY="-2.6" minZ="-2.6" maxX="2.6" maxY="2.6" maxZ="2.6"/>
+  </GeometryBounding>
+</LEGOPrimitive>

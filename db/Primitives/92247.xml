@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92247" />
+    <Annotation designname="RIGHT ARM, MALE NO. 1" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.028964" sY="0.14684" sZ="0.14684" angle="0" ax="1" ay="0" az="0" tx="-0.0446" ty="0" tz="0" />
+    <Box sX="0.0901" sY="0.311501" sZ="0.126347" angle="40.0608" ax="0.9118" ay="0.1622" az="-0.3773" tx="-0.1737" ty="-0.2059" tz="-0.1401" />
+    <Box sX="0.076178" sY="0.209385" sZ="0.10091" angle="20.5335" ax="-0.0686" ay="0.3811" az="-0.922" tx="-0.3693" ty="-0.7344" tz="-0.3191" />
+    <Box sX="0.062332" sY="0.090737" sZ="0.090737" angle="0" ax="1" ay="0" az="0" tx="0.0688" ty="0" tz="0" />
+    <Box sX="0.117213" sY="0.053287" sZ="0.053287" angle="45" ax="1" ay="0" az="0" tx="0.2693" ty="0" tz="0" />
+    <Box sX="0.029543" sY="0.073795" sZ="0.144687" angle="14.76" ax="0" ay="0" az="1" tx="-0.3503" ty="-1.1193" tz="-0.2808" />
+    <Box sX="0.024922" sY="0.064935" sZ="0.144687" angle="22.2329" ax="0" ay="0" az="-1" tx="-0.7242" ty="-1.1179" tz="-0.2808" />
+    <Box sX="0.019942" sY="0.135029" sZ="0.150705" angle="90.6029" ax="0" ay="0" az="-1" tx="-0.5467" ty="-1.0118" tz="-0.2808" />
+    <Box sX="0.023251" sY="0.064935" sZ="0.144687" angle="6.4951" ax="0" ay="0" az="1" tx="-0.7433" ty="-1.2447" tz="-0.2808" />
+    <Box sX="0.022723" sY="0.073795" sZ="0.144687" angle="14.04" ax="0" ay="0" az="-1" tx="-0.3427" ty="-1.2636" tz="-0.2808" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="223" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.439519" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="-0.5427" ty="-1.2052" tz="0.0067" />
+    <Custom2DField type="23" width="2" height="2" angle="90.0081" ax="0.9999" ay="-0.0119" az="0.0119" tx="-0.9426" ty="-0.8052" tz="-0.1454">
+      29:0,29:0,29:0,
+      29:0,0:4:40,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Slider type="42" length="0.44" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="-0.6" ty="-1.06" tz="-0.3209" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.028322614,0,0,0,0.0084531794,0,0,0,0.030879779" centerOfMass="-0.318005,-0.575465,-0.207552" mass="0.19" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.799986" minY="-1.40485" minZ="-0.509609" maxX="0.396531" maxY="0.245744" maxZ="0.245204" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.799986" minY="-1.40485" minZ="-0.509609" maxX="0.396531" maxY="0.245744" maxZ="0.245204" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

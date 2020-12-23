@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="20193" />
+    <Annotation designname="INSERT 4X6 W/MIRROR NO.1" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.39001" sY="2.58797" sZ="0.045" angle="0" ax="0" ay="1" az="0" tx="1.19981" ty="2.94787" tz="0.265"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="2.2508226,0,0,0,0.65668038,0,0,0,2.9054863" centerOfMass="1.20231,2.94787,0.265" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.200197" minY="0.349903" minZ="0.21" maxX="2.60481" maxY="5.54584" maxZ="0.32"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.200197" minY="0.349903" minZ="0.21" maxX="2.60481" maxY="5.54584" maxZ="0.32"/>
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

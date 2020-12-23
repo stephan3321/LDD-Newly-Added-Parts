@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="92241;92456"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINIDOLL TORSO GIRL"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92241">
+			<Part refID="0" designID="92241" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0">
+				</Bone>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92244">
+			<Part refID="1" designID="92244" materials="21,0,0" decoration="0,0">
+				<Bone refID="1" transformation="0.999999940395355224609375,0,0,0,0,-1,0,1,0,0.4449119865894317626953125,0.67733299732208251953125,-0.0346649996936321258544921875">
+				</Bone>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="92245">
+			<Part refID="2" designID="92245" materials="21,0,0" decoration="0,0">
+				<Bone refID="2" transformation="0.999999940395355224609375,0,0,0,0,-1,0,1,0,-0.4449119865894317626953125,0.67733299732208251953125,-0.0346649996936321258544921875">
+				</Bone>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

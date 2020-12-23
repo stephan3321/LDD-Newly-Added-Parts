@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="88616;57901" />
+    <Annotation designname="KIT FISTO" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.592906" sZ="0.154769" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6022" tz="0.4223" />
+    <Box sX="0.264501" sY="0.388336" sZ="0.154769" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6022" tz="0.6425" />
+    <Box sX="0.53475" sY="0.48667" sZ="0.227874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.496" tz="-0.4954" />
+    <Box sX="0.299027" sY="0.298574" sZ="0.283848" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8966" tz="-0.0147" />
+    <Box sX="0.53475" sY="0.821535" sZ="0.116871" angle="4.5004" ax="1" ay="0" az="0" tx="0" ty="-0.6456" tz="-0.6944" />
+    <Box sX="0.362975" sY="0.580107" sZ="0.116871" angle="4.5004" ax="1" ay="0" az="0" tx="0" ty="-0.019" tz="-0.8363" />
+    <Box sX="0.079275" sY="0.791871" sZ="0.078866" angle="4.1487" ax="0" ay="0" az="1" tx="0.4431" ty="-0.8108" tz="-0.5931" />
+    <Box sX="0.079275" sY="0.791871" sZ="0.078866" angle="2.9921" ax="0" ay="0" az="1" tx="0.4052" ty="-0.681" tz="0.5301" />
+    <Box sX="0.156407" sY="0.48667" sZ="0.389183" angle="0" ax="1" ay="0" az="0" tx="0.4239" ty="0.496" tz="-0.1024" />
+    <Box sX="0.079275" sY="0.791871" sZ="0.078866" angle="180" ax="0.0362" ay="0.9993" az="0" tx="-0.4431" ty="-0.8108" tz="-0.5931" />
+    <Box sX="0.079275" sY="0.791871" sZ="0.078866" angle="180" ax="0.0261" ay="0.9997" az="0" tx="-0.4052" ty="-0.681" tz="0.5301" />
+    <Box sX="0.156407" sY="0.48667" sZ="0.389183" angle="180" ax="0" ay="1" az="0" tx="-0.4239" ty="0.496" tz="-0.1024" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.685537" minY="-1.644711" minZ="-1.029732" maxX="0.685537" maxY="1.289818" maxZ="0.880311" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.685537" minY="-1.644711" minZ="-1.029732" maxX="0.685537" maxY="1.289818" maxZ="0.880311" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -106,9 +106,6 @@
 			<Part designID="2708" materialID="26"/>
 			<Part designID="2709" materialID="23"/>
 		</Assembly>
-
-
-
 		<Assembly designID="2698c01" quantity="1" ItemNos="2698003">
 			<Part designID="2698" materialID="1"/>
 			<Part designID="2700" materialID="23"/>
@@ -804,6 +801,9 @@
 		<Brick designID="24314" materialID="40" quantity="1" ItemNos="6154086">
 			<SubMaterial surfaceID="1" materialID="26"/>
 		</Brick>
+		<Brick designID="24314" materialID="311" quantity="1" ItemNos="6334175">
+			<SubMaterial surfaceID="1" materialID="37"/>
+		</Brick>
 		<Brick designID="24601" materialID="312" quantity="1" ItemNos="6136462">
 			<SubMaterial surfaceID="2" materialID="199"/>
 			<SubMaterial surfaceID="3" materialID="315"/>
@@ -846,6 +846,18 @@
 			<SubMaterial surfaceID="8" materialID="26"/>
 			<SubMaterial surfaceID="9" materialID="40"/>
 			<SubMaterial surfaceID="10" materialID="309"/>
+		</Brick>
+		<Brick designID="999993" materialID="199" quantity="1" ItemNos="9999930">
+			<SubMaterial surfaceID="1" materialID="199"/>
+			<SubMaterial surfaceID="2" materialID="40"/>
+			<SubMaterial surfaceID="3" materialID="26"/>
+			<SubMaterial surfaceID="4" materialID="26"/>
+			<SubMaterial surfaceID="5" materialID="26"/>
+			<SubMaterial surfaceID="6" materialID="309"/>
+			<SubMaterial surfaceID="7" materialID="40"/>
+			<SubMaterial surfaceID="8" materialID="149"/>
+			<SubMaterial surfaceID="9" materialID="310"/>
+			<SubMaterial surfaceID="10" materialID="310"/>
 		</Brick>
 		<Brick designID="92760" materialID="26" quantity="1" ItemNos="4651406">
 			<SubMaterial surfaceID="1" materialID="192"/>
@@ -909,6 +921,9 @@
 		</Brick>
 		<Brick designID="30320" materialID="2" quantity="1" ItemNos="303202">
 			<Decoration surfaceID="1" decorationID="301178"/>
+		</Brick>
+		<Brick designID="20193" materialID="1" quantity="1" ItemNos="6103793">
+			<SubMaterial surfaceID="1" materialID="309"/>
 		</Brick>
 	</Bag>
 </PAXML>
