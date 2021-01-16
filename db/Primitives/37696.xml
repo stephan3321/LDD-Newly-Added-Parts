@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37696" />
+    <Annotation designname="MINI BEARD, NO. 3 / Minifigure, Beard, Long Tied" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.081572" sY="0.553122" sZ="0.378332" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.077558" tz="0.614685"/>
+    <Box sX="0.069819" sY="0.553122" sZ="0.226725" angle="90.36305" ax="0.07935" ay="0.993684" az="0.07935" tx="0.012911" ty="-0.620603" tz="0.583526"/>
+    <Box sX="0.048203" sY="0.077889" sZ="0.154683" angle="90" ax="0" ay="-1" az="0" tx="-0.01809" ty="0.087971" tz="-0.396494"/>
+    <Box sX="0.048203" sY="0.077889" sZ="0.168871" angle="50" ax="0" ay="-1" az="0" tx="-0.281113" ty="0.087971" tz="-0.281704"/>
+    <Box sX="0.048203" sY="0.077889" sZ="0.168871" angle="125" ax="0" ay="-1" az="0" tx="0.255491" ty="0.087971" tz="-0.305133"/>
+    <Box sX="0.05407" sY="0.077889" sZ="0.373497" angle="175" ax="0" ay="1" az="0" tx="0.382226" ty="0.087971" tz="0.163314"/>
+    <Box sX="0.053379" sY="0.077889" sZ="0.374864" angle="5" ax="0" ay="1" az="0" tx="-0.382796" ty="0.087971" tz="0.164736"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.37099017,0,0,0,0.22154637,0,0,0,0.33029944" centerOfMass="-0.001743,-0.366379,0.139991" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.522592" minY="-1.21468" minZ="-0.487189" maxX="0.519106" maxY="0.481922" maxZ="0.767172"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.522592" minY="-1.21468" minZ="-0.487189" maxX="0.519106" maxY="0.481922" maxZ="0.767172"/>
+  </GeometryBounding>
+</LEGOPrimitive>

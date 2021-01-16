@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53054;55641" />
+    <Annotation designname="MINI HEAD, NO. 2897, PART, NO. 1 / Minifigure, Head Modified Dog (Goofy)" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.349017" sY="0.288332" sZ="0.411278" angle="14.2476" ax="-1" ay="0" az="0" tx="0" ty="1.0865" tz="-0.1053" />
+    <Box sX="0.180297" sY="0.512303" sZ="0.07876" angle="17.3459" ax="0.3426" ay="0.7207" az="0.6026" tx="0.4039" ty="0.5896" tz="-0.2703" />
+    <Box sX="0.271836" sY="0.47005" sZ="0.307112" angle="33.5278" ax="-1" ay="0" az="0" tx="0" ty="1.7178" tz="-0.5036" />
+    <Box sX="0.424974" sY="0.371049" sZ="0.543454" angle="10.25" ax="-1" ay="0" az="0" tx="0" ty="0.553" tz="0.8291" />
+    <Box sX="0.136235" sY="0.13278" sZ="0.134866" angle="65.1799" ax="-1" ay="0" az="0" tx="0" ty="1.0851" tz="1.3622" />
+    <Box sX="0.180297" sY="0.512303" sZ="0.07876" angle="167.5217" ax="0.0914" ay="0.9945" az="0.052" tx="-0.4039" ty="0.5896" tz="-0.2703" />
+    <Box sX="0.271836" sY="0.124861" sZ="0.468186" angle="33.5278" ax="-1" ay="0" az="0" tx="0" ty="2.0148" tz="-0.6803" />
+    <Box sX="0.103632" sY="0.125239" sZ="0.055625" angle="16.8942" ax="0.1827" ay="-0.9812" az="0.0613" tx="-0.3307" ty="0.1888" tz="1.1475" />
+    <Box sX="0.103632" sY="0.125239" sZ="0.055625" angle="163.425" ax="-0.0091" ay="-0.9996" az="-0.0271" tx="0.3307" ty="0.1888" tz="1.1475" />
+    <Box sX="0.039676" sY="0.464496" sZ="0.228287" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.4785" tz="0.2997" />
+    <Box sX="0.039676" sY="0.464496" sZ="0.228287" angle="180" ax="0" ay="1" az="0" tx="-0.2997" ty="0.4785" tz="0" />
+    <Box sX="0.039676" sY="0.464496" sZ="0.228287" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.4785" tz="-0.2997" />
+    <Box sX="0.039676" sY="0.464496" sZ="0.228287" angle="0" ax="1" ay="0" az="0" tx="0.2997" ty="0.4785" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.0724246,0,0,0,0.75849372,0,0,0,0.62816015" centerOfMass="0,1.18875,0.203587" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.686541" minY="0" minZ="-1.13959" maxX="0.686548" maxY="2.37751" maxZ="1.54677" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.686541" minY="0" minZ="-1.11577" maxX="0.686548" maxY="2.34835" maxZ="1.54677" />
+  </GeometryBounding>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,0" />
+</LEGOPrimitive>

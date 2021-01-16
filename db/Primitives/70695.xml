@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70695"/>
+    <Annotation designname="TYRE TRACTOR Ø56x26"/>
+    <Annotation maingroupid="266"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+	<Collision>
+		<Box sX="1.00613" sY="0.932524" sZ="0.391309" angle="180.0" ax="0.0" ay="-0.707107" az="0.707107" tx="4.81249e-006" ty="2.04312" tz="-0.4"/>
+		<Box sX="1.00613" sY="0.932524" sZ="0.391309" angle="180.0" ax="0.0" ay="-0.707107" az="0.707107" tx="4.81249e-006" ty="-2.0431" tz="-0.4"/>
+		<Box sX="1.00613" sY="0.932524" sZ="0.391309" angle="240.0" ax="0.57735" ay="-0.57735" az="0.57735" tx="2.04311" ty="1.1419e-005" tz="-0.4"/>
+		<Box sX="1.00613" sY="0.932524" sZ="0.391309" angle="240.0" ax="0.57735" ay="-0.57735" az="0.57735" tx="-2.0431" ty="1.1419e-005" tz="-0.4"/>
+		<Box sX="1.00612" sY="0.932524" sZ="0.391309" angle="211.4" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.44323" ty="1.44113" tz="-0.4"/>
+		<Box sX="1.00612" sY="0.932524" sZ="0.391309" angle="148.6" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-1.44361" ty="1.44564" tz="-0.4"/>
+		<Box sX="1.00612" sY="0.932524" sZ="0.391311" angle="148.6" ax="-0.281085" ay="0.678598" az="-0.678598" tx="1.44164" ty="-1.44656" tz="-0.4"/>
+		<Box sX="1.00612" sY="0.932524" sZ="0.391309" angle="211.4" ax="0.281085" ay="0.678598" az="-0.678598" tx="-1.44316" ty="-1.44471" tz="-0.4"/>
+	</Collision>
+  <Connectivity>
+    <Fixed type="16" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+    <Fixed type="16" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.3144,0,0,0,2.31649,0,0,0,3.96422" centerOfMass="-1.19209e-007,0,-0.4" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.79934" minY="-2.79934" minZ="-1.69998" maxX="2.79934" maxY="2.79934" maxZ="0.899982"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.79934" minY="-2.79934" minZ="-1.69998" maxX="2.79934" maxY="2.79934" maxZ="0.899982"/>
+  </GeometryBounding>
+</LEGOPrimitive>

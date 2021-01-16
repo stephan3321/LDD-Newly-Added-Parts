@@ -1,14 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="40811" />
-    <Annotation designname=" Modified 1 x 1 with Clip Light" />
+    <Annotation designname="Plate, Modified 1 x 1 with Light Attachment - Thin Ring" />
     <Annotation maingroupid="216" />
     <Annotation maingroupname="PLATES, SPECIAL" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.070938" sY="0.04" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.1596" tz="0.4505" />
+    <Box sX="0.39" sY="0.39" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.1596" tz="0" />
+    <Box sX="0.079154" sY="0.055073" sZ="0.107709" angle="135" ax="1" ay="0" az="0" tx="0" ty="0.0894" tz="0.9598" />
+    <Box sX="0.078067" sY="0.055073" sZ="0.107709" angle="45" ax="1" ay="0" az="0" tx="0" ty="0.4077" tz="0.9585" />
+    <Box sX="0.077144" sY="0.055073" sZ="0.107709" angle="45" ax="-1" ay="0" az="0" tx="0" ty="0.4065" tz="0.6402" />
+    <Box sX="0.078654" sY="0.055073" sZ="0.107709" angle="135" ax="-1" ay="0" az="0" tx="0" ty="0.0882" tz="0.6415" />
+    <Box sX="0.078067" sY="0.055073" sZ="0.107709" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.2489" tz="1.0251" />
+    <Box sX="0.071342" sY="0.055073" sZ="0.107709" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.473" tz="0.7991" />
+    <Box sX="0.077675" sY="0.055073" sZ="0.107709" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.0229" tz="0.8009" />
+    <Box sX="0.077144" sY="0.055073" sZ="0.107709" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.2471" tz="0.5749" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
       18:1:1,23:4:1,18:1:1,
@@ -30,7 +45,7 @@
       29:0,3:4:36,29:0,
       29:0,29:0,29:0
     </Custom2DField>
-    <Axel type="6" length="0.48" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0.2437" tz="0.8" />
+    <Axel type="6" length="0.48" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0.2413" tz="0.8" />
   </Connectivity>
   <Bounding>
     <AABB minX="-0.4" minY="-0.08" minZ="-0.4" maxX="0.4" maxY="0.56" maxZ="1.12" />

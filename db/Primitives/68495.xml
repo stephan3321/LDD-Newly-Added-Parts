@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Gerald Lasser [GeraldLasser]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="68495" />
+    <Annotation designname="Minifigure, Utensil Stein / Cup" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.260024" sY="0.13288" sZ="0.161565" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.139" tz="0" />
+    <Box sX="0.260024" sY="0.13288" sZ="0.161565" angle="85" ax="0" ay="1" az="0" tx="0" ty="0.139" tz="0" />
+    <Box sX="0.161802" sY="0.152202" sZ="0.161565" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.4084" tz="0" />
+    <Box sX="0.180142" sY="0.206148" sZ="0.287013" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.7585" tz="0" />
+    <Box sX="0.180142" sY="0.206148" sZ="0.287013" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.7585" tz="0" />
+    <Box sX="0.180142" sY="0.206148" sZ="0.287013" angle="135" ax="0" ay="1" az="0" tx="0" ty="0.7585" tz="0" />
+    <Box sX="0.180142" sY="0.206148" sZ="0.287013" angle="135" ax="0" ay="-1" az="0" tx="0" ty="0.7585" tz="0" />
+    <Box sX="0.124295" sY="0.237948" sZ="0.07866" angle="90" ax="0" ay="1" az="0" tx="0.6385" ty="0.8736" tz="0" />
+    <Box sX="0.124295" sY="0.228162" sZ="0.07866" angle="0" ax="1" ay="0" az="0" tx="0.6385" ty="0.8819" tz="0" />
+    <Box sX="0.087705" sY="0.271" sZ="0.058147" angle="90" ax="0" ay="1" az="0" tx="0.4498" ty="0.8409" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,19:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.56" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.634" ty="0.5573" tz="0.003" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4061" minY="0" minZ="-0.3966" maxX="0.7939" maxY="1.12" maxZ="0.4034" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4061" minY="0" minZ="-0.3966" maxX="0.7939" maxY="1.12" maxZ="0.4034" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

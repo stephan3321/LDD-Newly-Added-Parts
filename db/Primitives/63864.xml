@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Added decoration surface by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="63864" />
+    <Annotation designname="FLAT TILE 1X3" />
+    <Annotation maingroupid="215" />
+    <Annotation maingroupname="PLATES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19" sY="0.1125" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1975" tz="0" />
+    <Box sX="1.14" sY="0.0275" sZ="0.34" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.0375" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,9:4:2,15:4:2,9:4:2,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.02882,0,0,0,0.229064,0,0,0,0.206626" centerOfMass="0.8,0.192697,0" mass="0.40000000596" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2" maxY="0.32" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2" maxY="0.32" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Magnus Forsberg [MagFors]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36752" />
+    <Annotation designname="Minifigure, Utensil Wand" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.148859" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1599" tz="0" />
+    <Box sX="0.078889" sY="0.113196" sZ="0.121817" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5193" tz="0" />
+    <Box sX="0.078889" sY="0.113196" sZ="0.121817" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.5193" tz="0" />
+    <Box sX="0.078889" sY="0.113196" sZ="0.121817" angle="50" ax="0" ay="-1" az="0" tx="0" ty="0.5193" tz="0" />
+    <Box sX="0.078889" sY="0.113196" sZ="0.121817" angle="130" ax="0" ay="-1" az="0" tx="0" ty="0.5193" tz="0" />
+    <Box sX="0.059619" sY="0.657891" sZ="0.059438" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8754" tz="0" />
+    <Box sX="0.039048" sY="0.424886" sZ="0.055271" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.4914" tz="0" />
+    <Box sX="0.039048" sY="0.424886" sZ="0.055271" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.4914" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.45" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3498" tz="0" />
+    <Axel type="7" length="0.35" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0398" tz="0" />
+    <Axel type="7" length="0.45" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.1699" tz="0.2213" />
+    <Axel type="7" length="0.45" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2273" ty="0.1699" tz="-0.0005" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.16" maxX="0.16" maxY="1.92" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.16" maxX="0.16" maxY="1.92" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

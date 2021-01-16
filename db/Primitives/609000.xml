@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="609000;609;fabaj3" />
+    <Annotation designname="Fabuland Brick, Modified 1 x 4 x 2 Bell Shape with Headlights" />
+    <Annotation maingroupid="272" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.82733" sY="0.915037" sZ="0.38494" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.9292" tz="-0.0045" />
+    <Box sX="1.59547" sY="0.196534" sZ="0.38494" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1983" tz="-0.0045" />
+    <Box sX="1.59547" sY="0.260929" sZ="0.563808" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.5615" tz="0.0904" />
+    <Box sX="1.485965" sY="0.284818" sZ="0.527311" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.8661" tz="0.0997" />
+    <Box sX="0.668742" sY="0.073571" sZ="0.38494" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.8312" tz="-0.0045" />
+    <Box sX="2.063982" sY="0.059571" sZ="0.236094" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.2409" tz="0.4618" />
+    <Box sX="2.063982" sY="0.036268" sZ="0.058789" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.3596" tz="0.5207" />
+    <Box sX="2.063982" sY="0.036268" sZ="0.058789" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.1285" tz="0.5207" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,9:4:2,15:4:2,9:4:2,15:4:2,9:4:2,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.68" minY="0" minZ="-0.4023" maxX="2.48" maxY="2.08" maxZ="0.5977" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.68" minY="0" minZ="-0.4023" maxX="2.48" maxY="2.08" maxZ="0.5977" />
+  </GeometryBounding>
+</LEGOPrimitive>

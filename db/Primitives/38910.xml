@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38910;52980;36680" />
+    <Annotation designname="ANIMAL HEAD, NO. 31, PART, NO. 1 / Dinosaur Head Carnotaurus" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="1.75692" sZ="0.522924" angle="0" ax="1" ay="0" az="0" tx="-1.0181" ty="0.2127" tz="0" />
+    <Box sX="0.638355" sY="1.19951" sZ="0.522924" angle="19.7097" ax="0" ay="0" az="1" tx="-1.5005" ty="0.4314" tz="0" />
+    <Box sX="0.638355" sY="1.72848" sZ="0.322944" angle="117.3787" ax="0.1725" ay="0.1072" az="0.9792" tx="-3.2727" ty="0.5303" tz="-0.659" />
+    <Box sX="0.638355" sY="1.72848" sZ="0.322944" angle="117.3787" ax="-0.1725" ay="-0.1072" az="0.9792" tx="-3.2727" ty="0.5303" tz="0.659" />
+    <Box sX="0.549975" sY="1.28223" sZ="0.322944" angle="101.7546" ax="-0.1717" ay="-0.1433" az="0.9747" tx="-3.4226" ty="-0.4464" tz="0.6045" />
+    <Box sX="0.891234" sY="1.09578" sZ="0.322944" angle="90" ax="0" ay="0" az="1" tx="-0.8735" ty="0.4226" tz="0.9508" />
+    <Box sX="0.891234" sY="1.09578" sZ="0.322944" angle="90" ax="0" ay="0" az="1" tx="-0.8735" ty="0.4226" tz="-0.9508" />
+    <Box sX="0.549975" sY="1.28223" sZ="0.322944" angle="101.7546" ax="0.1717" ay="0.1433" az="0.9747" tx="-3.4226" ty="-0.4464" tz="-0.6045" />
+    <Box sX="1.05434" sY="0.648043" sZ="0.136986" angle="127.9634" ax="0.3394" ay="-0.5189" az="0.7846" tx="-2.55" ty="1.49" tz="1.0332" />
+    <Box sX="1.05434" sY="0.648043" sZ="0.136986" angle="127.9634" ax="-0.3394" ay="0.5189" az="0.7846" tx="-2.55" ty="1.49" tz="-1.0332" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="102" oriented="1" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0" ty="0" tz="-0.0081" />
+    <Hinge type="50" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-1.0903" ty="-0.9449" tz="0.0025" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.943784,0,0,0,4.4162626,0,0,0,4.0667628" centerOfMass="-2.22263,0.323989,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-5.10514" minY="-1.64868" minZ="-2.22259" maxX="0.659876" maxY="2.29666" maxZ="2.22259" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.10388" minY="-1.64868" minZ="-2.20216" maxX="0.659876" maxY="2.29666" maxZ="2.20216" />
+  </GeometryBounding>
+</LEGOPrimitive>

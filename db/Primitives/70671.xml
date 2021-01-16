@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70671" />
+    <Annotation designname="White Wolf, Lloyd's - Body" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.67443" sY="0.736323" sZ="0.133449" angle="0" ax="0" ay="1" az="0" tx="0.232803" ty="2.11636" tz="-0.970543"/>
+    <Box sX="0.404386" sY="0.15686" sZ="0.392293" angle="0" ax="0" ay="1" az="0" tx="-0.010233" ty="0.176299" tz="-0.0228"/>
+    <Box sX="0.404386" sY="0.15686" sZ="0.392293" angle="0" ax="0" ay="1" az="0" tx="1.59108" ty="0.176299" tz="-0.0228"/>
+    <Box sX="0.404386" sY="0.15686" sZ="0.392293" angle="0" ax="0" ay="1" az="0" tx="2.3636" ty="0.176299" tz="-0.826456"/>
+    <Box sX="0.404386" sY="0.15686" sZ="0.392293" angle="0" ax="0" ay="1" az="0" tx="-1.4718" ty="0.176299" tz="-0.826456"/>
+    <Box sX="0.242238" sY="0.581496" sZ="0.266312" angle="26.30086" ax="0" ay="0" az="-1" tx="-1.14034" ty="0.715709" tz="-0.826456"/>
+    <Box sX="0.242238" sY="0.406367" sZ="0.266312" angle="20.92972" ax="0" ay="0" az="1" tx="2.40348" ty="0.60236" tz="-0.826456"/>
+    <Box sX="0.242238" sY="0.406367" sZ="0.266312" angle="57.07185" ax="0" ay="0" az="1" tx="1.95528" ty="1.19075" tz="-0.854592"/>
+    <Box sX="0.242238" sY="0.406367" sZ="0.266312" angle="57.07185" ax="0" ay="0" az="1" tx="1.38019" ty="1.19075" tz="-0.078344"/>
+    <Box sX="0.242238" sY="0.406367" sZ="0.266312" angle="2.85715" ax="0" ay="0" az="1" tx="1.72559" ty="0.60236" tz="-0.050208"/>
+    <Box sX="0.242238" sY="0.406367" sZ="0.266312" angle="2.85715" ax="0" ay="0" az="1" tx="0.043142" ty="0.60236" tz="-0.050208"/>
+    <Box sX="0.19296" sY="0.253585" sZ="0.266312" angle="57.07185" ax="0" ay="0" az="1" tx="-0.150766" ty="0.991584" tz="-0.078344"/>
+    <Box sX="0.242238" sY="0.758421" sZ="0.266312" angle="121.53986" ax="0" ay="0" az="1" tx="2.77284" ty="3.28545" tz="-0.456766"/>
+    <Box sX="0.242238" sY="1.15137" sZ="0.428193" angle="104.09795" ax="0" ay="0" az="1" tx="3.33068" ty="2.82814" tz="-0.456766"/>
+    <Box sX="0.242238" sY="0.915213" sZ="0.428193" angle="74.84174" ax="0" ay="0" az="1" tx="3.12812" ty="2.10732" tz="-0.154731"/>
+    <Box sX="1.67443" sY="0.736323" sZ="0.133449" angle="0" ax="0" ay="1" az="0" tx="0.232803" ty="2.11636" tz="0.198115"/>
+    <Box sX="0.98465" sY="0.736323" sZ="0.133449" angle="90" ax="1" ay="0" az="0" tx="0.95161" ty="2.65703" tz="-0.372691"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="2.88" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      29:0,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="153" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="-0.914003" ty="2.19063" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.4784816,0,0,0,3.9793144,0,0,0,5.0210717" centerOfMass="1.359,1.94431,-0.409374" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2" minY="0" minZ="-1.21875" maxX="4.71799" maxY="3.88863" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.95803" minY="0" minZ="-1.19261" maxX="4.71799" maxY="3.79689" maxZ="0.393168"/>
+  </GeometryBounding>
+</LEGOPrimitive>

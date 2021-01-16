@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37680" />
+    <Annotation designname="SWORD, NO.15 / Minifigure, Weapon Sword, Blade with Bar and Spike on Top" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.097622" sY="0.328222" sZ="0.097622" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.338222" tz="0"/>
+    <Box sX="0.166644" sY="1.19174" sZ="0.103773" angle="3.06511" ax="0" ay="0" az="-1" tx="0.069238" ty="1.78251" tz="0"/>
+    <Box sX="0.253635" sY="0.278025" sZ="0.068202" angle="11.70511" ax="0" ay="0" az="-1" tx="0.111631" ty="3.13595" tz="0"/>
+    <Box sX="0.093635" sY="0.388905" sZ="0.03567" angle="19.98511" ax="0" ay="0" az="-1" tx="0.281711" ty="3.74638" tz="0"/>
+    <Box sX="0.096095" sY="0.328018" sZ="0.032427" angle="0" ax="0" ay="1" az="0" tx="0.254188" ty="1.73413" tz="0"/>
+    <Box sX="0.118732" sY="0.328018" sZ="0.195361" angle="124.39777" ax="0" ay="0" az="-1" tx="0.209546" ty="0.662296" tz="0"/>
+    <Box sX="0.118732" sY="0.328018" sZ="0.195361" angle="119.72177" ax="0" ay="0" az="1" tx="-0.190129" ty="0.68363" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.48" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.4718807,0,0,0,0.11201002,0,0,0,1.5546818" centerOfMass="0.006711,2.09089,0.000159" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.53386" minY="0" minZ="-0.209157" maxX="0.547281" maxY="4.18178" maxZ="0.209476"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.509771" minY="0" minZ="-0.209157" maxX="0.541222" maxY="4.18178" maxZ="0.209476"/>
+  </GeometryBounding>
+</LEGOPrimitive>

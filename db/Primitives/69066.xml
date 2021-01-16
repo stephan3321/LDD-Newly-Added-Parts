@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Magnus Forsberg [MagFors]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69066" />
+    <Annotation designname="Container, Trunk 1 x 3 x 1" />
+    <Annotation maingroupid="227" />
+    <Annotation maingroupname="INTERIOR" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19648" sY="0.076153" sZ="0.394501" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0804" tz="0" />
+    <Box sX="0.077622" sY="0.316082" sZ="0.077396" angle="0" ax="1" ay="0" az="0" tx="-1.1192" ty="0.3224" tz="0.3209" />
+    <Box sX="0.077622" sY="0.316082" sZ="0.077396" angle="0" ax="1" ay="0" az="0" tx="-1.1192" ty="0.3197" tz="-0.3213" />
+    <Box sX="0.077622" sY="0.316082" sZ="0.077396" angle="0" ax="1" ay="0" az="0" tx="1.1212" ty="0.3197" tz="-0.3213" />
+    <Box sX="0.077622" sY="0.316082" sZ="0.077396" angle="0" ax="1" ay="0" az="0" tx="1.1212" ty="0.3197" tz="0.3191" />
+    <Box sX="1.047766" sY="0.316082" sZ="0.038966" angle="0" ax="1" ay="0" az="0" tx="0.0004" ty="0.3197" tz="0.2799" />
+    <Box sX="1.047766" sY="0.316082" sZ="0.038966" angle="0" ax="1" ay="0" az="0" tx="0.0004" ty="0.3197" tz="-0.2793" />
+    <Box sX="0.277027" sY="0.316082" sZ="0.038966" angle="90" ax="0" ay="-1" az="0" tx="-1.0779" ty="0.3197" tz="0.0156" />
+    <Box sX="0.277027" sY="0.316082" sZ="0.038966" angle="90" ax="0" ay="-1" az="0" tx="1.0757" ty="0.3197" tz="0.0156" />
+    <Box sX="0.231673" sY="0.309672" sZ="0.038966" angle="90" ax="0" ay="-1" az="0" tx="-1.0008" ty="0.3241" tz="0" />
+    <Box sX="0.231673" sY="0.302197" sZ="0.038966" angle="90" ax="0" ay="-1" az="0" tx="1.0004" ty="0.3322" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="0.64" tz="0.4">
+      29:0:1,29:0:1,29:0,
+      29:0:1,0:4:17,29:0,
+      29:0:1,29:0:1,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.64" tz="-0.4">
+      29:0:1,29:0:1,29:0,
+      29:0:1,0:4:17,29:0,
+      29:0:1,29:0:1,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0.56" tz="0.16"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="1.2" maxY="0.8" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="1.2" maxY="0.8" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

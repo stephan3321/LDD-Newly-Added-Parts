@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="34732" />
@@ -9,6 +12,14 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="1.58901" sY="0.069913" sZ="0.389779" angle="0" ax="1" ay="0" az="0" tx="-0.401" ty="5.6801" tz="-0.0002" />
+    <Box sX="1.58901" sY="0.14998" sZ="0.389779" angle="0" ax="1" ay="0" az="0" tx="-0.401" ty="0.16" tz="-0.0002" />
+    <Box sX="1.58901" sY="0.695231" sZ="0.107637" angle="4.4724" ax="1" ay="0" az="0" tx="-0.401" ty="4.9707" tz="-0.1436" />
+    <Box sX="1.58901" sY="0.65128" sZ="0.107637" angle="8.4691" ax="-1" ay="0" az="0" tx="-0.401" ty="3.6491" tz="-0.1106" />
+    <Box sX="1.58901" sY="0.65128" sZ="0.107637" angle="9.1409" ax="-1" ay="0" az="0" tx="-0.401" ty="2.344" tz="0.0916" />
+    <Box sX="1.58901" sY="0.717805" sZ="0.107637" angle="7.3454" ax="1" ay="0" az="0" tx="-0.401" ty="0.9874" tz="0.1125" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
@@ -21,6 +32,7 @@
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.9916539,0,0,0,0.90666667,0,0,0,3.7916539" centerOfMass="1.2,2.969,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-2" minY="0" minZ="-0.4" maxX="1.2" maxY="5.92" maxZ="0.4" />
   </Bounding>

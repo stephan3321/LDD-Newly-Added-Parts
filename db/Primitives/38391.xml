@@ -1,14 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="38391" />
-    <Annotation designname="Mini Handle" />
+    <Annotation designname="Plate, Modified 1 x 2 with Bar Handles - Round Ends, Mid Attachment" />
     <Annotation maingroupid="216" />
     <Annotation maingroupname="PLATES, SPECIAL" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.892426" sY="0.39" sZ="0.037572" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.3976" ty="0.1588" tz="0" />
+    <Box sX="0.79" sY="0.39" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.4" ty="0.22" tz="0" />
+    <Box sX="0.103137" sY="0.79" sZ="0.103137" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="-1.44" ty="0.1551" tz="0.4" />
+    <Box sX="0.103137" sY="0.79" sZ="0.103137" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="0.64" ty="0.1551" tz="0.4" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,

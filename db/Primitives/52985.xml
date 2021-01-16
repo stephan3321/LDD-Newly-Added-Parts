@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="52985" />
@@ -9,10 +12,26 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="0" ax="1" ay="0" az="0" tx="0" ty="2.7244" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="27.692" ax="0" ay="0" az="1" tx="-1.2836" ty="2.408" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="55.384" ax="0" ay="0" az="1" tx="-2.2732" ty="1.5314" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="83.076" ax="0" ay="0" az="1" tx="-2.742" ty="0.2952" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="110.768" ax="0" ay="0" az="1" tx="-2.5827" ty="-1.0172" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="138.46" ax="0" ay="0" az="1" tx="-1.8317" ty="-2.1052" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="166.152" ax="0" ay="0" az="1" tx="-0.6611" ty="-2.7196" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="166.156" ax="0" ay="0" az="-1" tx="0.6609" ty="-2.7197" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="138.464" ax="0" ay="0" az="-1" tx="1.8316" ty="-2.1053" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="110.772" ax="0" ay="0" az="-1" tx="2.5826" ty="-1.0174" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="83.08" ax="0" ay="0" az="-1" tx="2.742" ty="0.295" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="55.388" ax="0" ay="0" az="-1" tx="2.2733" ty="1.5312" tz="0.0201" />
+    <Box sX="0.759025" sY="0.543558" sZ="1.30267" angle="27.696" ax="0" ay="0" az="-1" tx="1.2838" ty="2.4079" tz="0.0201" />
+  </Collision>
   <Connectivity>
     <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
     <Fixed type="14" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.5398896,0,0,0,4.5428337,0,0,0,7.8669952" centerOfMass="0,0,-0.800175" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-3.45" minY="-3.449955" minZ="-1.46" maxX="3.45" maxY="3.449955" maxZ="1.26" />
   </Bounding>

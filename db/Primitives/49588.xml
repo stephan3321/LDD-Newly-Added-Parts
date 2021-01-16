@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49588" />
+    <Annotation designname="MINI HEAD, NO. 2846 / Minifigure, Head Modified Snake, Cobra with Closed Mouth" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.073757" sY="0.325055" sZ="0.264691" angle="180" ax="0.073297" ay="0.99731" az="0" tx="-0.394178" ty="0.344896" tz="-0.062286"/>
+    <Box sX="0.052963" sY="0.300429" sZ="0.218012" angle="98.76562" ax="0.037432" ay="0.999285" az="-0.00539" tx="-0.212478" ty="0.32712" tz="-0.306929"/>
+    <Box sX="0.073757" sY="0.32151" sZ="0.264691" angle="8.40676" ax="0" ay="0" az="1" tx="0.39366" ty="0.348404" tz="-0.062286"/>
+    <Box sX="0.05336" sY="0.300429" sZ="0.218012" angle="81.32992" ax="-0.006278" ay="0.999029" az="0.043604" tx="0.212538" ty="0.327135" tz="-0.307321"/>
+    <Box sX="0.142215" sY="0.158834" sZ="0.109034" angle="0" ax="0" ay="1" az="0" tx="0.000415" ty="0.476565" tz="-0.420232"/>
+    <Box sX="0.124296" sY="0.3233" sZ="0.051948" angle="50.21244" ax="-0.256385" ay="0.965643" az="-0.042421" tx="0.374546" ty="0.354004" tz="0.30225"/>
+    <Box sX="0.124296" sY="0.313479" sZ="0.051948" angle="131.62547" ax="-0.019731" ay="0.992668" az="-0.119253" tx="-0.374763" ty="0.350251" tz="0.303065"/>
+    <Box sX="0.198276" sY="0.450861" sZ="0.051948" angle="18.60059" ax="-1" ay="0" az="0" tx="0" ty="0.411016" tz="0.409062"/>
+    <Box sX="0.105473" sY="0.299716" sZ="0.06193" angle="44.7262" ax="0.000302" ay="0.000124" az="-1" tx="0.15339" ty="-0.096189" tz="0.483575"/>
+    <Box sX="0.105473" sY="0.299716" sZ="0.066422" angle="179.99457" ax="-0.380475" ay="0.924791" az="0.000115" tx="-0.15339" ty="-0.096189" tz="0.485528"/>
+    <Box sX="0.375343" sY="0.34" sZ="0.34515" angle="13.59194" ax="-1" ay="0" az="0" tx="0" ty="1.00076" tz="-0.212409"/>
+    <Box sX="0.204403" sY="0.229594" sZ="0.483188" angle="20.21625" ax="1" ay="0" az="0" tx="0" ty="1.35001" tz="0.647303"/>
+    <Box sX="0.365711" sY="0.175516" sZ="0.533181" angle="21.63284" ax="-1" ay="0" az="0" tx="0" ty="1.52893" tz="-0.122707"/>
+    <Box sX="0.525591" sY="0.307757" sZ="0.310572" angle="20.61909" ax="1" ay="0" az="0" tx="0.005755" ty="1.42099" tz="0.516672"/>
+    <Box sX="0.622983" sY="0.175516" sZ="0.348168" angle="20.97427" ax="-1" ay="0" az="0" tx="-0.002163" ty="1.59195" tz="0.036205"/>
+    <Box sX="0.115497" sY="0.135065" sZ="0.422642" angle="21.63284" ax="-1" ay="0" az="0" tx="0" ty="1.72398" tz="-0.248708"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="10" length="0.599155" grabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.78972968,0,0,0,0.42274442,0,0,0,0.62572417" centerOfMass="-0.002163,0.785066,0.241913" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.625146" minY="-0.435207" minZ="-0.696236" maxX="0.620821" maxY="2.00534" maxZ="1.18006"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.613715" minY="-0.435207" minZ="-0.696236" maxX="0.613715" maxY="1.91458" maxZ="1.15267"/>
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

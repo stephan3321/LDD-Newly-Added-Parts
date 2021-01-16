@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36654;39024" />
+    <Annotation designname="RIGHT ANIMAL HEAD, NO. 29, PART, NO. 1 / Dinosaur Head Indoraptor" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.306316" sY="1.13514" sZ="0.49" angle="17.1572" ax="0" ay="0" az="-1" tx="-0.8691" ty="0.9337" tz="0" />
+    <Box sX="1.43029" sY="0.557125" sZ="0.82283" angle="1.2028" ax="0" ay="0" az="1" tx="-0.853" ty="1.554" tz="0" />
+    <Box sX="0.569766" sY="0.454493" sZ="0.733745" angle="132.3366" ax="0" ay="0" az="-1" tx="0.4579" ty="1.3352" tz="0" />
+    <Box sX="1.02392" sY="0.405206" sZ="0.599736" angle="13.9043" ax="0" ay="0" az="1" tx="-2.5445" ty="1.5324" tz="0.0694" />
+    <Box sX="0.347976" sY="0.347976" sZ="0.17527" angle="45" ax="0" ay="0" az="1" tx="0" ty="-0.1532" tz="0.4" />
+    <Box sX="0.347976" sY="0.347976" sZ="0.17527" angle="45" ax="0" ay="0" az="1" tx="0" ty="-0.1532" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="102" oriented="1" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.0131" ty="-0.0075" tz="0" />
+    <Hinge type="50" oriented="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="-0.914" ty="0.3588" tz="0.0025" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.0895102,0,0,0,2.4173552,0,0,0,2.8010162" centerOfMass="-1.31106,0.807267,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-3.79969" minY="-0.679258" minZ="-1.02897" maxX="1.17757" maxY="2.29379" maxZ="1.02897" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.79969" minY="-0.679258" minZ="-1.02897" maxX="1.15681" maxY="2.29379" maxZ="1.02897" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Gerald Lasser [GeraldLasser]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65473" />
+    <Annotation designname="Brick, Round 2 x 2 d. 135 Degree Elbow" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.43336" sY="0.035803" sZ="0.198333" angle="162.5188" ax="0.2837" ay="-0.8753" az="-0.3916" tx="1.3137" ty="0.8932" tz="0.5225" />
+    <Box sX="0.590093" sY="0.035803" sZ="0.198333" angle="145.5047" ax="0.1798" ay="-0.3752" az="-0.9093" tx="1.8828" ty="0.1283" tz="0.4472" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.8223" ty="0.3858" tz="-0.1666" />
+    <Box sX="0.645279" sY="0.035803" sZ="0.198333" angle="144.9445" ax="0" ay="0" az="-1" tx="1.9707" ty="-0.0346" tz="0" />
+    <Box sX="0.572651" sY="0.035803" sZ="0.198333" angle="148.8075" ax="-0.2363" ay="0.6434" az="-0.7281" tx="1.5893" ty="0.4308" tz="-0.6832" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="148.6004" ax="-0.2811" ay="0.6786" az="-0.6786" tx="1.699" ty="0.509" tz="0.2963" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="135" ax="0" ay="0" az="-1" tx="1.4895" ty="0.7186" tz="0" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="90" ax="1" ay="0" az="0" tx="0.4701" ty="0" tz="-0.2963" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="180" ax="1" ay="0" az="0" tx="0.4701" ty="0.2963" tz="0" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="90" ax="-1" ay="0" az="0" tx="0.4701" ty="0" tz="0.2963" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="0" ax="1" ay="0" az="0" tx="0.4701" ty="-0.2963" tz="0" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="0.4701" ty="-0.1743" tz="0.1646" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="0.4701" ty="-0.1743" tz="-0.1666" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="0.4701" ty="0.1743" tz="-0.1743" />
+    <Box sX="0.041282" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="1.0013" ty="0.0207" tz="0.0057" />
+    <Box sX="0.49" sY="0.035803" sZ="0.198333" angle="49.9871" ax="-0.987" ay="0.051" az="0.1527" tx="0.5025" ty="0.5096" tz="-0.5367" />
+    <Box sX="0.572651" sY="0.035803" sZ="0.198333" angle="97.4512" ax="-0.999" ay="-0.0266" az="0.0358" tx="0.5953" ty="0.0218" tz="-0.6831" />
+    <Box sX="0.613403" sY="0.035803" sZ="0.198333" angle="136.14" ax="-0.9952" ay="-0.0847" az="0.0485" tx="0.6512" ty="-0.36" tz="-0.4747" />
+    <Box sX="0.645279" sY="0.035803" sZ="0.198333" angle="180" ax="0.9962" ay="0.0867" az="0" tx="0.6561" ty="-0.5776" tz="0" />
+    <Box sX="0.590093" sY="0.035803" sZ="0.198333" angle="133.2503" ax="0.9977" ay="0.0636" az="-0.0234" tx="0.6094" ty="-0.3992" tz="0.4472" />
+    <Box sX="0.49" sY="0.035803" sZ="0.198333" angle="89.2379" ax="0.9968" ay="0.0439" az="0.0662" tx="0.5184" ty="0.0744" tz="0.6833" />
+    <Box sX="0.43336" sY="0.035803" sZ="0.198333" angle="49.919" ax="0.9852" ay="0.0183" az="0.1706" tx="0.471" ty="0.5441" tz="0.5225" />
+    <Box sX="0.416459" sY="0.035803" sZ="0.198333" angle="10.2706" ax="0" ay="0" az="1" tx="0.4352" ty="0.7526" tz="0" />
+    <Box sX="0.49" sY="0.035803" sZ="0.198333" angle="152.2895" ax="0.2363" ay="-0.6957" az="-0.6784" tx="1.614" ty="0.5289" tz="0.6832" />
+    <Box sX="0.49" sY="0.035803" sZ="0.198333" angle="159.3218" ax="-0.292" ay="0.8763" az="-0.3832" tx="1.3088" ty="0.8408" tz="-0.5375" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.8223" ty="0.3858" tz="0.1646" />
+    <Box sX="0.416459" sY="0.035803" sZ="0.198333" angle="180" ax="-0.2985" ay="0.9544" az="0" tx="1.1915" ty="1.0659" tz="0" />
+    <Box sX="0.613403" sY="0.035803" sZ="0.198333" angle="147.3979" ax="-0.1056" ay="0.3774" az="-0.92" tx="1.8264" ty="0.127" tz="-0.4746" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.9086" ty="0.2995" tz="0" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.5758" ty="0.6323" tz="0.1666" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.5758" ty="0.6323" tz="-0.1743" />
+    <Box sX="0.460112" sY="0.031162" sZ="0.11229" angle="148.6004" ax="0.2811" ay="-0.6786" az="-0.6786" tx="1.699" ty="0.509" tz="-0.2963" />
+    <Box sX="0.460112" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="0.4701" ty="0.1743" tz="0.1666" />
+    <Box sX="0.048483" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.3109" ty="0.1488" tz="-0.0025" />
+    <Box sX="0.048483" sY="0.068653" sZ="0.061468" angle="180" ax="-0.3827" ay="0.9239" az="0" tx="1.4252" ty="0.2631" tz="0.2045" />
+    <Box sX="0.041282" sY="0.068653" sZ="0.061468" angle="0" ax="1" ay="0" az="0" tx="0.8412" ty="0.0207" tz="-0.2044" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.9239" ay="-0.3827" az="0" tx="2.0382" ty="0.8483" tz="0" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.58469787,0,0,0,0.75049595,0,0,0,0.93972245" centerOfMass="1.28773,0.308056,0.000829" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.0009" minY="-0.7507" minZ="-0.76" maxX="2.573" maxY="1.3903" maxZ="0.76" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.0009" minY="-0.7507" minZ="-0.76" maxX="2.573" maxY="1.3903" maxZ="0.76" />
+  </GeometryBounding>
+</LEGOPrimitive>

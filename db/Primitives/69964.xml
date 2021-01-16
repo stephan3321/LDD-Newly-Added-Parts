@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2021-01-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69964" />
+    <Annotation designname="WHEEL BEARING,3 M, MINI SNAP W/ FUNCTION" />
+    <Annotation maingroupid="268" />
+    <Annotation maingroupname="WHEEL BASE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.221185" sY="0.106417" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.2926" tz="0" />
+    <Box sX="0.221234" sY="0.268454" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="1.0638" ty="-0.0068" tz="0" />
+    <Box sX="0.221931" sY="0.268454" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-1.0631" ty="-0.0068" tz="0" />
+    <Box sX="0.25855" sY="0.268454" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.5626" ty="-0.0068" tz="0" />
+    <Box sX="0.244944" sY="0.268454" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="0.5776" ty="-0.0068" tz="0" />
+    <Box sX="0.221185" sY="0.106417" sZ="0.15" angle="53.1214" ax="0" ay="0" az="1" tx="0.2939" ty="-0.1364" tz="0" />
+    <Box sX="0.221185" sY="0.106417" sZ="0.15" angle="47.1418" ax="0" ay="0" az="-1" tx="-0.2947" ty="-0.1469" tz="0" />
+    <Box sX="0.236104" sY="0.091692" sZ="0.09034" angle="0" ax="1" ay="0" az="0" tx="-1.5539" ty="-0.002" tz="0" />
+    <Box sX="0.226069" sY="0.091692" sZ="0.09034" angle="0" ax="1" ay="0" az="0" tx="1.5639" ty="-0.002" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.16" />
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-1.3284" ty="-0.0004" tz="0" />
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="0.7071" ay="0.7071" az="0" tx="1.3269" ty="-0.0004" tz="0" />
+    <Hinge type="87" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="1.505" ty="0" tz="0" />
+    <Hinge type="87" oriented="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-1.505" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.062145863,0,0,0,1.0885333,0,0,0,1.1336125" centerOfMass="0,-0.049558,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.8" minY="-0.4603" minZ="-0.168" maxX="1.8" maxY="0.3477" maxZ="0.168" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.8" minY="-0.4603" minZ="-0.168" maxX="1.8" maxY="0.3477" maxZ="0.168" />
+  </GeometryBounding>
+</LEGOPrimitive>

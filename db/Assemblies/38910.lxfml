@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="38910;52980"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ANIMAL HEAD, NO. 31, PART, NO. 1 / Dinosaur Head Carnotaurus with Pin"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="38910">
+      <Part refID="0" designID="38910" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,2,1.6486799716949463,2">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41141">
+      <Part refID="1" designID="41141" materials="21">
+        <Bone refID="1" transformation="0,0.9999997615814209,0,0,0,1,0.99999982118606567,0,0,3.5999996662139893,1.6486800909042358,1.9918999671936035">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>

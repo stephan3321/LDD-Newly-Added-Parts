@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="36654"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="RIGHT ANIMAL HEAD, NO. 29, PART, NO. 1 / Dinosaur Head Indoraptor with Pin"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="36654">
+      <Part refID="0" designID="36654" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,1.2000000476837158,0.67926180362701416,1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41141">
+      <Part refID="1" designID="41141" materials="21">
+        <Bone refID="1" transformation="0,1,0,0,0,1,0.99999970197677612,0,0,2.8130996227264404,0.67176187038421631,1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>

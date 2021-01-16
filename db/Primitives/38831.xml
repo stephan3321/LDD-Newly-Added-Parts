@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38831" />
+    <Annotation designname="MINI HAT, NO. 81" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.434158" sY="0.169765" sZ="0.219186" angle="0" ax="0" ay="1" az="0" tx="-0.026167" ty="0.498062" tz="-0.091902"/>
+    <Box sX="0.328141" sY="0.185486" sZ="0.071207" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.199488" tz="-0.601904"/>
+    <Box sX="0.364034" sY="0.174581" sZ="0.060204" angle="180" ax="0" ay="1" az="0" tx="0.000423" ty="0.195079" tz="0.403513"/>
+    <Box sX="0.250383" sY="0.276875" sZ="0.015158" angle="120" ax="0" ay="1" az="0" tx="-0.528739" ty="0.030615" tz="0.161616"/>
+    <Box sX="0.278713" sY="0.462425" sZ="0.048688" angle="60" ax="0" ay="1" az="0" tx="-0.480057" ty="-0.154935" tz="-0.334236"/>
+    <Box sX="0.2178" sY="0.285954" sZ="0.028121" angle="60" ax="0" ay="1" az="0" tx="0.527259" ty="0.021536" tz="0.177001"/>
+    <Box sX="0.292521" sY="0.456115" sZ="0.058309" angle="120" ax="0" ay="1" az="0" tx="0.495834" ty="-0.148625" tz="-0.327401"/>
+    <Box sX="0.328141" sY="0.185486" sZ="0.027343" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.574443" tz="-0.558041"/>
+    <Box sX="0.364034" sY="0.110083" sZ="0.073359" angle="180" ax="0" ay="1" az="0" tx="0.000423" ty="0.415603" tz="0.22511"/>
+    <Box sX="0.321278" sY="0.33109" sZ="0.107768" angle="0" ax="0" ay="1" az="0" tx="-0.010978" ty="0.342376" tz="-0.623659"/>
+    <Box sX="0.163422" sY="0.17725" sZ="0.107768" angle="0" ax="0" ay="1" az="0" tx="0.258429" ty="0.496216" tz="-0.406238"/>
+    <Box sX="0.163422" sY="0.17654" sZ="0.107768" angle="0" ax="0" ay="1" az="0" tx="-0.252825" ty="0.496926" tz="-0.406238"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.203" grabbing="0" startCapped="0" endCapped="0" angle="6.56543" ax="-1" ay="0" az="0" tx="0" ty="0.5105" tz="-0.420391"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,7:4:2,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.32406355,0,0,0,0.29000886,0,0,0,0.34216211" centerOfMass="0.012767,-0.028403,-0.130985" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.667057" minY="-0.779619" minZ="-0.769629" maxX="0.692591" maxY="0.722813" maxZ="0.507658"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.610146" minY="-0.779619" minZ="-0.769629" maxX="0.62382" maxY="0.722813" maxZ="0.507658"/>
+  </GeometryBounding>
+</LEGOPrimitive>

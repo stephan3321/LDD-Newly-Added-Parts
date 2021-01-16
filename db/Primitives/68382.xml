@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Magnus Forsberg [MagFors]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="68382" />
+    <Annotation designname="Plate, Modified 1 x 4 with Pins on Bottom" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.597814" sY="0.153828" sZ="0.3875" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9615" tz="0.4" />
+    <Box sX="0.231235" sY="0.040605" sZ="0.211379" angle="0" ax="1" ay="0" az="0" tx="0.7989" ty="0.7613" tz="0.4" />
+    <Box sX="0.231235" sY="0.040605" sZ="0.211379" angle="90" ax="0" ay="1" az="0" tx="0.7989" ty="0.7613" tz="0.4" />
+    <Box sX="0.231235" sY="0.040605" sZ="0.211379" angle="90" ax="0" ay="1" az="0" tx="-0.8011" ty="0.7613" tz="0.4" />
+    <Box sX="0.231235" sY="0.040605" sZ="0.211379" angle="0" ax="1" ay="0" az="0" tx="-0.8011" ty="0.7613" tz="0.4" />
+    <Box sX="0.141196" sY="0.35646" sZ="0.184817" angle="0" ax="1" ay="0" az="0" tx="-0.8011" ty="0.3691" tz="0.4" />
+    <Box sX="0.141196" sY="0.35646" sZ="0.184817" angle="90" ax="0" ay="1" az="0" tx="-0.8011" ty="0.3691" tz="0.4" />
+    <Box sX="0.141196" sY="0.35646" sZ="0.184817" angle="90" ax="0" ay="1" az="0" tx="0.7989" ty="0.3691" tz="0.4" />
+    <Box sX="0.141196" sY="0.35646" sZ="0.184817" angle="0" ax="1" ay="0" az="0" tx="0.7989" ty="0.3691" tz="0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.6" ty="1.123" tz="0">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="-0.8" ty="0" tz="0.4" />
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.8" ty="0" tz="0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.6" minY="0" minZ="0" maxX="1.6" maxY="1.28" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.6" minY="0" minZ="0" maxX="1.6" maxY="1.28" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

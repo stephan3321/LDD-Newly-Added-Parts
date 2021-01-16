@@ -23,6 +23,7 @@ Edited for LDD by jester, colissions by Stephan
     <Fixed type="57" axes="2" angle="0" ax="1" ay="0" az="0" tx="-1.04" ty="0.04" tz="0" />
     <Fixed type="57" axes="2" angle="180" ax="0" ay="0" az="1" tx="1.04" ty="2.42" tz="0" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.50841778,0,0,0,0.35140389,0,0,0,0.85607166" centerOfMass="0.80018,1.51853,0.203531" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-1.04" minY="0" minZ="-0.089444" maxX="1.04" maxY="2.46" maxZ="0.089444" />
   </Bounding>

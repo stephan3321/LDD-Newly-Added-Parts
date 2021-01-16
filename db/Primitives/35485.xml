@@ -1,17 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="35485" />
-    <Annotation designname="MINI ACCESSORY, NO. 5" />
+    <Annotation designname="MINI ACCESSORY, NO. 5 / Minifigure, Weapon Hoop Blade / Chakram" />
     <Annotation maingroupid="246" />
     <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.059506" sY="0.069606" sZ="0.26634" angle="108.6915" ax="-0.4926" ay="0.4926" az="-0.7174" tx="0.2861" ty="0.1582" tz="-1.5679" />
+    <Box sX="0.060241" sY="0.07662" sZ="0.252253" angle="93.2801" ax="-0.2326" ay="0.2326" az="-0.9443" tx="0.7055" ty="0.1582" tz="-1.1977" />
+    <Box sX="0.073977" sY="0.07662" sZ="0.263993" angle="90.6954" ax="0.1095" ay="-0.1095" az="-0.9879" tx="0.7848" ty="0.1582" tz="-0.6411" />
+    <Box sX="0.089359" sY="0.07662" sZ="0.227385" angle="101.9148" ax="0.4137" ay="-0.4137" az="-0.811" tx="0.499" ty="0.1582" tz="-0.1833" />
+    <Box sX="0.059506" sY="0.069606" sZ="0.26634" angle="132.8067" ax="-0.6361" ay="0.6361" az="-0.4368" tx="-0.2861" ty="0.1582" tz="-1.5679" />
+    <Box sX="0.060241" sY="0.07662" sZ="0.252253" angle="160.5243" ax="-0.6966" ay="0.6966" az="-0.1716" tx="-0.7055" ty="0.1582" tz="-1.1977" />
+    <Box sX="0.073977" sY="0.07662" sZ="0.263993" angle="171.0646" ax="0.7049" ay="-0.7049" az="-0.0781" tx="-0.7848" ty="0.1582" tz="-0.6411" />
+    <Box sX="0.089359" sY="0.07662" sZ="0.227385" angle="142.5179" ax="0.6652" ay="-0.6652" az="-0.3393" tx="-0.499" ty="0.1582" tz="-0.1833" />
+    <Box sX="0.099138" sY="0.099138" sZ="0.292333" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0.0004" ty="0.1582" tz="-0.0203" />
+  </Collision>
   <Connectivity>
-    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.3" ty="0.16" tz="0" />
+    <Axel type="7" length="0.605458" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.3023" ty="0.16" tz="0" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.61302502,0,0,0,0.31795615,0,0,0,0.31271251" centerOfMass="0,-0.800095,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-0.950671" minY="0" minZ="-1.746671" maxX="0.950668" maxY="0.32" maxZ="0.16" />
   </Bounding>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35183" />
+    <Annotation designname="MINI HEAD PHONE, W/ 1.5 SHAFT / Minifigure, Ear Protectors / Headphones / Headset - Thin Arms" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.042259" sY="0.132038" sZ="0.042259" angle="45" ax="0" ay="1" az="0" tx="0" ty="-0.077965" tz="0"/>
+    <Box sX="0.265114" sY="0.075851" sZ="0.154936" angle="19.6517" ax="0" ay="0" az="-1" tx="0.226256" ty="0.049187" tz="0"/>
+    <Box sX="0.333803" sY="0.060183" sZ="0.154936" angle="50.65583" ax="0" ay="0" az="-1" tx="0.678388" ty="-0.272463" tz="0"/>
+    <Box sX="0.076814" sY="0.084964" sZ="0.168379" angle="0" ax="0" ay="1" az="0" tx="0.863322" ty="-0.589198" tz="0"/>
+    <Box sX="0.128094" sY="0.292785" sZ="0.302163" angle="0" ax="0" ay="1" az="0" tx="0.95851" ty="-0.974966" tz="0"/>
+    <Box sX="0.265114" sY="0.075851" sZ="0.154936" angle="19.652" ax="0" ay="0" az="1" tx="-0.230005" ty="0.047706" tz="0"/>
+    <Box sX="0.333886" sY="0.060183" sZ="0.154936" angle="50.656" ax="0" ay="0" az="1" tx="-0.678452" ty="-0.272544" tz="0"/>
+    <Box sX="0.076751" sY="0.084964" sZ="0.168379" angle="0" ax="0" ay="1" az="0" tx="-0.862688" ty="-0.589198" tz="0"/>
+    <Box sX="0.120466" sY="0.292785" sZ="0.302163" angle="0" ax="0" ay="1" az="0" tx="-0.950233" ty="-0.974966" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.220003" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.22463453,0,0,0,0.47157297,0,0,0,0.6254612" centerOfMass="0,-0.543736,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.14394" minY="-1.29725" minZ="-0.32576" maxX="1.14394" maxY="0.209779" maxZ="0.32576"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.14394" minY="-1.29725" minZ="-0.32576" maxX="1.14394" maxY="0.187643" maxZ="0.32576"/>
+  </GeometryBounding>
+</LEGOPrimitive>

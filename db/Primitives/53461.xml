@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53461" />
+    <Annotation designname="CREATURE, NO. 91, HEAD" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.443598" sY="0.40942" sZ="0.503212" angle="81.40237" ax="0" ay="0" az="1" tx="-1.40193" ty="0.243056" tz="0"/>
+    <Box sX="0.358887" sY="0.497116" sZ="0.153145" angle="108.4124" ax="0.093415" ay="0.127916" az="0.987376" tx="-1.2916" ty="0.411594" tz="-0.446857"/>
+    <Box sX="0.20787" sY="0.255837" sZ="0.37717" angle="90" ax="0" ay="0" az="-1" tx="-0.060636" ty="0.618422" tz="-0.00279"/>
+    <Box sX="0.223236" sY="0.519772" sZ="0.255578" angle="105.98821" ax="0" ay="0" az="1" tx="-1.95629" ty="0.197745" tz="-0.010199"/>
+    <Box sX="0.112519" sY="0.172815" sZ="0.358686" angle="90" ax="0" ay="0" az="1" tx="-1.37388" ty="0.907158" tz="0.020568"/>
+    <Box sX="0.172273" sY="0.255837" sZ="0.37717" angle="130.00172" ax="0" ay="0" az="-1" tx="0.298083" ty="0.47481" tz="-0.00279"/>
+    <Box sX="0.151482" sY="0.255837" sZ="0.37717" angle="179.99141" ax="0" ay="0" az="1" tx="0.508588" ty="0.039457" tz="-0.00279"/>
+    <Box sX="0.152702" sY="0.255837" sZ="0.37717" angle="117.05663" ax="0" ay="0" az="1" tx="0.288214" ty="-0.461395" tz="-0.00279"/>
+    <Box sX="0.177003" sY="0.620006" sZ="0.37717" angle="58.69626" ax="0.003351" ay="0.013055" az="0.999909" tx="-0.614681" ty="-0.247794" tz="0.005788"/>
+    <Box sX="0.685003" sY="0.375967" sZ="0.384995" angle="90" ax="0" ay="0" az="-1" tx="-0.76283" ty="0.371943" tz="0"/>
+    <Box sX="0.358887" sY="0.472991" sZ="0.183256" angle="108.5719" ax="-0.103495" ay="-0.14172" az="0.984482" tx="-1.28855" ty="0.412569" tz="0.391163"/>
+    <Box sX="0.219792" sY="0.172815" sZ="0.085306" angle="108.93639" ax="-0.204743" ay="-0.535071" az="0.819621" tx="-1.34458" ty="0.990854" tz="0.508341"/>
+    <Box sX="0.219792" sY="0.172815" sZ="0.085306" angle="161.36196" ax="-0.60552" ay="-0.646484" az="0.464117" tx="-1.34696" ty="1.03347" tz="-0.517341"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="152" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.5657024,0,0,0,1.1443938,0,0,0,1.2935038" centerOfMass="-0.925445,0.26696,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.60124" minY="-0.76852" minZ="-0.790499" maxX="0.750351" maxY="1.30244" maxZ="0.790499"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.60124" minY="-0.76852" minZ="-0.790499" maxX="0.750351" maxY="1.30244" maxZ="0.790499"/>
+  </GeometryBounding>
+</LEGOPrimitive>

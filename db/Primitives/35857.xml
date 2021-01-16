@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35857;35855;38354" />
+    <Annotation designname="MINI HAT, NO. 59, PART, NO. 1 / Minifigure, Headgear Head Cover, Costume Mask Elephant" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.284994" sY="0.376233" sZ="0.051404" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.5381" tz="-0.58" />
+    <Box sX="0.284994" sY="0.376233" sZ="0.051404" angle="60" ax="0" ay="-1" az="0" tx="0.5023" ty="-0.5381" tz="-0.29" />
+    <Box sX="0.284994" sY="0.376233" sZ="0.051404" angle="120" ax="0" ay="-1" az="0" tx="0.5023" ty="-0.5381" tz="0.29" />
+    <Box sX="0.168417" sY="0.11547" sZ="0.048844" angle="161.5275" ax="0" ay="-1" az="0" tx="0.1742" ty="-0.9065" tz="0.5722" />
+    <Box sX="0.284994" sY="0.376233" sZ="0.051404" angle="120" ax="0" ay="1" az="0" tx="-0.5023" ty="-0.5381" tz="0.29" />
+    <Box sX="0.284994" sY="0.376233" sZ="0.051404" angle="60" ax="0" ay="1" az="0" tx="-0.5023" ty="-0.5381" tz="-0.29" />
+    <Box sX="0.259265" sY="0.182822" sZ="0.05956" angle="24.7133" ax="1" ay="0" az="0" tx="0" ty="0.0217" tz="-0.5304" />
+    <Box sX="0.259265" sY="0.182822" sZ="0.05956" angle="64.4494" ax="0.3475" ay="-0.9159" az="0.2007" tx="0.4594" ty="0.0217" tz="-0.2652" />
+    <Box sX="0.259265" sY="0.182822" sZ="0.05956" angle="64.4494" ax="0.3475" ay="0.9159" az="-0.2007" tx="-0.4594" ty="0.0217" tz="-0.2652" />
+    <Box sX="0.259265" sY="0.182822" sZ="0.05956" angle="121.5268" ax="0.1226" ay="0.9695" az="-0.2124" tx="-0.4594" ty="0.0217" tz="0.2652" />
+    <Box sX="0.259265" sY="0.182822" sZ="0.05956" angle="121.5268" ax="0.1226" ay="-0.9695" az="0.2124" tx="0.4594" ty="0.0217" tz="0.2652" />
+    <Box sX="0.257623" sY="0.209345" sZ="0.053074" angle="180" ax="0" ay="0.9817" az="-0.1903" tx="0.0003" ty="0.0001" tz="0.5438" />
+    <Box sX="0.168252" sY="0.194702" sZ="0.15082" angle="180" ax="0" ay="0.8409" az="0.5413" tx="0.0005" ty="-0.0298" tz="0.7103" />
+    <Box sX="0.158275" sY="0.219155" sZ="0.131432" angle="180" ax="0" ay="0.9933" az="0.1154" tx="-0.0004" ty="0.163" tz="0.8739" />
+    <Box sX="0.157243" sY="0.146262" sZ="0.131432" angle="180" ax="0" ay="0.8999" az="0.4361" tx="-0.0004" ty="0.4042" tz="0.9991" />
+    <Box sX="0.518982" sY="0.159456" sZ="0.50349" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1951" tz="-0.0021" />
+    <Box sX="0.295747" sY="0.484349" sZ="0.069653" angle="170.0444" ax="-0.0865" ay="-0.9962" az="-0.0076" tx="0.8762" ty="-0.236" tz="-0.262" />
+    <Box sX="0.106728" sY="0.11547" sZ="0.122178" angle="161.0982" ax="0" ay="-1" az="0" tx="0.4447" ty="-0.0671" tz="0.5398" />
+    <Box sX="0.295747" sY="0.484349" sZ="0.069653" angle="14.078" ax="0.0615" ay="-0.7081" az="0.7035" tx="-0.8762" ty="-0.236" tz="-0.262" />
+    <Box sX="0.106728" sY="0.11547" sZ="0.122178" angle="18.9018" ax="0" ay="-1" az="0" tx="-0.4447" ty="-0.0671" tz="0.5398" />
+    <Box sX="0.168417" sY="0.11547" sZ="0.048844" angle="20.1096" ax="0" ay="-1" az="0" tx="-0.1741" ty="-0.9065" tz="0.5776" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.54526421,0,0,0,0.91191856,0,0,0,0.84525968" centerOfMass="0,-0.228619,0.237262" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.34828" minY="-1.07591" minZ="-0.720801" maxX="1.34828" maxY="0.618675" maxZ="1.19532" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.34828" minY="-1.07591" minZ="-0.720801" maxX="1.34828" maxY="0.618675" maxZ="1.15348" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0" />
+</LEGOPrimitive>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42859" />
+    <Annotation designname="DESIGN PLATE 1X2X2 1/3" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.618239" sY="0.245601" sZ="0.348954" angle="0" ax="0" ay="1" az="0" tx="0.243572" ty="0.255714" tz="0"/>
+    <Box sX="0.357041" sY="0.27704" sZ="0.350455" angle="88.86545" ax="0" ay="0" az="-1" tx="0.694677" ty="-0.110632" tz="0.000672"/>
+    <Box sX="0.180724" sY="0.203198" sZ="0.149535" angle="0" ax="0" ay="1" az="0" tx="0.338904" ty="0.730966" tz="0"/>
+    <Box sX="0.15354" sY="0.203198" sZ="0.123545" angle="39.24" ax="0" ay="0" az="-1" tx="0.972163" ty="0.428402" tz="0"/>
+    <Box sX="0.136585" sY="0.158804" sZ="0.107914" angle="91.67904" ax="0" ay="0" az="-1" tx="1.14212" ty="-0.12688" tz="0"/>
+    <Box sX="0.357041" sY="0.27704" sZ="0.350455" angle="88.86545" ax="0" ay="0" az="-1" tx="0.709714" ty="-0.869869" tz="0.000672"/>
+    <Box sX="0.256479" sY="0.115392" sZ="0.350455" angle="111.9296" ax="0" ay="0" az="-1" tx="0.987167" ty="-0.937126" tz="0.000672"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.46241135,0,0,0,0.29138861,0,0,0,0.65197492" centerOfMass="0.455488,-0.166915,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.393881" minY="-1.27799" minZ="-0.390817" maxX="1.30486" maxY="0.944164" maxZ="0.390817"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.393881" minY="-1.27799" minZ="-0.390817" maxX="1.30455" maxY="0.944164" maxZ="0.390817"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="51345" />
+    <Annotation designname="MERMAID TAIL" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.705007" sY="0.263258" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.3998" ty="2.5543" tz="-0.0029" />
+    <Box sX="0.61963" sY="0.550875" sZ="0.25659" angle="4.682" ax="1" ay="0" az="0" tx="0.3914" ty="1.9284" tz="0.1077" />
+    <Box sX="0.504125" sY="0.650519" sZ="0.190405" angle="10.7091" ax="1" ay="0" az="0" tx="0.3914" ty="0.7358" tz="0.008" />
+    <Box sX="0.299132" sY="0.345628" sZ="0.216431" angle="0" ax="1" ay="0" az="0" tx="0.3998" ty="0.3532" tz="-0.1551" />
+    <Box sX="0.225114" sY="0.345628" sZ="0.240765" angle="67.2161" ax="0" ay="-1" az="0" tx="1.0046" ty="0.3532" tz="0.1841" />
+    <Box sX="0.225114" sY="0.23" sZ="0.08027" angle="56.8471" ax="0" ay="-1" az="0" tx="1.1406" ty="0.2376" tz="0.5055" />
+    <Box sX="0.299132" sY="0.345628" sZ="0.263404" angle="40.5944" ax="0" ay="-1" az="0" tx="0.8274" ty="0.3532" tz="0.0661" />
+    <Box sX="0.199054" sY="0.23" sZ="0.112003" angle="0" ax="1" ay="0" az="0" tx="0.7664" ty="3.0676" tz="0.0001" />
+    <Box sX="0.112" sY="0.23" sZ="0.232" angle="0" ax="1" ay="0" az="0" tx="0.7993" ty="3.0665" tz="0.0001" />
+    <Box sX="0.225114" sY="0.345628" sZ="0.240765" angle="112.7839" ax="0" ay="-1" az="0" tx="-0.2049" ty="0.3532" tz="0.1841" />
+    <Box sX="0.225114" sY="0.23" sZ="0.08027" angle="123.1529" ax="0" ay="-1" az="0" tx="-0.341" ty="0.2376" tz="0.5055" />
+    <Box sX="0.299132" sY="0.345628" sZ="0.263404" angle="139.4056" ax="0" ay="-1" az="0" tx="-0.0278" ty="0.3532" tz="0.0661" />
+    <Box sX="0.199054" sY="0.23" sZ="0.112003" angle="180" ax="0" ay="1" az="0" tx="0.0333" ty="3.0676" tz="0.0001" />
+    <Box sX="0.112" sY="0.23" sZ="0.232" angle="180" ax="0" ay="1" az="0" tx="0.0003" ty="3.0665" tz="0.0001" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,7:4:2,23:4:1,7:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="2.826" tz="0" />
+    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="2.916" tz="0" />
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="2.826" tz="0" />
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="2.916" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.10424,0,0,0,0.510189,0,0,0,2.41761" centerOfMass="0.399829,1.58584,0.070883" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.531283" minY="-0.003986" minZ="-0.402918" maxX="1.33095" maxY="3.30757" maxZ="0.737823" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.505175" minY="-0.003986" minZ="-0.402918" maxX="1.30484" maxY="3.30757" maxZ="0.720103" />
+  </GeometryBounding>
+</LEGOPrimitive>

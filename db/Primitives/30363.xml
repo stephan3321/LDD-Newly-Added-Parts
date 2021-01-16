@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Added decoration surface by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30363" />
+    <Annotation designname="ROOF TILE 2X4X1, 18°" />
+    <Annotation maingroupid="205" />
+    <Annotation maingroupname="BRICKS, WITH SLOPE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="1.59" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.1" tz="1.2" />
+    <Box sX="0.79" sY="0.39" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.48" tz="0" />
+    <Box sX="0.79" sY="0.090159" sZ="1.24873" angle="180" ax="0" ay="-0.153" az="0.9882" tx="0.4" ty="0.4839" tz="1.5695" />
+    <Box sX="0.79" sY="0.805129" sZ="0.218493" angle="180" ax="0" ay="0.7627" az="-0.6467" tx="0.4" ty="0.3626" tz="1.1164" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="8" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.50766,0,0,0,1.8305,0,0,0,0.607134" centerOfMass="0.399994,0.474757,0.851666" mass="1.64999997616" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.138" maxZ="2.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.138" maxZ="2.8" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

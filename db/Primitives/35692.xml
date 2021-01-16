@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35692" />
+    <Annotation designname="BALLOON DOG, NO. 1" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.175352" sY="0.264126" sZ="0.153872" angle="27.97915" ax="-1" ay="0" az="0" tx="0" ty="-0.313489" tz="0.502633"/>
+    <Box sX="0.097443" sY="0.368065" sZ="0.084992" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.008821" tz="-0.053869"/>
+    <Box sX="0.175352" sY="0.266121" sZ="0.153872" angle="28.19091" ax="1" ay="0" az="0" tx="0" ty="-0.314565" tz="-0.521612"/>
+    <Box sX="0.12671" sY="0.217094" sZ="0.110868" angle="150.06556" ax="1" ay="0" az="0" tx="0" ty="0.246608" tz="-0.481877"/>
+    <Box sX="0.045823" sY="0.109072" sZ="0.039354" angle="150.06556" ax="1" ay="0" az="0" tx="0" ty="0.5425" tz="-0.646929"/>
+    <Box sX="0.12671" sY="0.201954" sZ="0.110868" angle="157.28846" ax="-1" ay="0" az="0" tx="0" ty="0.251348" tz="0.464739"/>
+    <Box sX="0.20482" sY="0.239792" sZ="0.12061" angle="172.20649" ax="1" ay="0" az="0" tx="0" ty="0.713701" tz="0.515344"/>
+    <Box sX="0.114897" sY="0.285933" sZ="0.108775" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.418772" tz="0.900536"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.20683" requireGrabbing="0" startCapped="0" endCapped="1" angle="158.90942" ax="0.694747" ay="0.186157" az="0.694747" tx="0" ty="0.645368" tz="-0.70631"/>
+    <Axel type="7" length="0.452496" requireGrabbing="1" startCapped="1" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0.008972" tz="0.222216"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.55876939,0,0,0,0.36042536,0,0,0,0.26521601" centerOfMass="0,0.181791,0.207489" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.316714" minY="-0.65208" minZ="-0.78295" maxX="0.316714" maxY="1.01566" maxZ="1.19793"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.316714" minY="-0.65208" minZ="-0.773542" maxX="0.316714" maxY="1.01566" maxZ="1.19793"/>
+  </GeometryBounding>
+</LEGOPrimitive>

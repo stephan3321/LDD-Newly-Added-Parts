@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Magnus Forsberg [MagFors]
+Editted for LDD by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69963" />
+    <Annotation designname="WHEEL BEARING 2X42X1, W/ FUNCTION" />
+    <Annotation maingroupid="268" />
+    <Annotation maingroupname="WHEEL BASE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.15" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="-0.4" />
+    <Box sX="0.065" sY="0.63" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="1.275" ty="0.32" tz="-0.4" />
+    <Box sX="0.79" sY="0.065" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="2" ty="0.885" tz="-0.4" />
+    <Box sX="0.05" sY="0.213591" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="2.74" ty="0.7364" tz="-0.4" />
+    <Box sX="0.05" sY="0.487281" sZ="0.79" angle="42.8961" ax="0" ay="0" az="1" tx="2.0024" ty="0.4472" tz="-0.4" />
+    <Box sX="0.05" sY="0.213591" sZ="0.79" angle="44.4736" ax="0" ay="0" az="-1" tx="2.5984" ty="0.3957" tz="-0.4" />
+    <Box sX="0.034143" sY="0.213591" sZ="0.79" angle="45.574" ax="0" ay="0" az="-1" tx="2.4259" ty="0.234" tz="-0.4" />
+    <Box sX="0.055727" sY="0.173128" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="2.3101" ty="0.7769" tz="-0.4" />
+    <Box sX="0.037695" sY="0.289058" sZ="0.79" angle="43.0516" ax="0" ay="0" az="1" tx="1.5186" ty="0.304" tz="-0.4" />
+    <Box sX="0.259659" sY="0.15" sZ="0.07" angle="0" ax="1" ay="0" az="0" tx="1.4697" ty="-0.16" tz="-1.12" />
+    <Box sX="0.252857" sY="0.15" sZ="0.07" angle="0" ax="1" ay="0" az="0" tx="1.4629" ty="-0.16" tz="0.32" />
+    <Box sX="0.380076" sY="0.184318" sZ="0.03" angle="0" ax="1" ay="0" az="0" tx="2.3022" ty="0.6242" tz="-0.4" />
+    <Box sX="0.04632" sY="0.07413" sZ="0.589015" angle="0" ax="1" ay="0" az="0" tx="1.9" ty="-0.192" tz="-0.3998" />
+    <Box sX="0.09218" sY="0.193954" sZ="0.090793" angle="45" ax="0" ay="0" az="-1" tx="1.9847" ty="0.084" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.340106" requireGrabbing="1" startCapped="1" endCapped="1" angle="99.1007" ax="0.3696" ay="0.8526" az="-0.3696" tx="1.8719" ty="-0.0018" tz="-0.4" />
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="-0.32" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.3904804,0,0,0,1.0666667,0,0,0,1.0304804" centerOfMass="1.2,0.409,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.3202" minZ="-1.2" maxX="2.8" maxY="1.1198" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.3202" minZ="-1.2" maxX="2.8" maxY="1.1198" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

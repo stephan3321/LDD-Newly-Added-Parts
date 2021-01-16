@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="53119" />
@@ -9,13 +12,19 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.091416" sY="0.065287" sZ="0.091416" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.711009" tz="0"/>
+    <Box sX="0.216351" sY="0.094743" sZ="0.216351" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.104916" tz="0"/>
+    <Box sX="0.269211" sY="0.20579" sZ="0.269211" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.425448" tz="0"/>
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       29:0,29:0,29:0,
-      29:0,5:4:34,29:0,
+      29:0,5:4:33,29:0,
       29:0,29:0,29:0
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.10551751,0,0,0,0.10779525,0,0,0,0.10541069" centerOfMass="-0.003062,0.392977,-0.00149" mass="1" frictionType="0"/>
   <Bounding>
     <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.799621" maxZ="0.4" />
   </Bounding>

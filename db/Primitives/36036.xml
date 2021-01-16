@@ -2,15 +2,25 @@
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="36036" />
-    <Annotation designname="Skirt" />
+    <Annotation designname="MINI SKIRT, NO. 3" />
     <Annotation maingroupid="240" />
     <Annotation maingroupname="MINI FIGURE" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.087749" sZ="0.789765" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.089" tz="0.4002" />
+    <Box sX="0.79" sY="0.79" sZ="0.390365" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.7913" tz="0.7996" />
+    <Box sX="0.79" sY="0.79" sZ="0.093425" angle="29.0633" ax="1" ay="0" az="0" tx="0.4" ty="0.7505" tz="0.2223" />
+    <Box sX="0.160397" sY="0.23" sZ="0.160397" angle="0" ax="1" ay="0" az="0" tx="0.7929" ty="1.8094" tz="0.8" />
+    <Box sX="0.160397" sY="0.23" sZ="0.160397" angle="0" ax="1" ay="0" az="0" tx="-0.0054" ty="1.8094" tz="0.8" />
+  </Collision>
   <Connectivity>
+    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="1.6" tz="0.8" />
+    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="1.69" tz="0.8" />
     <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="1.6" tz="0.8" />
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="1.69" tz="0.8" />
     <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
@@ -19,6 +29,7 @@
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.57352011,0,0,0,0.42666672,0,0,0,0.57352013" centerOfMass="0.4,1.0395,-0.4" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-0.399101" minY="0" minZ="-0.4" maxX="1.199101" maxY="2.04" maxZ="1.2" />
   </Bounding>

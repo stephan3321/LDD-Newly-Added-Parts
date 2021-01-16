@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Updated for LDD by Stephan
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="51239" />
@@ -9,6 +12,21 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.783703" sY="0.15" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.0012" ty="0.16" tz="0.0054" />
+    <Box sX="0.779365" sY="0.069696" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.0002" ty="2.8" tz="0.0054" />
+    <Box sX="0.069899" sY="1.42982" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-1.1201" ty="1.4398" tz="0.0054" />
+    <Box sX="0.107215" sY="1.42982" sZ="0.221384" angle="0" ax="1" ay="0" az="0" tx="-1.0828" ty="1.4398" tz="0.174" />
+    <Box sX="1.05064" sY="0.105574" sZ="0.221072" angle="0" ax="1" ay="0" az="0" tx="-0.0033" ty="2.7641" tz="0.1743" />
+    <Box sX="0.144899" sY="0.149761" sZ="0.035192" angle="0" ax="1" ay="0" az="0" tx="-0.8854" ty="0.1602" tz="-0.3494" />
+    <Box sX="0.144899" sY="0.149761" sZ="0.237324" angle="0" ax="1" ay="0" az="0" tx="-0.8972" ty="0.1602" tz="0.1564" />
+    <Box sX="0.144899" sY="0.069764" sZ="0.035295" angle="0" ax="1" ay="0" az="0" tx="-0.9037" ty="2.7999" tz="-0.3493" />
+    <Box sX="0.107215" sY="1.42982" sZ="0.221384" angle="180" ax="0" ay="1" az="0" tx="1.0828" ty="1.4398" tz="0.174" />
+    <Box sX="0.069899" sY="1.42982" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="1.1201" ty="1.4398" tz="0.0054" />
+    <Box sX="0.144899" sY="0.069764" sZ="0.035295" angle="180" ax="0" ay="1" az="0" tx="0.9038" ty="2.7999" tz="-0.3493" />
+    <Box sX="0.144899" sY="0.149761" sZ="0.035192" angle="180" ax="0" ay="1" az="0" tx="0.8854" ty="0.1602" tz="-0.3494" />
+    <Box sX="0.144899" sY="0.149761" sZ="0.237324" angle="180" ax="0" ay="1" az="0" tx="0.8972" ty="0.1602" tz="0.1564" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
@@ -25,6 +43,7 @@
     <Fixed type="56" axes="2" angle="180" ax="0" ay="1" az="0" tx="1.04" ty="0.31" tz="-0.2" />
     <Fixed type="56" axes="2" angle="180" ax="0" ay="0" az="1" tx="1.04" ty="2.71" tz="-0.2" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.83261575,0,0,0,0.53333333,0,0,0,1.2592824" centerOfMass="0.8,1.529,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-1.2" minY="0" minZ="-0.4" maxX="1.2" maxY="3.04" maxZ="0.4" />
   </Bounding>

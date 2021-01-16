@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="37783"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="245"/>
+		<Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+		<Annotation designname="RIGHT ARM, NO. 1 / Arm Large with Pin, Right with Hand"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="37783">
+			<Part refID="0" designID="37783" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,1.2000000476837158,1.0893100500106812,1.2000000476837158"></Bone>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3820">
+			<Part refID="1" designID="3820" materials="194">
+				<Bone refID="1" transformation="0.91144400835037231,-0.40756231546401978,0.056236617267131805,0.056236635893583298,0.25881883502006531,0.9642874002456665,-0.40756237506866455,-0.87573152780532837,0.2588188648223877,0.55111813545227051,0.13775162398815155,1.1001482009887695"></Bone>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

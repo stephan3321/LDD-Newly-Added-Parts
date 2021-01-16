@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37783" />
+    <Annotation designname="RIGHT ARM, NO. 1 / Arm Large with Pin, Right" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.19706" sY="0.283955" sZ="0.248519" angle="31.89892" ax="-0.402678" ay="0.250998" az="-0.880256" tx="-0.481798" ty="-0.593005" tz="-0.190007"/>
+    <Box sX="0.157083" sY="0.397054" sZ="0.299277" angle="35.05748" ax="0.889208" ay="0.123706" az="-0.440461" tx="-0.280548" ty="-0.179666" tz="-0.085638"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="19" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="191.6237" ax="-0.703434" ay="0.703434" az="-0.101785" tx="0.784035" ty="0" tz="0"/>
+    <Axel type="6" length="0.715" grabbing="0" startCapped="0" endCapped="1" angle="138.59038" ax="-0.654654" ay="0.654654" az="0.377964" tx="0.784035" ty="0" tz="0"/>
+    <Hinge type="16" oriented="1" angle="29.05782" ax="-0.507923" ay="0.112797" az="-0.853985" tx="-0.66926" ty="-0.995345" tz="-0.086911"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.2542811,0,0,0,0.30882637,0,0,0,0.41030476" centerOfMass="-0.050755,-0.358805,-0.087678" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.885785" minY="-1.08931" minZ="-0.566431" maxX="0.784275" maxY="0.371701" maxZ="0.391074"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.885785" minY="-1.08931" minZ="-0.566431" maxX="0.784275" maxY="0.371701" maxZ="0.376565"/>
+  </GeometryBounding>
+</LEGOPrimitive>

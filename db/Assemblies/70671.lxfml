@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="70671;65476"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ANIMAL, LLOYD'S WOLF"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="70671">
+      <Part refID="0" designID="70671" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="53461">
+      <Part refID="1" designID="53461" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.51400303840637207,2.1906299591064453,0">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>

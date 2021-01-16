@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49656" />
+    <Annotation designname="ROCK CRYSTAL, NO. 1002 / Rock 1 x 1 Geode" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.38608" sY="0.349226" sZ="0.38987" angle="0" ax="1" ay="0" az="0" tx="0.0004" ty="0.3592" tz="0.0026" />
+    <Box sX="0.37555" sY="0.256591" sZ="0.27893" angle="0" ax="1" ay="0" az="0" tx="0.0074" ty="0.985" tz="0.1136" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.18619887,0,0,0,0.10680841,0,0,0,0.18605713" centerOfMass="0,0.629554,0.000531" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.001455" minZ="-0.4" maxX="0.4" maxY="1.26056" maxZ="0.401062" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.001455" minZ="-0.4" maxX="0.4" maxY="1.26056" maxZ="0.401062" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -17,14 +17,24 @@
       23:4:1,2:4:1,23:4:1,
       18:1:1,23:4:1,18:1:1
     </Custom2DField>
-    <Hinge type="60" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.381918" ty="-0.190565" tz="1.11589"/>
-    <Hinge type="60" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.381918" ty="-0.190565" tz="-1.15898"/>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.0008" tz="-0.4">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,15:4:1,22:2:1,15:4:1,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.1208" tz="0.4">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,15:4:1,22:2:1,15:4:1,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="60" oriented="0" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.3819" ty="-0.1906" tz="1.1159" />
+    <Hinge type="60" oriented="0" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.3819" ty="-0.1906" tz="-1.159" />
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.540768980979919" minY="-0.424708008766174" minZ="-1.86214101314545" maxX="1.30460405349731" maxY="0.872438013553619" maxZ="1.86567199230194" />
+    <AABB minX="-0.540769" minY="-0.424708" minZ="-1.862141" maxX="1.304604" maxY="0.872438" maxZ="1.865672" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.540768980979919" minY="-0.424708008766174" minZ="-1.86214101314545" maxX="1.30460405349731" maxY="0.872438013553619" maxZ="1.86567199230194" />
+    <AABB minX="-0.540769" minY="-0.424708" minZ="-1.862141" maxX="1.304604" maxY="0.872438" maxZ="1.865672" />
   </GeometryBounding>
   <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
 </LEGOPrimitive>
