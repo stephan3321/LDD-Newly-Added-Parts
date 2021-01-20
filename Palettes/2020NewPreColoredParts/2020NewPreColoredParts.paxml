@@ -1040,12 +1040,42 @@
 		</Brick>
 		<Brick designID="24630" materialID="1" quantity="1" ItemNos="6143555">
 			<SubMaterial surfaceID="1" materialID="191"/>
+			<Decoration surfaceID="2" decorationID="25870"/>
 		</Brick>
 		<Brick designID="24630" materialID="1" quantity="1" ItemNos="6143630">
 			<SubMaterial surfaceID="1" materialID="191"/>
 		</Brick>
 		<Brick designID="24630" materialID="21" quantity="1" ItemNos="2463300">
 			<SubMaterial surfaceID="1" materialID="191"/>
+		</Brick>
+		<Brick designID="69729" materialID="26" quantity="1" ItemNos="2132410">
+			<Decoration surfaceID="1" decorationID="733271"/>
+		</Brick>
+		<Brick designID="24531" materialID="312" quantity="1" ItemNos="2130201">
+			<Decoration surfaceID="1" decorationID="239311"/>
+		</Brick>
+		<Brick designID="39028" materialID="26" quantity="1" ItemNos="6229063">
+			<SubMaterial surfaceID="1" materialID="138"/>
+		</Brick>
+		<Brick designID="74132" materialID="330" quantity="1" ItemNos="6278977">
+			<SubMaterial surfaceID="1" materialID="5"/>
+			<SubMaterial surfaceID="2" materialID="308"/>
+		</Brick>
+		<Brick designID="74132" materialID="192" quantity="1" ItemNos="6018330">
+			<SubMaterial surfaceID="1" materialID="138"/>
+			<SubMaterial surfaceID="2" materialID="308"/>
+		</Brick>
+		<Brick designID="50746" materialID="194" quantity="1" ItemNos="6186782">
+			<Decoration surfaceID="1" decorationID="33380"/>
+		</Brick>
+		<Brick designID="50746" materialID="28" quantity="1" ItemNos="6261667">
+			<Decoration surfaceID="1" decorationID="52652"/>
+		</Brick>
+		<Brick designID="90498" materialID="26" quantity="1" ItemNos="7519212">
+			<Decoration surfaceID="1" decorationID="344991"/>
+		</Brick>
+		<Brick designID="90498" materialID="26" quantity="1" ItemNos="7525201">
+			<Decoration surfaceID="1" decorationID="649831"/>
 		</Brick>
 	</Bag>
 </PAXML>
