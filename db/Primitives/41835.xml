@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41835;48831;66420" />
+    <Annotation designname="BIRD, NO. 9" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.054212" sY="0.040835" sZ="0.052064" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9519" tz="0.6645" />
+    <Box sX="0.271524" sY="0.240615" sZ="0.199668" angle="15.8514" ax="-1" ay="0" az="0" tx="0" ty="0.6355" tz="-0.0001" />
+    <Box sX="0.173306" sY="0.153329" sZ="0.199668" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9949" tz="0.3867" />
+    <Box sX="0.173306" sY="0.231495" sZ="0.199668" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.736" tz="0.2736" />
+    <Box sX="0.225576" sY="0.154214" sZ="0.156631" angle="10.8" ax="1" ay="0" az="0" tx="0.0082" ty="0.5846" tz="-0.276" />
+    <Box sX="0.124712" sY="0.061584" sZ="0.185727" angle="10.8" ax="1" ay="0" az="0" tx="0.0082" ty="0.6685" tz="-0.6117" />
+    <Box sX="0.152256" sY="0.144405" sZ="0.005536" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1545" tz="0.2655" />
+    <Box sX="0.152256" sY="0.144405" sZ="0.005536" angle="90" ax="0" ay="1" az="0" tx="0.2655" ty="0.1545" tz="0" />
+    <Box sX="0.152256" sY="0.144405" sZ="0.005536" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1545" tz="-0.2655" />
+    <Box sX="0.152256" sY="0.144405" sZ="0.005536" angle="90" ax="0" ay="-1" az="0" tx="-0.2655" ty="0.1545" tz="0" />
+    <Box sX="0.242414" sY="0.068017" sZ="0.24241" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.288" tz="0" />
+    <Box sX="0.199079" sY="0.212608" sZ="0.166702" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5375" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.31427597,0,0,0,0.24929659,0,0,0,0.17018437" centerOfMass="0,0.593924,-0.037491" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3972" minY="0" minZ="-0.8005" maxX="0.3972" maxY="1.1878" maxZ="0.7307" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3972" minY="0" minZ="-0.8005" maxX="0.3972" maxY="1.1878" maxZ="0.7307" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

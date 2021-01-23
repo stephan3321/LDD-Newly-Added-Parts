@@ -34,5 +34,5 @@ Added decoration surface by M2m
     <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.62" maxZ="0.4" />
   </GeometryBounding>
   <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
-  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0" />
+  <DefaultOrientation angle="90" ax="0" ay="0" az="0" tx="0" ty="0" tz="0" />
 </LEGOPrimitive>

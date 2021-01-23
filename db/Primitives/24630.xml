@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from UnityLegoGame
-Editted for LDD by M2m
+	Derived from: UnityLegoGame
+	Editted for LDD by: M2m
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -49,5 +49,5 @@ Editted for LDD by M2m
   <GeometryBounding>
     <AABB minX="-0.845001" minY="-0.184279" minZ="-0.689386" maxX="1.23658" maxY="1.50497" maxZ="0.689386" />
   </GeometryBounding>
-  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,0,3" />
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
 </LEGOPrimitive>
