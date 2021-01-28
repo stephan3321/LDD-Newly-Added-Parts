@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <PAXML versionMajor="1" versionMinor="0">
 	<Bag>
+		<Assembly designID="53309" quantity="1" ItemNos="6267942">
+			<Part designID="53309" materialID="199">
+				<SubMaterial surfaceID="1" materialID="5"/>
+			</Part>
+			<Part designID="41141" materialID="26"/>
+		</Assembly>
 		<Assembly designID="37783" quantity="1" ItemNos="6287335">
 			<Part designID="37783" materialID="321"/>
 			<Part designID="3820" materialID="321"/>
