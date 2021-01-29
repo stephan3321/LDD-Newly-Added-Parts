@@ -1098,5 +1098,17 @@
 		<Brick designID="24128" materialID="191" quantity="1" ItemNos="6171039">
 			<SubMaterial surfaceID="4" materialID="199"/>
 		</Brick>
+		<Brick designID="24101" materialID="191" quantity="1" ItemNos="6138741">
+			<SubMaterial surfaceID="1" materialID="44"/>
+		</Brick>
+		<Brick designID="24101" materialID="315" quantity="1" ItemNos="6134601">
+			<SubMaterial surfaceID="1" materialID="47"/>
+		</Brick>
+		<Brick designID="24104" materialID="191" quantity="1" ItemNos="6138744">
+			<SubMaterial surfaceID="1" materialID="44"/>
+		</Brick>
+		<Brick designID="24104" materialID="315" quantity="1" ItemNos="6134602">
+			<SubMaterial surfaceID="1" materialID="47"/>
+		</Brick>
 	</Bag>
 </PAXML>
