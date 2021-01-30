@@ -1122,5 +1122,17 @@
 		<Brick designID="3623" materialID="222" quantity="1" ItemNos="6223864">
 			<Decoration surfaceID="1" decorationID="38275"/>
 		</Brick>
+		<Brick designID="3623" materialID="1" quantity="1" ItemNos="6237005">
+			<Decoration surfaceID="1" decorationID="39700"/>
+		</Brick>
+		<Brick designID="3623" materialID="138" quantity="1" ItemNos="6311490">
+			<Decoration surfaceID="1" decorationID="69172"/>
+		</Brick>
+		<Brick designID="3623" materialID="138" quantity="1" ItemNos="6311491">
+			<Decoration surfaceID="2" decorationID="69172"/>
+		</Brick>
+		<Brick designID="3023" materialID="138" quantity="1" ItemNos="6311491">
+			<Decoration surfaceID="1" decorationID="69172"/>
+		</Brick>
 	</Bag>
 </PAXML>
