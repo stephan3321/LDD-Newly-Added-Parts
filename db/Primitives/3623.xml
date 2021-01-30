@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2021-01-29
-	Comments: Editted for LDD by: Stephan
+	Created for LDD by: Stephan
+	Last modification: 2021-01-30
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -35,5 +35,5 @@
   <GeometryBounding>
     <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2" maxY="0.497" maxZ="0.4" />
   </GeometryBounding>
-  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0" />
 </LEGOPrimitive>
