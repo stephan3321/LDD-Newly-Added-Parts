@@ -1119,5 +1119,8 @@
 		<Brick designID="3623" materialID="1" quantity="1" ItemNos="6137060">
 			<Decoration surfaceID="1" decorationID="25079"/>
 		</Brick>
+		<Brick designID="3623" materialID="222" quantity="1" ItemNos="6223864">
+			<Decoration surfaceID="1" decorationID="38275"/>
+		</Brick>
 	</Bag>
 </PAXML>
