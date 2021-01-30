@@ -2155,4 +2155,8 @@
 	<Mapping decorationID="25078" designID="3623" surfaceID="1"/>
 	<Mapping decorationID="25079" designID="3623" surfaceID="1"/>
 	<Mapping decorationID="38275" designID="3623" surfaceID="1"/>
+	<Mapping decorationID="39700" designID="3623" surfaceID="1"/>
+	<Mapping decorationID="69172" designID="3623" surfaceID="1"/>
+	<Mapping decorationID="69172" designID="3623" surfaceID="2"/>
+	<Mapping decorationID="69172" designID="3023" surfaceID="1"/>
 </DecorationMapping>
