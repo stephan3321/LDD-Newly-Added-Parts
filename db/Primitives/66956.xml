@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Massimo Maso [Sirio]
+	Editted for LDD by: Stephan
+	Last modification: 2021-02-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="66956" />
+    <Annotation designname="Plate W/ Bow 2X2X2/3, 45 Deg." />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.6399" sY="0.227803" sZ="0.065" angle="180" ax="0" ay="1" az="0" tx="0.3999" ty="-0.079" tz="0.4759" />
+    <Box sX="0.638246" sY="0.013192" sZ="0.070138" angle="0" ax="1" ay="0" az="0" tx="0.399" ty="0.1865" tz="0.3329" />
+    <Box sX="0.090299" sY="0.086679" sZ="0.089745" angle="135" ax="0" ay="1" az="0" tx="0.4" ty="-0.2233" tz="1.059" />
+    <Box sX="0.338589" sY="0.030376" sZ="0.232994" angle="20.3871" ax="1" ay="0" az="0" tx="0.399" ty="0.0916" tz="0.6035" />
+    <Box sX="0.114965" sY="0.020184" sZ="0.132114" angle="25.8409" ax="1" ay="0" az="0" tx="0.399" ty="-0.0378" tz="0.9392" />
+    <Box sX="0.26182" sY="0.023726" sZ="0.069902" angle="135" ax="0" ay="1" az="0" tx="0.1216" ty="-0.0783" tz="0.8095" />
+    <Box sX="0.076917" sY="0.106898" sZ="0.069902" angle="135" ax="0" ay="1" az="0" tx="-0.132" ty="0.0049" tz="0.5558" />
+    <Box sX="0.389518" sY="0.094551" sZ="0.065" angle="90" ax="0" ay="-1" az="0" tx="-0.325" ty="0.1056" tz="-0.0005" />
+    <Box sX="0.26182" sY="0.023726" sZ="0.069902" angle="45" ax="0" ay="1" az="0" tx="0.6792" ty="-0.0783" tz="0.8095" />
+    <Box sX="0.076917" sY="0.106898" sZ="0.069902" angle="45" ax="0" ay="1" az="0" tx="0.9329" ty="0.0049" tz="0.5558" />
+    <Box sX="0.389518" sY="0.094551" sZ="0.065" angle="90" ax="0" ay="-1" az="0" tx="1.1258" ty="0.1056" tz="-0.0005" />
+    <Box sX="0.786057" sY="0.01487" sZ="0.381988" angle="7.5859" ax="1" ay="0" az="0" tx="0.3995" ty="0.2399" tz="0.0129" />
+    <Box sX="0.03" sY="0.146814" sZ="0.268141" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="-0.1571" tz="0.679" />
+    <Box sX="0.14" sY="0.153667" sZ="0.03" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="-0.1502" tz="0.7956" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="-0.32" tz="0.6">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,29:0:1,22:2:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.24746669,0,0,0,0.4266667,0,0,0,0.24746665" centerOfMass="0.4,0,0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.32" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.32" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>
