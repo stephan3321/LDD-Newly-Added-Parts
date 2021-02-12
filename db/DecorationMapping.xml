@@ -2185,4 +2185,18 @@
 	<Mapping decorationID="300123" designID="3001" surfaceID="1"/>
 	<Mapping decorationID="300111" designID="3001" surfaceID="1"/>
 	<Mapping decorationID="300119" designID="3001" surfaceID="1"/>
+	<Mapping decorationID="30016" designID="3001" surfaceID="1"/>
+	<Mapping decorationID="303712" designID="3037" surfaceID="1"/>
+	<Mapping decorationID="303701" designID="3037" surfaceID="1"/>
+	<Mapping decorationID="303702" designID="3037" surfaceID="1"/>
+	<Mapping decorationID="39486" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="31468" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="30671" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="30674" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="30672" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="30675" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="25313" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="30783" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="31906" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="25619" designID="98138" surfaceID="1"/>
 </DecorationMapping>
