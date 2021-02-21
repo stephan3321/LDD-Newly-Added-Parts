@@ -2199,4 +2199,11 @@
 	<Mapping decorationID="30783" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="31906" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="25619" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="47144" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="48277" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="48272" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="49610" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="66894" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="29198" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="68915" designID="66858" surfaceID="1"/>
 </DecorationMapping>
