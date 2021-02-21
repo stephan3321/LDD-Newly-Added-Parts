@@ -1320,5 +1320,26 @@
 		<Brick designID="98138" materialID="297" quantity="1" ItemNos="6141970;6287847">
 			<Decoration surfaceID="1" decorationID="25619"/>
 		</Brick>
+		<Brick designID="3070" materialID="37" quantity="1" ItemNos="6253176">
+			<Decoration surfaceID="1" decorationID="47144"/>
+		</Brick>
+		<Brick designID="3070" materialID="107" quantity="1" ItemNos="6253837">
+			<Decoration surfaceID="1" decorationID="48277"/>
+		</Brick>
+		<Brick designID="3070" materialID="1" quantity="1" ItemNos="6253635">
+			<Decoration surfaceID="1" decorationID="48272"/>
+		</Brick>
+		<Brick designID="3070" materialID="1" quantity="1" ItemNos="6254609">
+			<Decoration surfaceID="1" decorationID="49610"/>
+		</Brick>
+		<Brick designID="3069" materialID="199" quantity="1" ItemNos="6291791">
+			<Decoration surfaceID="1" decorationID="668940"/>
+		</Brick>
+		<Brick designID="98138" materialID="26" quantity="1" ItemNos="6172764;6284073">
+			<Decoration surfaceID="1" decorationID="29198"/>
+		</Brick>
+		<Brick designID="66858" materialID="24" quantity="1" ItemNos="6308953">
+			<Decoration surfaceID="1" decorationID="68915"/>
+		</Brick>
 	</Bag>
 </PAXML>
