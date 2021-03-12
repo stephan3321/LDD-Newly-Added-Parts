@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Orion Pobursky [OrionP]
+	Editted for LDD by: Stephan
+	Named 44567a by BrickLink and LDraw
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="445671" />
+    <Annotation designname="PLATE 1X2 W. STUB/VERTICAL W/ GROOVE" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.34" sY="0.011615" sZ="0.079802" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.2984" tz="0.4898" />
+    <Box sX="0.79" sY="0.15" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.122422" sY="0.247321" sZ="0.176767" angle="0" ax="1" ay="0" az="0" tx="0.3969" ty="0.2573" tz="0.819" />
+    <Box sX="0.15" sY="0.15" sZ="0.10535" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0.5154" />
+    <Box sX="0.34" sY="0.011615" sZ="0.079802" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1969" tz="0.4898" />
+    <Box sX="0.15" sY="0.063923" sZ="0.172543" angle="39.6175" ax="-1" ay="0" az="0" tx="0.4" ty="0.3795" tz="0.5878" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="3" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0.4" ty="0.248" tz="0.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.072153,0,0,0,0.14573,0,0,0,0.08896" centerOfMass="0.4,0.230257,0.166851" mass="0.51599997282" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.3997" maxX="1.2" maxY="0.5352" maxZ="1.0143" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.3997" maxX="1.2" maxY="0.5352" maxZ="1.0143" />
+  </GeometryBounding>
+</LEGOPrimitive>

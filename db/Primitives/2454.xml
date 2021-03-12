@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Editted for LDD by: Stephan
+	Updated collisions.
+	Last modification: 2021-03-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2454;46212"/>
+    <Annotation designname="BRICK 1X2X5"/>
+    <Annotation maingroupid="201"/>
+    <Annotation maingroupname="BRICKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="2.39" sZ="0.063799" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="2.4" tz="0.3237" />
+    <Box sX="0.068629" sY="2.39" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="1.1218" ty="2.4" tz="0" />
+    <Box sX="0.79" sY="2.39" sZ="0.063799" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="2.4" tz="-0.3312" />
+    <Box sX="0.79" sY="0.043495" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="4.7532" tz="0" />
+    <Box sX="0.068629" sY="2.39" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.323" ty="2.4" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="4.8" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="8.4735,0,0,0,1.06667,0,0,0,9.11349" centerOfMass="0.4,2.489,0" mass="4" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="4.978" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="4.978" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

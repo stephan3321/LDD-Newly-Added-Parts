@@ -15,6 +15,7 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <DefaultOrientation angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
   <Collision>
     <Box sX="0.025246" sY="0.09315" sZ="0.133429" angle="134.1077" ax="0.0007" ay="-1" az="-0.0017" tx="0.5984" ty="0.1075" tz="0.1349" />
     <Box sX="0.032469" sY="0.09315" sZ="0.107531" angle="80.2186" ax="0.002" ay="-1" az="-0.0018" tx="0.9657" ty="0.107" tz="0.2519" />
@@ -92,5 +93,4 @@
     <AABB minX="-0.5039" minY="-0.0023" minZ="-1.2644" maxX="1.3041" maxY="0.7977" maxZ="0.3356" />
   </GeometryBounding>
   <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
-  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
 </LEGOPrimitive>
