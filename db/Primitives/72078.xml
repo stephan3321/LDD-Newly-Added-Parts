@@ -3,7 +3,6 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Takeshi Takahashi [RainbowDolphin]
 	Editted for LDD by: Stephan
-	Last modification: 2021-02-09
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -16,16 +15,16 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.39" sY="0.39" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="-0.0612" ty="0.16" tz="-0.0591" />
-    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="90" ax="1" ay="0" az="0" tx="0.0836" ty="0.3196" tz="-0.0591" />
-    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.0622" ty="0.3196" tz="0.0897" />
-    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="150.0844" ax="0.2672" ay="0.6814" az="-0.6814" tx="-0.0341" ty="0.3453" tz="-0.0366" />
-    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8244" ax="0.279" ay="0.679" az="-0.679" tx="-0.053" ty="0.4229" tz="-0.0541" />
-    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8244" ax="0.279" ay="0.679" az="-0.679" tx="0.011" ty="0.3741" tz="0.0092" />
-    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8244" ax="0.279" ay="0.679" az="-0.679" tx="-0.0066" ty="0.3948" tz="-0.0082" />
+    <Box sX="0.39" sY="0.39" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="-0.0026" ty="0.16" tz="0.0022" />
+    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="90" ax="1" ay="0" az="0" tx="0.1422" ty="0.3196" tz="0.0022" />
+    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.0036" ty="0.3196" tz="0.151" />
+    <Box sX="0.126162" sY="0.217692" sZ="0.035459" angle="150.0841" ax="0.2672" ay="0.6814" az="-0.6814" tx="0.0245" ty="0.3453" tz="0.0247" />
+    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8241" ax="0.279" ay="0.679" az="-0.679" tx="0.0056" ty="0.4229" tz="0.0072" />
+    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8241" ax="0.279" ay="0.679" az="-0.679" tx="0.0696" ty="0.3741" tz="0.0705" />
+    <Box sX="0.031438" sY="0.159739" sZ="0.035459" angle="148.8241" ax="0.279" ay="0.679" az="-0.679" tx="0.052" ty="0.3948" tz="0.0531" />
   </Collision>
   <Connectivity>
-    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.3388" ty="0" tz="0.3409">
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:1:1,
       22:2:1,15:4:2,22:2:1,
       22:1:1,22:2:1,22:1:1
