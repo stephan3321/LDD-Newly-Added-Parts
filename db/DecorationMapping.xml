@@ -2222,4 +2222,21 @@
 	<Mapping decorationID="66069" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="36089" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="67532" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="69085" designID="66855" surfaceID="1"/>
+	<Mapping decorationID="76907" designID="66855" surfaceID="1"/>
+	<Mapping decorationID="68967" designID="66855" surfaceID="1"/>
+	<Mapping decorationID="73688" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="672221" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="303901" designID="3039" surfaceID="1"/>
+	<Mapping decorationID="21060" designID="3004" surfaceID="1"/>
+	<Mapping decorationID="76893" designID="3004" surfaceID="1"/>
+	<Mapping decorationID="19181" designID="3004" surfaceID="1"/>
+	<Mapping decorationID="78286" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="30723" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="62688" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="37097" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="45356" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="45356" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="45356" designID="15068" surfaceID="1"/>
+	<Mapping decorationID="45356" designID="42918" surfaceID="1"/>
 </DecorationMapping>
