@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Comments: Made decoratable.
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="42918" />
@@ -9,22 +13,33 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
-<Connectivity>
-    <Custom2DField type="22" width="12" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+  <Collision>
+    <Box sX="0.389739" sY="0.214817" sZ="0.789959" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0.5353" tz="-0.4" />
+    <Box sX="0.389739" sY="0.057431" sZ="0.789959" angle="0" ax="1" ay="0" az="0" tx="-1.6002" ty="0.698" tz="-0.4" />
+    <Box sX="0.70731" sY="0.086152" sZ="0.789959" angle="1.8281" ax="0" ay="0" az="-1" tx="-1.277" ty="0.831" tz="-0.4" />
+    <Box sX="0.827351" sY="0.277028" sZ="0.789959" angle="4.8374" ax="0" ay="0" az="-1" tx="0.2427" ty="0.5495" tz="-0.4" />
+    <Box sX="0.827351" sY="0.251317" sZ="0.789959" angle="8.2741" ax="0" ay="0" az="-1" tx="1.8923" ty="0.3858" tz="-0.4" />
+    <Box sX="0.618121" sY="0.090041" sZ="0.789959" angle="11.7365" ax="0" ay="0" az="-1" tx="3.2681" ty="0.3196" tz="-0.4" />
+    <Box sX="0.478457" sY="0.078996" sZ="0.789959" angle="0" ax="1" ay="0" az="0" tx="3.9112" ty="0.0802" tz="-0.4" />
+    <Box sX="1.90686" sY="0.181875" sZ="0.789959" angle="0" ax="1" ay="0" az="0" tx="1.5174" ty="0.1828" tz="-0.4" />
+    <Box sX="0.31709" sY="0.081718" sZ="0.789959" angle="13.6214" ax="0" ay="0" az="-1" tx="4.0262" ty="0.1641" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="12" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
-      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1, 
-      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1, 
-      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,  
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
-    <Custom2DField type="22" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0.32" tz="-1.2">
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-1.2">
       22:1:1,22:2:1,22:1:1,
       22:2:1,15:4:1,22:2:1,
       22:2:1,9:4:1,22:2:1,
       22:2:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
-    <Custom2DField type="22" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.64" tz="-1.2">
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0.64" tz="-1.2">
       22:1:1,22:2:1,22:1:1,
       22:2:1,15:4:1,22:2:1,
       22:2:1,9:4:1,22:2:1,
@@ -32,10 +47,12 @@
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.29013334,0,0,0,3.6266667,0,0,0,3.4901333" centerOfMass="2.8,-0.16,-0.4" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-2" minY="-0.001067" minZ="-1.200011" maxX="4.4" maxY="0.959891" maxZ="0.400011" />
   </Bounding>
   <GeometryBounding>
     <AABB minX="-2" minY="-0.001067" minZ="-1.200011" maxX="4.4" maxY="0.959891" maxZ="0.400011" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

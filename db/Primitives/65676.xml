@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Vincent Messenet [Cheenzo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-03-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65676" />
+    <Annotation designname="TRIANGULAR SIGN W/ SNAP" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.051018" sY="0.15" sZ="0.143388" angle="0" ax="1" ay="0" az="0" tx="-0.216" ty="0.1649" tz="-0.0097" />
+    <Box sX="0.130767" sY="0.15" sZ="0.162799" angle="90" ax="0" ay="1" az="0" tx="-0.0009" ty="0.1649" tz="0.3242" />
+    <Box sX="0.051018" sY="0.15" sZ="0.143388" angle="0" ax="1" ay="0" az="0" tx="0.2177" ty="0.1649" tz="-0.0098" />
+    <Box sX="0.825556" sY="0.13767" sZ="0.054041" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3305" tz="0.4707" />
+    <Box sX="0.794957" sY="0.141102" sZ="0.054041" angle="60" ax="0" ay="0" az="1" tx="-0.3509" ty="0.2973" tz="0.4707" />
+    <Box sX="0.785332" sY="0.15613" sZ="0.054041" angle="60" ax="0" ay="0" az="-1" tx="0.3453" ty="0.2771" tz="0.4707" />
+    <Box sX="0.395203" sY="0.433099" sZ="0.054041" angle="0" ax="1" ay="0" az="0" tx="0.0079" ty="0.0586" tz="0.4707" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0.3249" tz="0.0041" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.25607671,0,0,0,0.31127062,0,0,0,0.48333064" centerOfMass="0,0.316908,0.185" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.879" minY="-0.4739" minZ="-0.1553" maxX="0.879" maxY="1.0783" maxZ="0.5248" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.879" minY="-0.4739" minZ="-0.1553" maxX="0.879" maxY="1.0783" maxZ="0.5248" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
