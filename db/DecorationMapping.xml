@@ -2222,6 +2222,7 @@
 	<Mapping decorationID="66069" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="36089" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="67532" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="73774" designID="98138" surfaceID="1"/>
 	<Mapping decorationID="69085" designID="66855" surfaceID="1"/>
 	<Mapping decorationID="76907" designID="66855" surfaceID="1"/>
 	<Mapping decorationID="68967" designID="66855" surfaceID="1"/>
@@ -2263,4 +2264,55 @@
 	<Mapping decorationID="20432" designID="87079" surfaceID="1"/>
 	<Mapping decorationID="69533" designID="87079" surfaceID="1"/>
 	<Mapping decorationID="31912" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="69193" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="78281" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="78282" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="38995" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="66273" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="66251" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="23082" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="73777" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="68399" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="73784" designID="85984" surfaceID="1"/>
+	<Mapping decorationID="78280" designID="4162" surfaceID="1"/>
+	<Mapping decorationID="78249" designID="2431" surfaceID="1"/>
+	<Mapping decorationID="78293" designID="87552" surfaceID="1"/>
+	<Mapping decorationID="78287" designID="87552" surfaceID="1"/>
+	<Mapping decorationID="78284" designID="15068" surfaceID="1"/>
+	<Mapping decorationID="78283" designID="15068" surfaceID="1"/>
+	<Mapping decorationID="60186" designID="3039" surfaceID="1"/>
+	<Mapping decorationID="30391" designID="3039" surfaceID="1"/>
+	<Mapping decorationID="39550" designID="35787" surfaceID="1"/>
+	<Mapping decorationID="773982" designID="35787" surfaceID="1"/>
+	<Mapping decorationID="773992" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="300422" designID="3004" surfaceID="1"/>
+	<Mapping decorationID="68411" designID="2723" surfaceID="1"/>
+	<Mapping decorationID="773981" designID="26603" surfaceID="1"/>
+	<Mapping decorationID="773983" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="773984" designID="14769" surfaceID="1"/>
+	<Mapping decorationID="773985" designID="24093" surfaceID="1"/>
+	<Mapping decorationID="773987" designID="24093" surfaceID="2"/>
+	<Mapping decorationID="773986" designID="15068" surfaceID="1"/>
+	<Mapping decorationID="773988" designID="14716" surfaceID="1"/>
+	<Mapping decorationID="773989" designID="35700" surfaceID="2"/>
+	<Mapping decorationID="773980" designID="35700" surfaceID="3"/>
+	<Mapping decorationID="773991" designID="66857" surfaceID="1"/>
+	<Mapping decorationID="39346" designID="6256" surfaceID="1"/>
+	<Mapping decorationID="672171" designID="98138" surfaceID="1"/>
+	<Mapping decorationID="32647" designID="14769" surfaceID="1"/>
+	<Mapping decorationID="76889" designID="3003" surfaceID="1"/>
+	<Mapping decorationID="39849" designID="87079" surfaceID="1"/>
+	<Mapping decorationID="73778" designID="3070" surfaceID="1"/>
+	<Mapping decorationID="78267" designID="78267" surfaceID="1"/>
+	<Mapping decorationID="73779" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="29983" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="94875" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="51582" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="18327" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="30690" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="30691" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="30692" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="31914" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="41781" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="34957" designID="3069" surfaceID="1"/>
 </DecorationMapping>
