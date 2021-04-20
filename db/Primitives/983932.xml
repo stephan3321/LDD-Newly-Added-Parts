@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="983932,1010475" />
+    <Annotation designname="FRIENDS ACCESSORIES MEDICAL CLIPBOARD" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.099688" sY="0.79" sZ="0.091135" angle="0" ax="1" ay="0" az="0" tx="0.0009" ty="0" tz="0" />
+    <Box sX="0.188152" sY="0.202885" sZ="0.078651" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="1.0129" tz="0.0137" />
+    <Box sX="0.184432" sY="0.168236" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.6306" ty="0.9782" tz="0" />
+    <Box sX="0.182912" sY="0.16025" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.7718" ty="0.9702" tz="0" />
+    <Box sX="0.212374" sY="0.21663" sZ="0.037306" angle="15.1498" ax="1" ay="0" az="0" tx="1.2" ty="1.0084" tz="0.1009" />
+    <Box sX="0.212374" sY="0.128357" sZ="0.037306" angle="16.283" ax="1" ay="0" az="0" tx="0.7989" ty="0.9991" tz="0.1016" />
+    <Box sX="0.212374" sY="0.128357" sZ="0.037306" angle="16.283" ax="1" ay="0" az="0" tx="1.5867" ty="0.9991" tz="0.1016" />
+    <Box sX="0.297263" sY="0.10775" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.0763" ty="0.6822" tz="0" />
+    <Box sX="0.112789" sY="0.10775" sZ="0.204487" angle="0" ax="1" ay="0" az="0" tx="0.0113" ty="0.6822" tz="0" />
+    <Box sX="0.112789" sY="0.10775" sZ="0.204487" angle="0" ax="1" ay="0" az="0" tx="0.0113" ty="-0.6822" tz="0" />
+    <Box sX="0.297263" sY="0.10775" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.0763" ty="-0.6822" tz="0" />
+    <Box sX="0.784964" sY="0.79" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.205" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="1.15408" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.577" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.37062452,0,0,0,0.44117642,0,0,0,0.77319827" centerOfMass="0.875,0.22663,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2457" minY="-0.8" minZ="-0.2406" maxX="2.0043" maxY="1.2533" maxZ="0.2406" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2457" minY="-0.8" minZ="-0.2406" maxX="2.0043" maxY="1.2533" maxZ="0.2406" />
+  </GeometryBounding>
+</LEGOPrimitive>

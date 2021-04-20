@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42924" />
+    <Annotation designname="CONNECTOR PEG W. FRICTION 3M, TYPE 2 (FROM 2021)" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.15817" sY="0.15817" sZ="1.19" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-1.2" />
+    <Box sX="0.170045" sY="0.170045" sZ="0.031338" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.0413" />
+    <Box sX="0.170045" sY="0.170045" sZ="0.031338" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-2.3587" />
+    <Box sX="0.202427" sY="0.202427" sZ="0.075" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8" />
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="3" length="1.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="-2.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.115044,0,0,0,0.115618,0,0,0,0.01056" centerOfMass="0,0,-1.17619" mass="0.308999985456" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.32" minY="-0.2963" minZ="-2.4" maxX="0.32" maxY="0.295" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.32" minY="-0.2963" minZ="-2.4" maxX="0.32" maxY="0.295" maxZ="0" />
+  </GeometryBounding>
+  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0" />
+</LEGOPrimitive>

@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-04-05
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="32803" />
@@ -9,26 +13,30 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.395069" sY="0.086" sZ="0.79" angle="180" ax="0.9969" ay="0.0788" az="0" tx="-0.7887" ty="0.167" tz="-0.3998" />
+    <Box sX="0.416624" sY="0.061206" sZ="0.79" angle="180" ax="0.974" ay="0.2265" az="0" tx="-0.0191" ty="0.39" tz="-0.3998" />
+    <Box sX="0.390001" sY="0.0555" sZ="0.79" angle="180" ax="1" ay="0" az="0" tx="-0.0048" ty="0.5799" tz="-0.3998" />
+    <Box sX="0.403357" sY="0.083101" sZ="0.79" angle="180" ax="1" ay="0" az="0" tx="-0.7914" ty="0.2323" tz="-0.3998" />
+    <Box sX="0.228682" sY="0.122768" sZ="0.79" angle="180" ax="1" ay="0" az="0" tx="-0.1661" ty="0.5126" tz="-0.3998" />
+  </Collision>
   <Connectivity>
-    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-1.2">
-      18:1:1,23:4:1,18:1:1,
-      23:4:1,1:4:1,23:4:1,
-      18:2:1,23:4:1,18:2:1,
-      23:4:1,1:4:1,23:4:1,
-      18:1:1,23:4:1,18:1:1
+    <Custom2DField type="23" width="4" height="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0.64" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-1.2">
-      18:1:1,23:4:1,29:0:1,
-      23:4:1,1:4:1,29:0:1,
-      18:2:1,23:4:1,18:2:1,
-      23:4:1,1:4:1,29:0:1,
-      18:1:1,23:4:1,29:0:1
+    <Custom2DField type="23" width="4" height="2" angle="90" ax="0" ay="-1" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.26909385,0,0,0,0.42666699,0,0,0,0.26909382" centerOfMass="0.4,0.089,-0.4" mass="1" frictionType="0" />
   <Bounding>
-    <AABB minX="-1.2" minY="0.002699" minZ="-1.200356" maxX="0.4" maxY="0.8" maxZ="0.400356" />
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="0.7978" maxZ="0.4" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.2" minY="0.002699" minZ="-1.200356" maxX="0.4" maxY="0.8" maxZ="0.400356" />
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="0.7978" maxZ="0.4" />
   </GeometryBounding>
 </LEGOPrimitive>
