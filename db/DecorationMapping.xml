@@ -2315,4 +2315,11 @@
 	<Mapping decorationID="31914" designID="3069" surfaceID="1"/>
 	<Mapping decorationID="41781" designID="3069" surfaceID="1"/>
 	<Mapping decorationID="34957" designID="3069" surfaceID="1"/>
+	<Mapping decorationID="782525" designID="76798" surfaceID="1"/>
+	<Mapping decorationID="782526" designID="76798" surfaceID="1"/>
+	<Mapping decorationID="782531" designID="76798" surfaceID="2"/>
+	<Mapping decorationID="782521" designID="90498" surfaceID="1"/>
+	<Mapping decorationID="76901" designID="34103" surfaceID="2"/>
+	<Mapping decorationID="73675" designID="71772" surfaceID="1"/>
 </DecorationMapping>
+
