@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="983933" />
+    <Annotation designname="FRIENDS ACCESSORIES MEDICAL OTOSCOPE" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.099504" sY="0.266279" sZ="0.099504" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0657" tz="0" />
+    <Box sX="0.099504" sY="0.167061" sZ="0.099504" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6639" tz="0" />
+    <Box sX="0.075116" sY="0.14001" sZ="0.075116" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.108" tz="-0.35" />
+    <Box sX="0.195749" sY="0.189198" sZ="0.195749" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.108" tz="0" />
+    <Box sX="0.195749" sY="0.189198" sZ="0.195749" angle="93.841" ax="-0.9351" ay="-0.2506" az="0.2506" tx="0" ty="1.108" tz="0" />
+    <Box sX="0.195749" sY="0.189198" sZ="0.195749" angle="104.4775" ax="-0.7746" ay="-0.4472" az="0.4472" tx="0" ty="1.108" tz="0" />
+    <Box sX="0.099504" sY="0.063765" sZ="0.042716" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4133" tz="0.0568" />
+    <Box sX="0.014501" sY="0.063765" sZ="0.042716" angle="0" ax="1" ay="0" az="0" tx="0.085" ty="0.4133" tz="-0.0535" />
+    <Box sX="0.014501" sY="0.063765" sZ="0.042716" angle="0" ax="1" ay="0" az="0" tx="-0.0869" ty="0.4133" tz="-0.0535" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.29183684,0,0,0,0.083046731,0,0,0,0.26879011" centerOfMass="0,0.561629,-0.104567" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3" minY="-0.2909" minZ="-0.502" maxX="0.3" maxY="1.4018" maxZ="0.292" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3" minY="-0.2909" minZ="-0.502" maxX="0.3" maxY="1.4018" maxZ="0.292" />
+  </GeometryBounding>
+</LEGOPrimitive>

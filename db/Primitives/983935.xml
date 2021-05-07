@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Takeshi Takahashi [RainbowDolphin]
 	Editted for LDD by: Stephan
-	Last modification: 2021-04-06
+	Last modification: 2021-05-01
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -24,9 +24,9 @@
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.22134743,0,0,0,0.039281047,0,0,0,0.24124418" centerOfMass="5.1E-05,0.507337,-0.004482" mass="1" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.2979" minY="0" minZ="-0.1675" maxX="0.2979" maxY="1.5937" maxZ="0.1675" />
+    <AABB minX="-0.2979" minY="-0.2932" minZ="-0.1782" maxX="0.2979" maxY="1.3005" maxZ="0.1568" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.2979" minY="0" minZ="-0.1675" maxX="0.2979" maxY="1.5937" maxZ="0.1675" />
+    <AABB minX="-0.2979" minY="-0.2932" minZ="-0.1782" maxX="0.2979" maxY="1.3005" maxZ="0.1568" />
   </GeometryBounding>
 </LEGOPrimitive>
