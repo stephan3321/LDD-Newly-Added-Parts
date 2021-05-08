@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-02-20
+	Comments: Updated bar connection on the top.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4083;40046" />
+    <Annotation designname="HANGER 1X4X2 W. 2 CORED KNOBS" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.084046" sY="0.119442" sZ="0.51" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4" ty="0.84" tz="0" />
+    <Box sX="1.09596" sY="0.119446" sZ="0.083119" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.48" tz="0" />
+    <Box sX="0.216318" sY="0.215868" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0009" ty="0.16" tz="-0.0012" />
+    <Box sX="0.269142" sY="0.083521" sZ="0.077196" angle="148.6827" ax="-0.2803" ay="-0.6788" az="0.6788" tx="2.2489" ty="1.6185" tz="-0.0035" />
+    <Box sX="0.2192" sY="0.215868" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4" ty="0.16" tz="-0.0012" />
+    <Box sX="0.084046" sY="0.119443" sZ="0.51" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.84" tz="0" />
+    <Box sX="0.133997" sY="0.009108" sZ="0.117063" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="1.7271" tz="0.1791" />
+    <Box sX="0.133997" sY="0.009108" sZ="0.117063" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="1.7271" tz="-0.1791" />
+    <Box sX="0.133997" sY="0.009108" sZ="0.117063" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.6" ty="1.7271" tz="0.1791" />
+    <Box sX="0.133997" sY="0.009108" sZ="0.117063" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.6" ty="1.7271" tz="-0.1791" />
+    <Box sX="0.23" sY="0.119382" sZ="0.084126" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="1.76" tz="0" />
+    <Box sX="0.11" sY="0.119428" sZ="0.084062" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.52" ty="1.7601" tz="0" />
+    <Box sX="0.11" sY="0.11942" sZ="0.084073" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.88" ty="1.76" tz="0" />
+    <Box sX="0.269142" sY="0.083521" sZ="0.077196" angle="148.9099" ax="-0.2782" ay="0.6792" az="-0.6792" tx="0.164" ty="1.6274" tz="-0.0035" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.92" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="1.92" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="2" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.53" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.8" ty="1.6" tz="0" />
+    <Axel type="6" length="0.53" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="1.6" ty="1.6" tz="0" />
+    <Axel type="7" length="2.07958" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.1602" ty="0.48" tz="0" />
+    <Axel type="7" length="0.8" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.64" tz="0" />
+    <Axel type="7" length="0.8" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="2.4" ty="0.64" tz="0" />
+    <Axel type="7" length="0.33" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="1.0331" ty="1.7611" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.322898,0,0,0,0.645294,0,0,0,0.948558" centerOfMass="1.20001,1.03611,0" mass="0.788999974728" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.33" minY="0" minZ="-0.33" maxX="2.73" maxY="2.13" maxZ="0.33" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.33" minY="0" minZ="-0.33" maxX="2.73" maxY="2.13" maxZ="0.33" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Bionicle Biopack
+	Orginal Author: Lehvak Nuva
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19062" />
+    <Annotation designname="MASK 3, 2015 // BIONICLE MASK OF WATER" />
+    <Annotation maingroupid="342" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.441693" sY="0.084752" sZ="1" angle="25.2337" ax="1" ay="0" az="0" tx="0" ty="3.1183" tz="0.0385" />
+    <Box sX="0.175505" sY="0.084752" sZ="1" angle="33.9424" ax="0.7334" ay="0.1485" az="-0.6633" tx="0.9766" ty="3.0267" tz="-0.2452" />
+    <Box sX="0.256811" sY="0.084752" sZ="1" angle="38.7718" ax="0.6361" ay="-0.1685" az="0.753" tx="-0.9643" ty="3.0475" tz="-0.285" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="0" ax="1" ay="0" az="0" tx="0.865" ty="1.699" tz="-0.2265" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="0" ax="1" ay="0" az="0" tx="-0.8561" ty="1.699" tz="-0.2265" />
+    <Box sX="0.055005" sY="0.186283" sZ="0.080296" angle="0" ax="1" ay="0" az="0" tx="0.865" ty="1.699" tz="-1.0327" />
+    <Box sX="0.055005" sY="0.186283" sZ="0.080296" angle="0" ax="1" ay="0" az="0" tx="-0.8619" ty="1.699" tz="-1.0327" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="112.158" ax="0.5233" ay="0.5233" az="-0.6725" tx="-0.002" ty="0.7255" tz="1.185" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="165.8985" ax="0.3408" ay="0.3821" az="-0.859" tx="0.6263" ty="0.9458" tz="0.8762" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="148.5576" ax="-0.8983" ay="0.2293" az="0.3749" tx="-0.6621" ty="0.9458" tz="0.7849" />
+    <Box sX="0.256811" sY="0.084752" sZ="1" angle="31.6662" ax="0.3472" ay="0.2966" az="0.8896" tx="-1.3319" ty="2.5095" tz="-0.285" />
+    <Box sX="0.175505" sY="0.084752" sZ="1" angle="27.0771" ax="0.382" ay="-0.1145" az="-0.917" tx="1.366" ty="2.5093" tz="-0.474" />
+    <Box sX="0.256811" sY="0.041794" sZ="0.76971" angle="65.8196" ax="0.3991" ay="0.8088" az="0.4319" tx="-0.5274" ty="2.4348" tz="0.8074" />
+    <Box sX="0.256811" sY="0.041794" sZ="0.76971" angle="64.4838" ax="0.3844" ay="-0.7878" az="-0.4812" tx="0.5726" ty="2.4241" tz="0.7983" />
+    <Box sX="0.055005" sY="0.304413" sZ="0.711662" angle="125.5765" ax="0.6065" ay="0.6065" az="-0.5142" tx="-0.002" ty="1.5301" tz="1.1695" />
+    <Box sX="0.055005" sY="0.128276" sZ="0.448503" angle="153.4537" ax="0.1548" ay="0.0174" az="-0.9878" tx="1.113" ty="1.0275" tz="0.1764" />
+    <Box sX="0.055005" sY="0.128276" sZ="0.448503" angle="162.8332" ax="0.0757" ay="0.0843" az="0.9936" tx="-1.1363" ty="1.0674" tz="0.1619" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="1.6912" tz="-0.8364" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.8237" minY="0" minZ="-1.5248" maxX="1.8237" maxY="3.6482" maxZ="1.5248" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.8237" minY="0" minZ="-1.5248" maxX="1.8237" maxY="3.6482" maxZ="1.5248" />
+  </GeometryBounding>
+</LEGOPrimitive>

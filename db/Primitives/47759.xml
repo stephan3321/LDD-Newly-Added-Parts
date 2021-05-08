@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-03-11
+	Comments: Updated collision data.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47759" />
+    <Annotation designname="ROOF TILE 4X2 W. ANGL./SL.BOT." />
+    <Annotation maingroupid="206" />
+    <Annotation maingroupname="BRICKS WITH SLOPE, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.09" sZ="0.062638" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.1" tz="-0.3234" />
+    <Box sX="0.79" sY="0.47" sZ="0.050819" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.48" tz="0.3099" />
+    <Box sX="0.091487" sY="0.541724" sZ="0.39" angle="46.4132" ax="0" ay="0" az="-1" tx="0.0665" ty="0.5102" tz="0" />
+    <Box sX="0.095228" sY="0.541724" sZ="0.39" angle="46.7584" ax="0" ay="0" az="1" tx="2.3199" ty="0.4948" tz="0" />
+    <Box sX="0.79" sY="0.101065" sZ="0.444445" angle="28.8375" ax="1" ay="0" az="0" tx="1.2" ty="0.6435" tz="0.7445" />
+    <Box sX="0.088826" sY="0.021573" sZ="0.433911" angle="71.5457" ax="0.0315" ay="-0.7137" az="-0.6998" tx="2.322" ty="0.4207" tz="0.7318" />
+    <Box sX="0.16548" sY="0.021573" sZ="0.341382" angle="100.8509" ax="-0.1513" ay="-0.8458" az="-0.5116" tx="2.2708" ty="0.5598" tz="0.559" />
+    <Box sX="0.088826" sY="0.021573" sZ="0.433911" angle="130.6838" ax="0.4501" ay="-0.8927" az="-0.0203" tx="0.0796" ty="0.4207" tz="0.7318" />
+    <Box sX="0.16548" sY="0.021573" sZ="0.341382" angle="98.6221" ax="0.52" ay="-0.8402" az="0.1538" tx="0.1308" ty="0.5598" tz="0.559" />
+    <Box sX="0.79" sY="0.09" sZ="0.405" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.42" tz="0.785" />
+    <Box sX="0.191627" sY="0.068419" sZ="0.025796" angle="47.5818" ax="-0.1297" ay="-0.941" az="0.3126" tx="0.266" ty="0.373" tz="1.0155" />
+    <Box sX="0.126524" sY="0.087318" sZ="0.064371" angle="47.5818" ax="-0.1297" ay="-0.941" az="0.3126" tx="-0.2348" ty="0.1459" tz="0.4603" />
+    <Box sX="0.191627" sY="0.067575" sZ="0.042768" angle="135.3824" ax="-0.1363" ay="-0.9891" az="0.0565" tx="2.1212" ty="0.3705" tz="1.004" />
+    <Box sX="0.126524" sY="0.087318" sZ="0.064371" angle="135.3824" ax="-0.1363" ay="-0.9891" az="0.0565" tx="2.6344" ty="0.1459" tz="0.4603" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.32" tz="0.4">
+      22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.398166,0,0,0,1.25442,0,0,0,1.10308" centerOfMass="1.2,0.511122,0.179416" mass="1.60000002384" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.138" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.138" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

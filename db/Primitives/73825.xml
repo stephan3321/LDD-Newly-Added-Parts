@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="73825" />
+    <Annotation designname="PLATE 1X1, W/ 1.5 PLATE 1X2, UPWARDS" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.15" sZ="0.47" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="-0.08" />
+    <Box sX="0.39" sY="0.629014" sZ="0.07" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9202" tz="0.32" />
+    <Box sX="0.335533" sY="0.016276" sZ="0.07" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.5788" tz="0.32" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.5584">
+      29:0:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.5584">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="-0.4" ty="0" tz="0.4044">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.16124481,0,0,0,0.16124481,0,0,0,0.10666672" centerOfMass="0,0.4,-0.168976" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.56" maxX="0.4" maxY="1.6" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.56" maxX="0.4" maxY="1.6" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

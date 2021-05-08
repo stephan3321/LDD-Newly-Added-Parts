@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="983936;1010462" />
+    <Annotation designname="FRIENDS ACCESSORIES MEDICAL FEEDING BOTTLE" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.230702" sY="0.4" sZ="0.109063" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.41" tz="0" />
+    <Box sX="0.124895" sY="0.035" sZ="0.12817" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.12" tz="0" />
+    <Box sX="0.084923" sY="0.054858" sZ="0.097684" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.2299" tz="0" />
+    <Box sX="0.04712" sY="0.069619" sZ="0.054365" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.4082" tz="0" />
+    <Box sX="0.129304" sY="0.035" sZ="0.132686" angle="45" ax="0" ay="-1" az="0" tx="0" ty="1.12" tz="0" />
+    <Box sX="0.126629" sY="0.1175" sZ="0.2" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9475" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.82" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.12" ty="0" tz="0" />
+    <Axel type="7" length="0.82" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-0.12" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.20470833,0,0,0,0.046733349,0,0,0,0.22204168" centerOfMass="0,0.755,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.31" minY="0" minZ="-0.21" maxX="0.31" maxY="1.51" maxZ="0.21" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.31" minY="0" minZ="-0.21" maxX="0.31" maxY="1.51" maxZ="0.21" />
+  </GeometryBounding>
+</LEGOPrimitive>

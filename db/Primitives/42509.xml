@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-01-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42509" />
+    <Annotation designname="GLASS FOR FRAME 1X6X6" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="2.23" sY="2.62" sZ="0.065075" angle="0" ax="1" ay="0" az="0" tx="2" ty="2.95" tz="0.205" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="47" oriented="0" angle="0" ax="1" ay="0" az="0" tx="-0.096" ty="2.95" tz="0.205" />
+    <Hinge type="47" oriented="0" angle="180" ax="0" ay="1" az="0" tx="4.096" ty="2.95" tz="0.205" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.3794661,0,0,0,1.6744121,0,0,0,4.0501207" centerOfMass="2,2.95,0.205" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.24" minY="0.29" minZ="0.12" maxX="4.24" maxY="5.63" maxZ="0.28" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.24" minY="0.29" minZ="0.12" maxX="4.24" maxY="5.63" maxZ="0.28" />
+  </GeometryBounding>
+</LEGOPrimitive>

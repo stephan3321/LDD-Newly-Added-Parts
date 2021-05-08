@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-04-08
+	Comments: Updated connections and collision data
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3633" />
+    <Annotation designname="FENCE 1X4X1" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.069252" sY="0.115" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.3205" ty="0.48" tz="0.275" />
+    <Box sX="1.59" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.16" tz="0" />
+    <Box sX="0.069252" sY="0.115" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7207" ty="0.48" tz="0.275" />
+    <Box sX="0.065618" sY="0.115" sZ="1.578892" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.1894" ty="0.8942" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="148.6003" ax="-0.2811" ay="-0.6786" az="0.6786" tx="0.4212" ty="0.5857" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="148.6003" ax="-0.2811" ay="-0.6786" az="0.6786" tx="1.2212" ty="0.5857" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="148.6003" ax="-0.2811" ay="-0.6786" az="0.6786" tx="2.0212" ty="0.5857" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="98.4211" ax="-0.8629" ay="-0.3574" az="0.3574" tx="1.9935" ty="0.5857" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="98.4211" ax="-0.8629" ay="-0.3574" az="0.3574" tx="1.1935" ty="0.5857" tz="0.275" />
+    <Box sX="0.026736" sY="0.115" sZ="0.384935" angle="98.4211" ax="-0.8629" ay="-0.3574" az="0.3574" tx="0.3935" ty="0.5857" tz="0.275" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.1722" tz="0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.9722" tz="0.1497">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.036974,0,0,0,0.056931,0,0,0,0.058688" centerOfMass="1.64385,0.3689,0.10361" mass="0.825999975204" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

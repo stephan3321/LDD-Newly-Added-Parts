@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Added decoration surface by M2m
+	Last modification: 2021-02-01
+	Comments: Added decoration surface by M2m
+Updated collision by Stephan
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -13,8 +15,15 @@ Added decoration surface by M2m
     <Annotation version="3" />
   </Annotations>
   <Collision>
-    <Box sX="1.19" sY="0.1125" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1975" tz="0" />
-    <Box sX="1.14" sY="0.0275" sZ="0.34" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.0375" tz="0" />
+    <Box sX="1.19" sY="0.04075" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.2612" tz="0" />
+    <Box sX="1.14" sY="0.122321" sZ="0.042617" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1257" tz="0.3007" />
+    <Box sX="1.14" sY="0.122321" sZ="0.042617" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1257" tz="-0.2989" />
+    <Box sX="0.335576" sY="0.122321" sZ="0.042617" angle="90" ax="0" ay="1" az="0" tx="-0.2997" ty="0.1257" tz="-0.0004" />
+    <Box sX="0.335576" sY="0.122321" sZ="0.042617" angle="90" ax="0" ay="1" az="0" tx="1.9062" ty="0.1257" tz="-0.0004" />
+    <Box sX="0.395533" sY="0.119913" sZ="0.042617" angle="90" ax="0" ay="1" az="0" tx="1.9559" ty="0.1981" tz="-0.0004" />
+    <Box sX="0.395533" sY="0.119913" sZ="0.042617" angle="90" ax="0" ay="1" az="0" tx="-0.3534" ty="0.1981" tz="-0.0004" />
+    <Box sX="1.192115" sY="0.119913" sZ="0.042617" angle="180" ax="0" ay="1" az="0" tx="0.7999" ty="0.1981" tz="0.3528" />
+    <Box sX="1.192115" sY="0.119913" sZ="0.042617" angle="180" ax="0" ay="1" az="0" tx="0.7999" ty="0.1981" tz="-0.3519" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

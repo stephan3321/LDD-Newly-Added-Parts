@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="20308" />
+    <Annotation designname="ANIMAL HEAD NO.15" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.31" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.32" tz="0" />
+    <Box sX="0.635" sY="0.31" sZ="0.64" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.405" ty="-0.15" tz="0.72" />
+    <Box sX="0.285" sY="0.31" sZ="0.2846" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="-0.5054" tz="1.31" />
+    <Box sX="0.14" sY="0.065" sZ="0.14" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.04" ty="0.65" tz="0.475" />
+    <Box sX="0.14" sY="0.065" sZ="0.14" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.84" ty="0.65" tz="0.475" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.601542,0,0,0,0.556742,0,0,0,0.471467" centerOfMass="0.4,0.08,0.615" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.8" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="1.63" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.8" minZ="-0.4" maxX="1.2" maxY="0.8" maxZ="1.63" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
