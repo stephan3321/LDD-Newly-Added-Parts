@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="983930" />
+    <Annotation designname="FRIENDS ACCESSORIES MEDICAL PEN" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.107282" sY="0.474872" sZ="0.107282" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4849" tz="0" />
+    <Box sX="0.07467" sY="0.677433" sZ="0.063521" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4874" tz="0" />
+    <Box sX="0.06718" sY="0.234683" sZ="0.063521" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9297" tz="0.1554" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.63" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.20961571,0,0,0,0.026758119,0,0,0,0.20676432" centerOfMass="0,0.486494,0.019513" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.1894" minY="-0.2806" minZ="-0.192" maxX="0.1894" maxY="1.2503" maxZ="0.2295" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1894" minY="-0.2806" minZ="-0.192" maxX="0.1894" maxY="1.2503" maxZ="0.2295" />
+  </GeometryBounding>
+</LEGOPrimitive>

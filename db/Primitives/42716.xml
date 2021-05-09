@@ -7,12 +7,12 @@
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="42716" />
-    <Annotation designname="Wheel Rim 20 x 30 "Torq Thurst" />
+    <Annotation designname="RIM WIDE DIA.30X20 W/ CROSS HOLE, NO. 1" />
     <Annotation maingroupid="266" />
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
-    <Annotation version="1" />
+    <Annotation version="3" />
   </Annotations>
   <Collision>
     <Box sX="0.43342" sY="0.252511" sZ="0.157144" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.7276" tz="0.5302" />
@@ -40,7 +40,9 @@
   <Connectivity>
     <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="1.52" tz="0" />
     <Fixed type="17" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.52" tz="0" />
+    <Fixed type="17" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.52" tz="0" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.1123066,0,0,0,1.1037959,0,0,0,1.549436" centerOfMass="0,0,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-1.52" minY="0" minZ="-1" maxX="1.52" maxY="3.04" maxZ="1" />
   </Bounding>
