@@ -24,9 +24,9 @@
     </Custom2DField>
     <Fixed type="55" axes="2" angle="90" ax="0" ay="0" az="-1" tx="0.4455" ty="0.32" tz="-0.35" />
     <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0.96" tz="0" />
-    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="1.05" tz="0" />
-    <Fixed type="5" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.1" ty="0.96" tz="0" />
-    <Fixed type="5" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.1" ty="1.05" tz="0" />
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0.96" tz="0" />
+    <Fixed type="5" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="1.0804" tz="0" />
+    <Fixed type="5" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="1.0804" tz="0" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.144629,0,0,0,0.18498,0,0,0,0.253545" centerOfMass="0.399207,0.623268,-0.020225" mass="0.800000011921" frictionType="0" />
   <Bounding>
