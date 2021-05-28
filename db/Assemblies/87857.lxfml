@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="240"/>
+    <Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+    <Annotation designname="MINI LOWER PART"/>
+    <DefaultCamera lat="-0.24547988176345825" lon="0.40539842844009399"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group angle="0" ax="0" ay="1" az="0" refID="0" tx="-0.015" ty="0" tz="-0.05">
+        <Part angle="0" ax="0" ay="1" az="0" designID="87776" materialID="140" refID="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group angle="0" ax="0" ay="1" az="0" refID="1" tx="0" ty="2.401" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="3815" materialID="140" refID="1" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group angle="0" ax="0" ay="1" az="0" refID="2" tx="0.815" ty="0" tz="-0.05">
+        <Part angle="0" ax="0" ay="1" az="0" designID="87775" materialID="140" refID="2" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>
