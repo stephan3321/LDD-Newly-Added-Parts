@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38340" />
+    <Annotation designname="TRAIN WHEEL, DIA. 16.6/23 MM" />
+    <Annotation maingroupid="274" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.6226" tz="0.0441" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="15" ax="0" ay="0" az="-1" tx="-0.1963" ty="-0.7328" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="45" ax="0" ay="0" az="-1" tx="-0.5364" ty="-0.5364" tz="0.2262" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="90" ax="0" ay="0" az="1" tx="0.6226" ty="0" tz="0.0441" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="75" ax="0" ay="0" az="1" tx="0.7328" ty="-0.1963" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="75" ax="0" ay="0" az="-1" tx="-0.7328" ty="-0.1963" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="135" ax="0" ay="0" az="1" tx="0.5364" ty="0.5364" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="105" ax="0" ay="0" az="1" tx="0.7328" ty="0.1963" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="165" ax="0" ay="0" az="1" tx="0.1963" ty="0.7328" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="105" ax="0" ay="0" az="-1" tx="-0.7328" ty="0.1963" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="135" ax="0" ay="0" az="-1" tx="-0.5364" ty="0.5364" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="165" ax="0" ay="0" az="-1" tx="-0.1963" ty="0.7328" tz="0.2262" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.6226" tz="0.0441" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="45" ax="0" ay="0" az="1" tx="0.5364" ty="-0.5364" tz="0.2262" />
+    <Box sX="0.175894" sY="0.032436" sZ="0.182966" angle="15" ax="0" ay="0" az="1" tx="0.1963" ty="-0.7328" tz="0.2262" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="150" ax="0" ay="0" az="1" tx="0.3113" ty="0.5392" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="120" ax="0" ay="0" az="-1" tx="-0.5392" ty="0.3113" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="60" ax="0" ay="0" az="1" tx="0.5391" ty="-0.3113" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="90" ax="0" ay="0" az="-1" tx="-0.6226" ty="0" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="30" ax="0" ay="0" az="-1" tx="-0.3113" ty="-0.5392" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="150" ax="0" ay="0" az="-1" tx="-0.3113" ty="0.5392" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="30" ax="0" ay="0" az="1" tx="0.3113" ty="-0.5391" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="60" ax="0" ay="0" az="-1" tx="-0.5392" ty="-0.3113" tz="0.0441" />
+    <Box sX="0.175894" sY="0.450023" sZ="0.026104" angle="120" ax="0" ay="0" az="1" tx="0.5391" ty="0.3113" tz="0.0441" />
+    <Box sX="0.083085" sY="0.083085" sZ="0.655" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.085" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.261596" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.576" />
+    <Axel type="7" length="0.281373" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="-0.7552" />
+    <Hinge type="281" oriented="1" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="-0.085" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.60529913,0,0,0,0.60850529,0,0,0,0.90039594" centerOfMass="-0.000162,0,-0.085" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.16" minY="-1.1574" minZ="-0.764" maxX="1.16" maxY="1.1626" maxZ="0.576" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.16" minY="-1.1574" minZ="-0.764" maxX="1.16" maxY="1.1626" maxZ="0.576" />
+  </GeometryBounding>
+</LEGOPrimitive>

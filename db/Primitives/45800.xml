@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Niels Karsdorp [nielsk]
+	Editted for LDD by: Stephan
+	Last modification: 2021-05-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="45800" />
+    <Annotation designname="TRAIN TYRE FOR 4.5V AND 12V WHEELS, MOTOR, CONICAL" />
+    <Annotation maingroupid="274" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.021264" sY="-0.177418" sZ="0.278474" angle="171.9835" ax="0.2121" ay="0.9771" az="-0.0152" tx="-0.7115" ty="0.3191" tz="0.1695" />
+    <Box sX="0.021264" sY="-0.151793" sZ="0.278474" angle="175.6389" ax="0.8355" ay="0.5465" az="-0.0582" tx="0.3168" ty="0.7186" tz="0.1717" />
+    <Box sX="0.021264" sY="-0.159504" sZ="0.273576" angle="176.2327" ax="0.8892" ay="-0.453" az="0.0646" tx="-0.4514" ty="0.6303" tz="0.1747" />
+    <Box sX="0.021264" sY="-0.182323" sZ="0.27595" angle="174.4249" ax="0.7333" ay="-0.6778" az="0.0527" tx="-0.0627" ty="0.7777" tz="0.1682" />
+    <Box sX="0.021264" sY="-0.192423" sZ="0.27172" angle="173.3246" ax="-0.3149" ay="0.9489" az="0.0194" tx="-0.6236" ty="-0.4707" tz="0.1756" />
+    <Box sX="0.021264" sY="-0.177418" sZ="0.278474" angle="178.5838" ax="-0.9825" ay="0.1723" az="0.0705" tx="0.7407" ty="-0.2556" tz="0.1695" />
+    <Box sX="0.021264" sY="-0.151793" sZ="0.278474" angle="173.5106" ax="-0.58" ay="0.8136" az="0.0404" tx="-0.2548" ty="-0.7439" tz="0.1725" />
+    <Box sX="0.021264" sY="-0.159504" sZ="0.273576" angle="172.4563" ax="-0.4177" ay="-0.9081" az="-0.0303" tx="0.514" ty="-0.5956" tz="0.173" />
+    <Box sX="0.021264" sY="-0.182323" sZ="0.27595" angle="173.7486" ax="-0.648" ay="-0.7602" az="-0.0466" tx="0.1308" ty="-0.7648" tz="0.1682" />
+    <Box sX="0.021264" sY="-0.159504" sZ="0.273576" angle="171.6963" ax="0.0901" ay="-0.9959" az="0.0011" tx="0.7795" ty="0.1556" tz="0.1704" />
+    <Box sX="0.021264" sY="-0.159504" sZ="0.273576" angle="179.4266" ax="-0.995" ay="-0.0689" az="-0.0722" tx="-0.7725" ty="-0.0986" tz="0.1684" />
+    <Box sX="0.021264" sY="-0.182323" sZ="0.27595" angle="172.4145" ax="0.2907" ay="-0.9564" az="0.0276" tx="0.6511" ty="0.4328" tz="0.1724" />
+    <Box sX="0.021264" sY="-0.151793" sZ="0.278474" angle="173.182" ax="-0.4811" ay="0.8761" az="0.0323" tx="-0.4411" ty="-0.6494" tz="0.1715" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="158" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.1681" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.88" minY="-0.8807" minZ="-0.1086" maxX="0.88" maxY="0.8793" maxZ="0.4514" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.88" minY="-0.8807" minZ="-0.1086" maxX="0.88" maxY="0.8793" maxZ="0.4514" />
+  </GeometryBounding>
+</LEGOPrimitive>

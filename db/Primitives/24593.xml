@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-05-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24593" />
+    <Annotation designname="Wall 1/2 circle 2x4x2 w/cutout" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.065" sZ="0.279465" angle="0" ax="1" ay="0" az="0" tx="1.1931" ty="1.845" tz="0.6895" />
+    <Box sX="0.79" sY="0.15" sZ="0.279465" angle="0" ax="1" ay="0" az="0" tx="1.1931" ty="0.16" tz="0.6895" />
+    <Box sX="0.291076" sY="0.950001" sZ="0.03881" angle="78.8608" ax="0" ay="1" az="0" tx="2.6816" ty="0.96" tz="-0.0863" />
+    <Box sX="0.177262" sY="0.950001" sZ="0.03881" angle="60.8033" ax="0" ay="1" az="0" tx="2.5374" ty="0.96" tz="0.3582" />
+    <Box sX="0.240061" sY="0.845" sZ="0.03881" angle="44.228" ax="0" ay="1" az="0" tx="2.2754" ty="1.065" tz="0.6849" />
+    <Box sX="0.1953" sY="0.950001" sZ="0.03881" angle="29.3903" ax="0" ay="1" az="0" tx="1.9292" ty="0.96" tz="0.9507" />
+    <Box sX="0.287343" sY="0.950001" sZ="0.03881" angle="10.2441" ax="0" ay="1" az="0" tx="1.473" ty="0.96" tz="1.0988" />
+    <Box sX="0.287343" sY="0.950001" sZ="0.03881" angle="169.756" ax="0" ay="1" az="0" tx="0.9132" ty="0.96" tz="1.0988" />
+    <Box sX="0.1953" sY="0.950001" sZ="0.03881" angle="150.6097" ax="0" ay="1" az="0" tx="0.4569" ty="0.96" tz="0.9507" />
+    <Box sX="0.240061" sY="0.845" sZ="0.03881" angle="135.772" ax="0" ay="1" az="0" tx="0.1108" ty="1.065" tz="0.6849" />
+    <Box sX="0.177262" sY="0.950001" sZ="0.03881" angle="119.1967" ax="0" ay="1" az="0" tx="-0.1512" ty="0.96" tz="0.3582" />
+    <Box sX="0.292474" sY="0.950001" sZ="0.03881" angle="101.1392" ax="0" ay="1" az="0" tx="-0.2957" ty="0.96" tz="-0.0877" />
+    <Box sX="0.29427" sY="0.065" sZ="0.369334" angle="0" ax="1" ay="0" az="0" tx="2.2974" ty="1.845" tz="-0.0207" />
+    <Box sX="1.12265" sY="0.045" sZ="0.139606" angle="0" ax="1" ay="0" az="0" tx="1.1931" ty="0.265" tz="0.5496" />
+    <Box sX="1.12265" sY="0.065" sZ="0.139606" angle="0" ax="1" ay="0" az="0" tx="1.1931" ty="1.845" tz="0.5496" />
+    <Box sX="0.29427" sY="0.065" sZ="0.369334" angle="0" ax="1" ay="0" az="0" tx="0.0888" ty="1.845" tz="-0.0207" />
+    <Box sX="0.29427" sY="0.15" sZ="0.369334" angle="0" ax="1" ay="0" az="0" tx="2.2974" ty="0.16" tz="-0.0207" />
+    <Box sX="0.29427" sY="0.15" sZ="0.369334" angle="0" ax="1" ay="0" az="0" tx="0.0888" ty="0.16" tz="-0.0207" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,29:0:1,29:0:1,29:0:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      29:0:1,23:4:1,23:4:1,1:4,23:4:1,1:4,23:4:1,23:4:1,29:0:1,
+      29:0:1,29:0:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,15:4,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,15:4:1,12:4:1,15:4:1,22:2:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.580134,0,0,0,1.07035,0,0,0,1.22382" centerOfMass="1.19655,1.049,0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4069" minY="0" minZ="-0.4" maxX="2.7931" maxY="2.098" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4069" minY="0" minZ="-0.4" maxX="2.7931" maxY="2.098" maxZ="1.2" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
