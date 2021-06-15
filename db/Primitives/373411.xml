@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2021-05-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="373411" />
+    <Annotation designname="MINIFIGURE, WEAPON SWORD CURVED BLADE W/ BAR" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.10181" sY="0.2" sZ="0.105734" angle="10.4068" ax="0" ay="1" az="0" tx="0" ty="0.2" tz="0" />
+    <Box sX="0.101523" sY="0.2" sZ="0.105769" angle="34.5932" ax="0" ay="-1" az="0" tx="0" ty="0.2" tz="0" />
+    <Box sX="0.062286" sY="1.195963" sZ="0.174831" angle="6.3934" ax="-1" ay="0" az="0" tx="0" ty="1.6337" tz="-0.0989" />
+    <Box sX="0.031938" sY="0.62188" sZ="0.174831" angle="6.3934" ax="-1" ay="0" az="0" tx="0" ty="2.0946" tz="-0.0258" />
+    <Box sX="0.036864" sY="0.254736" sZ="0.06712" angle="46.7486" ax="-1" ay="0" az="0" tx="0" ty="3.1713" tz="-0.3572" />
+    <Box sX="0.036864" sY="0.254736" sZ="0.06712" angle="13.1899" ax="-1" ay="0" az="0" tx="0" ty="2.926" tz="-0.3672" />
+    <Box sX="0.036864" sY="0.254736" sZ="0.06712" angle="27.5672" ax="-1" ay="0" az="0" tx="0" ty="2.7655" tz="-0.0331" />
+    <Box sX="0.113136" sY="0.055705" sZ="0.181171" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4598" tz="0" />
+    <Box sX="0.113136" sY="0.055705" sZ="0.181171" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.4598" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.4" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.22" minY="0" minZ="-0.6041" maxX="0.22" maxY="3.408" maxZ="0.3324" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.22" minY="0" minZ="-0.6041" maxX="0.22" maxY="3.408" maxZ="0.3324" />
+  </GeometryBounding>
+</LEGOPrimitive>

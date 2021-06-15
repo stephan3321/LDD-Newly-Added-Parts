@@ -2,8 +2,8 @@
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Guy Vivan [guyvivan]
-	Editted for LDD by: Stephan
-	Last modification: 2021-05-28
+	Editted for LDD by: Stephan & polymaker
+	Last modification: 2021-05-31
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -56,7 +56,7 @@
     <Box sX="0.082115" sY="0.090436" sZ="0.397936" angle="135" ax="0" ay="0" az="-1" tx="-0.2501" ty="0.006" tz="0" />
   </Collision>
   <Connectivity>
-    <Fixed type="147" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="147" axes="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
     <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="98.4211" ax="-0.8629" ay="0.3574" az="-0.3574" tx="0" ty="0" tz="0.4" />
   </Connectivity>
   <Bounding>

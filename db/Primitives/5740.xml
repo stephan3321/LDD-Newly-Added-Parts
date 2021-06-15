@@ -2,8 +2,8 @@
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Guy Vivan [guyvivan]
-	Editted for LDD by: Stephan
-	Last modification: 2021-05-28
+	Editted for LDD by: Stephan & polymaker
+	Last modification: 2021-06-10
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -47,13 +47,13 @@
     <Box sX="0.191932" sY="0.220074" sZ="0.490899" angle="135.0495" ax="0" ay="0" az="1" tx="1.3668" ty="1.3688" tz="-0.6214" />
   </Collision>
   <Connectivity>
-    <Fixed type="146" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4" />
+    <Fixed type="146" axes="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.24" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="12.34694,0,0,0,12.34694,0,0,0,23.0647" centerOfMass="0,0,-0.647154" mass="6.85699987411" frictionType="1" />
   <Bounding>
-    <AABB minX="-2.1653" minY="-2.169" minZ="-1.1213" maxX="2.1653" maxY="2.1616" maxZ="-0.0714" />
+    <AABB minX="-2.1653" minY="-2.1653" minZ="-0.48" maxX="2.1653" maxY="2.1653" maxZ="0.52" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-2.1653" minY="-2.169" minZ="-1.1213" maxX="2.1653" maxY="2.1616" maxZ="-0.0714" />
+    <AABB minX="-2.1653" minY="-2.1653" minZ="-0.48" maxX="2.1653" maxY="2.1653" maxZ="0.52" />
   </GeometryBounding>
 </LEGOPrimitive>

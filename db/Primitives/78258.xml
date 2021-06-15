@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2021-06-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="78258" />
+    <Annotation designname="SHAFT 2M DIA 3.2 W/ STOP" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.15846" sY="0.198334" sZ="0.119251" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.15846" sY="0.198334" sZ="0.119251" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.15846" sY="0.198334" sZ="0.119251" angle="40" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.15846" sY="0.198334" sZ="0.119251" angle="140" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.15846" sY="0.159539" sZ="0.171408" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.0029" />
+    <Box sX="0.15846" sY="0.159539" sZ="0.171408" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.0029" />
+    <Box sX="0.15846" sY="0.159539" sZ="0.171408" angle="45" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.0029" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1096" tz="0" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1298" tz="0" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1105" tz="0" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1298" tz="0" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="0.1098" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="0.13" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="-0.1103" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="-0.1296" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="40" ax="1" ay="0" az="0" tx="0" ty="0.0839" tz="0.0706" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="40" ax="1" ay="0" az="0" tx="0" ty="0.0994" tz="0.0836" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="40" ax="1" ay="0" az="0" tx="0" ty="-0.0847" tz="-0.0709" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="40" ax="1" ay="0" az="0" tx="0" ty="-0.0995" tz="-0.0833" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="130" ax="1" ay="0" az="0" tx="0" ty="-0.0708" tz="0.0841" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="130" ax="1" ay="0" az="0" tx="0" ty="-0.0838" tz="0.0996" />
+    <Box sX="0.799904" sY="0.02885" sZ="0.072136" angle="130" ax="1" ay="0" az="0" tx="0" ty="0.0707" tz="-0.0845" />
+    <Box sX="0.799904" sY="0.02077" sZ="0.038501" angle="130" ax="1" ay="0" az="0" tx="0" ty="0.0831" tz="-0.0993" />
+  </Collision>
+  <Connectivity>
+    <Axel type="21" length="0.638" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.8" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="-0.8" ty="0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,11:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.8" ty="0.4" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,11:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="14" length="0.638" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.8" ty="0" tz="0" />
+    <Axel type="21" length="0.638" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.8" ty="0" tz="0" />
+    <Axel type="14" length="0.638" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.8" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.8" minY="-0.24" minZ="-0.24" maxX="0.8" maxY="0.24" maxZ="0.24" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="-0.24" minZ="-0.24" maxX="0.8" maxY="0.24" maxZ="0.24" />
+  </GeometryBounding>
+</LEGOPrimitive>
