@@ -50,6 +50,7 @@
 	<Material MatID="294" />
 	<Material MatID="297" />
 	<Material MatID="298" />
+	<Material MatID="299" />
 	<Material MatID="302" />
 	<Material MatID="308" />
 	<Material MatID="309" />
@@ -66,7 +67,6 @@
 	<Material MatID="326" />
 	<Material MatID="329" />
 	<Material MatID="330" />
-	<Material MatID="335" />
 	<Material MatID="336" />
 	<Material MatID="339" />
 	<Material MatID="341" />
