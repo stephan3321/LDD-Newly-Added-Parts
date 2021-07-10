@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Vincent Messenet [Cheenzo]
 	Editted for LDD by: Stephan
-	Last modification: 2021-01-16
+	Last modification: 2021-07-01
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -16,8 +16,11 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="2.39" sY="0.1125" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="2" ty="0.1975" tz="-0.4" />
-    <Box sX="2.34" sY="0.0275" sZ="0.74" angle="0" ax="1" ay="0" az="0" tx="2" ty="0.0375" tz="-0.4" />
+    <Box sX="2.39" sY="0.070212" sZ="0.789844" angle="0" ax="1" ay="0" az="0" tx="2" ty="0.2409" tz="-0.4" />
+    <Box sX="0.079817" sY="0.15556" sZ="0.789844" angle="0" ax="1" ay="0" az="0" tx="4.3192" ty="0.1625" tz="-0.4054" />
+    <Box sX="0.077773" sY="0.15556" sZ="0.789844" angle="0" ax="1" ay="0" az="0" tx="-0.323" ty="0.1625" tz="-0.4054" />
+    <Box sX="0.079315" sY="0.15556" sZ="2.380108" angle="90" ax="0" ay="-1" az="0" tx="1.9981" ty="0.1625" tz="0.3197" />
+    <Box sX="0.075933" sY="0.15556" sZ="2.391309" angle="90" ax="0" ay="-1" az="0" tx="1.9981" ty="0.1625" tz="-1.121" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="12" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
