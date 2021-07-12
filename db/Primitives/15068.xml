@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2021-06-18
+	Last modification: 2021-07-12
 	Comments: Made decoratable.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
@@ -18,10 +18,10 @@
     <Box sX="0.06102" sY="0.105509" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="-0.3264" ty="0.1155" tz="-0.4" />
     <Box sX="0.146091" sY="0.072324" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.3963" ty="0.076" tz="-0.4" />
     <Box sX="0.072587" sY="0.158829" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4761" ty="-0.1516" tz="-0.4" />
-    <Box sX="0.394571" sY="0.086769" sZ="0.069659" angle="0" ax="1" ay="0" az="0" tx="0.8053" ty="-0.2276" tz="0.3278" />
+    <Box sX="0.394571" sY="0.086769" sZ="0.069659" angle="0" ax="1" ay="0" az="0" tx="0.803" ty="-0.2276" tz="0.3278" />
     <Box sX="0.376122" sY="0.018707" sZ="0.79" angle="24.2934" ax="0" ay="0" az="-1" tx="0.8354" ty="0.0036" tz="-0.4" />
-    <Box sX="0.403297" sY="0.01889" sZ="0.79" angle="8.5625" ax="0" ay="0" az="-1" tx="0.0432" ty="0.232" tz="-0.4029" />
-    <Box sX="0.394571" sY="0.086769" sZ="0.069659" angle="0" ax="1" ay="0" az="0" tx="0.8053" ty="-0.2276" tz="-1.128" />
+    <Box sX="0.403297" sY="0.00973" sZ="0.79" angle="8.5625" ax="0" ay="0" az="-1" tx="0.0432" ty="0.2389" tz="-0.4029" />
+    <Box sX="0.394571" sY="0.086769" sZ="0.069659" angle="0" ax="1" ay="0" az="0" tx="0.799" ty="-0.2276" tz="-1.128" />
     <Box sX="0.072587" sY="0.081142" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="1.1241" ty="-0.2289" tz="-0.4" />
     <Box sX="0.376122" sY="0.018707" sZ="0.79" angle="20.5878" ax="0" ay="0" az="-1" tx="0.6833" ty="0.0363" tz="-0.4" />
   </Collision>
