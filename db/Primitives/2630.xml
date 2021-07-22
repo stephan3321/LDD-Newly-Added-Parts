@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Niels Karsdorp [nielsk]
+	Editted for LDD by: jester
+	Last modification: 2021-07-14
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2630;263" />
+    <Annotation designname="PLATE, MODIFIED 1X2 W/ STEAM ENGINE CYLINDER, FLAT SURFACES" />
+    <Annotation maingroupid="274" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.074575" sY="0.078192" sZ="0.388468" angle="0" ax="1" ay="0" az="0" tx="-1.1217" ty="0.0796" tz="0" />
+    <Box sX="0.074575" sY="0.078192" sZ="0.388468" angle="0" ax="1" ay="0" az="0" tx="0.3251" ty="0.0796" tz="0" />
+    <Box sX="0.074575" sY="0.472418" sZ="0.795763" angle="90" ax="0" ay="-1" az="0" tx="-0.4018" ty="0.4796" tz="0.3168" />
+    <Box sX="0.074575" sY="0.710497" sZ="0.795763" angle="90" ax="0" ay="-1" az="0" tx="-0.4018" ty="0.7135" tz="-0.3197" />
+    <Box sX="0.059679" sY="0.472418" sZ="0.632395" angle="100.881" ax="-0.3985" ay="-0.8261" az="0.3985" tx="-0.4018" ty="1.2219" tz="-0.0273" />
+    <Box sX="0.026059" sY="0.065705" sZ="0.797988" angle="100.881" ax="-0.3985" ay="-0.8261" az="0.3985" tx="-0.4018" ty="0.9782" tz="0.3287" />
+    <Box sX="0.026059" sY="0.093222" sZ="0.797988" angle="100.881" ax="-0.3985" ay="-0.8261" az="0.3985" tx="-0.4018" ty="1.5063" tz="-0.3353" />
+    <Box sX="0.074575" sY="0.149317" sZ="0.388468" angle="0" ax="1" ay="0" az="0" tx="-1.1217" ty="1.4363" tz="-0.8" />
+    <Box sX="0.074575" sY="0.149317" sZ="0.388468" angle="0" ax="1" ay="0" az="0" tx="0.3207" ty="1.4363" tz="-0.8" />
+    <Box sX="0.792557" sY="0.073669" sZ="0.388468" angle="0" ax="1" ay="0" az="0" tx="-0.4082" ty="1.5186" tz="-0.8" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="1.6" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="1.28" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,29:0:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,29:0:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.8" maxX="0.4" maxY="1.76" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0" minZ="-0.8" maxX="0.4" maxY="1.76" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

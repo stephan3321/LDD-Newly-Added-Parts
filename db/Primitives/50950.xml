@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-07-10
+	Comments: Extra decoration surface by jester.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50950;63278" />
+    <Annotation designname="BRICK W/BOW 1/3" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.79" sZ="0.09" angle="120.0001" ax="0.5773" ay="-0.5774" az="0.5774" tx="1.2" ty="-0.22" tz="0" />
+    <Box sX="0.39" sY="0.61635" sZ="0.208698" angle="120.0001" ax="0.5773" ay="-0.5774" az="0.5774" tx="0.2264" ty="0.2187" tz="0" />
+    <Box sX="0.39" sY="0.2045" sZ="0.070043" angle="120.0001" ax="0.5773" ay="-0.5774" az="0.5774" tx="-0.1855" ty="0.5348" tz="0" />
+    <Box sX="0.39" sY="0.506944" sZ="0.255664" angle="120.0001" ax="0.5773" ay="-0.5774" az="0.5774" tx="0.9169" ty="-0.0543" tz="0" />
+    <Box sX="0.39" sY="0.38437" sZ="0.066695" angle="113.2877" ax="0.5323" ay="-0.6583" az="0.5323" tx="0.4243" ty="0.4488" tz="0" />
+    <Box sX="0.39" sY="0.308135" sZ="0.066695" angle="108.3719" ax="0.4895" ay="-0.7216" az="0.4895" tx="1.1045" ty="0.2539" tz="0" />
+    <Box sX="0.39" sY="0.316878" sZ="0.066695" angle="104.4435" ax="0.4468" ay="-0.7751" az="0.4468" tx="1.6767" ty="-0.0243" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.32" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.106869,0,0,0,0.374517,0,0,0,0.370637" centerOfMass="0.669879,0.173732,0" mass="0.800000011921" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.32" minZ="-0.4" maxX="2" maxY="0.64" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.32" minZ="-0.4" maxX="2" maxY="0.64" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

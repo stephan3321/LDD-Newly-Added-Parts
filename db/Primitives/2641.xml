@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Manfred Moolhuysen
+	Editted for LDD by: UrSuS
+	Last modification: 2021-07-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2641" />
+    <Annotation designname="Support Crane Stand Single with Curved Join" />
+    <Annotation maingroupid="276" />
+    <Annotation maingroupname="CRAINS AND SCAFFOLD" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19" sY="0.15" sZ="1.19" angle="0" ax="1" ay="0" az="0" tx="-1.6" ty="11.36" tz="2.4" />
+    <Box sX="0.79" sY="0.06215" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7921" ty="0.16" tz="-1.2834" />
+    <Box sX="0.79" sY="0.06215" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7921" ty="0.16" tz="-2.7146" />
+    <Box sX="0.79" sY="0.056779" sZ="0.15" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="3.5263" ty="0.16" tz="-1.999" />
+    <Box sX="0.79" sY="0.06215" sZ="0.15" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="2.0765" ty="0.16" tz="-1.999" />
+    <Box sX="0.79" sY="0.765607" sZ="0.047" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7921" ty="0.2575" tz="-1.9926" />
+    <Box sX="0.691658" sY="1.971424" sZ="-0.059537" angle="45.0841" ax="0" ay="1" az="0" tx="3.0331" ty="2.3756" tz="-1.7576" />
+    <Box sX="0.691658" sY="1.971424" sZ="-0.059537" angle="45.0841" ax="0" ay="1" az="0" tx="2.5691" ty="2.3756" tz="-2.2153" />
+    <Box sX="0.691658" sY="3.780075" sZ="-0.059537" angle="57.9981" ax="0.2566" ay="0.7458" az="0.6148" tx="0.7742" ty="7.7555" tz="-0.4076" />
+    <Box sX="0.691658" sY="3.780075" sZ="-0.059537" angle="57.9981" ax="0.2566" ay="0.7458" az="0.6148" tx="1.213" ty="7.7542" tz="0.0317" />
+    <Box sX="0.357411" sY="1.971424" sZ="-0.021815" angle="45.1736" ax="0" ay="-1" az="0" tx="3.2278" ty="2.3756" tz="-2.4293" />
+    <Box sX="0.357411" sY="3.994099" sZ="-0.021815" angle="57.7939" ax="0.6069" ay="-0.7537" az="0.2524" tx="1.4776" ty="8.1217" tz="-0.6896" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="6" height="6" angle="0" ax="1" ay="0" az="0" tx="-2.8" ty="11.52" tz="1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="6" angle="0" ax="1" ay="0" az="0" tx="-2.8" ty="11.2" tz="1.2">
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,23:4:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,23:4:1,15:4:1,22:2:1,22:2:1,22:2:1,29:0:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="2" ty="0" tz="-2.8">
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:3:1,22:2:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,15:4:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.500584,0,0,0,0.960002,0,0,0,0.500586" centerOfMass="0.800003,0.2485,-0.8" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.8" minY="0" minZ="-2.8" maxX="3.6" maxY="11.68" maxZ="3.6" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.8" minY="0" minZ="-2.8" maxX="3.6" maxY="11.68" maxZ="3.6" />
+  </GeometryBounding>
+</LEGOPrimitive>

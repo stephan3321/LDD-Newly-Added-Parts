@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2021-07-14
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="78594" />
+    <Annotation designname="WALL 2X2X5, DEG. 45, NO. 1" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.393683" sY="0.142977" sZ="0.375268" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1505" tz="0" />
+    <Box sX="0.393683" sY="0.142977" sZ="0.375268" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1505" tz="-0.8" />
+    <Box sX="0.393683" sY="0.074197" sZ="0.375268" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="4.7175" tz="-0.8" />
+    <Box sX="0.393683" sY="0.074197" sZ="0.375268" angle="0" ax="1" ay="0" az="0" tx="0" ty="4.7175" tz="0" />
+    <Box sX="0.072699" sY="2.354189" sZ="0.375268" angle="0" ax="1" ay="0" az="0" tx="1.118" ty="2.4112" tz="-0.7992" />
+    <Box sX="0.072699" sY="2.354189" sZ="0.375268" angle="90" ax="0" ay="-1" az="0" tx="-0.0219" ty="2.4112" tz="0.319" />
+    <Box sX="0.072699" sY="2.354189" sZ="0.556237" angle="45" ax="0" ay="-1" az="0" tx="0.7468" ty="2.4112" tz="-0.0516" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="4.8" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="4.8" tz="-1.1994">
+      29:0,29:0,29:0,
+      29:0,1:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0" tz="-1.2">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.27851,0,0,0,0.427089,0,0,0,2.27866" centerOfMass="0.400539,2.489,-0.399174" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="4.96" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="4.96" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

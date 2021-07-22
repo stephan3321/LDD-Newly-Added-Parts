@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2021-05-24
+	Created for LDD by: Polymaker
+	Last modification: 2021-07-14
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="9131;123old" /> <!--123old-->
+    <Annotation aliases="9131" />
     <Annotation designname="TIRE SMOOTH - SMALL" />
     <Annotation maingroupid="266" />
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
@@ -13,22 +14,22 @@
     <Annotation version="5" />
   </Annotations>
   <Collision>
-    <Box sX="0.323165" sY="0.137435" sZ="0.33475" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0205" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.139572" sZ="0.33475" angle="30" ax="0" ay="0" az="-1" tx="0.5093" ty="0.8821" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.133909" sZ="0.33475" angle="60" ax="0" ay="0" az="-1" tx="0.8806" ty="0.5084" tz="-0.3447" />
-    <Box sX="0.269026" sY="0.139442" sZ="0.33475" angle="90" ax="0" ay="0" az="-1" tx="1.0205" ty="0" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.132902" sZ="0.33475" angle="120" ax="0" ay="0" az="-1" tx="0.8806" ty="-0.5084" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.144854" sZ="0.33475" angle="150" ax="0" ay="0" az="-1" tx="0.5084" ty="-0.8806" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.140024" sZ="0.33475" angle="180" ax="0" ay="0" az="1" tx="0" ty="-1.0205" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.142971" sZ="0.33475" angle="150" ax="0" ay="0" az="1" tx="-0.5084" ty="-0.8806" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.139201" sZ="0.33475" angle="120" ax="0" ay="0" az="1" tx="-0.8806" ty="-0.5084" tz="-0.3447" />
-    <Box sX="0.276825" sY="0.137402" sZ="0.33475" angle="90" ax="0" ay="0" az="1" tx="-1.0205" ty="0" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.138765" sZ="0.33475" angle="60" ax="0" ay="0" az="1" tx="-0.8806" ty="0.5084" tz="-0.3447" />
-    <Box sX="0.323165" sY="0.140602" sZ="0.33475" angle="30" ax="0" ay="0" az="1" tx="-0.5084" ty="0.8806" tz="-0.3447" />
+    <Box sX="0.323165" sY="0.137435" sZ="0.33475" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0205" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.139572" sZ="0.33475" angle="30" ax="0" ay="0" az="-1" tx="0.5093" ty="0.8821" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.133909" sZ="0.33475" angle="60" ax="0" ay="0" az="-1" tx="0.8806" ty="0.5084" tz="-0.0001" />
+    <Box sX="0.269026" sY="0.139442" sZ="0.33475" angle="90" ax="0" ay="0" az="-1" tx="1.0205" ty="0" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.132902" sZ="0.33475" angle="120" ax="0" ay="0" az="-1" tx="0.8806" ty="-0.5084" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.144854" sZ="0.33475" angle="150" ax="0" ay="0" az="-1" tx="0.5084" ty="-0.8806" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.140024" sZ="0.33475" angle="180" ax="0" ay="0" az="1" tx="0" ty="-1.0205" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.142971" sZ="0.33475" angle="150" ax="0" ay="0" az="1" tx="-0.5084" ty="-0.8806" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.139201" sZ="0.33475" angle="120" ax="0" ay="0" az="1" tx="-0.8806" ty="-0.5084" tz="-0.0001" />
+    <Box sX="0.276825" sY="0.137402" sZ="0.33475" angle="90" ax="0" ay="0" az="1" tx="-1.0205" ty="0" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.138765" sZ="0.33475" angle="60" ax="0" ay="0" az="1" tx="-0.8806" ty="0.5084" tz="-0.0001" />
+    <Box sX="0.323165" sY="0.140602" sZ="0.33475" angle="30" ax="0" ay="0" az="1" tx="-0.5084" ty="0.8806" tz="-0.0001" />
   </Collision>
   <Connectivity>
-    <Fixed type="40" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.3036" />
-    <Fixed type="40" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.3036" />
+    <Fixed type="40" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="40" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.637816,0,0,0,0.637862,0,0,0,1.19205" centerOfMass="0,0,-0.344988" mass="1.01999998093" frictionType="1" />
   <Bounding>

@@ -1,26 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-07-16
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="65429" />
-    <Annotation designname="Wedge, Plate 4 x 2 Left, Pointed" />
+    <Annotation designname="LEFT PLATE 2X4, DEG. 27" />
     <Annotation maingroupid="217" />
     <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.252107" sY="0.151194" sZ="0.065295" angle="153.1746" ax="0" ay="1" az="0" tx="-1.3407" ty="0.1612" tz="-0.1478" />
+    <Box sX="0.59914" sY="0.151194" sZ="0.065462" angle="153.6182" ax="0" ay="1" az="0" tx="-0.0538" ty="0.1612" tz="0.4946" />
+    <Box sX="1.38062" sY="0.151194" sZ="0.055104" angle="180" ax="0" ay="1" az="0" tx="-0.2001" ty="0.1612" tz="-0.3264" />
+    <Box sX="0.709752" sY="0.151194" sZ="0.051209" angle="90" ax="0" ay="-1" az="0" tx="1.1449" ty="0.1612" tz="0.424" />
+    <Box sX="0.065702" sY="0.151194" sZ="0.044297" angle="153.8507" ax="0" ay="1" az="0" tx="1.0321" ty="0.1612" tz="1.0566" />
+    <Box sX="0.252398" sY="0.046328" sZ="0.120585" angle="180" ax="0" ay="1" az="0" tx="-0.7687" ty="0.2661" tz="-0.1307" />
+    <Box sX="0.252398" sY="0.046328" sZ="0.389162" angle="180" ax="0" ay="1" az="0" tx="0.2809" ty="0.2661" tz="0.1379" />
+    <Box sX="0.285543" sY="0.046328" sZ="0.065295" angle="153.8507" ax="0" ay="1" az="0" tx="-0.8459" ty="0.2661" tz="0.1008" />
+    <Box sX="0.274633" sY="0.046328" sZ="0.065295" angle="153.8507" ax="0" ay="1" az="0" tx="0.7425" ty="0.2661" tz="0.8905" />
+    <Box sX="1.33602" sY="0.046328" sZ="0.128106" angle="152.6844" ax="-0.0002" ay="1" az="0" tx="-0.097" ty="0.2666" tz="0.3618" />
+    <Box sX="0.252398" sY="0.046328" sZ="0.258414" angle="180" ax="0" ay="1" az="0" tx="-0.2439" ty="0.2661" tz="0.0071" />
+    <Box sX="0.252398" sY="0.046328" sZ="0.531848" angle="180" ax="0" ay="1" az="0" tx="0.8057" ty="0.2661" tz="0.2806" />
+    <Box sX="0.213109" sY="0.095543" sZ="0.218224" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.1042" tz="0.4" />
+    <Box sX="0.213109" sY="0.095543" sZ="0.218224" angle="135" ax="0" ay="1" az="0" tx="0.4" ty="0.1042" tz="0.4" />
+  </Collision>
   <Connectivity>
-    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
-      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,
+    <Custom2DField type="23" width="4" height="2" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="0.320001" tz="0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
       23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
-      18:1:1,23:4:1,29:0:1,23:4:1,29:0:1
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">
-      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
-      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
-      22:1:1,22:2:1,22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
-      29:0:1,29:0:1,22:2:1,29:0:1,22:2:1,29:0:1,22:2:1,
-      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,22:1:1
+    <Custom2DField type="22" width="8" height="4" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="0" tz="1.2">
+      22:1:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,15:4:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,29:0:1
     </Custom2DField>
   </Connectivity>
   <Bounding>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2021-07-21
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36451" />
+    <Annotation designname="DIAMOND, W/1,5 SHAFT [INFINITY STONE]" />
+    <Annotation maingroupid="251" />
+    <Annotation maingroupname="FIGURE, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.087401" sY="0.080634" sZ="0.25897" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1958" tz="0" />
+    <Box sX="0.09585" sY="0.032525" sZ="0.225119" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2934" tz="0" />
+    <Box sX="0.171839" sY="0.032525" sZ="0.142424" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.2934" tz="0" />
+    <Box sX="0.087401" sY="0.080634" sZ="0.200448" angle="0" ax="1" ay="0" az="0" tx="-0.002" ty="0.0861" tz="0" />
+    <Box sX="0.022343" sY="0.116492" sZ="0.127124" angle="31.0517" ax="0" ay="0" az="-1" tx="0.1646" ty="0.117" tz="0" />
+    <Box sX="0.022343" sY="0.116492" sZ="0.127124" angle="180" ax="-0.2677" ay="0.9635" az="0" tx="-0.1606" ty="0.117" tz="0" />
+    <Box sX="0.022343" sY="0.116492" sZ="0.063585" angle="92.6208" ax="-0.2091" ay="0.9553" az="-0.2091" tx="-0.0011" ty="0.117" tz="-0.2478" />
+    <Box sX="0.022343" sY="0.116492" sZ="0.057982" angle="92.8295" ax="0.2169" ay="-0.9518" az="-0.2169" tx="0.002" ty="0.117" tz="0.2527" />
+    <Box sX="0.022343" sY="0.057162" sZ="0.127124" angle="130.5257" ax="0" ay="0" az="1" tx="-0.1855" ty="0.2749" tz="0" />
+    <Box sX="0.022343" sY="0.057162" sZ="0.127124" angle="180" ax="0.9082" ay="0.4185" az="0" tx="0.186" ty="0.2749" tz="0" />
+    <Box sX="0.022343" sY="0.057162" sZ="0.084776" angle="145.5778" ax="0.6723" ay="0.3098" az="0.6723" tx="0.0003" ty="0.2749" tz="0.2584" />
+    <Box sX="0.022343" sY="0.057162" sZ="0.071147" angle="145.5778" ax="-0.6723" ay="-0.3098" az="0.6723" tx="0.0003" ty="0.2749" tz="-0.2546" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" grabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.2" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.2481" minY="-0.2" minZ="-0.3245" maxX="0.2483" maxY="0.3314" maxZ="0.3245" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2481" minY="-0.2" minZ="-0.3245" maxX="0.2483" maxY="0.3314" maxZ="0.3245" />
+  </GeometryBounding>
+</LEGOPrimitive>
