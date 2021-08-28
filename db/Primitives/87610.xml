@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87610" />
+    <Annotation designname="BOBA FETT HELMET" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="9" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.272057" sY="0.407299" sZ="0.019615" angle="3.4637" ax="1" ay="0" az="0" tx="0" ty="-0.2172" tz="-0.5573" />
+    <Box sX="0.272057" sY="0.443632" sZ="0.006076" angle="4.9772" ax="-1" ay="0" az="0" tx="0" ty="-0.3412" tz="0.6447" />
+    <Box sX="0.330945" sY="0.040038" sZ="0.32696" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.38" tz="0" />
+    <Box sX="0.272057" sY="0.407299" sZ="0.019615" angle="128.418" ax="-0.0266" ay="0.9981" az="0.0549" tx="0.4232" ty="-0.2261" tz="-0.3337" />
+    <Box sX="0.106951" sY="0.31092" sZ="0.054174" angle="90.0894" ax="-0.0395" ay="0.9984" az="0.0395" tx="0.6099" ty="-0.4156" tz="0.0031" />
+    <Box sX="0.272057" sY="0.443631" sZ="0.019615" angle="60.2716" ax="0.042" ay="0.9965" az="0.0725" tx="0.435" ty="-0.3216" tz="0.3515" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="180" ax="0" ay="1" az="0" tx="0.5775" ty="0.0905" tz="0" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.5775" ty="0" tz="0.0905" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.5775" ty="0" tz="-0.0905" />
+    <Box sX="0.272057" sY="0.407299" sZ="0.019615" angle="52.0214" ax="0.1127" ay="0.9921" az="-0.0545" tx="-0.4232" ty="-0.2261" tz="-0.3337" />
+    <Box sX="0.106951" sY="0.31092" sZ="0.054174" angle="90.0894" ax="0.0395" ay="0.9984" az="-0.0395" tx="-0.6099" ty="-0.4156" tz="0.0031" />
+    <Box sX="0.272057" sY="0.443631" sZ="0.019615" angle="119.9622" ax="0.0421" ay="0.9988" az="0.0243" tx="-0.435" ty="-0.3216" tz="0.3515" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="0" ax="1" ay="0" az="0" tx="-0.5775" ty="0.0905" tz="0" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="90" ax="1" ay="0" az="0" tx="-0.5775" ty="0" tz="0.0905" />
+    <Box sX="0.0425" sY="0.0055" sZ="0.064995" angle="90" ax="-1" ay="0" az="0" tx="-0.5775" ty="0" tz="-0.0905" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.1" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="14" length="1.26" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.63" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.171281,0,0,0,0.174098,0,0,0,0.150594" centerOfMass="0,-0.141114,0.056641" mass="0.600000023842" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7024" minY="-0.828" minZ="-0.7155" maxX="0.7024" maxY="0.515" maxZ="0.7954" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7024" minY="-0.828" minZ="-0.7155" maxX="0.7024" maxY="0.515" maxZ="0.7954" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>

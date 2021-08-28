@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98118" />
+    <Annotation designname="MINI FIGURE HELMET NO.11 [SW BOUSHH]" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.563324" sY="0.182149" sZ="0.518952" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1926" tz="-0.029" />
+    <Box sX="0.390189" sY="0.586193" sZ="0.110859" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3643" tz="0.6475" />
+    <Box sX="0.085803" sY="0.085803" sZ="0.272053" angle="45" ax="0" ay="0" az="-1" tx="0.5483" ty="0.0881" tz="0.6017" />
+    <Box sX="0.235537" sY="0.212061" sZ="0.110859" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.6598" tz="0.8878" />
+    <Box sX="0.358799" sY="0.549885" sZ="0.038163" angle="0.9679" ax="-1" ay="0" az="0" tx="0" ty="-0.3089" tz="-0.5815" />
+    <Box sX="0.358799" sY="0.534372" sZ="0.038163" angle="120.2262" ax="-0.0477" ay="-0.9954" az="-0.0826" tx="0.5548" ty="-0.2896" tz="0.3203" />
+    <Box sX="0.358799" sY="0.541151" sZ="0.038163" angle="60.2801" ax="-0.0917" ay="-0.9944" az="-0.0529" tx="0.5245" ty="-0.2962" tz="-0.3028" />
+    <Box sX="0.358799" sY="0.534372" sZ="0.038163" angle="60.6756" ax="0.1417" ay="-0.9865" az="0.0818" tx="-0.5548" ty="-0.2896" tz="0.3203" />
+    <Box sX="0.358799" sY="0.541151" sZ="0.038163" angle="120.0935" ax="0.0307" ay="-0.9981" az="0.0531" tx="-0.5245" ty="-0.2962" tz="-0.3028" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.45675,0,0,0,0.499123,0,0,0,0.433115" centerOfMass="0,-0.280639,0.147755" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8445" minY="-1.0462" minZ="-0.7378" maxX="0.8445" maxY="0.4849" maxZ="1.0333" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8445" minY="-1.0462" minZ="-0.7378" maxX="0.8445" maxY="0.4849" maxZ="1.0333" />
+  </GeometryBounding>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4" />
+</LEGOPrimitive>
