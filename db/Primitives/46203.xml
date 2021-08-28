@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Extra decoration surface created by jester
+Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46203;48395" />
+    <Annotation designname="SNOWBOARD" />
+    <Annotation maingroupid="251" />
+    <Annotation maingroupname="FIGURE, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.378621" sY="0.205896" sZ="0.663118" angle="7.6622" ax="0" ay="0" az="1" tx="2.4959" ty="-0.169" tz="0" />
+    <Box sX="1.72291" sY="0.215" sZ="0.663118" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.226" tz="0" />
+    <Box sX="0.138838" sY="0.160362" sZ="0.234523" angle="0.9508" ax="0" ay="0" az="1" tx="3.4142" ty="0.0597" tz="0" />
+    <Box sX="0.546853" sY="0.196054" sZ="0.315557" angle="63.3628" ax="0.1341" ay="-0.9636" az="0.2311" tx="2.893" ty="-0.1054" tz="0.0501" />
+    <Box sX="0.546853" sY="0.196054" sZ="0.315557" angle="63.3628" ax="-0.1341" ay="0.9636" az="0.2311" tx="2.893" ty="-0.1054" tz="-0.0501" />
+    <Box sX="0.138838" sY="0.160362" sZ="0.234523" angle="180" ax="0.0083" ay="1" az="0" tx="-2.6142" ty="0.0597" tz="0" />
+    <Box sX="0.546853" sY="0.196054" sZ="0.315556" angle="119.1906" ax="-0.1407" ay="-0.9867" az="-0.0816" tx="-2.093" ty="-0.1054" tz="0.0501" />
+    <Box sX="0.546853" sY="0.196054" sZ="0.315556" angle="119.1906" ax="0.1407" ay="0.9867" az="-0.0816" tx="-2.093" ty="-0.1054" tz="-0.0501" />
+    <Box sX="0.378621" sY="0.205896" sZ="0.663118" angle="180" ax="0.0668" ay="0.9978" az="0" tx="-1.6959" ty="-0.169" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.244693,0,0,0,3.6083,0,0,0,3.46306" centerOfMass="0.4,-0.064775,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.8" minY="-0.451" minZ="-0.7648" maxX="3.6" maxY="0.3214" maxZ="0.7648" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.8" minY="-0.451" minZ="-0.7648" maxX="3.6" maxY="0.3214" maxZ="0.7648" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0" />
+</LEGOPrimitive>

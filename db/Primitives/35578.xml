@@ -28,8 +28,8 @@
     <Box sX="0.496175" sY="0.407303" sZ="0.688927" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.3338" tz="0.7861" />
   </Collision>
   <Connectivity>
-    <Fixed type="32" axes="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.786" />
-    <Fixed type="32" axes="1" angle="180" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.786" />
+    <Fixed type="32" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.786"/>
+    <Fixed type="32" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0.786"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="1.2971444,0,0,0,1.2971445,0,0,0,2.2676224" centerOfMass="0,0,0.786" mass="1" frictionType="0" />
   <Bounding>

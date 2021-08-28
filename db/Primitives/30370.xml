@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30370" />
+    <Annotation designname="REBEL PILOT HELMET" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.44" sY="0.121423" sZ="0.44" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1642" tz="0" />
+    <Box sX="0.041417" sY="0.401724" sZ="0.319059" angle="0" ax="1" ay="0" az="0" tx="0.5725" ty="-0.379" tz="0" />
+    <Box sX="0.024342" sY="0.362732" sZ="0.205574" angle="45" ax="0" ay="1" az="0" tx="0.3778" ty="-0.34" tz="-0.3778" />
+    <Box sX="0.099408" sY="0.362732" sZ="0.205574" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.34" tz="-0.6094" />
+    <Box sX="0.020685" sY="0.362732" sZ="0.205574" angle="135" ax="0" ay="1" az="0" tx="-0.3753" ty="-0.34" tz="-0.3753" />
+    <Box sX="0.045562" sY="0.401724" sZ="0.319059" angle="180" ax="0" ay="1" az="0" tx="-0.5767" ty="-0.379" tz="0" />
+    <Box sX="0.007445" sY="0.122404" sZ="0.205574" angle="135" ax="0" ay="-1" az="0" tx="-0.3659" ty="-0.0997" tz="0.3659" />
+    <Box sX="0.086078" sY="0.09597" sZ="0.205574" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.0732" tz="0.5961" />
+    <Box sX="0.014469" sY="0.122404" sZ="0.205574" angle="45" ax="0" ay="-1" az="0" tx="0.3709" ty="-0.0997" tz="0.3709" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.11676,0,0,0,0.144913,0,0,0,0.126256" centerOfMass="3.1E-05,-0.15739,-0.085656" mass="0.52999997139" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.671095" minY="-0.890276" minZ="-0.769769" maxX="0.672565" maxY="0.42171" maxZ="0.7729" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.671095" minY="-0.890276" minZ="-0.769769" maxX="0.672565" maxY="0.42171" maxZ="0.7729" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by jester
-	Last modification: 2021-07-18
+	Last modification: 2021-08-21
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -396,7 +396,7 @@
         <AABB minX="0" minY="-0.16" minZ="-0.16" maxX="0.4" maxY="0.16" maxZ="0.16" />
       </Bounding>
     </Bone>
-    <Bone boneId="27" flexCheckConnection="1,26,2" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="-10.8">
+    <Bone boneId="27" flexCheckConnection="2,26,2" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="-10.8">
       <Collision>
         <Box sX="0.095709" sY="0.095709" sZ="0.190001" angle="98.4211" ax="-0.3574" ay="-0.8629" az="0.3574" tx="0.2" ty="0" tz="0" />
       </Collision>
@@ -410,7 +410,7 @@
         <AABB minX="0" minY="-0.16" minZ="-0.16" maxX="0.4" maxY="0.16" maxZ="0.16" />
       </Bounding>
     </Bone>
-    <Bone boneId="28" flexCheckConnection="0,27,2" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="-11.2">
+    <Bone boneId="28" flexCheckConnection="0,27,3" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="-11.2">
       <Collision>
         <Box sX="0.095709" sY="0.095709" sZ="0.190001" angle="98.4211" ax="-0.3574" ay="-0.8629" az="0.3574" tx="0.2" ty="0" tz="0" />
       </Collision>

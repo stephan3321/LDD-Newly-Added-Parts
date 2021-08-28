@@ -2,11 +2,13 @@
 <!--
 	Derived from: UnityLegoGame
 	Editted for LDD by: M2m
+	Extra decoration surface added by jester
+	Last modification: 21-08-2021 09:44
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="24630;24633;25870;25879" />
-    <Annotation designname="MINI HEAD, NO.37, PART 1" />
+    <Annotation designname="MINI HEAD, NO.37, PART 1 [DONALD DUCK]" />
     <Annotation maingroupid="242" />
     <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
     <Annotation platformid="200" />
@@ -49,5 +51,5 @@
   <GeometryBounding>
     <AABB minX="-0.845001" minY="-0.184279" minZ="-0.689386" maxX="1.23658" maxY="1.50497" maxZ="0.689386" />
   </GeometryBounding>
-  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4" />
 </LEGOPrimitive>

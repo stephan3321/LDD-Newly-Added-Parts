@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87566" />
+    <Annotation designname="GRIEVOUS BODY" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.215" sY="0.739653" sZ="0.248846" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.5553" tz="0" />
+    <Box sX="0.685003" sY="0.103137" sZ="0.103137" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0" tz="-0.0021" />
+    <Box sX="0.259746" sY="0.257436" sZ="0.02" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.3744" tz="0" />
+    <Box sX="0.052811" sY="0.472639" sZ="0.166626" angle="0" ax="1" ay="0" az="0" tx="0.1622" ty="1.381" tz="0.1403" />
+    <Box sX="0.141461" sY="0.268682" sZ="0.231966" angle="10" ax="0" ay="0" az="-1" tx="-0.0432" ty="1.2656" tz="0.0059" />
+    <Box sX="0.082475" sY="0.065765" sZ="0.190001" angle="10.8506" ax="0" ay="0" az="-1" tx="-0.6943" ty="1.5567" tz="0" />
+    <Box sX="0.341913" sY="0.103137" sZ="0.103137" angle="180" ax="-0.1116" ay="0.9938" az="0" tx="1.2046" ty="1.339" tz="-0.0021" />
+    <Box sX="0.082475" sY="0.065765" sZ="0.190001" angle="180" ax="-0.0945" ay="0.9955" az="0" tx="1.4943" ty="1.5567" tz="0" />
+    <Box sX="0.259746" sY="0.103687" sZ="0.090024" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.5989" tz="0.0038" />
+    <Box sX="0.052811" sY="0.472639" sZ="0.166626" angle="0" ax="1" ay="0" az="0" tx="0.6378" ty="1.381" tz="0.1403" />
+    <Box sX="0.141461" sY="0.268682" sZ="0.231966" angle="10" ax="0" ay="0" az="1" tx="0.8379" ty="1.2656" tz="0.0059" />
+    <Box sX="0.341913" sY="0.103137" sZ="0.103137" angle="12.8124" ax="0" ay="0" az="-1" tx="-0.4047" ty="1.339" tz="-0.0021" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.35" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.225" ty="1.6" tz="0" />
+    <Axel type="7" length="0.36838" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.6225" ay="0.7826" az="0" tx="-0.2452" ty="1.2871" tz="0" />
+    <Axel type="7" length="0.368798" requireGrabbing="1" startCapped="1" endCapped="1" angle="77" ax="0" ay="0" az="-1" tx="1.0443" ty="1.2889" tz="0" />
+    <Axel type="7" length="0.35" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.175" ty="0" tz="0" />
+    <Axel type="7" length="0.35" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.625" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.359018,0,0,0,0.287503,0,0,0,0.599008" centerOfMass="0.400059,0.970435,0.020304" mass="1.10000002384" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.9189" minY="-0.29" minZ="-0.4034" maxX="1.7189" maxY="1.9494" maxZ="0.4667" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9189" minY="-0.29" minZ="-0.4034" maxX="1.7189" maxY="1.9494" maxZ="0.4667" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

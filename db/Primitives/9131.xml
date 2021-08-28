@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Polymaker
-	Last modification: 2021-07-14
+	Last modification: 2021-08-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -33,9 +33,9 @@
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.637816,0,0,0,0.637862,0,0,0,1.19205" centerOfMass="0,0,-0.344988" mass="1.01999998093" frictionType="1" />
   <Bounding>
-    <AABB minX="-1.2" minY="-1.2" minZ="-0.7113" maxX="1.2" maxY="1.2" maxZ="0.0087" />
+    <AABB minX="-1.2" minY="-1.2" minZ="-0.36" maxX="1.2" maxY="1.2" maxZ="0.36" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.2" minY="-1.2" minZ="-0.7113" maxX="1.2" maxY="1.2" maxZ="0.0087" />
+    <AABB minX="-1.2" minY="-1.2" minZ="-0.36" maxX="1.2" maxY="1.2" maxZ="0.36" />
   </GeometryBounding>
 </LEGOPrimitive>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-07-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="43702" />
+    <Annotation designname="BASKET BALL" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.699841" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.293175,0,0,0,0.293281,0,0,0,0.294009" centerOfMass="0,0,0" mass="1.46000003815" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.703713" minY="-0.706233" minZ="-0.709119" maxX="0.703713" maxY="0.706233" maxZ="0.709119" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.703713" minY="-0.706233" minZ="-0.709119" maxX="0.703713" maxY="0.706233" maxZ="0.709119" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

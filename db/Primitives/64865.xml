@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64865" />
+    <Annotation designname="TECHNIC STICK - FLAT END" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.11255" sY="0.016088" sZ="0.389495" angle="90" ax="1" ay="0" az="0" tx="0.0002" ty="-0.3995" tz="0.1861" />
+    <Box sX="0.11255" sY="0.016088" sZ="0.389495" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0.1863" ty="-0.3995" tz="0" />
+    <Box sX="0.142426" sY="0.041358" sZ="0.11" angle="98.4203" ax="0.8629" ay="0.3574" az="-0.3574" tx="0.1456" ty="0.04" tz="0.1456" />
+    <Box sX="0.11255" sY="0.016088" sZ="0.389495" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.0002" ty="-0.3995" tz="-0.1861" />
+    <Box sX="0.11255" sY="0.016088" sZ="0.389495" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="-0.1859" ty="-0.3995" tz="0" />
+    <Box sX="0.149" sY="0.0055" sZ="0.03" angle="98.4203" ax="0.8629" ay="0.3574" az="-0.3574" tx="0.1202" ty="-0.76" tz="0.1202" />
+    <Box sX="0.149" sY="0.0055" sZ="0.03" angle="98.4203" ax="0.8629" ay="-0.3574" az="0.3574" tx="-0.1202" ty="-0.76" tz="0.1202" />
+    <Box sX="0.149" sY="0.0055" sZ="0.03" angle="148.6002" ax="0.2811" ay="-0.6786" az="0.6786" tx="-0.1202" ty="-0.76" tz="-0.1202" />
+    <Box sX="0.149" sY="0.0055" sZ="0.03" angle="148.6002" ax="0.2811" ay="0.6786" az="-0.6786" tx="0.1202" ty="-0.76" tz="-0.1202" />
+    <Box sX="0.142426" sY="0.041358" sZ="0.11" angle="148.6002" ax="0.2811" ay="0.6786" az="-0.6786" tx="0.1456" ty="0.04" tz="-0.1456" />
+    <Box sX="0.142426" sY="0.041358" sZ="0.11" angle="148.6002" ax="0.2811" ay="-0.6786" az="0.6786" tx="-0.1456" ty="0.04" tz="-0.1456" />
+    <Box sX="0.142426" sY="0.041358" sZ="0.11" angle="98.4203" ax="0.8629" ay="-0.3574" az="0.3574" tx="-0.1456" ty="0.04" tz="0.1456" />
+    <Box sX="0.111114" sY="2.788" sZ="0.084885" angle="0" ax="1" ay="0" az="0" tx="-0.0011" ty="2.798" tz="-0.0011" />
+    <Box sX="0.106914" sY="0.043985" sZ="0.354836" angle="0" ax="1" ay="0" az="0" tx="0" ty="4.766" tz="0" />
+    <Box sX="0.106914" sY="0.043985" sZ="0.354836" angle="90" ax="0" ay="1" az="0" tx="0" ty="4.766" tz="0" />
+    <Box sX="0.150198" sY="0.043985" sZ="0.311814" angle="45" ax="0" ay="1" az="0" tx="0" ty="4.766" tz="0" />
+    <Box sX="0.150198" sY="0.043985" sZ="0.311814" angle="135" ax="0" ay="1" az="0" tx="0" ty="4.766" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.77" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="5.5988" tz="0" />
+    <Axel type="7" length="4.44" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="4.675" tz="0" />
+    <Axel type="19" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.8" tz="0" />
+    <Axel type="6" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.18319,0,0,0,0.013454,0,0,0,2.18301" centerOfMass="0,3.15825,0" mass="0.699999988079" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.8" minZ="-0.37" maxX="0.37" maxY="5.6" maxZ="0.37" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.8" minZ="-0.37" maxX="0.37" maxY="5.6" maxZ="0.37" />
+  </GeometryBounding>
+</LEGOPrimitive>

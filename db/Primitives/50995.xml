@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50995" />
+    <Annotation designname="SW CLONE TROOPER EP.3 HELMET 2" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.520627" sY="0.190729" sZ="0.60971" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3507" tz="0.0587" />
+    <Box sX="0.565725" sY="0.526294" sZ="0.1215" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3863" tz="0.6435" />
+    <Box sX="0.502" sY="0.354886" sZ="0.05858" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.2149" tz="-0.5806" />
+    <Box sX="0.06855" sY="0.364884" sZ="0.533862" angle="0" ax="1" ay="0" az="0" tx="-0.5906" ty="-0.2249" tz="0.0319" />
+    <Box sX="0.06855" sY="0.364884" sZ="0.533862" angle="0" ax="1" ay="0" az="0" tx="0.5906" ty="-0.2249" tz="0.0319" />
+    <Box sX="0.078937" sY="0.096291" sZ="0.375631" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5992" tz="0.09" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.15" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.344647,0,0,0,0.296695,0,0,0,0.303626" centerOfMass="0,-0.130798,0.162803" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7954" minY="-0.9626" minZ="-0.7469" maxX="0.7954" maxY="0.7412" maxZ="0.9398" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7954" minY="-0.9626" minZ="-0.7469" maxX="0.7954" maxY="0.7412" maxZ="0.9398" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

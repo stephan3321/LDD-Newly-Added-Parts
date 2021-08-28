@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: jester
+	Last modification: 2021-08-21
+	Comments: Collision data by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9051;42072" />
+    <Annotation designname="WINDUP MOTOR AXLE BUSH" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="11.25" ax="0" ay="0" az="1" tx="1.9457" ty="1.4728" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="33.75" ax="0" ay="0" az="1" tx="1.8455" ty="1.4312" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="56.25" ax="0" ay="0" az="1" tx="1.7684" ty="1.3547" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="78.75" ax="0" ay="0" az="1" tx="1.7265" ty="1.2544" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="101.25" ax="0" ay="0" az="1" tx="1.7272" ty="1.1457" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="123.75" ax="0" ay="0" az="1" tx="1.7684" ty="1.0453" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="146.25" ax="0" ay="0" az="1" tx="1.8455" ty="0.9687" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="168.75" ax="0" ay="0" az="1" tx="1.9461" ty="0.9292" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="168.75" ax="0" ay="0" az="-1" tx="2.0545" ty="0.9263" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="146.25" ax="0" ay="0" az="-1" tx="2.1539" ty="0.9697" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="123.75" ax="0" ay="0" az="-1" tx="2.2289" ty="1.0471" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="101.25" ax="0" ay="0" az="-1" tx="2.2734" ty="1.1456" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="78.75" ax="0" ay="0" az="-1" tx="2.2727" ty="1.2543" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="56.25" ax="0" ay="0" az="-1" tx="2.2311" ty="1.3544" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="33.75" ax="0" ay="0" az="-1" tx="2.1541" ty="1.4306" tz="-0.3995" />
+    <Box sX="0.062183" sY="0.013821" sZ="0.797376" angle="11.25" ax="0" ay="0" az="-1" tx="2.0542" ty="1.4722" tz="-0.3995" />
+    <Box sX="0.05575" sY="0.069365" sZ="0.797376" angle="0" ax="1" ay="0" az="0" tx="2.1405" ty="1.3522" tz="-0.3995" />
+    <Box sX="0.05575" sY="0.069365" sZ="0.797376" angle="0" ax="1" ay="0" az="0" tx="1.8608" ty="1.3522" tz="-0.3995" />
+    <Box sX="0.05575" sY="0.069365" sZ="0.797376" angle="0" ax="1" ay="0" az="0" tx="2.1405" ty="1.0496" tz="-0.3995" />
+    <Box sX="0.05575" sY="0.069365" sZ="0.797376" angle="0" ax="1" ay="0" az="0" tx="1.8608" ty="1.0496" tz="-0.3995" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="229" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="2" ty="1.2" tz="0.32" />
+    <Axel type="4" length="1.6" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="2" ty="1.2" tz="-1.2" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="1.7" minY="0.9" minZ="-1.2" maxX="2.3" maxY="1.5" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="1.7" minY="0.9" minZ="-1.2" maxX="2.3" maxY="1.5" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>
