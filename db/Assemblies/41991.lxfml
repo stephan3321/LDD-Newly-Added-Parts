@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="418211"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="Slider Holder"/>
+		<Environment name="Standard"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="41820">
+			<Part refID="0" designID="41820" materials="24">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0.20000000298023224,0.40000000596046448" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="41821">
+			<Part refID="1" designID="41821" materials="24">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0.19999998807907104,0.40000000596046448" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
+
+

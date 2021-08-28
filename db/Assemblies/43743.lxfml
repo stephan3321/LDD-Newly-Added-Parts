@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="43743"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI LEG NBA"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="43220">
+			<Part refID="0" designID="43220" materials="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-4.0000000953674316,0,3.2000001907348633"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="43221">
+			<Part refID="1" designID="43221" materials="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-4.0000000953674316,1.6050000190734863,3.2000001907348633"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

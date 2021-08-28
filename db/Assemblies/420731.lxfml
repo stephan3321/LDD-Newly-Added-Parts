@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="420731"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="Windup Motor 2 x 6 x 2 1"/>
+		<Environment name="Standard"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="9421">
+			<Part refID="0" designID="9421" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-2.4,0,1.0000000476837158" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="42069">
+			<Part refID="1" designID="42069" materials="21,21" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-2.4,0,0.8000000476837158" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="9051">
+			<Part refID="2" designID="9051" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-2.4,0,0.8000000476837158" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
+
