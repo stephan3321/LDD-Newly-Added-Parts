@@ -17684,7 +17684,7 @@
 		<Assembly designID="42073" quantity="1" ItemNos="4162159">
 			<Part designID="42071" materialID="199"/>
 			<Part designID="9051" materialID="20"/>
-			<Part designID="9421" materialID="20"/>
+			<Part designID="9052" materialID="20"/>
 		</Assembly>
 		<Assembly designID="420731" quantity="1" ItemNos="4162159">
 			<Part designID="42069" materialID="27"/>
@@ -17697,158 +17697,158 @@
 			<Part designID="9421" materialID="20"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374300">
-			<Part designID="43220" materialID="1">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="1"/>
 			<Part designID="43221" materialID="1"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374301">
-			<Part designID="43220" materialID="27">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="27"/>
 			<Part designID="43221" materialID="27"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374302">
-			<Part designID="43220" materialID="26">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="26"/>
 			<Part designID="43221" materialID="26"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374303">
-			<Part designID="43220" materialID="21">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="21"/>
 			<Part designID="43221" materialID="21"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374304">
-			<Part designID="43220" materialID="106">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="106"/>
 			<Part designID="43221" materialID="106"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374305">
-			<Part designID="43220" materialID="24">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="24"/>
 			<Part designID="43221" materialID="24"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374306">
-			<Part designID="43220" materialID="141">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="141"/>
 			<Part designID="43221" materialID="141"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374307">
-			<Part designID="43220" materialID="28">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="28"/>
 			<Part designID="43221" materialID="28"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374308">
-			<Part designID="43220" materialID="140">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="140"/>
 			<Part designID="43221" materialID="140"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374309">
-			<Part designID="43220" materialID="23">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="23"/>
 			<Part designID="43221" materialID="23"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43743" quantity="1" ItemNos="4374310">
-			<Part designID="43220" materialID="110">
-				<SubMaterial surfaceID="1" materialID="309"/>
-			</Part>
+			<Part designID="43220" materialID="110"/>
 			<Part designID="43221" materialID="110"/>
+			<Part designID="43741" materialID="309"/>
+			<Part designID="43741" materialID="309"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337000">
-			<Part designID="3814" materialID="1"/>
+			<Part designID="43370" materialID="1"/>
 			<Part designID="43368" materialID="24"/>
 			<Part designID="43369" materialID="24"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337001">
-			<Part designID="3814" materialID="110"/>
+			<Part designID="43370" materialID="110"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337002">
-			<Part designID="3814" materialID="21"/>
+			<Part designID="43370" materialID="21"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337003">
-			<Part designID="3814" materialID="110"/>
+			<Part designID="43370" materialID="110"/>
 			<Part designID="43368" materialID="24"/>
 			<Part designID="43369" materialID="24"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337004">
-			<Part designID="3814" materialID="21"/>
+			<Part designID="43370" materialID="21"/>
 			<Part designID="43368" materialID="24"/>
 			<Part designID="43369" materialID="24"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337005">
-			<Part designID="3814" materialID="28"/>
+			<Part designID="43370" materialID="28"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337006">
-			<Part designID="3814" materialID="1"/>
+			<Part designID="43370" materialID="1"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337007">
-			<Part designID="3814" materialID="23"/>
+			<Part designID="43370" materialID="23"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337008">
-			<Part designID="3814" materialID="26"/>
+			<Part designID="43370" materialID="26"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337009">
-			<Part designID="3814" materialID="24"/>
+			<Part designID="43370" materialID="24"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337010">
-			<Part designID="3814" materialID="141"/>
+			<Part designID="43370" materialID="141"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337011">
-			<Part designID="3814" materialID="110"/>
+			<Part designID="43370" materialID="110"/>
 			<Part designID="43368" materialID="18"/>
 			<Part designID="43369" materialID="18"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337012">
-			<Part designID="3814" materialID="140"/>
+			<Part designID="43370" materialID="140"/>
 			<Part designID="43368" materialID="18"/>
 			<Part designID="43369" materialID="18"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337013">
-			<Part designID="3814" materialID="26"/>
+			<Part designID="43370" materialID="26"/>
 			<Part designID="43368" materialID="18"/>
 			<Part designID="43369" materialID="18"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337014">
-			<Part designID="3814" materialID="2"/>
+			<Part designID="43370" materialID="2"/>
 			<Part designID="43368" materialID="24"/>
 			<Part designID="43369" materialID="24"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337015">
-			<Part designID="3814" materialID="5"/>
+			<Part designID="43370" materialID="5"/>
 			<Part designID="43368" materialID="24"/>
 			<Part designID="43369" materialID="24"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337016">
-			<Part designID="3814" materialID="140"/>
+			<Part designID="43370" materialID="140"/>
 			<Part designID="43368" materialID="192"/>
 			<Part designID="43369" materialID="192"/>
 		</Assembly>
 		<Assembly designID="43370" quantity="1" ItemNos="4337017">
-			<Part designID="3814" materialID="1"/>
+			<Part designID="43370" materialID="1"/>
 			<Part designID="43368" materialID="18"/>
 			<Part designID="43369" materialID="18"/>
 		</Assembly>
@@ -18618,5 +18618,23 @@
 		<Brick designID="66955" materialID="26" quantity="1" ItemNos="6301371"/>
 		<Brick designID="66955" materialID="140" quantity="1" ItemNos="6323472"/>
 		<Brick designID="66955" materialID="191" quantity="1" ItemNos="6324183"/>
+		<Brick designID="24779" materialID="1" quantity="1" ItemNos="6274766">
+			<SubMaterial surfaceID="1" materialID="23"/>
+		</Brick>
+		<Brick designID="65249" materialID="1" quantity="1" ItemNos="6289797"/>
+		<Brick designID="65826" materialID="37" quantity="1" ItemNos="6301284"/>
+		<Brick designID="74169" materialID="26" quantity="1" ItemNos="6336633"/>
+		<Brick designID="63864" materialID="138" quantity="1" ItemNos="6329820">
+			<Decoration surfaceID="1" decorationID="73904"/>
+		</Brick>
+		<Brick designID="4744" materialID="21" quantity="1" ItemNos="81780">
+			<Decoration surfaceID="1" decorationID="81780"/>
+		</Brick>
+		<Brick designID="4744" materialID="26" quantity="1" ItemNos="81781">
+			<Decoration surfaceID="1" decorationID="81781"/>
+		</Brick>
+		<Brick designID="4744" materialID="28" quantity="1" ItemNos="4744000">
+			<Decoration surfaceID="1" decorationID="474400"/>
+		</Brick>
 	</Bag>
 </PAXML>
