@@ -2648,7 +2648,7 @@
 	<Mapping decorationID="69098" designID="69073" surfaceID="2"/>
 	<Mapping decorationID="69065" designID="69073" surfaceID="2"/>
 	<Mapping decorationID="79001" designID="79001" surfaceID="1"/>
-	<Mapping decorationID="78989" designID="78989" surfaceID="1"/>
+	<Mapping decorationID="78989" designID="79435" surfaceID="1"/>
 	<Mapping decorationID="77237" designID="77237" surfaceID="2"/>
 	<Mapping decorationID="10378" designID="10304" surfaceID="1"/>
 	<Mapping decorationID="23092" designID="10304" surfaceID="1"/>
@@ -2817,4 +2817,6 @@
 	<Mapping decorationID="81780" designID="4744" surfaceID="1"/>
 	<Mapping decorationID="81781" designID="4744" surfaceID="1"/>
 	<Mapping decorationID="474400" designID="4744" surfaceID="1"/>
+	<Mapping decorationID="501901" designID="4864" surfaceID="1"/>
+	<Mapping decorationID="501902" designID="4864" surfaceID="1"/>
 </DecorationMapping>
