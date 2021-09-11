@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: jester
-	Last modification: 2021-08-21
+	Last modification: 2021-08-30
 	Comments: Collision data by Stephan.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
@@ -30,9 +30,9 @@
     <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90" ax="1" ay="0" az="0" tx="0.5991" ty="1.107" tz="0.1917" />
     <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90" ax="1" ay="0" az="0" tx="0.2029" ty="1.1258" tz="-0.1994" />
     <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90" ax="1" ay="0" az="0" tx="0.5991" ty="1.1258" tz="-0.1994" />
-    <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90.0102" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2606" ty="1.1258" tz="-0.1994" />
-    <Box sX="0.076855" sY="0.135734" sZ="0.332371" angle="90.0102" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2611" ty="1.1047" tz="0.0004" />
-    <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90.0102" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2611" ty="1.107" tz="0.1917" />
+    <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90.0101" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2606" ty="1.1258" tz="-0.1994" />
+    <Box sX="0.076855" sY="0.135734" sZ="0.332371" angle="90.0101" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2611" ty="1.1047" tz="0.0004" />
+    <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="90.0101" ax="0.9998" ay="0.0133" az="-0.0133" tx="-0.2611" ty="1.107" tz="0.1917" />
     <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="179.2206" ax="0.0068" ay="0.7071" az="-0.7071" tx="1.0566" ty="1.1258" tz="0.1993" />
     <Box sX="0.076855" sY="0.135734" sZ="0.332371" angle="179.2206" ax="0.0068" ay="0.7071" az="-0.7071" tx="1.0593" ty="1.1047" tz="-0.0004" />
     <Box sX="0.076855" sY="0.073227" sZ="0.200727" angle="179.2206" ax="0.0068" ay="0.7071" az="-0.7071" tx="1.0603" ty="1.107" tz="-0.1917" />
@@ -50,6 +50,8 @@
       22:2:1,15:4,22:2:1,
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
+    <Axel type="4" length="0.25" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6504" tz="0" />
+    <Axel type="4" length="0.25" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.6504" tz="0" />
   </Connectivity>
   <Bounding>
     <AABB minX="-0.38" minY="0" minZ="-0.4" maxX="1.18" maxY="1.4771" maxZ="0.4" />
@@ -57,5 +59,4 @@
   <GeometryBounding>
     <AABB minX="-0.38" minY="0" minZ="-0.4" maxX="1.18" maxY="1.4771" maxZ="0.4" />
   </GeometryBounding>
-  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

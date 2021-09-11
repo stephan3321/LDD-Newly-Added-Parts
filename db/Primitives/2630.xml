@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Niels Karsdorp [nielsk]
 	Editted for LDD by: jester
-	Last modification: 2021-07-14
+	Last modification: 2021-09-11
 	Comments: Collision data by Stephan.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
@@ -49,6 +49,6 @@
     <AABB minX="-1.2" minY="0" minZ="-0.8" maxX="0.4" maxY="1.76" maxZ="0.8" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.2" minY="0" minZ="-0.8" maxX="0.4" maxY="1.76" maxZ="0.8" />
+    <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="1.76" maxZ="0.4" />
   </GeometryBounding>
 </LEGOPrimitive>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24779" />
+    <Annotation designname="MINI TAIL NO.2" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.689994" sY="0.03129" sZ="0.059743" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0413" tz="0.3303" />
+    <Box sX="0.689994" sY="0.03129" sZ="0.059743" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0413" tz="-0.3342" />
+    <Box sX="0.015388" sY="0.03129" sZ="0.391986" angle="0" ax="1" ay="0" az="0" tx="-0.2746" ty="0.0413" tz="-0.002" />
+    <Box sX="0.123403" sY="0.302448" sZ="0.533491" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.2547" tz="-0.5334" />
+    <Box sX="0.113737" sY="0.245574" sZ="0.295063" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.1221" tz="-0.7205" />
+    <Box sX="0.1395" sY="0.03129" sZ="0.391986" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0413" tz="-0.002" />
+    <Box sX="0.015247" sY="0.03129" sZ="0.391986" angle="0" ax="1" ay="0" az="0" tx="1.0748" ty="0.0413" tz="-0.002" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.204055,0,0,0,0.301733,0,0,0,0.228994" centerOfMass="0.399996,0.216182,-0.244353" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3" minY="-0.2276" minZ="-0.8887" maxX="1.1" maxY="0.66" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3" minY="-0.2276" minZ="-0.8887" maxX="1.1" maxY="0.66" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-08-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="43370;88476" />
+    <Annotation designname="MINI UPPER PART [NBA]" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="8" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.039748" sY="0.39" sZ="0.625412" angle="173.3946" ax="-0.0577" ay="0.7059" az="-0.7059" tx="1.0146" ty="0.6437" tz="0" />
+    <Box sX="0.027" sY="0.64882" sZ="0.309051" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.4024" ty="0.3191" tz="-0.363" />
+    <Box sX="0.027" sY="0.64882" sZ="0.309051" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.4024" ty="0.3191" tz="0.363" />
+    <Box sX="0.31" sY="0.556618" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="0.4012" ty="0.96" tz="0" />
+    <Box sX="0.16385" sY="0.154579" sZ="0.154579" angle="90" ax="0" ay="0" az="1" tx="0.4" ty="1.4722" tz="0" />
+    <Box sX="0.035525" sY="0.39" sZ="0.625412" angle="173.4982" ax="-0.0568" ay="-0.706" az="0.706" tx="-0.2202" ty="0.6448" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0" />
+    <Hinge type="14" oriented="1" angle="100.5" ax="0" ay="0" az="-1" tx="-0.0725" ty="0.8827" tz="0" />
+    <Hinge type="14" oriented="1" angle="100.5" ax="0" ay="0" az="1" tx="0.8725" ty="0.8827" tz="0" />
+    <Hinge type="201" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="1.28" tz="0" />
+    <Fixed type="31" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.7" ty="1.28" tz="0" />
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.28" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0" tz="0" />
+    <Hinge type="201" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="1.43" tz="0" />
+    <Fixed type="31" axes="2" angle="0" ax="1" ay="0" az="0" tx="0.1" ty="1.28" tz="0" />
+    <Hinge type="201" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="1.348" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.157666,0,0,0,0.159699,0,0,0,0.229459" centerOfMass="0.408976,0.752787,0.009782" mass="0.875" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.36" minY="0" minZ="-0.4" maxX="1.16" maxY="1.76" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="0" minZ="-0.4" maxX="1.16" maxY="1.76" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0" />
+</LEGOPrimitive>
