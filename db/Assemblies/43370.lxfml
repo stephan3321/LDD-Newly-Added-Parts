@@ -17,8 +17,8 @@
 				<Bone refID="0" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.2199880182743072,0.91003537178039551,-0.000000119209289" freeze="no"/>
 			</Part>
 		</Brick>
-		<Brick refID="1" designID="3814" uuid="54655604-c45a-47f8-b2b6-5e8cac6b1644">
-			<Part refID="1" designID="3814" materials="194,0,0" decoration="0,0">
+		<Brick refID="1" designID="43370" uuid="54655604-c45a-47f8-b2b6-5e8cac6b1644">
+			<Part refID="1" designID="43370" materials="194,0,0" decoration="0,0">
 				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
 			</Part>
 		</Brick>

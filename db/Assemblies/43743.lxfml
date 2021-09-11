@@ -10,13 +10,23 @@
 	</Meta>
 	<Bricks>
 		<Brick refID="0" designID="43220">
-			<Part refID="0" designID="43220" materials="0">
-				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-4.0000000953674316,0,3.2000001907348633"/>
+			<Part refID="0" designID="43220" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
 			</Part>
 		</Brick>
 		<Brick refID="1" designID="43221">
-			<Part refID="1" designID="43221" materials="0">
-				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-4.0000000953674316,1.6050000190734863,3.2000001907348633"/>
+			<Part refID="1" designID="43221" materials="194">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,1.6049960851669312,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="43741">
+			<Part refID="2" designID="43741" materials="194">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0.40,0.009196162223815918,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="43741">
+			<Part refID="3" designID="43741" materials="194">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.40,0.009196162223815918,0"/>
 			</Part>
 		</Brick>
 	</Bricks>

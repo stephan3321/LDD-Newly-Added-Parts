@@ -10,8 +10,8 @@
 		<Environment name="Standard"/>
 	</Meta>
 	<Bricks>
-		<Brick refID="0" designID="9421">
-			<Part refID="0" designID="9421" materials="21">
+		<Brick refID="0" designID="9052">
+			<Part refID="0" designID="9052" materials="21">
 				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-2.4,0,0.8000000476837158" freeze="no"/>
 			</Part>
 		</Brick>
