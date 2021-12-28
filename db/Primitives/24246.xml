@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2021-06-04
+	Created for LDD by: Stephan
+	Last modification: 2021-12-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -13,9 +14,16 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.39" sY="0.19" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="0.2" />
-    <Box sX="0.318464" sY="0.101261" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="-0.1094" />
-    <Box sX="0.171714" sY="0.06283" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="-0.2797" />
+    <Box sX="0.39" sY="0.06799" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="0.3225" />
+    <Box sX="0.139444" sY="0.026779" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="-0.3251" />
+    <Box sX="0.189911" sY="0.066328" sZ="0.15" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.3238" ty="0.16" tz="0.1738" />
+    <Box sX="0.189911" sY="0.066855" sZ="0.15" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="-0.3202" ty="0.16" tz="0.1738" />
+    <Box sX="0.141272" sY="0.069263" sZ="0.15" angle="142.2503" ax="0.3419" ay="-0.6645" az="0.6645" tx="-0.2271" ty="0.16" tz="-0.1797" />
+    <Box sX="0.114393" sY="0.069263" sZ="0.15" angle="104.5919" ax="0.773" ay="-0.4486" az="0.4486" tx="0.2569" ty="0.16" tz="-0.1461" />
+    <Box sX="0.39" sY="0.053692" sZ="0.205541" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.266" tz="0.1761" />
+    <Box sX="0.328873" sY="0.053692" sZ="0.124628" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.266" tz="-0.056" />
+    <Box sX="0.172522" sY="0.053692" sZ="0.049546" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.266" tz="-0.2792" />
+    <Box sX="0.261619" sY="0.053692" sZ="0.049546" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.266" tz="-0.2061" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

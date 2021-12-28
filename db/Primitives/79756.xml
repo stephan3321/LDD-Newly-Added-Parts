@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-12-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="79756;63328" />
+    <Annotation designname="PLATE 1X4X2/3, OUTSIDE BOW" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.387747" sY="0.120899" sZ="1.590029" angle="90" ax="0" ay="-1" az="0" tx="1.1988" ty="0.164" tz="0.0003" />
+    <Box sX="0.126136" sY="0.168858" sZ="1.590029" angle="95.9646" ax="0.3068" ay="-0.901" az="-0.3068" tx="1.1989" ty="0.377" tz="-0.1759" />
+    <Box sX="0.181555" sY="0.120534" sZ="1.590029" angle="119.5924" ax="0.575" ay="-0.5821" az="-0.575" tx="1.1988" ty="0.4333" tz="-0.0085" />
+    <Box sX="0.126136" sY="0.168858" sZ="1.590029" angle="95.3678" ax="-0.2925" ay="-0.9104" az="0.2925" tx="1.1988" ty="0.3696" tz="0.178" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.050133,0,0,0,0.653176,0,0,0,0.624172" centerOfMass="1.2,0.226886,0" mass="0.699999988079" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.64" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.64" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

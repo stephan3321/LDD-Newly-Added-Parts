@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: jester
-	Last modification: 2021-07-14
+	Last modification: 2021-12-19
 	Comments: Collision data by Stephan.
+Decoration surface corrected by Qahne.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

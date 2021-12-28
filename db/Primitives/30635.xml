@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-12-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30635" />
+    <Annotation designname="STRING REEL DRUM 1X4X2 W/ FRICTION" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.155122" sY="0.138489" sZ="0.070799" angle="0" ax="1" ay="0" az="0" tx="0.0017" ty="0.3514" tz="0.0715" />
+    <Box sX="0.195935" sY="0.138489" sZ="0.070799" angle="60" ax="0" ay="0" az="-1" tx="0.3045" ty="0.1738" tz="0.0715" />
+    <Box sX="0.191209" sY="0.138489" sZ="0.070799" angle="120" ax="0" ay="0" az="-1" tx="0.3021" ty="-0.1772" tz="0.0715" />
+    <Box sX="0.162075" sY="0.138489" sZ="0.070799" angle="180" ax="0" ay="0" az="1" tx="-0.0031" ty="-0.3507" tz="0.0715" />
+    <Box sX="0.181938" sY="0.138489" sZ="0.070799" angle="120" ax="0" ay="0" az="1" tx="-0.3059" ty="-0.1731" tz="0.0715" />
+    <Box sX="0.182593" sY="0.138489" sZ="0.070799" angle="60" ax="0" ay="0" az="1" tx="-0.3035" ty="0.1779" tz="0.0715" />
+    <Box sX="0.085854" sY="0.0055" sZ="0.69" angle="60" ax="0" ay="0" az="-1" tx="0.2299" ty="0.1328" tz="-0.7" />
+    <Box sX="0.083377" sY="0.0055" sZ="0.69" angle="120" ax="0" ay="0" az="-1" tx="0.2299" ty="-0.1328" tz="-0.7" />
+    <Box sX="0.269873" sY="0.079123" sZ="0.69" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.0005" tz="-0.7" />
+    <Box sX="0.083528" sY="0.0055" sZ="0.69" angle="120" ax="0" ay="0" az="1" tx="-0.2299" ty="-0.1328" tz="-0.7" />
+    <Box sX="0.089324" sY="0.0055" sZ="0.69" angle="60" ax="0" ay="0" az="1" tx="-0.2299" ty="0.1328" tz="-0.7" />
+    <Box sX="0.155122" sY="0.138489" sZ="0.076686" angle="0" ax="1" ay="0" az="0" tx="0.0017" ty="0.3514" tz="-1.4715" />
+    <Box sX="0.195935" sY="0.138489" sZ="0.076686" angle="60" ax="0" ay="0" az="-1" tx="0.3045" ty="0.1738" tz="-1.4715" />
+    <Box sX="0.191209" sY="0.138489" sZ="0.076686" angle="120" ax="0" ay="0" az="-1" tx="0.3021" ty="-0.1772" tz="-1.4715" />
+    <Box sX="0.162075" sY="0.138489" sZ="0.076686" angle="180" ax="0" ay="0" az="1" tx="-0.0031" ty="-0.3507" tz="-1.4715" />
+    <Box sX="0.181938" sY="0.138489" sZ="0.076686" angle="120" ax="0" ay="0" az="1" tx="-0.3059" ty="-0.1731" tz="-1.4715" />
+    <Box sX="0.182593" sY="0.138489" sZ="0.076686" angle="60" ax="0" ay="0" az="1" tx="-0.3035" ty="0.1779" tz="-1.4715" />
+    <Box sX="0.162645" sY="0.201005" sZ="0.068058" angle="0" ax="1" ay="0" az="0" tx="0.0017" ty="0.0086" tz="0.0808" />
+    <Box sX="0.162645" sY="0.201005" sZ="0.068058" angle="0" ax="1" ay="0" az="0" tx="0.0017" ty="0.0086" tz="-1.4823" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="131" oriented="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="-0.7" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.101546,0,0,0,0.102098,0,0,0,0.043613" centerOfMass="-1.8E-05,5.1E-05,-0.686179" mass="0.372999995947" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5285" minY="-0.5279" minZ="-1.63" maxX="0.5285" maxY="0.5292" maxZ="0.23" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5285" minY="-0.5279" minZ="-1.63" maxX="0.5285" maxY="0.5292" maxZ="0.23" />
+  </GeometryBounding>
+</LEGOPrimitive>

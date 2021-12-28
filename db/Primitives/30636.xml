@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-12-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30636" />
+    <Annotation designname="STRING REEL HOLDER 1X4X2 W/ PINS" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="9" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.394814" sY="0.043354" sZ="1.588411" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="0.231" tz="-0.3978" />
+    <Box sX="0.190646" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="0.2784" />
+    <Box sX="0.190646" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="0.5246" />
+    <Box sX="0.190646" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="-1.3216" />
+    <Box sX="0.190646" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="-1.0754" />
+    <Box sX="0.104244" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="0.2074" />
+    <Box sX="0.104244" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="0.5888" />
+    <Box sX="0.104244" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="-1.3926" />
+    <Box sX="0.104244" sY="0.408734" sZ="0.016924" angle="0" ax="1" ay="0" az="0" tx="0.3977" ty="-0.212" tz="-1.0112" />
+    <Box sX="0.237117" sY="0.086678" sZ="0.948847" angle="90" ax="0" ay="0" az="1" tx="0.1069" ty="0.4148" tz="-0.3978" />
+    <Box sX="0.024287" sY="0.086678" sZ="0.675852" angle="90" ax="0" ay="0" az="1" tx="0.1112" ty="0.6704" tz="-0.3978" />
+    <Box sX="0.584141" sY="0.031894" sZ="0.042754" angle="86.6135" ax="0.2547" ay="-0.2318" az="0.9388" tx="0.107" ty="0.8466" tz="-1.6429" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="83.7016" ax="0" ay="0" az="1" tx="0.072" ty="0.6747" tz="-1.3913" />
+    <Box sX="0.584141" sY="0.031894" sZ="0.042754" angle="162.2812" ax="-0.6529" ay="-0.7355" az="-0.1806" tx="0.6925" ty="0.8216" tz="-1.6515" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="180" ax="0.6672" ay="0.7449" az="0" tx="0.71" ty="0.6747" tz="-1.3757" />
+    <Box sX="0.584141" sY="0.031894" sZ="0.042754" angle="161.7582" ax="0.648" ay="0.7418" az="-0.1727" tx="0.6909" ty="0.8593" tz="0.8206" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="179.1873" ax="-0.6514" ay="-0.7587" az="0.0018" tx="0.7201" ty="0.6892" tz="0.5679" />
+    <Box sX="0.584141" sY="0.031894" sZ="0.042754" angle="87.0529" ax="-0.2583" ay="0.217" az="0.9414" tx="0.1024" ty="0.8077" tz="0.8375" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="86.1107" ax="0.01" ay="0.0038" az="0.9999" tx="0.0826" ty="0.6625" tz="0.5606" />
+    <Box sX="0.478645" sY="0.189848" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.4073" ty="0.6211" tz="-1.3309" />
+    <Box sX="0.478645" sY="0.189848" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.4073" ty="0.6211" tz="0.5262" />
+    <Box sX="0.03147" sY="0.247425" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.4073" ty="1.4149" tz="-1.3309" />
+    <Box sX="0.03147" sY="0.247425" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.4073" ty="1.4149" tz="0.5319" />
+    <Box sX="0.215585" sY="0.046259" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.2458" ty="1.2304" tz="-1.3309" />
+    <Box sX="0.215585" sY="0.046259" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.5538" ty="1.2304" tz="-1.3309" />
+    <Box sX="0.215585" sY="0.046259" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.2458" ty="1.2304" tz="0.5305" />
+    <Box sX="0.215585" sY="0.046259" sZ="0.045186" angle="90" ax="0" ay="0" az="1" tx="0.5538" ty="1.2304" tz="0.5305" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="167.0763" ax="-0.6638" ay="-0.741" az="-0.1014" tx="0.71" ty="0.6747" tz="-1.5719" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="164.0388" ax="0.6451" ay="0.7532" az="-0.1282" tx="0.7291" ty="0.6452" tz="0.7531" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="87.7413" ax="-0.1475" ay="0.172" az="0.974" tx="0.0845" ty="0.6518" tz="0.7503" />
+    <Box sX="0.345387" sY="0.030726" sZ="0.081015" angle="85.0368" ax="0.1427" ay="-0.1593" az="0.9769" tx="0.0713" ty="0.6679" tz="-1.5764" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="130" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.4" ty="1.22" tz="-0.4" />
+    <Axel type="3" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.6234" tz="0.4" />
+    <Axel type="3" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.6234" tz="-1.2" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.454233,0,0,0,0.504131,0,0,0,0.315534" centerOfMass="0.4,0.46463,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="0" minY="-0.6235" minZ="-2" maxX="0.8" maxY="1.4565" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0" minY="-0.6235" minZ="-2" maxX="0.8" maxY="1.4565" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

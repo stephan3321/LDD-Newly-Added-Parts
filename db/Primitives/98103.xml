@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-09-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98103" />
+    <Annotation designname="ROBOT HEAD NO 1" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.152217" sY="0.15588" sZ="0.036636" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="-0.2066" />
+    <Box sX="0.152217" sY="0.15588" sZ="0.036636" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.0002" tz="0.2066" />
+    <Box sX="0.152217" sY="0.180816" sZ="0.020375" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.1904" tz="-0.0073" />
+    <Box sX="0.115" sY="0.49" sZ="0.149829" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7099" tz="0.0002" />
+    <Box sX="0.331363" sY="0.101481" sZ="0.101481" angle="45" ax="-1" ay="0" az="0" tx="0" ty="0.7948" tz="-0.0915" />
+    <Box sX="0.180966" sY="0.062832" sZ="0.062832" angle="45" ax="-1" ay="0" az="0" tx="0" ty="0.6158" tz="-0.1829" />
+    <Box sX="0.255481" sY="0.185119" sZ="0.151454" angle="48.3217" ax="-1" ay="0" az="0" tx="0" ty="0.6028" tz="0.3309" />
+    <Box sX="0.255481" sY="0.317705" sZ="0.105416" angle="48.3217" ax="-1" ay="0" az="0" tx="0" ty="1.0421" tz="0.2148" />
+    <Box sX="0.255481" sY="0.213018" sZ="0.091588" angle="111.8887" ax="-1" ay="0" az="0" tx="0" ty="1.14" tz="-0.1587" />
+    <Box sX="0.088314" sY="0.034458" sZ="0.037005" angle="111.8887" ax="-1" ay="0" az="0" tx="0" ty="0.9975" tz="-0.3498" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.324626" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.1624" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.268492,0,0,0,0.120291,0,0,0,0.225887" centerOfMass="0,0.582976,0.075517" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3414" minY="-0.1661" minZ="-0.4188" maxX="0.3414" maxY="1.3017" maxZ="0.5181" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3414" minY="-0.1661" minZ="-0.4188" maxX="0.3414" maxY="1.3017" maxZ="0.5181" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-11-19
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60623" />
+    <Annotation designname="D. W. PANES F. FRAME 1X4X6" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.39669" sY="0.164597" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.2979" ty="5.0839" tz="0" />
+    <Box sX="0.165451" sY="0.382" sZ="0.14" angle="0" ax="1" ay="0" az="0" tx="2.5366" ty="2.63" tz="0" />
+    <Box sX="0.267186" sY="0.232708" sZ="0.14" angle="45" ax="0" ay="0" az="1" tx="2.3367" ty="2.6544" tz="0" />
+    <Box sX="1.39669" sY="0.046018" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.2979" ty="3.9748" tz="0" />
+    <Box sX="1.39669" sY="1.491998" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.2979" ty="1.5047" tz="0" />
+    <Box sX="0.070556" sY="0.970844" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.3102" ty="3.9542" tz="0" />
+    <Box sX="0.162504" sY="0.970844" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="2.5802" ty="3.9542" tz="0" />
+    <Box sX="0.148994" sY="0.970844" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.0424" ty="3.9542" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="47" oriented="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="2.63" tz="0" />
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="1.9611" ty="3.03" tz="0.15">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7611" ty="3.03" tz="-0.15">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.93616,0,0,0,1.51039,0,0,0,5.43331" centerOfMass="1.36891,2.26264,0" mass="1.85000002384" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.156901" minY="-0.055" minZ="-0.328" maxX="2.7531" maxY="5.315" maxZ="0.327" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.156901" minY="-0.055" minZ="-0.328" maxX="2.7531" maxY="5.315" maxZ="0.327" />
+  </GeometryBounding>
+</LEGOPrimitive>

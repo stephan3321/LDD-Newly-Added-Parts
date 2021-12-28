@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2021-10-08
+	Comments: collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35699" />
+    <Annotation designname="MINI WIG, NO. 196" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.314149" sY="0.388608" sZ="0.035371" angle="10.81285" ax="-1" ay="0" az="0" tx="0.003877" ty="-0.327435" tz="-0.585548"/>
+    <Box sX="0.314149" sY="0.34716" sZ="0.035371" angle="116.95515" ax="-1" ay="0" az="0" tx="0.003877" ty="0.225993" tz="-0.341969"/>
+    <Box sX="0.314149" sY="0.283669" sZ="0.035371" angle="117.54823" ax="1" ay="0" az="0" tx="0.003877" ty="0.252071" tz="0.236763"/>
+    <Box sX="0.222989" sY="0.079273" sZ="0.132536" angle="70.36974" ax="-1" ay="0" az="0" tx="0.013027" ty="0.005069" tz="0.546473"/>
+    <Box sX="0.262513" sY="0.095166" sZ="0.262513" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.104709" tz="0"/>
+    <Box sX="0.147694" sY="0.331036" sZ="0.035371" angle="118.13867" ax="0.89393" ay="0.233384" az="0.382651" tx="-0.366456" ty="0.141301" tz="0.132419"/>
+    <Box sX="0.173114" sY="0.314149" sZ="0.035371" angle="79.85486" ax="0.750673" ay="0.428831" az="0.502587" tx="-0.376143" ty="0.09219" tz="-0.328981"/>
+    <Box sX="0.26249" sY="0.314149" sZ="0.035371" angle="61.04735" ax="-0.087719" ay="0.995061" az="-0.046461" tx="-0.435382" ty="-0.272795" tz="-0.353839"/>
+    <Box sX="0.173114" sY="0.220256" sZ="0.035371" angle="99.50999" ax="0.097517" ay="0.991794" az="-0.082671" tx="-0.495477" ty="-0.100442" tz="0.021283"/>
+    <Box sX="0.173114" sY="0.314149" sZ="0.035371" angle="148.04842" ax="0.335528" ay="0.797665" az="0.50115" tx="0.376143" ty="0.09219" tz="-0.328981"/>
+    <Box sX="0.173114" sY="0.220256" sZ="0.035371" angle="81.59465" ax="-0.096576" ay="0.988785" az="0.113919" tx="0.495477" ty="-0.100442" tz="0.021283"/>
+    <Box sX="0.26249" sY="0.314149" sZ="0.035371" angle="119.28605" ax="-0.027347" ay="0.998292" az="-0.051631" tx="0.435382" ty="-0.272795" tz="-0.353839"/>
+    <Box sX="0.147694" sY="0.331036" sZ="0.035371" angle="156.90331" ax="0.335016" ay="0.524621" az="0.782648" tx="0.366456" ty="0.141301" tz="0.132419"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.27228726,0,0,0,0.28881027,0,0,0,0.23546043" centerOfMass="0.005964,-0.158181,-0.013345" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.6088" minY="-0.7312" minZ="-0.7122" maxX="0.6208" maxY="0.4138" maxZ="0.6856" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6088" minY="-0.7312" minZ="-0.7122" maxX="0.6208" maxY="0.4138" maxZ="0.6856" />
+  </GeometryBounding>
+</LEGOPrimitive>

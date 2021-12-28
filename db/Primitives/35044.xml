@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author: Gerald Lasser [GeraldLasser]
-Editted for LDD by jester & M2m
+	Derived from: The LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester & M2m
+	Last modification: 2021-09-11
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -23,8 +24,8 @@ Editted for LDD by jester & M2m
     <Box sX="0.220277" sY="0.15" sZ="0.220277" angle="135" ax="0" ay="1" az="0" tx="-1.2016" ty="0.16" tz="-0.4003" />
     <Box sX="0.220277" sY="0.15" sZ="0.220277" angle="135" ax="0" ay="1" az="0" tx="-0.4016" ty="0.16" tz="-1.2003" />
     <Box sX="0.034086" sY="0.15" sZ="0.304523" angle="135" ax="0" ay="1" az="0" tx="-0.5298" ty="0.16" tz="-0.5285" />
-    <Box sX="0.158973" sY="0.15" sZ="0.304523" angle="108.2636" ax="0" ay="1" az="0" tx="0.4296" ty="0.16" tz="-1.2428" />
-    <Box sX="0.155886" sY="0.15" sZ="0.304523" angle="161.0841" ax="0" ay="1" az="0" tx="-1.2425" ty="0.16" tz="0.4293" />
+    <Box sX="0.158973" sY="0.15" sZ="0.304523" angle="108.2636" ax="0" ay="1" az="0" tx="0.4554" ty="0.16" tz="-1.2513" />
+    <Box sX="0.155886" sY="0.15" sZ="0.304523" angle="161.0841" ax="0" ay="1" az="0" tx="-1.2516" ty="0.16" tz="0.456" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="8" height="8" angle="0" ax="1" ay="0" az="0" tx="-2.0016" ty="0.32" tz="-2.0003">

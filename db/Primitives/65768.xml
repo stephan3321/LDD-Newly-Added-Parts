@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-11-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65768" />
+    <Annotation designname="PROPELLER W/ 3 BLADES DIA. 26.6" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3385" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="45" ax="0" ay="0" az="1" tx="-0.2394" ty="0.2394" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="90" ax="0" ay="0" az="1" tx="-0.3385" ty="0" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="135" ax="0" ay="0" az="1" tx="-0.2394" ty="-0.2394" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.3385" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="135" ax="0" ay="0" az="-1" tx="0.2394" ty="-0.2394" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="90" ax="0" ay="0" az="-1" tx="0.3385" ty="0" tz="-0.3984" />
+    <Box sX="0.130989" sY="0.017325" sZ="0.387015" angle="45" ax="0" ay="0" az="-1" tx="0.2394" ty="0.2394" tz="-0.3984" />
+    <Box sX="0.234113" sY="0.49" sZ="0.037217" angle="64.3138" ax="-0.1979" ay="-0.3428" az="-0.9183" tx="0.6914" ty="0.3998" tz="-0.386" />
+    <Box sX="0.234113" sY="0.49" sZ="0.037217" angle="64.3138" ax="-0.1979" ay="-0.3428" az="-0.9183" tx="0.6914" ty="0.3998" tz="-0.386" />
+    <Box sX="0.234113" sY="0.49" sZ="0.037217" angle="64.3138" ax="0.1979" ay="-0.3428" az="0.9183" tx="-0.6919" ty="0.3989" tz="-0.386" />
+    <Box sX="0.234113" sY="0.49" sZ="0.037217" angle="180" ax="0.2106" ay="0" az="0.9776" tx="0.0005" ty="-0.7987" tz="-0.386" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.4" ty="-0.4" tz="-0.8">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.48930233,0,0,0,0.59322422,0,0,0,0.97585986" centerOfMass="0.000756,-0.19473,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.2733" minY="-1.3212" minZ="-0.8" maxX="1.2733" maxY="0.95" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2733" minY="-1.3212" minZ="-0.8" maxX="1.2733" maxY="0.95" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>
