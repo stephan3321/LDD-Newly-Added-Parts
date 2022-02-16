@@ -15,7 +15,6 @@
 	<Material MatID="42" />
 	<Material MatID="43" />
 	<Material MatID="44" />
-	<Material MatID="47" />
 	<Material MatID="48" />
 	<Material MatID="49" />
 	<Material MatID="102" />
@@ -24,6 +23,7 @@
 	<Material MatID="111" />
 	<Material MatID="113" />
 	<Material MatID="114" />
+	<Material MatID="117" />
 	<Material MatID="119" />
 	<Material MatID="124" />
 	<Material MatID="126" />
@@ -32,7 +32,6 @@
 	<Material MatID="138" />
 	<Material MatID="140" />
 	<Material MatID="141" />
-	<Material MatID="143" />
 	<Material MatID="151" />
 	<Material MatID="154" />
 	<Material MatID="182" />
@@ -40,17 +39,13 @@
 	<Material MatID="192" />
 	<Material MatID="194" />
 	<Material MatID="199" />
-	<Material MatID="208" />
 	<Material MatID="212" />
 	<Material MatID="221" />
 	<Material MatID="222" />
 	<Material MatID="226" />
 	<Material MatID="268" />
 	<Material MatID="283" />
-	<Material MatID="294" />
 	<Material MatID="297" />
-	<Material MatID="298" />
-	<Material MatID="299" />
 	<Material MatID="302" />
 	<Material MatID="308" />
 	<Material MatID="309" />
@@ -67,6 +62,8 @@
 	<Material MatID="326" />
 	<Material MatID="329" />
 	<Material MatID="330" />
+	<Material MatID="334" />
+	<Material MatID="335" />
 	<Material MatID="336" />
 	<Material MatID="339" />
 	<Material MatID="341" />
