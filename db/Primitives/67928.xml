@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67928" />
+    <Annotation designname="WING, NO. 108" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.101937" sY="0.291659" sZ="0.101937" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2978" tz="0" />
+    <Box sX="0.497613" sY="0.427901" sZ="0.121318" angle="12.4393" ax="0" ay="0" az="1" tx="0.3855" ty="0.9897" tz="0" />
+    <Box sX="0.789455" sY="0.143282" sZ="0.09179" angle="46.9669" ax="0" ay="0" az="1" tx="0.6037" ty="1.9165" tz="0" />
+    <Box sX="0.361757" sY="0.153505" sZ="0.106881" angle="20.9656" ax="0" ay="0" az="1" tx="1.0118" ty="1.5483" tz="0" />
+    <Box sX="0.443633" sY="0.165246" sZ="0.097085" angle="35.6217" ax="0" ay="0" az="1" tx="0.9632" ty="1.8417" tz="0" />
+    <Box sX="0.361757" sY="0.142629" sZ="0.097718" angle="30.8855" ax="0" ay="0" az="1" tx="0.979" ty="1.1911" tz="0" />
+    <Box sX="0.210385" sY="0.142629" sZ="0.078315" angle="22.5094" ax="0" ay="0" az="1" tx="0.889" ty="0.8624" tz="0" />
+    <Box sX="0.145685" sY="0.063764" sZ="0.145685" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4743" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.392" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.57692068,0,0,0,0.25599125,0,0,0,0.7982778" centerOfMass="0.573927,1.29569,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2306" minY="0" minZ="-0.228" maxX="1.3706" maxY="2.5176" maxZ="0.228" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2306" minY="0" minZ="-0.228" maxX="1.3706" maxY="2.5176" maxZ="0.228" />
+  </GeometryBounding>
+</LEGOPrimitive>

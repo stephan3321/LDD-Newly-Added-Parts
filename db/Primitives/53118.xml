@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53118" />
+    <Annotation designname="GAME CONTROLLER, NO. 1" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.441458" sY="0.156111" sZ="0.065782" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.36" tz="-0.303" />
+    <Box sX="0.372404" sY="0.156111" sZ="0.07447" angle="79.421" ax="0" ay="1" az="0" tx="-0.5988" ty="0.36" tz="0.1408" />
+    <Box sX="0.372404" sY="0.156111" sZ="0.07447" angle="180" ax="-0.6389" ay="0" az="0.7693" tx="0.5985" ty="0.36" tz="0.1408" />
+    <Box sX="0.441458" sY="0.156111" sZ="0.053589" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.36" tz="0.3055" />
+    <Box sX="0.509538" sY="0.347321" sZ="0.053589" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.4658" tz="0.005" />
+    <Box sX="0.364299" sY="0.118035" sZ="0.053589" angle="113.9337" ax="-0.6502" ay="0.5372" az="0.5372" tx="-0.5566" ty="0.4658" tz="0.1723" />
+    <Box sX="0.364299" sY="0.118035" sZ="0.053589" angle="126.4657" ax="0.5044" ay="0.6106" az="-0.6106" tx="0.5563" ty="0.4658" tz="0.1723" />
+    <Box sX="0.364299" sY="0.118035" sZ="0.053589" angle="143.9571" ax="0.3253" ay="0.6686" az="-0.6686" tx="0.3855" ty="0.4658" tz="0.2814" />
+    <Box sX="0.364299" sY="0.118035" sZ="0.053589" angle="101.035" ax="-0.8238" ay="0.4008" az="0.4008" tx="-0.3886" ty="0.4658" tz="0.2814" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1603" tz="0.2691" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1603" tz="-0.2681" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="45" ax="0" ay="1" az="0" tx="0.1899" ty="0.1603" tz="0.1904" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="45" ax="0" ay="1" az="0" tx="-0.1899" ty="0.1603" tz="-0.1894" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="90" ax="0" ay="1" az="0" tx="0.2686" ty="0.1603" tz="0.0005" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="90" ax="0" ay="1" az="0" tx="-0.2686" ty="0.1603" tz="0.0005" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="135" ax="0" ay="1" az="0" tx="0.1899" ty="0.1603" tz="-0.1894" />
+    <Box sX="0.12123" sY="0.156111" sZ="0.026731" angle="135" ax="0" ay="1" az="0" tx="-0.1899" ty="0.1603" tz="0.1904" />
+    <Box sX="0.023039" sY="0.156111" sZ="0.07447" angle="79.421" ax="0" ay="1" az="0" tx="-0.5988" ty="0.36" tz="0.6096" />
+    <Box sX="0.023039" sY="0.156111" sZ="0.07447" angle="180" ax="-0.6389" ay="0" az="0.7693" tx="0.6077" ty="0.36" tz="0.6096" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.744" minY="0" minZ="-0.3795" maxX="0.744" maxY="0.52" maxZ="0.6605" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.744" minY="0" minZ="-0.3795" maxX="0.744" maxY="0.52" maxZ="0.6605" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

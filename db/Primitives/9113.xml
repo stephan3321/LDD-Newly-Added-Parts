@@ -2,7 +2,7 @@
 <!--
 Derived from The LDraw Parts Library
 Orginal Author: Philippe Hurbain [Philo]
-Editted for LDD by Equilibrium
+Edited for LDD by Equilibrium
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,6 +15,7 @@ Editted for LDD by Equilibrium
     <Annotation version="3"/>
   </Annotations>
   <Collision>
+		<Box sX="0.01" sY="0.01" sZ="0.01" angle="0.0" ax="0.0" ay="1.0" az="0.0" tx="6.68" ty="0.0" tz="-0.2"/>
   </Collision>
   <Connectivity>
     <Hinge type="135" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="6.56" ty="0" tz="-0.4"/>

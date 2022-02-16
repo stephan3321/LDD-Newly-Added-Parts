@@ -38,5 +38,5 @@ Editted for LDD by M2m & Stephan
   <GeometryBounding>
     <AABB minX="-0.5048" minY="0" minZ="-0.5048" maxX="0.4029" maxY="0.32" maxZ="0.4028" />
   </GeometryBounding>
-  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

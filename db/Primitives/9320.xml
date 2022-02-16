@@ -23,6 +23,7 @@ Edited for LDD by Equilibrium
   </Collision>
   <Connectivity>
 	  <Fixed type="154" axes="2" angle="240.0" ax="-0.57735" ay="0.57735" az="0.57735" tx="0.0" ty="-0.11" tz="0.0"/>
+		<Fixed type="3" axes="2" angle="180.0" ax="-0.707107" ay="0.707107" az="0.0" tx="-0.000159979" ty="0.24" tz="0.35997"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="0,0,0.36" mass="18.5" frictionType="0"/>
   <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>

@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Jens Brühl [jb70]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-28
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="28974" />
@@ -9,6 +15,13 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.394123" sY="0.527595" sZ="0.077082" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.4106" tz="0.4825" />
+    <Box sX="0.394123" sY="0.14751" sZ="0.054285" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.0582" tz="0.3977" />
+    <Box sX="0.394123" sY="0.074143" sZ="0.054285" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.0582" tz="-0.3145" />
+    <Box sX="0.394123" sY="0.074143" sZ="0.054285" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="-0.318" ty="0.0582" tz="0.0878" />
+    <Box sX="0.394123" sY="0.074143" sZ="0.054285" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0.3177" ty="0.0582" tz="0.0878" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="0.56">
       29:0,29:0,29:0,
@@ -29,9 +42,9 @@
     <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.400002" minY="-0.96" minZ="-0.4" maxX="0.400002" maxY="0.16" maxZ="0.72" />
+    <AABB minX="-0.4" minY="-0.9593" minZ="-0.4003" maxX="0.4" maxY="0.1207" maxZ="0.7197" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.400002" minY="-0.96" minZ="-0.4" maxX="0.400002" maxY="0.16" maxZ="0.72" />
+    <AABB minX="-0.4" minY="-0.9593" minZ="-0.4003" maxX="0.4" maxY="0.1207" maxZ="0.7197" />
   </GeometryBounding>
 </LEGOPrimitive>

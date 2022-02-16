@@ -72,6 +72,7 @@ Editted for LDD by Equilibrium
       23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
+		<Fixed type="3" axes="2" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="0.4" ty="-4.73" tz="-0.4"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0.4,-2.651,-0.4" mass="15.3000001907" frictionType="0"/>
   <Bounding>

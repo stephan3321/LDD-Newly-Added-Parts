@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-01-05
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="44861" />
-    <Annotation designname="Plate, Modified 1 x 2 with Open O Clip on Top" />
+    <Annotation designname="PLATE 1X2 W. VERTICAL GRIP" />
     <Annotation maingroupid="216" />
     <Annotation maingroupname="PLATES, SPECIAL" />
     <Annotation platformid="200" />
@@ -34,9 +38,9 @@
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.027288,0,0,0,0.09596,0,0,0,0.085472" centerOfMass="0.389167,0,0.243315" mass="0.40000000596" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.4014" minY="-0.0007" minZ="-0.4" maxX="1.1986" maxY="0.72" maxZ="0.4" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.72" maxZ="0.4" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.4014" minY="-0.0007" minZ="-0.4" maxX="1.1986" maxY="0.72" maxZ="0.4" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.72" maxZ="0.4" />
   </GeometryBounding>
 </LEGOPrimitive>

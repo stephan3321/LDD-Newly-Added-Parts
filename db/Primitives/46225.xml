@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Guy Vivan [guyvivan]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46225;46227" />
+    <Annotation designname="Technic Gear 24 Tooth Double Bevel" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.057003" sY="0.060283" sZ="0.789324" angle="0" ax="1" ay="0" az="0" tx="0.1554" ty="2.6312" tz="0" />
+    <Box sX="0.057003" sY="0.060283" sZ="0.789324" angle="0" ax="1" ay="0" az="0" tx="-0.1518" ty="2.6312" tz="0" />
+    <Box sX="0.057003" sY="0.060283" sZ="0.789324" angle="0" ax="1" ay="0" az="0" tx="0.1554" ty="2.3265" tz="0" />
+    <Box sX="0.057003" sY="0.060283" sZ="0.789324" angle="0" ax="1" ay="0" az="0" tx="-0.1518" ty="2.3265" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="0" ax="1" ay="0" az="0" tx="0.0026" ty="2.9036" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="0" ax="1" ay="0" az="0" tx="0.0026" ty="2.0563" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="20" ax="0" ay="0" az="-1" tx="0.1475" ty="2.8781" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="20" ax="0" ay="0" az="-1" tx="-0.1423" ty="2.0818" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="40" ax="0" ay="0" az="-1" tx="0.275" ty="2.8045" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="40" ax="0" ay="0" az="-1" tx="-0.2697" ty="2.1554" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="60" ax="0" ay="0" az="-1" tx="0.3695" ty="2.6918" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="60" ax="0" ay="0" az="-1" tx="-0.3643" ty="2.2681" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="80" ax="0" ay="0" az="-1" tx="0.4199" ty="2.5535" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="80" ax="0" ay="0" az="-1" tx="-0.4146" ty="2.4064" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="95" ax="0" ay="0" az="-1" tx="0.4247" ty="2.443" tz="0" />
+    <Box sX="0.749062" sY="0.137244" sZ="0.555442" angle="95" ax="0" ay="0" az="-1" tx="-0.4194" ty="2.5169" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="229" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="2.48" tz="0" />
+    <Axel type="4" length="1.6" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="2.48" tz="0.8" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.1661" minY="1.3139" minZ="-0.8" maxX="1.1661" maxY="3.6461" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1661" minY="1.3139" minZ="-0.8" maxX="1.1661" maxY="3.6461" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>
