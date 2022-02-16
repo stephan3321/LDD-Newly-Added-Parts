@@ -11,7 +11,7 @@ Created for LDD by Equilibrium
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
 		<Annotation designname="LINEAR ACTUATOR 14-22 M"/>
 		<Environment name="Standard"/>
-    <Annotation wire_="9489,62273"/>
+    <!--<Annotation wire="9489,62273"/>-->
     <Annotation wire="62274,9488"/>
 	</Meta>
 	<Bricks>

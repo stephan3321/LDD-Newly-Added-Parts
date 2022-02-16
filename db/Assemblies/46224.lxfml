@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="46224;46220"/>
+		<Annotation designname="Technic, Gearbox 4 x 2 x 4 (Worm to 24-tooth)"/>
+		<Annotation maingroupid="288" />
+ 		<Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS" />
+  		<Annotation platformid="200" />
+  		<Annotation platformname="SYSTEM" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="46224">
+			<Part refID="0" designID="46224" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,1.2,0,6"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="46226">
+			<Part refID="1" designID="46226" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.2,0,6"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="46225">
+			<Part refID="2" designID="46225" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,1.2,0,6"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
