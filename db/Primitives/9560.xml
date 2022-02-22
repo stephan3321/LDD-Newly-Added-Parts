@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-01-31
+	Last modification: 2022-02-22
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -21,12 +21,11 @@
     <Box sX="0.194056" sY="0.13" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.2244" ty="0.8598" tz="0" />
     <Box sX="0.133837" sY="0.019966" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.3344" ty="0.497" tz="0" />
     <Box sX="0.30439" sY="0.030818" sZ="0.39" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2911" ty="1.2544" tz="0" />
-    <Box sX="0.116388" sY="0.006056" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.0026" ty="0.0185" tz="0" />
-    <Box sX="0.116388" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="-1" tx="0.2399" ty="0.1168" tz="0" />
-    <Box sX="0.116388" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="1" tx="-0.2347" ty="0.1168" tz="0" />
+    <Box sX="0.052997" sY="0.006056" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.0026" ty="0.0185" tz="0" />
+    <Box sX="0.063306" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="-1" tx="0.2399" ty="0.1168" tz="0" />
+    <Box sX="0.08486" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="1" tx="-0.2347" ty="0.1168" tz="0" />
     <Box sX="0.304405" sY="0.030813" sZ="0.39" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.2817" ty="1.2544" tz="0" />
     <Box sX="0.0675" sY="0.074552" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="-0.1713" ty="1.3214" tz="0" />
-    <Box sX="0.132669" sY="0.019966" sZ="0.429101" angle="90" ax="0" ay="0" az="-1" tx="-0.3574" ty="0.5381" tz="0" />
     <Box sX="0.574983" sY="0.02" sZ="0.304101" angle="90" ax="0" ay="0" az="-1" tx="-0.2973" ty="0.7939" tz="0" />
     <Box sX="0.574983" sY="0.02" sZ="0.304101" angle="90" ax="0" ay="0" az="-1" tx="0.2627" ty="0.7939" tz="0" />
     <Box sX="0.30439" sY="2.984748" sZ="0.429101" angle="180" ax="1" ay="0" az="0" tx="0" ty="4.548" tz="0" />
