@@ -11,8 +11,7 @@ Updated by Equilibrium
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
 		<Annotation designname="LINEAR ACTUATOR 10-15 M"/>
 		<Environment name="Standard"/>
-    <!--<Annotation wire="62271,62273"/>-->
-    <Annotation wire="62274,62275"/>
+    <Annotation wire="62271,62273"/>
 	</Meta>
 	<Bricks>
 		<Brick refID="0" designID="62271" uuid="db4b8434-2a2e-4119-8555-59b804c5988c">
