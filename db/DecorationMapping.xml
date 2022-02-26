@@ -2860,5 +2860,13 @@
 	<Mapping decorationID="329702" designID="3297" surfaceID="1"/>
 	<Mapping decorationID="329703" designID="3297" surfaceID="1"/>
 	<Mapping decorationID="32737" designID="3622" surfaceID="1"/>
+	<Mapping decorationID="32736" designID="3622" surfaceID="1"/>
+	<Mapping decorationID="32734" designID="3622" surfaceID="1"/>
+	<Mapping decorationID="76885" designID="3622" surfaceID="1"/>
+	<Mapping decorationID="33501" designID="3622" surfaceID="1"/>
+	<Mapping decorationID="362201" designID="3622" surfaceID="1"/>
 	<Mapping decorationID="24594" designID="22385" surfaceID="1"/>
+	<Mapping decorationID="301001" designID="3010" surfaceID="1"/>
+	<Mapping decorationID="31904" designID="3009" surfaceID="1"/>
+	<Mapping decorationID="300901" designID="3009" surfaceID="1"/>
 </DecorationMapping>
