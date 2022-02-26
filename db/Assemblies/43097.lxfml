@@ -4,19 +4,19 @@ Updated by Equilibrium
 -->
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
-		<Annotation aliases="61927"/>
+		<Annotation aliases="43097"/>
 		<Annotation platformid="300"/>
 		<Annotation platformname="TECHNIC"/>
 		<Annotation maingroupid="386"/>
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
-		<Annotation designname="LINEAR ACTUATOR 10-15 M"/>
+		<Annotation designname="LINEAR ACTUATOR 10-15 M V2"/>
 		<Environment name="Standard"/>
-    <Annotation wire="62271,62273"/>
+    <Annotation wire="9559,47157"/>
     <Annotation wire="62275,62274"/>
 	</Meta>
 	<Bricks>
-		<Brick refID="0" designID="62271" uuid="db4b8434-2a2e-4119-8555-59b804c5988c">
-			<Part refID="0" designID="62271" materials="21,0" decoration="0">
+		<Brick refID="0" designID="9559" uuid="db4b8434-2a2e-4119-8555-59b804c5969c">
+			<Part refID="0" designID="9559" materials="21,0" decoration="0">
 				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="yes"/>
 			</Part>
 		</Brick>
@@ -25,8 +25,8 @@ Updated by Equilibrium
 				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,12,0.800000011921,-0.800000011921" freeze="no"/>
 			</Part>
 		</Brick>
-		<Brick refID="2" designID="62273" uuid="2a9234d0-e66e-4e71-9b14-0c70c3c10db9">
-			<Part refID="2" designID="62273" materials="21">
+		<Brick refID="2" designID="47157" uuid="2a9234d0-e66e-4e71-9b14-0c70c3c10db1">
+			<Part refID="2" designID="47157" materials="21">
 				<Bone refID="2" transformation="0,0,1,0,1,0,-1,0,0,0.40000000596,0.800000011921,-0.40000000596" freeze="yes"/>
 			</Part>
 		</Brick>
