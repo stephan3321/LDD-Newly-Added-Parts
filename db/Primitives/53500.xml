@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Santeri Piippo [arezey]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53500;54359;54360;9430;9431;9432" />
+    <Annotation designname="Light assembly" />
+    <Annotation maingroupid="392" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.391562" sY="0.512225" sZ="0.458796" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5151" tz="0.255" />
+    <Box sX="0.391562" sY="0.249873" sZ="0.098863" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3027" tz="0.7897" />
+    <Box sX="0.391562" sY="0.249873" sZ="0.098863" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3027" tz="1.1615" />
+    <Box sX="0.391562" sY="0.186265" sZ="0.098863" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2007" tz="0.9829" />
+    <Box sX="0.391562" sY="0.397846" sZ="0.076507" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3983" tz="1.3123" />
+    <Box sX="0.308309" sY="0.212344" sZ="0.076507" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2446" tz="1.5672" />
+    <Box sX="0.598128" sY="0.128709" sZ="0.110787" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1336" tz="1.4854" />
+    <Box sX="0.157628" sY="0.166213" sZ="0.076507" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2056" tz="1.6968" />
+    <Box sX="0.391562" sY="0.408779" sZ="0.458796" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4116" tz="-0.6618" />
+    <Box sX="0.046182" sY="0.177043" sZ="0.313688" angle="23.4427" ax="-1" ay="0" az="0" tx="0.3406" ty="0.7448" tz="-0.4448" />
+    <Box sX="0.046182" sY="0.177043" sZ="0.313688" angle="23.4427" ax="-1" ay="0" az="0" tx="-0.343" ty="0.7448" tz="-0.4448" />
+    <Box sX="0.391562" sY="0.408779" sZ="0.204458" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4116" tz="-1.3374" />
+    <Box sX="0.286439" sY="0.260664" sZ="0.084551" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2745" tz="-1.6284" />
+    <Box sX="0.286439" sY="0.260664" sZ="0.084551" angle="90" ax="0" ay="-1" az="0" tx="0.4683" ty="0.2745" tz="-1.1694" />
+    <Box sX="0.286439" sY="0.260664" sZ="0.084551" angle="90" ax="0" ay="-1" az="0" tx="-0.4723" ty="0.2745" tz="-1.1694" />
+    <Box sX="0.21137" sY="0.260664" sZ="0.084551" angle="130" ax="0" ay="-1" az="0" tx="-0.3737" ty="0.2745" tz="-1.4987" />
+    <Box sX="0.21137" sY="0.260664" sZ="0.084551" angle="136.6158" ax="0" ay="1" az="0" tx="0.339" ty="0.2745" tz="-1.5387" />
+    <Box sX="0.203124" sY="0.181829" sZ="0.084551" angle="14.6996" ax="1" ay="0" az="0" tx="0" ty="0.6336" tz="-1.6284" />
+    <Box sX="0.164033" sY="0.260664" sZ="0.060315" angle="90.4298" ax="0.0863" ay="-0.9925" az="0.0863" tx="0.4683" ty="0.5638" tz="-1.1694" />
+    <Box sX="0.179627" sY="0.260664" sZ="0.052449" angle="90.5551" ax="-0.098" ay="-0.9904" az="-0.098" tx="-0.4723" ty="0.5764" tz="-1.1694" />
+    <Box sX="0.141202" sY="0.165621" sZ="0.061316" angle="137.216" ax="-0.0642" ay="0.9848" az="0.1615" tx="0.3338" ty="0.6495" tz="-1.5332" />
+    <Box sX="0.135848" sY="0.150827" sZ="0.084551" angle="130.822" ax="-0.0813" ay="-0.9813" az="-0.1743" tx="-0.3762" ty="0.664" tz="-1.4659" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.4" ty="0.6385" tz="0.9737" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.64" minY="0" minZ="-1.805" maxX="0.64" maxY="1.04" maxZ="1.805" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.64" minY="0" minZ="-1.805" maxX="0.64" maxY="1.04" maxZ="1.805" />
+  </GeometryBounding>
+  <Decoration faces="7" subMaterialRedirectLookupTable="0,1,2,3,4,5,6" />
+</LEGOPrimitive>

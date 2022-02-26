@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69778" />
+    <Annotation designname="[[GEAR WHEEL Z12]]" />
+    <Annotation maingroupid="388" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.0675" sY="0.0675" sZ="0.367979" angle="0" ax="1" ay="0" az="0" tx="-0.1675" ty="0.1675" tz="-0.3906" />
+    <Box sX="0.0675" sY="0.0675" sZ="0.367979" angle="90" ax="0" ay="0" az="1" tx="-0.1675" ty="-0.1675" tz="-0.3906" />
+    <Box sX="0.0675" sY="0.0675" sZ="0.367979" angle="180" ax="0" ay="0" az="1" tx="0.1675" ty="-0.1675" tz="-0.3906" />
+    <Box sX="0.0675" sY="0.0675" sZ="0.367979" angle="90" ax="0" ay="0" az="-1" tx="0.1675" ty="0.1675" tz="-0.3906" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4829" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="90" ax="0" ay="0" az="1" tx="-0.475" ty="0.0072" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.467" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="90" ax="0" ay="0" az="-1" tx="0.4713" ty="0.0081" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="120" ax="0" ay="0" az="-1" tx="0.4082" ty="-0.228" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="150" ax="0" ay="0" az="1" tx="-0.2375" ty="-0.4039" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="60" ax="0" ay="0" az="1" tx="-0.4118" ty="0.2443" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="30" ax="0" ay="0" az="-1" tx="0.2374" ty="0.4188" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="150" ax="0" ay="0" az="-1" tx="0.2354" ty="-0.401" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="120" ax="0" ay="0" az="1" tx="-0.4117" ty="-0.2304" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="30" ax="0" ay="0" az="1" tx="-0.2385" ty="0.4181" tz="-0.4" />
+    <Box sX="0.030443" sY="0.22581" sZ="0.175" angle="60" ax="0" ay="0" az="-1" tx="0.411" ty="0.2445" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Gear type="3" toothCount="16" radius="0.800000011920929" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.585" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.119826,0,0,0,0.122091,0,0,0,0.204262" centerOfMass="0,-1.8E-05,-0.399986" mass="0.699999988079" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7078" minY="-0.7" minZ="-0.8" maxX="0.7078" maxY="0.7156" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7078" minY="-0.7" minZ="-0.8" maxX="0.7078" maxY="0.7156" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>

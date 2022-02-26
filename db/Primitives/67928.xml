@@ -3,6 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
+	Last modification: 2022-02-25
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,7 +16,7 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.101937" sY="0.291659" sZ="0.101937" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2978" tz="0" />
+    <Box sX="0.07379" sY="0.291659" sZ="0.090451" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2978" tz="0" />
     <Box sX="0.497613" sY="0.427901" sZ="0.121318" angle="12.4393" ax="0" ay="0" az="1" tx="0.3855" ty="0.9897" tz="0" />
     <Box sX="0.789455" sY="0.143282" sZ="0.09179" angle="46.9669" ax="0" ay="0" az="1" tx="0.6037" ty="1.9165" tz="0" />
     <Box sX="0.361757" sY="0.153505" sZ="0.106881" angle="20.9656" ax="0" ay="0" az="1" tx="1.0118" ty="1.5483" tz="0" />

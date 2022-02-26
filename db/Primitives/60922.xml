@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Santeri Piippo [arezey]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60922" />
+    <Annotation designname="CONSTRACTION BALL CANNON TRIGGER" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.28779" sY="0.686554" sZ="0.1262" angle="4.723" ax="1" ay="0" az="0" tx="0" ty="1.1048" tz="3.2951" />
+    <Box sX="0.28779" sY="0.686554" sZ="0.1262" angle="54.1315" ax="-1" ay="0" az="0" tx="0" ty="1.6981" tz="3.0282" />
+    <Box sX="0.28779" sY="0.686554" sZ="0.1262" angle="65.7547" ax="1" ay="0" az="0" tx="0" ty="1.6485" tz="3.706" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="229" oriented="0" angle="90.3356" ax="-0.0763" ay="0.0763" az="0.9942" tx="0" ty="1.4803" tz="3.3397" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.388" minY="0.3611" minZ="2.3168" maxX="0.388" maxY="2.3073" maxZ="4.4202" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.388" minY="0.3611" minZ="2.3168" maxX="0.388" maxY="2.3073" maxZ="4.4202" />
+  </GeometryBounding>
+</LEGOPrimitive>

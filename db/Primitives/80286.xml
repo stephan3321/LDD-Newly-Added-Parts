@@ -3,12 +3,12 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2021-12-07
+	Last modification: 2022-02-25
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="80286" />
-    <Annotation designname="[[SHELL 5X1X2, W/ CROSS HOLE, NO. 1]]" />
+    <Annotation designname="SHELL 5X1X2, W/ CROSS HOLE" />
     <Annotation maingroupid="312" />
     <Annotation maingroupname="BEAMS W/ SHAPES" />
     <Annotation platformid="300" />
