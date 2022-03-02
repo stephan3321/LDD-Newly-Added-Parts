@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-02-23
+	Comments: Added decoration surface.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3297" />
+    <Annotation designname="ROOF TILE 3X4/25°" />
+    <Annotation maingroupid="205" />
+    <Annotation maingroupname="BRICKS, WITH SLOPE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="1.19" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.1" tz="0.8" />
+    <Box sX="1.59" sY="0.875664" sZ="0.079728" angle="180" ax="0" ay="0.8453" az="-0.5343" tx="1.2" ty="0.4989" tz="1.1615" />
+    <Box sX="1.59" sY="0.39" sZ="0.37" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.58" tz="0" />
+    <Box sX="1.59" sY="0.551759" sZ="0.199937" angle="180" ax="0" ay="0.781" az="-0.6245" tx="1.2" ty="0.3555" tz="0.8514" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="6" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.4229,0,0,0,3.70898,0,0,0,2.74153" centerOfMass="1.2,0.504853,0.55228" mass="2.51099991798" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.400204" minY="0" minZ="-0.4" maxX="2.8002" maxY="1.138" maxZ="2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400204" minY="0" minZ="-0.4" maxX="2.8002" maxY="1.138" maxZ="2" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

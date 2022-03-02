@@ -3947,7 +3947,7 @@
 			<Decoration surfaceID="1" decorationID="79289"/>
 		</Brick>
 		<Brick designID="3010" materialID="23" quantity="1" ItemNos="3010001">
-			<Decoration surfaceID="1" decorationID="301001"/>
+			<Decoration surfaceID="1" decorationID="301002"/>
 		</Brick>
 		<Brick designID="3010" materialID="24" quantity="1" ItemNos="3010002">
 			<Decoration surfaceID="1" decorationID="301001"/>

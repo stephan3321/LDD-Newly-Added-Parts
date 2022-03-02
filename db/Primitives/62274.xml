@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="62274"/>
+    <Annotation designname="Spindelhead"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="10"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.389561" sY="0.389802" sZ="0.016884" angle="90" ax="1" ay="0" az="0" tx="0.3993" ty="0.338776" tz="-0.399798"/>
+    <Box sX="0.389561" sY="0.389802" sZ="0.016884" angle="90" ax="1" ay="0" az="0" tx="0.3993" ty="-0.341224" tz="-0.399798"/>
+    <Box sX="0.008182" sY="0.389896" sZ="0.220776" angle="90" ax="1" ay="0" az="0" tx="1.06204" ty="-0.002546" tz="-0.399892"/>
+    <Box sX="0.140335" sY="0.389802" sZ="0.011565" angle="93.84096" ax="0.935113" ay="0.250563" az="0.250563" tx="0.964379" ty="-0.276839" tz="-0.399798"/>
+    <Box sX="0.140335" sY="0.389802" sZ="0.011565" angle="158.90941" ax="0.186157" ay="0.694747" az="0.694747" tx="0.957396" ty="0.281423" tz="-0.399798"/>
+    <Box sX="0.359" sY="0.389802" sZ="0.08" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.399731" ty="-0.001224" tz="-0.399798"/>
+    <Box sX="0.12875" sY="0.389802" sZ="0.190316" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.509103" ty="-0.228474" tz="-0.399798"/>
+    <Box sX="0.12875" sY="0.389802" sZ="0.190316" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.509103" ty="0.229026" tz="-0.399798"/>
+    <Box sX="0.0675" sY="0.389802" sZ="0.0675" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.966918" ty="0.167776" tz="-0.399798"/>
+    <Box sX="0.0675" sY="0.389802" sZ="0.0675" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.966918" ty="-0.167224" tz="-0.399798"/>
+    <Box sX="0.095111" sY="0.389802" sZ="0.012628" angle="119.99998" ax="0.57735" ay="-0.57735" az="-0.57735" tx="-0.34333" ty="0.000276" tz="-0.399798"/>
+    <Box sX="0.110741" sY="0.389802" sZ="0.005843" angle="93.84096" ax="0.935113" ay="-0.250563" az="-0.250563" tx="-0.155568" ty="-0.296891" tz="-0.399798"/>
+    <Box sX="0.110741" sY="0.389802" sZ="0.006107" angle="158.90941" ax="0.186157" ay="-0.694747" az="-0.694747" tx="-0.162443" ty="0.293223" tz="-0.399798"/>
+    <Box sX="0.215549" sY="0.166777" sZ="0.166777" angle="180" ax="0" ay="0.92388" az="-0.382683" tx="1.31419" ty="0.000276" tz="-0.399995"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.799731" ty="0.000276" tz="-0.7996"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="-0.000269" ty="0.000276" tz="-0.7996"/>
+    <Hinge type="132" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="1.53974" ty="0" tz="-0.4"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.8">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.052591,0,0,0,0.159505,0,0,0,0.163519" centerOfMass="0.572053,0.000268,-0.399996" mass="0.600000023842" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.8" maxX="1.53974" maxY="0.4" maxZ="0.0004"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.370262" minY="-0.369724" minZ="-0.7996" maxX="1.53974" maxY="0.370276" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

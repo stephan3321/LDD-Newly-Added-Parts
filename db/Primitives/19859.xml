@@ -1,4 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-05
+	Comments: Updated 3D model to be multi-colorable.
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="19859" />
@@ -44,9 +51,10 @@
   </Connectivity>
   <PhysicsAttributes inertiaTensor="1.02058,0,0,0,0.617226,0,0,0,0.81722" centerOfMass="-0.001292,1.35309,-0.434952" mass="1" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.7892" minY="0" minZ="-1.5444" maxX="0.786616" maxY="2.70619" maxZ="0.674498" />
+    <AABB minX="-0.7879" minY="0" minZ="-1.5444" maxX="0.7879" maxY="2.68" maxZ="0.6744" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.7892" minY="0" minZ="-1.5444" maxX="0.786616" maxY="2.70619" maxZ="0.674498" />
+    <AABB minX="-0.7879" minY="0" minZ="-1.5444" maxX="0.7879" maxY="2.68" maxZ="0.6744" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!--
-Updated by Equilibrium
--->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="9488"/>
+    <Annotation aliases="62275"/>
     <Annotation designname="Piston"/>
     <Annotation maingroupid="299"/>
     <Annotation maingroupname="LOOSE PARTS"/>
@@ -13,17 +10,17 @@ Updated by Equilibrium
     <Annotation version="3"/>
   </Annotations>
   <Collision>
-	q<Box sX="3.41727" sY="0.166777" sZ="0.166777" angle="180.0" ax="0.0" ay="-0.92388" az="0.382683" tx="4.9635" ty="0.000276" tz="-0.399995"/>
+    <Box sX="1.915" sY="0.166777" sZ="0.166777" angle="180" ax="0" ay="0.92388" az="-0.382683" tx="3.46474" ty="0.000276" tz="-0.399995"/>
   </Collision>
   <Connectivity>
     <Hinge type="133" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="1.53974" ty="0" tz="-0.4"/>
-    <Slider type="25" length="0.599999" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="7.78974" ty="0" tz="-0.4"/>
+    <Slider type="25" length="0.599999" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="5.38974" ty="0" tz="-0.4"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.043872,0,0,0,1.95234,0,0,0,1.95235" centerOfMass="4.09153,0,-0.4" mass="18.1000003815" frictionType="0"/>
   <Bounding>
-    <AABB minX="1.53974" minY="-0.394985" minZ="-0.794994" maxX="8.38974" maxY="0.395013" maxZ="-0.004996"/>
+    <AABB minX="1.53974" minY="-0.394985" minZ="-0.794994" maxX="5.98974" maxY="0.395013" maxZ="-0.004996"/>
   </Bounding>
   <GeometryBounding>
-    <AABB minX="1.53974" minY="-0.394985" minZ="-0.794994" maxX="8.38974" maxY="0.395013" maxZ="-0.004996"/>
+    <AABB minX="1.53974" minY="-0.394985" minZ="-0.794994" maxX="5.98974" maxY="0.395013" maxZ="-0.004996"/>
   </GeometryBounding>
 </LEGOPrimitive>
