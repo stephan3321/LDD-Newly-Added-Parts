@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46537" />
+    <Annotation designname="ARROW W/ 3.2 SHAFT" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.560424" sY="0.298603" sZ="0.676128" angle="0" ax="1" ay="0" az="0" tx="5.8799" ty="0" tz="0" />
+    <Box sX="0.560424" sY="0.298603" sZ="0.676128" angle="90" ax="1" ay="0" az="0" tx="5.8799" ty="0" tz="0" />
+    <Box sX="0.097188" sY="0.291437" sZ="0.291437" angle="0" ax="1" ay="0" az="0" tx="6.5427" ty="0" tz="0" />
+    <Box sX="0.821474" sY="0.405388" sZ="0.185634" angle="0" ax="1" ay="0" az="0" tx="4.4815" ty="0" tz="0" />
+    <Box sX="0.73394" sY="0.352793" sZ="0.105979" angle="0" ax="1" ay="0" az="0" tx="2.9171" ty="0" tz="0" />
+    <Box sX="0.843208" sY="0.274788" sZ="0.131429" angle="0" ax="1" ay="0" az="0" tx="1.3179" ty="0" tz="0" />
+    <Box sX="0.129072" sY="0.079616" sZ="0.131429" angle="0" ax="1" ay="0" az="0" tx="0.335" ty="0" tz="0" />
+    <Box sX="0.031658" sY="0.23457" sZ="0.128399" angle="0" ax="1" ay="0" az="0" tx="0.1907" ty="0" tz="0" />
+    <Box sX="0.047122" sY="0.10304" sZ="0.081498" angle="0" ax="1" ay="0" az="0" tx="0.0946" ty="0" tz="0" />
+    <Box sX="0.259142" sY="0.050369" sZ="0.424378" angle="0" ax="1" ay="0" az="0" tx="3.9032" ty="-0.3193" tz="0" />
+    <Box sX="0.259142" sY="0.050369" sZ="0.424378" angle="0" ax="1" ay="0" az="0" tx="3.9032" ty="0.3196" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Slider type="19" length="0.438254" startCapped="0" endCapped="1" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.02" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.41752249,0,0,0,3.9618026,0,0,0,3.9651321" centerOfMass="3.37621,0,0.002434" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="0.03" minY="-0.8" minZ="-0.8" maxX="6.83" maxY="0.8" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.03" minY="-0.8" minZ="-0.8" maxX="6.83" maxY="0.8" maxZ="0.8" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

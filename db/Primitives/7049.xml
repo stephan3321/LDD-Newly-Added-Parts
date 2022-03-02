@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: James Jessiman
+	Editted for LDD by: Stephan
+	Last modification: 2021-05-25
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7049" />
+    <Annotation designname="BRICK, MODIFIED 2X4 W/ WHEELS HOLDER" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.690804" sY="0.316413" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.2938" ty="0.48" tz="0.0828" />
+    <Box sX="0.690804" sY="0.316413" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.2938" ty="0.48" tz="-0.8829" />
+    <Box sX="0.690804" sY="0.316413" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.1056" ty="0.48" tz="0.0828" />
+    <Box sX="0.690804" sY="0.316413" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.1056" ty="0.48" tz="-0.8829" />
+    <Box sX="1.594302" sY="0.316413" sZ="0.140001" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2054" ty="0.1558" tz="-0.4025" />
+    <Box sX="0.787246" sY="0.316413" sZ="0.140001" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.2054" ty="0.1558" tz="-0.4025" />
+    <Box sX="1.594302" sY="0.798904" sZ="0.100668" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2054" ty="0.8557" tz="-0.4003" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="400" oriented="0" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.5597" tz="-0.0009" />
+    <Hinge type="400" oriented="0" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="0.5597" tz="-0.8009" />
+    <Hinge type="400" oriented="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.5597" tz="-0.4009" />
+    <Hinge type="400" oriented="0" angle="180" ax="0" ay="1" az="0" tx="2.4" ty="0.5597" tz="-0.4009" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.897422,0,0,0,2.93653,0,0,0,2.5241" centerOfMass="1.18265,0.611081,-0.4" mass="2.19000005722" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="1.12" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="1.12" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

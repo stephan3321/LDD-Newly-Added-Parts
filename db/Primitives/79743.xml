@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-12-10
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="79743" />
+    <Annotation designname="CUPCAKE, NO. 1" />
+    <Annotation maingroupid="249" />
+    <Annotation maingroupname="FOODSTUFF" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="10" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.208715" sY="0.317019" sZ="0.030044" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.3212" tz="0.2731" />
+    <Box sX="0.208328" sY="0.317019" sZ="0.030044" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.3212" tz="-0.2719" />
+    <Box sX="0.209457" sY="0.317019" sZ="0.030044" angle="120" ax="0" ay="-1" az="0" tx="0.236" ty="0.3212" tz="0.1368" />
+    <Box sX="0.20674" sY="0.317019" sZ="0.030044" angle="120" ax="0" ay="-1" az="0" tx="-0.236" ty="0.3212" tz="-0.1356" />
+    <Box sX="0.208937" sY="0.317019" sZ="0.030044" angle="60" ax="0" ay="-1" az="0" tx="0.236" ty="0.3212" tz="-0.1356" />
+    <Box sX="0.206668" sY="0.317019" sZ="0.030044" angle="60" ax="0" ay="-1" az="0" tx="-0.236" ty="0.3212" tz="0.1368" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.3194" ty="0.6058" tz="-0.0007" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.3192" ty="0.6058" tz="-0.0007" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="159.2362" ax="0.1832" ay="-0.6951" az="0.6951" tx="0.2779" ty="0.6058" tz="-0.1581" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="159.2362" ax="0.1832" ay="-0.6951" az="0.6951" tx="-0.2777" ty="0.6058" tz="0.1566" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="138.6009" ax="0.3779" ay="-0.6547" az="0.6547" tx="0.1598" ty="0.6058" tz="-0.2772" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="138.6009" ax="0.3779" ay="-0.6547" az="0.6547" tx="-0.1596" ty="0.6058" tz="0.2757" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="119.7135" ax="0.5807" ay="-0.5757" az="0.5757" tx="-0.0027" ty="0.6058" tz="-0.32" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="119.7135" ax="0.5807" ay="-0.5757" az="0.5757" tx="0.0029" ty="0.6058" tz="0.3186" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="104.3581" ax="0.7763" ay="-0.4458" az="0.4458" tx="-0.1608" ty="0.6058" tz="-0.2765" />
+    <Box sX="0.131739" sY="0.29845" sZ="0.030044" angle="104.3581" ax="0.7763" ay="-0.4458" az="0.4458" tx="0.161" ty="0.6058" tz="0.275" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,3:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.319" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.8" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.038469,0,0,0,0.028511,0,0,0,0.038469" centerOfMass="0,0.585845,0" mass="0.284999996424" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="1.13771" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="1.13771" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

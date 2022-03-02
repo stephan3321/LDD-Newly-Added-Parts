@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-12-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69858" />
+    <Annotation designname="SWORD, NO. 20" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.094753" sY="0.094753" sZ="0.094753" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.007" tz="-0.2112" />
+    <Box sX="0.094753" sY="0.195385" sZ="0.094753" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.007" tz="0.1127" />
+    <Box sX="0.070249" sY="0.195385" sZ="0.094753" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.007" tz="0.3341" />
+    <Box sX="0.050119" sY="0.195385" sZ="0.094753" angle="14.6936" ax="1" ay="0" az="0" tx="0" ty="-0.0185" tz="0.5589" />
+    <Box sX="0.050119" sY="0.195385" sZ="0.203459" angle="20.6417" ax="1" ay="0" az="0" tx="0" ty="-0.1219" tz="0.8847" />
+    <Box sX="0.039701" sY="0.247926" sZ="0.203459" angle="11.2733" ax="1" ay="0" az="0" tx="0" ty="-0.2157" tz="1.2856" />
+    <Box sX="0.024109" sY="0.247926" sZ="0.203459" angle="27.9857" ax="-1" ay="0" az="0" tx="0" ty="-0.1869" tz="1.7439" />
+    <Box sX="0.024109" sY="0.214699" sZ="0.203459" angle="35.4203" ax="-1" ay="0" az="0" tx="0" ty="0.0067" tz="2.0649" />
+    <Box sX="0.02646" sY="0.17241" sZ="0.203459" angle="28.2486" ax="-1" ay="0" az="0" tx="0" ty="0.2306" tz="2.3968" />
+    <Box sX="0.02646" sY="0.131147" sZ="0.203459" angle="22.7193" ax="-1" ay="0" az="0" tx="0" ty="0.3934" tz="2.6997" />
+    <Box sX="0.02646" sY="0.093249" sZ="0.203459" angle="5.7699" ax="-1" ay="0" az="0" tx="0" ty="0.4741" tz="2.9519" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.0730475,0,0,0,1.1714886,0,0,0,0.12402366" centerOfMass="0.019299,0.003976,1.38202" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2" minY="-0.592" minZ="-0.4" maxX="0.2" maxY="0.612" maxZ="3.22" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2" minY="-0.592" minZ="-0.4" maxX="0.2" maxY="0.612" maxZ="3.22" />
+  </GeometryBounding>
+</LEGOPrimitive>

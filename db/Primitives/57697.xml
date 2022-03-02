@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="57697" />
+    <Annotation designname="STUB W/ FRICTION BUSH 3 M [Square Pin Hole]" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.389" sY="0.245428" sZ="0.245428" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="0" tz="0" />
+    <Box sX="0.03" sY="0.193851" sZ="0.193852" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.239" ty="0" tz="0" />
+    <Box sX="0.35" sY="0.149968" sZ="0.149968" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.639" ty="0" tz="0" />
+    <Box sX="0.304323" sY="0.15" sZ="0.235812" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.0726" ty="0" tz="0" />
+    <Box sX="0.054" sY="0.337733" sZ="0.056943" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.337" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="3" oriented="0" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0" tz="0" />
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="1.2" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.024236,0,0,0,0.141486,0,0,0,0.142728" centerOfMass="0.730908,0,0" mass="0.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.215" minY="-0.36" minZ="-0.36" maxX="1.999" maxY="0.36" maxZ="0.36" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.215" minY="-0.36" minZ="-0.36" maxX="1.999" maxY="0.36" maxZ="0.36" />
+  </GeometryBounding>
+</LEGOPrimitive>

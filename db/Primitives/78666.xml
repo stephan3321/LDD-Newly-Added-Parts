@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2021-10-25
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="78666" />
+    <Annotation designname="BRICK 1X2, OUTSIDE HALF ARCH, NO. 1" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39698" sY="0.477321" sZ="0.077372" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4793" tz="0.3211" />
+    <Box sX="0.39698" sY="0.477321" sZ="0.077372" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4793" tz="-0.3189" />
+    <Box sX="0.39698" sY="0.477321" sZ="0.077372" angle="90" ax="0" ay="1" az="0" tx="-0.3191" ty="0.4793" tz="0.0001" />
+    <Box sX="0.39698" sY="0.119022" sZ="0.077372" angle="90" ax="0" ay="1" az="0" tx="0.318" ty="0.8379" tz="0.0001" />
+    <Box sX="0.39698" sY="0.158448" sZ="0.077372" angle="90" ax="0" ay="1" az="0" tx="1.1217" ty="0.1609" tz="0.0001" />
+    <Box sX="0.39698" sY="0.160402" sZ="0.077372" angle="0" ax="1" ay="0" az="0" tx="0.7203" ty="0.163" tz="-0.3189" />
+    <Box sX="0.39698" sY="0.160402" sZ="0.077372" angle="0" ax="1" ay="0" az="0" tx="0.7203" ty="0.163" tz="0.322" />
+    <Box sX="0.39698" sY="0.160402" sZ="0.077372" angle="41.8422" ax="0" ay="0" az="-1" tx="0.4827" ty="0.4195" tz="0.322" />
+    <Box sX="0.39698" sY="0.160402" sZ="0.077372" angle="41.8422" ax="0" ay="0" az="-1" tx="0.4827" ty="0.4195" tz="-0.32" />
+    <Box sX="0.39698" sY="0.393571" sZ="0.077372" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0.0014" ty="0.8784" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="114.6203" ax="-0.5423" ay="0.6417" az="0.5423" tx="1.0247" ty="0.3074" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="108.8927" ax="-0.4946" ay="0.7147" az="0.4946" tx="0.8616" ty="0.3506" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="105.6347" ax="-0.4607" ay="0.7586" az="0.4607" tx="0.7604" ty="0.3939" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="100.5319" ax="-0.3931" ay="0.8312" az="0.3931" tx="0.6133" ty="0.4901" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="96.8405" ax="-0.3262" ay="0.8872" az="0.3262" tx="0.4823" ty="0.6154" tz="0.0001" />
+    <Box sX="0.39698" sY="0.088772" sZ="0.027431" angle="93.7391" ax="-0.2474" ay="0.9368" az="0.2474" tx="0.4169" ty="0.7112" tz="0.0001" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.3998" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,15:4:2,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.12" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.12" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

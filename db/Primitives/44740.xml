@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44740" />
+    <Annotation designname="BANDANA, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.113179" sY="0.141244" sZ="0.088077" angle="35.3916" ax="-0.2514" ay="0.0219" az="-0.9676" tx="0.5487" ty="1.0897" tz="-0.1995" />
+    <Box sX="0.113179" sY="0.218435" sZ="0.088077" angle="38.2988" ax="-0.7075" ay="0.1494" az="-0.6907" tx="0.3697" ty="0.7499" tz="-0.0549" />
+    <Box sX="0.113179" sY="0.218435" sZ="0.088077" angle="75.6078" ax="0.0311" ay="0.0194" az="-0.9993" tx="0.8201" ty="1.0303" tz="-0.127" />
+    <Box sX="0.113179" sY="0.218435" sZ="0.088077" angle="41.9982" ax="-0.4933" ay="0.1946" az="-0.8478" tx="0.4454" ty="0.7555" tz="-0.0039" />
+    <Box sX="0.113179" sY="0.156956" sZ="0.088077" angle="53.7157" ax="0.0464" ay="0.0178" az="-0.9988" tx="0.1963" ty="0.4896" tz="0.0799" />
+    <Box sX="0.074073" sY="0.19049" sZ="0.083459" angle="22.036" ax="0.3527" ay="-0.0794" az="-0.9324" tx="1.0692" ty="1.1598" tz="-0.1122" />
+    <Box sX="0.074073" sY="0.125358" sZ="0.074073" angle="14.6031" ax="0.6566" ay="-0.1773" az="-0.7331" tx="0.9096" ty="1.4559" tz="-0.1876" />
+    <Box sX="0.224462" sY="0.131578" sZ="0.085099" angle="33.9656" ax="0.0263" ay="-0.0866" az="0.9959" tx="0.7215" ty="1.1863" tz="-0.2154" />
+    <Box sX="0.113179" sY="0.203347" sZ="0.088077" angle="6.3751" ax="0.4037" ay="-0.0206" az="-0.9147" tx="0.024" ty="0.2345" tz="0.0106" />
+    <Box sX="0.041448" sY="0.090504" sZ="0.041448" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.0995" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.2" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.29294988,0,0,0,0.1707447,0,0,0,0.41976442" centerOfMass="0.541174,0.70164,-0.068701" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.1267" minY="-0.2" minZ="-0.3252" maxX="1.1917" maxY="1.5907" maxZ="0.1882" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1267" minY="-0.2" minZ="-0.3252" maxX="1.1917" maxY="1.5907" maxZ="0.1882" />
+  </GeometryBounding>
+</LEGOPrimitive>

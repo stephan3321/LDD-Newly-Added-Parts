@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<EBT_SCENE_PREFS_LEGO_modelLOD item0="4"/>
+		<Environment name="Standard"/>
+		<Annotation aliases="43370"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER PART NBA"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	   </Meta>
+	<Bricks>
+		<Brick refID="0" designID="43368">
+			<Part refID="0" designID="43368" materials="194">
+				<Bone refID="0" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.2199880182743072,0.91003537178039551,-0.000000119209289" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="43370" uuid="54655604-c45a-47f8-b2b6-5e8cac6b1644">
+			<Part refID="1" designID="43370" materials="194,0,0" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="43369">
+			<Part refID="2" designID="43369" materials="194">
+				<Bone refID="2"  transformation="0.98325502872467041,0.18223486840724945,0,-0.18223486840724945,0.98325502872467041,0,0,0,1,1.019988477230071,0.91003525257110596,-0.000000119209289" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
+

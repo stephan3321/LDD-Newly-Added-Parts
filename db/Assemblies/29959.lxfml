@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Assembly created by Stephan
+Last modified: 14-07-2021 09:36
+-->
+<LXFML versionMajor="5" versionMinor="0">
+        <Meta>
+		<Annotation aliases="29959"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="RIGHT CREATURE TORSO, N0. 1 [KILLER CROC]"/>
+	</Meta>
+        <Bricks>
+                <Brick refID="0" designID="28240">
+                        <Part refID="0" designID="28240" materials="24,24"><!--torso-->
+                                <Bone refID="0" transformation="1,0,0,0,0.99999994039535522,0,0,0,1,20.399999618530273,0,35.600002288818359" freeze="no"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="28235">
+                        <Part refID="1" designID="28235" materials="24,24">
+                                <Bone refID="1" transformation="0,0,-1,0,0.99999988079071045,0,1,0,0,22.400007247924805,6.327995777130127,35.200004577636719" freeze="no"/>
+	                </Part>
+		</Brick>
+	</Bricks>
+</LXFML>

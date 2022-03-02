@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2021-08-22
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67906" />
+    <Annotation designname="ARM, NO. 2" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.388958" sY="0.15266" sZ="0.15266" angle="0" ax="1" ay="0" az="0" tx="-0.3635" ty="0" tz="0.0026" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="19.8358" ax="0" ay="1" az="0" tx="0.2102" ty="-0.1477" tz="0.2221" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="60.5029" ax="0.1643" ay="0.2998" az="0.9397" tx="0.3237" ty="-0.0687" tz="0.1812" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="115.9937" ax="0.1712" ay="0.1093" az="0.9792" tx="0.3239" ty="0.0742" tz="0.1811" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="172.4703" ax="0.1722" ay="0.0115" az="0.985" tx="0.2107" ty="0.1513" tz="0.2219" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="130.9859" ax="-0.1717" ay="0.0797" az="-0.9819" tx="0.0853" ty="0.0944" tz="0.2672" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.233378" angle="75.0344" ax="-0.1677" ay="0.2277" az="-0.9592" tx="0.0645" ty="-0.0523" tz="0.2747" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.131157" angle="99.9289" ax="0.3768" ay="0.4617" az="0.803" tx="0.143" ty="-0.017" tz="-0.131" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.131157" angle="67.5159" ax="0.1961" ay="0.8774" az="0.4378" tx="0.1137" ty="-0.144" tz="-0.0433" />
+    <Box sX="0.072971" sY="0.021694" sZ="0.131157" angle="147.7892" ax="0.4808" ay="0.1981" az="0.8542" tx="0.1129" ty="0.1161" tz="-0.0711" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="16" oriented="1" angle="132.1451" ax="-0.6337" ay="0.6337" az="-0.4437" tx="0.2619" ty="0" tz="0.4269" />
+    <Hinge type="141" oriented="0" angle="109.2075" ax="-0.4975" ay="-0.4975" az="0.7106" tx="0.2277" ty="0" tz="0.3329" />
+    <Axel type="3" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.088025624,0,0,0,0.18823385,0,0,0,0.1616588" centerOfMass="-0.085262,0.002074,0.119414" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8078" minY="-0.32" minZ="-0.32" maxX="0.469" maxY="0.32" maxZ="0.5455" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8078" minY="-0.32" minZ="-0.32" maxX="0.469" maxY="0.32" maxZ="0.5455" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

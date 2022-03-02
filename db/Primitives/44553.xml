@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44553;60404" />
+    <Annotation designname="HAT, W/ 1.5 SHAFT, NO. 3/4" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.043033" sY="0.27924" sZ="0.043033" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.2892" tz="0" />
+    <Box sX="0.266251" sY="0.396816" sZ="0.169949" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5974" tz="-0.0023" />
+    <Box sX="0.18303" sY="0.396816" sZ="0.055781" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5974" tz="-0.1969" />
+    <Box sX="0.18303" sY="0.396816" sZ="0.055781" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5974" tz="0.1998" />
+    <Box sX="0.18303" sY="0.293227" sZ="0.047864" angle="82.8916" ax="1" ay="0" az="0" tx="0" ty="0.3086" tz="0.3427" />
+    <Box sX="0.18303" sY="0.293227" sZ="0.047864" angle="82.8916" ax="1" ay="0" az="0" tx="0" ty="0.2861" tz="0.2602" />
+    <Box sX="0.266251" sY="0.396816" sZ="0.169949" angle="98.4389" ax="-1" ay="0" az="0" tx="0" ty="1.1454" tz="0.0243" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.198412" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.114525,0,0,0,0.22894,0,0,0,0.31035" centerOfMass="-0.001225,0.542128,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4024" minY="0" minZ="-0.4765" maxX="0.4024" maxY="1.3691" maxZ="0.7108" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4024" minY="0" minZ="-0.4765" maxX="0.4024" maxY="1.3691" maxZ="0.7108" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

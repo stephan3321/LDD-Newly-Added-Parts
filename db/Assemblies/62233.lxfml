@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Stephan
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="62233"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="BALL SHOOTER 2008"/>
+		<Environment name="Standard"/>
+    <Annotation wire="62233,60922"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="62233" materials="21,0,0,0" decoration="0,0,0" uuid="db4b8434-2a2e-4119-8555-59b804c5919c">
+			<Part refID="0" designID="62233" materials="21,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-2.8,0,7.6" freeze="yes"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="60922" uuid="a3768fa0-1296-4f7a-a66d-d16c07487ce9">
+			<Part refID="1" designID="60922" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-2.8,0,7.6" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

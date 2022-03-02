@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Original Author: Gerald Lasser [GeraldLasser]
-Edited for LDD by Stephan & Equilibrium
+	Orginal Author: Equilibrium
+	Created for LDD by: Equilibrium
+	Last modification: 2022-02-22
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="71708" />
-    <Annotation designname="Technic Beam  2 x  3 Liftarm Bent 90 Quarter Ellipse" />
-    <Annotation maingroupid="310" />
+    <Annotation designname="SHELL 3X1X2, W/ CROSS HOLE, NO. 1" />
+    <Annotation maingroupid="312" />
     <Annotation maingroupname="BEAMS W/ SHAPES" />
     <Annotation platformid="300" />
     <Annotation platformname="TECHNIC" />
@@ -32,9 +32,9 @@ Edited for LDD by Stephan & Equilibrium
 		<Box sX="0.079047" sY="0.38537" sZ="0.01065" angle="180.0" ax="-0.505393" ay="0.0" az="-0.862889" tx="-0.2921" ty="0.4042" tz="-0.9601"/>
 		<Box sX="0.079047" sY="0.38537" sZ="0.01065" angle="180.0" ax="-0.650075" ay="0.0" az="-0.75987" tx="-0.3331" ty="0.4042" tz="-0.815"/>
 		<Box sX="0.248644" sY="0.38537" sZ="0.050857" angle="180.0" ax="-1.0" ay="0.0" az="0.0" tx="0.247" ty="0.4" tz="1.1068"/>
-		<Box sX="0.061918" sY="0.38537" sZ="0.050221" angle="79.2469" ax="0.0" ay="-1.0" az="0.0" tx="-0.2849" ty="0.4038" tz="0.8566"/>
-		<Box sX="0.061918" sY="0.38537" sZ="0.050221" angle="49.3114" ax="0.0" ay="-1.0" az="0.0" tx="-0.2228" ty="0.4038" tz="0.9939"/>
-		<Box sX="0.061918" sY="0.38537" sZ="0.050221" angle="10.9095" ax="0.0" ay="-1.0" az="0.0" tx="-0.0574" ty="0.4038" tz="1.0837"/>
+		<Box sX="-0.061918" sY="-0.38537" sZ="-0.050221" angle="79.2469" ax="0.0" ay="-1.0" az="0.0" tx="-0.2849" ty="0.4038" tz="0.8566"/>
+		<Box sX="-0.061918" sY="-0.38537" sZ="-0.050221" angle="49.3114" ax="0.0" ay="-1.0" az="0.0" tx="-0.2228" ty="0.4038" tz="0.9939"/>
+		<Box sX="-0.061918" sY="-0.38537" sZ="-0.050221" angle="10.9095" ax="0.0" ay="-1.0" az="0.0" tx="-0.0574" ty="0.4038" tz="1.0837"/>
 		<Box sX="0.067636" sY="0.38537" sZ="0.010142" angle="180.0" ax="-0.994248" ay="0.0" az="0.107105" tx="0.8598" ty="0.4" tz="1.1292"/>
 		<Box sX="0.067636" sY="0.38537" sZ="0.010142" angle="180.0" ax="-0.95503" ay="0.0" az="0.296509" tx="0.9866" ty="0.4" tz="1.0792"/>
 		<Box sX="0.067636" sY="0.38537" sZ="0.010142" angle="180.0" ax="-0.879925" ay="0.0" az="0.475113" tx="1.0801" ty="0.4051" tz="0.9908"/>
@@ -79,9 +79,9 @@ Edited for LDD by Stephan & Equilibrium
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.36" minY="0" minZ="-1.16" maxX="1.16" maxY="0.8" maxZ="1.16" />
+    <AABB minX="-0.37" minY="0" minZ="-1.17" maxX="1.17" maxY="0.8" maxZ="1.17" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.36" minY="0" minZ="-1.16" maxX="1.16" maxY="0.8" maxZ="1.16" />
+    <AABB minX="-0.37" minY="0" minZ="-1.17" maxX="1.17" maxY="0.8" maxZ="1.17" />
   </GeometryBounding>
 </LEGOPrimitive>

@@ -2,7 +2,7 @@
 <!--
 Derived from The LDraw Parts Library
 Orginal Author: Bernd Broich [bbroich]
-Editted for LDD by Equilibrium
+Edited for LDD by Equilibrium
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -32,6 +32,7 @@ Editted for LDD by Equilibrium
 	  <Box sX="1.58" sY="0.38" sZ="3.18" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="0.4" ty="0.6" tz="-4.39"/>
   </Collision>
   <Connectivity>
+		<Fixed type="3" axes="2" angle="180.0" ax="-0.707107" ay="-0.707107" az="0.0" tx="0.4" ty="0.48" tz="-7.6"/>
     <Fixed type="22" axes="2" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0.4"/>
     <Fixed type="23" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0" tz="0.4"/>
     <Fixed type="22" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0" tz="-12.4"/>

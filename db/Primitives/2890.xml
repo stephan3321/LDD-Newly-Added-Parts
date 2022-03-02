@@ -2,7 +2,7 @@
 <!--
 Derived from The LDraw Parts Library
 Orginal Author: Bernd Broich [bbroich]
-Editted for LDD by Equilibrium
+Edited for LDD by Equilibrium
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,8 +15,10 @@ Editted for LDD by Equilibrium
     <Annotation version="7"/>
   </Annotations>
   <Collision>
+		<Box sX="0.335131" sY="0.0328294" sZ="0.234038" angle="0.0" ax="0.0" ay="1.0" az="0.0" tx="0.0" ty="-0.0744057" tz="0.0"/>
   </Collision>
   <Connectivity>
+		<Fixed type="3" axes="2" angle="120.0" ax="0.57735" ay="0.57735" az="0.57735" tx="0.000373721" ty="-0.12" tz="9.53674e-007"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="1.49012e-007,0.36,1.26" mass="0.1" frictionType="0"/>
   <Bounding>

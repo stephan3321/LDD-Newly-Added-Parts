@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+        <Meta>
+		<Annotation aliases="67906"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ARM, NO. 3"/>
+	</Meta>
+        <Bricks>
+                <Brick refID="0" designID="67906">
+                        <Part refID="0" designID="67906" materials="194,0">
+                                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.80000019073486328,0.31999999284744263,0.80000019073486328" freeze="no"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="3820">
+                        <Part refID="1" designID="3820" materials="194">
+                                <Bone refID="1" transformation="0.93968319892883301,0,-0.34204620122909546,0,1,1.2656035323743708E-005,0.34204617142677307,-1.2665391295740847E-005,0.93968319892883301,1.0464978218078613,0.32000061869621277,1.1799160242080688" freeze="no"/>
+	                </Part>
+		</Brick>
+	</Bricks>
+</LXFML>

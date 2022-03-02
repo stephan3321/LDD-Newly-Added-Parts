@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="68211" />
+    <Annotation designname="PLANT, W/ 3.2 SHAFT, NO. 3" />
+    <Annotation maingroupid="228" />
+    <Annotation maingroupname="PLANTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.087988" sY="0.36587" sZ="0.087988" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.39" tz="0" />
+    <Box sX="0.033518" sY="0.257938" sZ="0.033518" angle="40.5588" ax="-1" ay="0" az="0" tx="-0.006" ty="0.972" tz="-0.1909" />
+    <Box sX="0.033518" sY="0.257938" sZ="0.033518" angle="57.5993" ax="0.2688" ay="0.4897" az="0.8294" tx="-0.1585" ty="0.8405" tz="0.083" />
+    <Box sX="0.033518" sY="0.257938" sZ="0.033518" angle="88.3259" ax="0.4843" ay="0.864" az="-0.1376" tx="0.1582" ty="0.7233" tz="0.0875" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="1" endCapped="0" angle="123.8944" ax="0.4334" ay="0.9012" az="0.0051" tx="0.2149" ty="0.796" tz="0.1211" />
+    <Axel type="15" length="0.22897" requireGrabbing="0" startCapped="1" endCapped="0" angle="72.9501" ax="0.0241" ay="0.7496" az="0.6615" tx="-0.2257" ty="0.8734" tz="0.1276" />
+    <Axel type="15" length="0.199594" requireGrabbing="0" startCapped="1" endCapped="0" angle="97.0498" ax="-0.312" ay="-0.8992" az="0.3067" tx="-0.0015" ty="1.0462" tz="-0.288" />
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.16661361,0,0,0,0.084394254,0,0,0,0.17690605" centerOfMass="0.000147,0.623449,-0.083214" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3939" minY="0" minZ="-0.4521" maxX="0.3764" maxY="1.223" maxZ="0.2629" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3939" minY="0" minZ="-0.4521" maxX="0.3764" maxY="1.223" maxZ="0.2629" />
+  </GeometryBounding>
+</LEGOPrimitive>

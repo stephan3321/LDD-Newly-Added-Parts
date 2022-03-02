@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-04-06
+	Comments: Made decoratable
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87552;94638" />
+    <Annotation designname="WALLELEMENT 1X2X2" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.95" sZ="0.073" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.96" tz="0.317" />
+    <Box sX="0.79" sY="0.15" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.79" sY="0.065" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.845" tz="0" />
+    <Box sX="0.0575" sY="0.95" sZ="0.148" angle="0" ax="1" ay="0" az="0" tx="1.1325" ty="0.96" tz="0.242" />
+    <Box sX="0.0575" sY="0.95" sZ="0.148" angle="0" ax="1" ay="0" az="0" tx="-0.3325" ty="0.96" tz="0.242" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:2,23:4:1,1:4:2,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.502504,0,0,0,0.282526,0,0,0,0.678661" centerOfMass="0.4,0.982097,0.136869" mass="0.899999976158" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.097" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.097" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

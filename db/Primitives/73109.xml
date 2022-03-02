@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
-	Last modification: 2022-02-28
+	Last modification: 2021-04-23
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -35,8 +35,8 @@
       23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.4" ty="0.58" tz="0.4" />
-    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.1791" tz="0.4">
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.4" ty="0.5598" tz="0.4" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.1598" tz="0.4">
       22:1:1,22:2:1,22:1:1,
       22:2:1,16:4:64,22:2:1,
       22:1:1,22:2:1,22:1:1

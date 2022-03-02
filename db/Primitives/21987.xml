@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="21987" />
+    <Annotation designname="WEAPON 7, 2015 ASS. // LIGHTSABER 15L" />
+    <Annotation maingroupid="347" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.074329" sY="0.272439" sZ="3.575468" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0089" tz="-4.4056" />
+    <Box sX="0.074329" sY="0.272439" sZ="3.575468" angle="95" ax="0" ay="0" az="-1" tx="0" ty="0.0089" tz="-4.4056" />
+    <Box sX="0.074329" sY="0.272439" sZ="3.575468" angle="135" ax="0" ay="0" az="-1" tx="0" ty="0.0089" tz="-4.4056" />
+    <Box sX="0.074329" sY="0.272439" sZ="3.575468" angle="130" ax="0" ay="0" az="1" tx="0" ty="0.0089" tz="-4.4056" />
+    <Box sX="0.067027" sY="0.061663" sZ="0.392788" angle="0" ax="1" ay="0" az="0" tx="0.152" ty="0.1573" tz="-0.3978" />
+    <Box sX="0.067027" sY="0.061663" sZ="0.392788" angle="0" ax="1" ay="0" az="0" tx="-0.1538" ty="0.1573" tz="-0.3978" />
+    <Box sX="0.067027" sY="0.061663" sZ="0.392788" angle="0" ax="1" ay="0" az="0" tx="0.152" ty="-0.1369" tz="-0.3978" />
+    <Box sX="0.067027" sY="0.061663" sZ="0.392788" angle="0" ax="1" ay="0" az="0" tx="-0.1538" ty="-0.1369" tz="-0.3978" />
+    <Box sX="0.074329" sY="0.235677" sZ="1.826759" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0089" tz="-9.4956" />
+    <Box sX="0.074329" sY="0.235677" sZ="1.826759" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.0089" tz="-9.4956" />
+    <Box sX="0.074329" sY="0.235677" sZ="1.826759" angle="130" ax="0" ay="0" az="1" tx="0" ty="0.0089" tz="-9.4956" />
+    <Box sX="0.074329" sY="0.235677" sZ="1.826759" angle="135" ax="0" ay="0" az="-1" tx="0" ty="0.0089" tz="-9.4956" />
+    <Box sX="0.031927" sY="0.147861" sZ="0.30875" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0089" tz="-11.5556" />
+    <Box sX="0.031927" sY="0.147861" sZ="0.30875" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.0089" tz="-11.5556" />
+    <Box sX="0.031927" sY="0.147861" sZ="0.30875" angle="135" ax="0" ay="0" az="1" tx="0" ty="0.0089" tz="-11.5556" />
+    <Box sX="0.031927" sY="0.147861" sZ="0.30875" angle="135" ax="0" ay="0" az="-1" tx="0" ty="0.0089" tz="-11.5556" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.0076" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.36" minY="-0.3508" minZ="-11.977" maxX="0.36" maxY="0.3692" maxZ="0.003" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="-0.3508" minZ="-11.977" maxX="0.36" maxY="0.3692" maxZ="0.003" />
+  </GeometryBounding>
+</LEGOPrimitive>

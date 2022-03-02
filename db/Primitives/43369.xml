@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: jester
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="43369" />
+    <Annotation designname="HAND, LEFT, NBA" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.082171" sY="0.097481" sZ="0.084664" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.2024" ty="-0.321" tz="0.9605" />
+    <Box sX="0.01175" sY="0.069867" sZ="0.101973" angle="119.6122" ax="-0.5876" ay="-0.5821" az="0.5621" tx="0.1861" ty="-0.5598" tz="1.271" />
+    <Box sX="0.022734" sY="0.108955" sZ="0.12114" angle="116.4095" ax="-0.5559" ay="0.6181" az="-0.5558" tx="0.2645" ty="-0.1768" tz="1.3107" />
+    <Box sX="0.01175" sY="0.069867" sZ="0.101973" angle="100.6727" ax="-0.3779" ay="0.8527" az="-0.3606" tx="0.2082" ty="-0.1947" tz="1.4095" />
+    <Box sX="0.022734" sY="0.108955" sZ="0.12114" angle="103.0305" ax="-0.407" ay="-0.8511" az="0.3316" tx="0.2645" ty="-0.4912" tz="1.1447" />
+    <Box sX="0.038014" sY="0.108955" sZ="0.12114" angle="171.283" ax="0.6965" ay="-0.0984" az="0.7108" tx="0.2499" ty="-0.3334" tz="1.0807" />
+    <Box sX="0.069203" sY="0.312745" sZ="0.088942" angle="55.9375" ax="-0.9681" ay="0.2401" az="0.0719" tx="0.1551" ty="-0.1304" tz="0.1937" />
+    <Box sX="0.131669" sY="0.14476" sZ="0.088942" angle="90" ax="-1" ay="0" az="0" tx="0.2091" ty="-0.3045" tz="0.5282" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="15" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.15" ty="0" tz="0" />
+    <Axel type="6" length="0.368318" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.0542" ty="-0.3583" tz="1.281" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.28" minY="-0.5961" minZ="-0.2461" maxX="0.423" maxY="0.2486" maxZ="1.5029" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.28" minY="-0.5961" minZ="-0.2461" maxX="0.423" maxY="0.2486" maxZ="1.5029" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Guy Vivan [guyvivan]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46224" />
+    <Annotation designname="Technic Gearbox 2 x 4 x 4 Base" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.584936" sY="0.163533" sZ="0.789821" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1651" tz="0" />
+    <Box sX="1.584936" sY="0.085914" sZ="0.962759" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.9728" tz="0.7099" />
+    <Box sX="1.584936" sY="0.085914" sZ="0.962759" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.9728" tz="-0.7108" />
+    <Box sX="0.791737" sY="0.138378" sZ="0.776397" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="1.4462" ty="2.2618" tz="0.0008" />
+    <Box sX="0.791737" sY="0.138378" sZ="0.776397" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="-1.4466" ty="2.2618" tz="0.0008" />
+    <Box sX="0.792342" sY="0.092555" sZ="0.393915" angle="90" ax="-1" ay="0" az="0" tx="0" ty="3.4355" tz="-0.6982" />
+    <Box sX="0.792342" sY="0.092555" sZ="0.393915" angle="90" ax="-1" ay="0" az="0" tx="0" ty="3.4355" tz="0.6995" />
+    <Box sX="0.792342" sY="0.15782" sZ="0.793042" angle="180" ax="1" ay="0" az="0" tx="0" ty="3.681" tz="0" />
+    <Box sX="0.552081" sY="0.15782" sZ="0.793042" angle="180" ax="0.9239" ay="0.3827" az="0" tx="-1.0895" ty="3.3244" tz="0" />
+    <Box sX="0.558235" sY="0.15782" sZ="0.793042" angle="180" ax="0.9239" ay="-0.3827" az="0" tx="1.0733" ty="3.3143" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="228" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="2.48" tz="0" />
+    <Hinge type="228" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0" ty="0.88" tz="0" />
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.6" ty="0" tz="-0.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="3.84" tz="-0.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.6" minY="0" minZ="-0.8" maxX="1.6" maxY="4" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.6" minY="0" minZ="-0.8" maxX="1.6" maxY="4" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

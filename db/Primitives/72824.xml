@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="72824;26562" />
+    <Annotation designname="BALL Ø14,2" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.433999" sY="0.433999" sZ="0.433999" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.238245,0,0,0,0.238628,0,0,0,0.238064" centerOfMass="-0.000119,-0.000184,-6.9E-05" mass="1.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6954" minY="-0.6496" minZ="-0.7007" maxX="0.6954" maxY="0.6496" maxZ="0.7007" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6954" minY="-0.6496" minZ="-0.7007" maxX="0.6954" maxY="0.6496" maxZ="0.7007" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -32,8 +32,8 @@ Updated by Equilibrium
   </Collision>
   <Connectivity>
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="6.80001" ty="0" tz="0.4"/>
-    <Hinge type="215" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="4.9" ty="0" tz="0"/>
-    <Slider type="27" length="0.2605" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="3.7165" ty="0" tz="0"/>
+    <!--<Hinge type="215" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="4.9" ty="0" tz="0"/>-->
+    <Slider type="27" length="0.2605" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="3.7165" ty="0.1" tz="0"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.031145,0,0,0,0.670083,0,0,0,0.671141" centerOfMass="5.54051,7.1E-005,-2.4E-005" mass="0.5" frictionType="0"/>
   <Bounding>

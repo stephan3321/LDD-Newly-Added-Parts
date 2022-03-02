@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-04-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2723;52901" />
+    <Annotation designname="DISK Ø24" />
+    <Annotation maingroupid="396" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="11.25" ax="0" ay="0" az="-1" tx="0.1401" ty="0.7045" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="33.75" ax="0" ay="0" az="-1" tx="0.3991" ty="0.5972" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="101.25" ax="0" ay="0" az="1" tx="-0.7045" ty="-0.1401" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="123.75" ax="0" ay="0" az="1" tx="-0.5972" ty="-0.3991" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="56.25" ax="0" ay="0" az="1" tx="-0.5972" ty="0.3991" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="78.75" ax="0" ay="0" az="1" tx="-0.7045" ty="0.1401" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="11.25" ax="0" ay="0" az="1" tx="-0.1401" ty="0.7045" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="33.75" ax="0" ay="0" az="1" tx="-0.3991" ty="0.5972" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="146.25" ax="0" ay="0" az="1" tx="-0.3991" ty="-0.5972" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="168.75" ax="0" ay="0" az="1" tx="-0.1401" ty="-0.7045" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="168.75" ax="0" ay="0" az="-1" tx="0.1401" ty="-0.7045" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="146.25" ax="0" ay="0" az="-1" tx="0.3991" ty="-0.5972" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="123.75" ax="0" ay="0" az="-1" tx="0.5972" ty="-0.3991" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="101.25" ax="0" ay="0" az="-1" tx="0.7045" ty="-0.1401" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="78.75" ax="0" ay="0" az="-1" tx="0.7045" ty="0.1401" tz="-0.2" />
+    <Box sX="0.22364" sY="0.446291" sZ="0.066297" angle="56.25" ax="0" ay="0" az="-1" tx="0.5972" ty="0.3991" tz="-0.2" />
+    <Box sX="0.0055" sY="0.149474" sZ="0.190702" angle="0" ax="1" ay="0" az="0" tx="-0.2605" ty="0" tz="-0.2" />
+    <Box sX="0.0055" sY="0.149474" sZ="0.190702" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.2605" tz="-0.2" />
+    <Box sX="0.0055" sY="0.149474" sZ="0.190702" angle="90" ax="0" ay="0" az="1" tx="0" ty="-0.2605" tz="-0.2" />
+    <Box sX="0.0055" sY="0.149474" sZ="0.190702" angle="180" ax="0" ay="0" az="1" tx="0.2605" ty="0" tz="-0.2" />
+    <Box sX="0.054857" sY="0.054857" sZ="0.190702" angle="0" ax="1" ay="0" az="0" tx="-0.1549" ty="0.1549" tz="-0.2" />
+    <Box sX="0.054857" sY="0.054857" sZ="0.190702" angle="0" ax="1" ay="0" az="0" tx="0.1549" ty="0.1549" tz="-0.2" />
+    <Box sX="0.054857" sY="0.054857" sZ="0.190702" angle="0" ax="1" ay="0" az="0" tx="0.1549" ty="-0.1549" tz="-0.2" />
+    <Box sX="0.054857" sY="0.054857" sZ="0.190702" angle="0" ax="1" ay="0" az="0" tx="-0.1549" ty="-0.1549" tz="-0.2" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.400702" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.244866,0,0,0,0.244866,0,0,0,0.485265" centerOfMass="0,0,-0.2" mass="0.727999985218" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.1976" minY="-1.1976" minZ="-0.400702" maxX="1.1976" maxY="1.1976" maxZ="0.000702" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1976" minY="-1.1976" minZ="-0.400702" maxX="1.1976" maxY="1.1976" maxZ="0.000702" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surfaces created by jester
+	Last modification: 2021-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92755" />
+    <Annotation designname="SUBULBA BODY" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.364757" sY="0.448365" sZ="0.49" angle="27.3846" ax="-1" ay="0" az="0" tx="0" ty="0.0587" tz="-2.2927" />
+    <Box sX="0.435469" sY="0.448365" sZ="0.473115" angle="14.2476" ax="-1" ay="0" az="0" tx="0" ty="0.7539" tz="-2.4568" />
+    <Box sX="0.643866" sY="0.467007" sZ="0.481258" angle="13.9209" ax="1" ay="0" az="0" tx="0.0123" ty="1.6084" tz="-1.7912" />
+    <Box sX="0.340844" sY="0.208994" sZ="0.735772" angle="37.3546" ax="-1" ay="0" az="0" tx="0.0053" ty="-0.2391" tz="-1.5458" />
+    <Box sX="0.403932" sY="0.0994" sZ="0.0994" angle="0" ax="1" ay="0" az="0" tx="0.367" ty="0" tz="-2.3996" />
+    <Box sX="0.403932" sY="0.0994" sZ="0.0994" angle="0" ax="1" ay="0" az="0" tx="-0.367" ty="0" tz="-2.3996" />
+    <Box sX="0.203301" sY="0.598998" sZ="0.104326" angle="13.8792" ax="1" ay="0" az="0" tx="0.0053" ty="-0.3584" tz="-0.4231" />
+    <Box sX="0.203301" sY="0.043727" sZ="0.179832" angle="40.8033" ax="1" ay="0" az="0" tx="0.0053" ty="0.1692" tz="0.1335" />
+    <Box sX="0.203301" sY="0.043727" sZ="0.127919" angle="28.0573" ax="1" ay="0" az="0" tx="0.0053" ty="-0.2072" tz="-0.0623" />
+    <Box sX="0.256849" sY="0.355146" sZ="0.293145" angle="13.9209" ax="1" ay="0" az="0" tx="0.005" ty="1.1979" tz="-1.0342" />
+    <Box sX="0.245651" sY="0.173618" sZ="0.496935" angle="120.7153" ax="-1" ay="0" az="0" tx="0.0053" ty="-0.2881" tz="-0.8211" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="0.7809" ty="-0.4" tz="-2.8">
+      29:0,29:0,29:0,
+      29:0,9:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.330913" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.45" ty="0" tz="-2.3996" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="-0.7809" ty="0.4" tz="-2.8">
+      29:0,29:0,29:0,
+      29:0,9:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.330913" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.7809" ty="0" tz="-2.3996" />
+    <Axel type="6" length="0.328663" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.165" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.48859,0,0,0,1.10771,0,0,0,1.69605" centerOfMass="-6.3E-05,0.47448,-1.86784" mass="3.09999990463" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.780913" minY="-0.992349" minZ="-3.0257" maxX="0.780913" maxY="2.17752" maxZ="0.298217" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.780913" minY="-0.992349" minZ="-2.9139" maxX="0.780913" maxY="1.9858" maxZ="0.262697" />
+  </GeometryBounding>
+  <Decoration faces="7" subMaterialRedirectLookupTable="0,1,2,3,4,5,6" />
+</LEGOPrimitive>

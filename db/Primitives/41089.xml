@@ -26,6 +26,7 @@ Edited for LDD by Equilibrium
 	  <Box sX="0.0055" sY="0.115404" sZ="0.390508" angle="180.0" ax="-0.642788" ay="-0.766044" az="0.0" tx="-5.51544" ty="1.16189" tz="-1.2"/>
   </Collision>
   <Connectivity>
+		<Fixed type="3" axes="2" angle="180.0" ax="-1.0" ay="0.0" az="0.0" tx="-5.08" ty="0.800001" tz="-1.2"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-5.43962,0.800058,-1.19963" mass="18.5" frictionType="0"/>
   <Bounding>

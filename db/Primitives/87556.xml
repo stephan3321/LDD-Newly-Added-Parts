@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-08-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87556" />
+    <Annotation designname="AT AT / TIE PILOT HELMET" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.375819" sY="0.459802" sZ="0.069869" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.4006" tz="0.0565" />
+    <Box sX="0.527008" sY="0.708423" sZ="0.143468" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3887" tz="0.6846" />
+    <Box sX="0.428227" sY="0.492439" sZ="0.083941" angle="167.2984" ax="-0.7027" ay="0.1113" az="-0.7027" tx="0.6326" ty="-0.2511" tz="0" />
+    <Box sX="0.428227" sY="0.339241" sZ="0.069318" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.0481" tz="-0.6326" />
+    <Box sX="0.428227" sY="0.492439" sZ="0.083941" angle="91.4023" ax="0.1546" ay="-0.9758" az="-0.1546" tx="-0.6326" ty="-0.2511" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.419303,0,0,0,0.394819,0,0,0,0.409133" centerOfMass="0,-0.2174,0.187254" mass="1.24216997623" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8506" minY="-1.1385" minZ="-0.7596" maxX="0.8506" maxY="0.581" maxZ="0.9454" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8506" minY="-1.1385" minZ="-0.7596" maxX="0.8506" maxY="0.581" maxZ="0.9454" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

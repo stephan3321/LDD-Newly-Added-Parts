@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-03-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="55889" />
+    <Annotation designname="WHEEL, DIA. 18X14, W/ 4.85 HOLE, NO. 1" />
+    <Annotation maingroupid="367" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6664" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="90" ax="0" ay="0" az="1" tx="-0.6664" ty="0" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.6664" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="90" ax="0" ay="0" az="-1" tx="0.6664" ty="0" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="45" ax="0" ay="0" az="-1" tx="0.4712" ty="0.4712" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="45" ax="0" ay="0" az="1" tx="-0.4712" ty="0.4712" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="135" ax="0" ay="0" az="1" tx="-0.4712" ty="-0.4712" tz="0.0137" />
+    <Box sX="0.32658" sY="0.093567" sZ="0.559709" angle="135" ax="0" ay="0" az="-1" tx="0.4712" ty="-0.4712" tz="0.0137" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="0" ax="1" ay="0" az="0" tx="-0.0001" ty="0.3338" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="90" ax="0" ay="0" az="-1" tx="0.3338" ty="0.0001" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="180" ax="0" ay="0" az="1" tx="0.0001" ty="-0.3338" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="90" ax="0" ay="0" az="1" tx="-0.3338" ty="-0.0001" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="45" ax="0" ay="0" az="1" tx="-0.2362" ty="0.2359" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="45" ax="0" ay="0" az="-1" tx="0.2359" ty="0.2362" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="135" ax="0" ay="0" az="-1" tx="0.2362" ty="-0.2359" tz="0.6839" />
+    <Box sX="0.134368" sY="0.014257" sZ="0.106103" angle="135" ax="0" ay="0" az="1" tx="-0.2359" ty="-0.2362" tz="0.6839" />
+    <Box sX="0.046548" sY="0.134889" sZ="0.514655" angle="45" ax="0" ay="0" az="-1" tx="0.4012" ty="0.4026" tz="-0.0019" />
+    <Box sX="0.046548" sY="0.134889" sZ="0.514655" angle="45" ax="0" ay="0" az="1" tx="-0.4026" ty="0.4012" tz="-0.0019" />
+    <Box sX="0.046548" sY="0.134889" sZ="0.514655" angle="135" ax="0" ay="0" az="1" tx="-0.4012" ty="-0.4026" tz="-0.0019" />
+    <Box sX="0.046548" sY="0.134889" sZ="0.514655" angle="135" ax="0" ay="0" az="-1" tx="0.4026" ty="-0.4012" tz="-0.0019" />
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.4088656,0,0,0,0.4088656,0,0,0,0.50459987" centerOfMass="0,0,0.114656" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8741" minY="-0.8761" minZ="-0.5556" maxX="0.8741" maxY="0.8721" maxZ="0.8044" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8741" minY="-0.8761" minZ="-0.5556" maxX="0.8741" maxY="0.8721" maxZ="0.8044" />
+  </GeometryBounding>
+</LEGOPrimitive>

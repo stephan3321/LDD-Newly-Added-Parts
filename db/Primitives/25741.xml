@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester.
+	Last modification: 2021-07-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25741;25742" />
+    <Annotation designname="MINI HELMET, NO. 121, PART, NO. 2 [PUFFER FISH]" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.36364" sY="0.420907" sZ="0.042078" angle="0" ax="1" ay="0" az="0" tx="0.0043" ty="-0.1154" tz="0.578" />
+    <Box sX="0.492638" sY="0.480682" sZ="0.042078" angle="179.1404" ax="-0.0005" ay="0.998" az="0.0638" tx="0" ty="-0.1779" tz="-0.5482" />
+    <Box sX="0.36364" sY="0.569779" sZ="0.042078" angle="90" ax="1" ay="0" az="0" tx="0.0043" ty="0.3676" tz="0.0503" />
+    <Box sX="0.101491" sY="0.153197" sZ="0.196712" angle="12.1464" ax="1" ay="0" az="0" tx="0" ty="0.1015" tz="-0.9545" />
+    <Box sX="0.291506" sY="0.480682" sZ="0.042078" angle="73.4825" ax="0" ay="1" az="0" tx="0.5169" ty="-0.1752" tz="0.3262" />
+    <Box sX="0.291506" sY="0.480682" sZ="0.042078" angle="104.3622" ax="0" ay="1" az="0" tx="0.5268" ty="-0.1753" tz="-0.2248" />
+    <Box sX="0.291506" sY="0.480682" sZ="0.042078" angle="106.5175" ax="0" ay="1" az="0" tx="-0.5169" ty="-0.1752" tz="0.3262" />
+    <Box sX="0.291506" sY="0.480682" sZ="0.042078" angle="75.6378" ax="0" ay="1" az="0" tx="-0.5268" ty="-0.1753" tz="-0.2248" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.3997">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.51764,0,0,0,0.628479,0,0,0,0.46627" centerOfMass="0,-0.004865,-0.169251" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.9304" minY="-0.735" minZ="-1.1371" maxX="0.9304" maxY="0.7253" maxZ="0.8406" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9304" minY="-0.735" minZ="-1.1371" maxX="0.9304" maxY="0.7253" maxZ="0.8406" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,2,2" />
+</LEGOPrimitive>

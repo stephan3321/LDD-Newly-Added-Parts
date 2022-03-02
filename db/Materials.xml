@@ -74,6 +74,7 @@
 	<Material MatID="128" Red="173" Green="97" Blue="64" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="129" Red="67" Green="84" Blue="147" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="131" Red="160" Green="160" Blue="160" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="132" Red="27" Green="42" Blue="52" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="133" Red="239" Green="88" Blue="40" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="134" Red="205" Green="221" Blue="52" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="135" Red="112" Green="129" Blue="154" Alpha="255" MaterialType="shinyPlastic"/>
@@ -84,6 +85,7 @@
 	<Material MatID="140" Red="25" Green="50" Blue="90" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="141" Red="0" Green="69" Blue="26" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="143" Red="208" Green="229" Blue="255" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="144" Red="103" Green="103" Blue="67" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="145" Red="91" Green="117" Blue="144" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="146" Red="129" Green="117" Blue="144" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="147" Red="131" Green="114" Blue="79" Alpha="255" MaterialType="shinySteel"/>
@@ -93,9 +95,14 @@
 	<Material MatID="151" Red="112" Green="142" Blue="124" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="153" Red="136" Green="96" Blue="94" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="154" Red="114" Green="0" Blue="18" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="155" Red="115" Green="180" Blue="100" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="156" Red="115" Green="175" Blue="194" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="157" Red="255" Green="246" Blue="92" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="158" Red="241" Green="142" Blue="187" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="168" Red="96" Green="86" Blue="76" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="173" Red="184" Green="39" Blue="0" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="174" Red="119" Green="183" Blue="204" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="175" Red="115" Green="180" Blue="100" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="176" Red="148" Green="81" Blue="72" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="178" Red="171" Green="103" Blue="58" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="179" Red="115" Green="114" Blue="113" Alpha="255" MaterialType="shinySteel"/>
@@ -150,11 +157,17 @@
 	<Material MatID="283" Red="255" Green="201" Blue="149" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="284" Red="224" Green="208" Blue="229" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="285" Red="228" Green="214" Blue="218" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="293" Red="207" Green="230" Blue="254" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="294" Red="213" Green="220" Blue="138" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="295" Red="255" Green="155" Blue="236" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="296" Red="173" Green="173" Blue="173" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="297" Red="170" Green="127" Blue="46" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="298" Red="118" Green="118" Blue="118" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="299" Red="187" Green="148" Blue="66" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="300" Red="118" Green="77" Blue="59" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="302" Red="104" Green="188" Blue="197" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="304" Red="160" Green="160" Blue="160" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="306" Red="118" Green="77" Blue="59" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="308" Red="55" Green="33" Blue="0" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="309" Red="206" Green="206" Blue="206" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="310" Red="223" Green="193" Blue="118" Alpha="255" MaterialType="shinySteel"/>
@@ -170,14 +183,30 @@
 	<Material MatID="326" Red="226" Green="249" Blue="154" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="329" Red="245" Green="243" Blue="215" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="330" Red="119" Green="119" Blue="78" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="334" Red="118" Green="77" Blue="59" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="335" Red="187" Green="148" Blue="66" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="336" Red="140" Green="140" Blue="140" Alpha="255" MaterialType="shinySteel"/>
 	<Material MatID="339" Red="192" Green="245" Blue="0" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="340" Red="119" Green="183" Blue="204" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="341" Red="240" Green="143" Blue="28" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="342" Red="28" Green="46" Blue="58" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="343" Red="255" Green="255" Blue="255" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="346" Red="232" Green="121" Blue="0" Alpha="255" MaterialType="shinySteel"/>
+	<Material MatID="348" Red="250" Green="241" Blue="93" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="349" Red="187" Green="178" Blue="158" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="350" Red="208" Green="229" Blue="255" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="351" Red="86" Green="230" Blue="70" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="352" Red="208" Green="109" Blue="79" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="353" Red="255" Green="109" Blue="119" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="355" Red="2" Green="14" Blue="10" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="358" Red="230" Green="244" Blue="237" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="360" Red="252" Green="252" Blue="252" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="362" Red="104" Green="188" Blue="197" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="363" Red="147" Green="148" Blue="132" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="364" Red="223" Green="102" Blue="149" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="365" Red="131" Green="32" Blue="183" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="366" Red="0" Green="32" Blue="160" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="367" Red="35" Green="120" Blue="65" Alpha="150" MaterialType="shinyPlastic"/>
+	<Material MatID="368" Red="218" Green="218" Blue="0" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="369" Red="255" Green="255" Blue="255" Alpha="255" MaterialType="shinyPlastic"/>
 </Materials>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: UnityLegoGame
+	Editted for LDD by: M2m
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39028;36662" />
+    <Annotation designname="ANIMAL JAW, NO. 1" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.213821" sY="0.07235" sZ="0.212561" angle="25.8538" ax="0" ay="0" az="-1" tx="-2.6667" ty="0.0742" tz="0" />
+    <Box sX="0.902567" sY="0.07235" sZ="0.420557" angle="13.0201" ax="0" ay="0" az="-1" tx="-1.5936" ty="-0.2228" tz="0" />
+    <Box sX="0.25329" sY="0.16894" sZ="0.047932" angle="38.5129" ax="-0.266" ay="0.9486" az="-0.1712" tx="-2.6609" ty="0.2298" tz="-0.3145" />
+    <Box sX="0.45669" sY="0.235633" sZ="0.12017" angle="17.5612" ax="-0.4861" ay="0.73" az="-0.4804" tx="-2.013" ty="0.1275" tz="-0.481" />
+    <Box sX="0.90188" sY="0.34" sZ="0.12517" angle="8.4101" ax="0.0076" ay="0.4713" az="-0.882" tx="-0.691" ty="-0.0615" tz="-0.7215" />
+    <Box sX="0.051476" sY="0.134291" sZ="0.215894" angle="0" ax="1" ay="0" az="0" tx="-2.8343" ty="0.2388" tz="0" />
+    <Box sX="0.25329" sY="0.16894" sZ="0.047932" angle="38.5129" ax="0.266" ay="-0.9486" az="-0.1712" tx="-2.6609" ty="0.2298" tz="0.3145" />
+    <Box sX="0.45669" sY="0.235633" sZ="0.12017" angle="17.5612" ax="0.4861" ay="-0.73" az="-0.4804" tx="-2.013" ty="0.1275" tz="0.481" />
+    <Box sX="0.90188" sY="0.34" sZ="0.12517" angle="8.4101" ax="-0.0076" ay="-0.4713" az="-0.882" tx="-0.691" ty="-0.0615" tz="0.7215" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="-0.0025" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.38853352,0,0,0,1.182908,0,0,0,1.0127432" centerOfMass="-1.26199,-0.014642,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.9084" minY="-0.586965" minZ="-0.915449" maxX="0.384424" maxY="0.55768" maxZ="0.915449" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.9084" minY="-0.586965" minZ="-0.915449" maxX="0.384424" maxY="0.55768" maxZ="0.915449" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

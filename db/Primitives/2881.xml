@@ -2,7 +2,7 @@
 <!--
 Derived from The LDraw Parts Library
 Orginal Author: Mikkel Bech Jensen [gaia]
-Editted for LDD by Equilibrium
+Edited for LDD by Equilibrium
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -19,6 +19,13 @@ Editted for LDD by Equilibrium
 	  <Box sX="0.79" sY="0.075" sZ="2.29" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-3.6" ty="0.28" tz="-3.66"/>
   </Collision>
   <Connectivity>
+		<Fixed type="2" axes="2" angle="120.0" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-1.206" ty="0.356323" tz="-2.5"/>
+		<Fixed type="2" axes="2" angle="120.0" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-1.206" ty="0.375" tz="-4.54"/>
+		<Fixed type="2" axes="2" angle="143.55" ax="-0.667677" ay="-0.667678" az="0.329262" tx="2.675" ty="0.637" tz="-1.293"/>
+		<Fixed type="2" axes="2" angle="132.145" ax="-0.633687" ay="-0.633687" az="0.443713" tx="1.623" ty="0.495" tz="1.592"/>
+		<Fixed type="2" axes="2" angle="114.242" ax="0.539519" ay="0.539519" az="0.646403" tx="-1.754" ty="0.495" tz="2.561"/>
+		<Fixed type="2" axes="2" angle="206.619" ax="-0.687036" ay="-0.687036" az="-0.236566" tx="-1.2" ty="0.48" tz="4.16"/>
+		<Fixed type="2" axes="2" angle="120.0" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-0.4" ty="0.72" tz="-1.2"/>
 	  <Custom2DField type="22" width="4" height="4" angle="0.0" ax="0.0" ay="0.0" az="0.0" tx="-0.4" ty="0.0" tz="-1.2">
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,

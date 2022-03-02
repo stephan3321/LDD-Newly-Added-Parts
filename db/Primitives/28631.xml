@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2021-05-30
+	Comments: Made decorable
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28631" />
+    <Annotation designname="MINI HELMET, NO. 117" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.451973" sY="0.138826" sZ="0.482195" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1512" tz="-0.0206" />
+    <Box sX="0.29669" sY="0.458325" sZ="0.026981" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.4555" tz="0.5566" />
+    <Box sX="0.29669" sY="0.396049" sZ="0.026981" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.3932" tz="-0.5566" />
+    <Box sX="0.29669" sY="0.398018" sZ="0.026981" angle="120" ax="0" ay="1" az="0" tx="0.482" ty="-0.3952" tz="-0.2783" />
+    <Box sX="0.29669" sY="0.421947" sZ="0.026981" angle="60" ax="0" ay="1" az="0" tx="0.482" ty="-0.4191" tz="0.2783" />
+    <Box sX="0.29669" sY="0.398018" sZ="0.026981" angle="60" ax="0" ay="1" az="0" tx="-0.482" ty="-0.3952" tz="-0.2783" />
+    <Box sX="0.29669" sY="0.421947" sZ="0.026981" angle="120" ax="0" ay="1" az="0" tx="-0.482" ty="-0.4191" tz="0.2783" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.306225,0,0,0,0.309463,0,0,0,0.301252" centerOfMass="0,-0.274675,-0.028683" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.675822" minY="-0.943272" minZ="-0.715454" maxX="0.675822" maxY="0.393922" maxZ="0.658088" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.675822" minY="-0.943272" minZ="-0.715454" maxX="0.675822" maxY="0.393922" maxZ="0.658088" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

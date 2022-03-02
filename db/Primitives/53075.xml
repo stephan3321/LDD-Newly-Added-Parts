@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Comments: Extra decoration surface by jester.
+	Last modification: 2021-07-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53075" />
+    <Annotation designname="DOG, NO. 15, DACKEL, TECKEL, WIENER DOG, DACHSHUND" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.381613" sY="0.260488" sZ="0.271372" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.4202" tz="0.4128" />
+    <Box sX="0.3358" sY="0.321879" sZ="1.1223" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6269" tz="-0.8352" />
+    <Box sX="0.228768" sY="0.269615" sZ="0.273949" angle="1.2046" ax="1" ay="0" az="0" tx="0" ty="0.8738" tz="0.2643" />
+    <Box sX="0.126441" sY="0.109564" sZ="0.23087" angle="14.0042" ax="1" ay="0" az="0" tx="0" ty="1.3127" tz="0.888" />
+    <Box sX="0.05434" sY="0.145389" sZ="0.203234" angle="1.5674" ax="0.7686" ay="0.6397" az="0.0067" tx="0.3123" ty="0.1622" tz="0.1661" />
+    <Box sX="0.05434" sY="0.145389" sZ="0.069531" angle="1.5674" ax="0.7686" ay="0.6397" az="0.0067" tx="0.186" ty="0.1594" tz="0.302" />
+    <Box sX="0.05434" sY="0.145389" sZ="0.069531" angle="178.9974" ax="0" ay="0.9999" az="0.0105" tx="-0.186" ty="0.1594" tz="0.302" />
+    <Box sX="0.05434" sY="0.145389" sZ="0.203234" angle="178.9974" ax="0" ay="0.9999" az="0.0105" tx="-0.3123" ty="0.1622" tz="0.1661" />
+    <Box sX="0.054607" sY="0.145389" sZ="0.062318" angle="178.9974" ax="0" ay="-0.9999" az="0.0105" tx="-0.1915" ty="0.1572" tz="-1.8874" />
+    <Box sX="0.051294" sY="0.145389" sZ="0.212257" angle="178.9974" ax="0" ay="-0.9999" az="0.0105" tx="-0.3152" ty="0.1604" tz="-1.7354" />
+    <Box sX="0.054607" sY="0.145389" sZ="0.062318" angle="1.5674" ax="-0.7686" ay="-0.6397" az="0.0067" tx="0.1915" ty="0.1572" tz="-1.8874" />
+    <Box sX="0.051294" sY="0.145389" sZ="0.212257" angle="1.5674" ax="-0.7686" ay="-0.6397" az="0.0067" tx="0.3152" ty="0.1604" tz="-1.7354" />
+    <Box sX="0.095885" sY="0.076312" sZ="0.158446" angle="42.9057" ax="-0.4959" ay="-0.8523" az="-0.1661" tx="0.0312" ty="0.3639" tz="-2.0221" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-2">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.9588" tz="-1.2">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.2129544,0,0,0,1.0598968,0,0,0,0.34557756" centerOfMass="0,0.864843,-0.519677" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5372" minY="0.0004" minZ="-2.2017" maxX="0.5372" maxY="1.73" maxZ="1.1811" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5372" minY="0.0004" minZ="-2.2017" maxX="0.5372" maxY="1.73" maxZ="1.1811" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

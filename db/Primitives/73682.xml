@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
-	Last modification: 2022-02-28
+	Last modification: 2021-04-23
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -31,7 +31,7 @@
     <Box sX="0.393777" sY="0.075266" sZ="0.314507" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.8041" ty="0.3293" tz="-0.3233" />
     <Box sX="0.186097" sY="0.078344" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.603" ty="0.4783" tz="1.1191" />
     <Box sX="0.186097" sY="0.078344" sZ="0.15" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.1205" ty="0.4783" tz="0.5958" />
-    <Box sX="0.186097" sY="0.053303" sZ="0.15" angle="140.5136" ax="0.3589" ay="-0.66" az="0.66" tx="1.0456" ty="0.4783" tz="0.9607" />
+    <Box sX="0.186097" sY="0.053303" sZ="0.15" angle="140.5135" ax="0.3589" ay="-0.66" az="0.66" tx="1.0456" ty="0.4783" tz="0.9607" />
     <Box sX="0.186097" sY="0.053303" sZ="0.15" angle="160.2698" ax="0.1739" ay="-0.6963" az="0.6963" tx="0.9311" ty="0.4783" tz="1.065" />
     <Box sX="0.382879" sY="0.078344" sZ="0.06641" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0.4783" ty="0.573" tz="0.8068" />
     <Box sX="0.382879" sY="0.078344" sZ="0.06641" angle="90" ax="1" ay="0" az="0" tx="0.7971" ty="0.573" tz="0.4782" />

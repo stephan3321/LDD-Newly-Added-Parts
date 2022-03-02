@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-11-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70490" />
+    <Annotation designname="TYRE TRUCK, NARROW, DIA. 49.5X14, NO. 1" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="0" ax="1" ay="0" az="0" tx="-1.9435" ty="0" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="30" ax="0" ay="0" az="-1" tx="-1.6831" ty="0.9717" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="60" ax="0" ay="0" az="-1" tx="-0.9717" ty="1.6831" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="90" ax="0" ay="0" az="-1" tx="0" ty="1.9435" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="150" ax="0" ay="0" az="1" tx="1.6831" ty="-0.9717" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="180" ax="0" ay="0" az="1" tx="1.9435" ty="0" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="150" ax="0" ay="0" az="-1" tx="1.6831" ty="0.9717" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="120" ax="0" ay="0" az="-1" tx="0.9717" ty="1.6831" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="30" ax="0" ay="0" az="1" tx="-1.6831" ty="-0.9717" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="60" ax="0" ay="0" az="1" tx="-0.9717" ty="-1.6831" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="90" ax="0" ay="0" az="1" tx="0" ty="-1.9435" tz="-0.0063" />
+    <Box sX="0.388825" sY="0.49" sZ="0.687576" angle="120" ax="0" ay="0" az="1" tx="0.9717" ty="-1.6831" tz="-0.0063" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="80" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="80" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.2452858,0,0,0,2.2481289,0,0,0,4.1565368" centerOfMass="0.00018,0.000792,2.8E-05" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.4724" minY="-2.4787" minZ="-0.72" maxX="2.4724" maxY="2.458" maxZ="0.72" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.4724" minY="-2.4787" minZ="-0.72" maxX="2.4724" maxY="2.458" maxZ="0.72" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65304" />
+    <Annotation designname="2M FRIC. SNAP W/CROSS HOLE TYPE 2 (2021+)" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.050205" sY="0.050205" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="-0.1502" ty="-0.1502" tz="-2" />
+    <Box sX="0.050205" sY="0.050205" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1502" ty="0.1502" tz="-2" />
+    <Box sX="0.050205" sY="0.050205" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.1502" ty="0.1502" tz="-2" />
+    <Box sX="0.050205" sY="0.050205" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.1502" ty="-0.1502" tz="-2" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2953" tz="-2.325" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="90" ax="0" ay="0" az="-1" tx="0.2899" ty="0" tz="-2.325" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.2953" tz="-2.325" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="90" ax="0" ay="0" az="1" tx="-0.2903" ty="0" tz="-2.3309" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.2953" tz="-1.675" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="90" ax="0" ay="0" az="1" tx="-0.2921" ty="0" tz="-1.6669" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2953" tz="-1.675" />
+    <Box sX="0.12422" sY="0.040255" sZ="0.065" angle="90" ax="0" ay="0" az="-1" tx="0.2928" ty="0" tz="-1.67" />
+    <Box sX="0.163691" sY="0.7885" sZ="0.164229" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0019" ty="0.0006" tz="-0.7985" />
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="1.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-2.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.137896,0,0,0,0.137316,0,0,0,0.014788" centerOfMass="0,0,-1.38335" mass="0.34999999404" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3326" minY="-0.3611" minZ="-2.4" maxX="0.3326" maxY="0.3589" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3326" minY="-0.3611" minZ="-2.4" maxX="0.3326" maxY="0.3589" maxZ="0" />
+  </GeometryBounding>
+  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0" />
+</LEGOPrimitive>

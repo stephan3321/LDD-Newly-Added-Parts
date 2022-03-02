@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-16
+	Comments: Updated by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60621" />
+    <Annotation designname="LATTICE DOOR FOR FRAME 1X4X6" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="2.4051" ty="2.9305" tz="0.26" />
+    <Box sX="0.375963" sY="0.39" sZ="0.150207" angle="0" ax="1" ay="0" az="0" tx="2.2535" ty="2.9305" tz="0.26" />
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="0.015" ty="2.9305" tz="0.26" />
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="0.815" ty="2.9305" tz="0.26" />
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="1.615" ty="2.9305" tz="0.26" />
+    <Box sX="1.300475" sY="0.05" sZ="0.147006" angle="0" ax="1" ay="0" az="0" tx="1.2208" ty="2.11" tz="0.26" />
+    <Box sX="1.300475" sY="0.05" sZ="0.147006" angle="0" ax="1" ay="0" az="0" tx="1.2208" ty="3.7464" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="2.5247" ty="3.7464" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="-0.0471" ty="3.7464" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="2.5268" ty="2.1071" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="-0.0675" ty="2.1096" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="2.5268" ty="0.3588" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="-0.0675" ty="0.3613" tz="0.26" />
+    <Box sX="1.300475" sY="0.05" sZ="0.147006" angle="0" ax="1" ay="0" az="0" tx="1.2208" ty="0.3617" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="2.5268" ty="5.501" tz="0.26" />
+    <Box sX="0.070539" sY="0.05" sZ="0.109482" angle="90" ax="0" ay="-1" az="0" tx="-0.0675" ty="5.5035" tz="0.26" />
+    <Box sX="1.300475" sY="0.05" sZ="0.147006" angle="0" ax="1" ay="0" az="0" tx="1.2208" ty="5.5039" tz="0.26" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="1.868" ty="2.5305" tz="0.1">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="1.868" ty="3.3305" tz="0.42">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="47" oriented="0" angle="0" ax="1" ay="0" az="0" tx="-0.11" ty="2.9305" tz="0.26" />
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.015" ty="0.4205" tz="0.26" />
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.815" ty="0.4205" tz="0.26" />
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="1.615" ty="0.4205" tz="0.26" />
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="2.415" ty="0.4205" tz="0.26" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.88439,0,0,0,1.69948,0,0,0,6.55198" centerOfMass="1.28518,2.9305,0.26" mass="2.40000009537" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.259812" minY="0.245474" minZ="-0.078" maxX="2.668" maxY="5.61547" maxZ="0.598" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.259812" minY="0.245474" minZ="-0.078" maxX="2.668" maxY="5.61547" maxZ="0.598" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-02-11
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="38583" />
@@ -9,6 +13,18 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.406842" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4168" tz="0" />
+    <Box sX="0.79" sY="0.138276" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8117" tz="0" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.054986" angle="180" ax="0.239" ay="0.971" az="0" tx="0.3698" ty="0.5229" tz="0.335" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.016269" angle="180" ax="0.5471" ay="0.8371" az="0" tx="0.6011" ty="0.7266" tz="0.3737" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.054986" angle="180" ax="0.239" ay="0.971" az="0" tx="0.3698" ty="0.5229" tz="-0.335" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.016269" angle="180" ax="0.5471" ay="0.8371" az="0" tx="0.6011" ty="0.7266" tz="-0.3737" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.054986" angle="27.6562" ax="0" ay="0" az="1" tx="-0.3698" ty="0.5229" tz="-0.335" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.054986" angle="27.6562" ax="0" ay="0" az="1" tx="-0.3698" ty="0.5229" tz="0.335" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.016269" angle="66.3358" ax="0" ay="0" az="1" tx="-0.6011" ty="0.7266" tz="0.3737" />
+    <Box sX="0.089968" sY="0.148278" sZ="0.016269" angle="66.3358" ax="0" ay="0" az="1" tx="-0.6011" ty="0.7266" tz="-0.3737" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
       18:1:1,23:4:1,18:1:1,
@@ -21,6 +37,7 @@
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.1612537,0,0,0,0.2666668,0,0,0,0.32125377" centerOfMass="0,0.569,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-0.8" minY="0" minZ="-0.4" maxX="0.8" maxY="1.12" maxZ="0.4" />
   </Bounding>

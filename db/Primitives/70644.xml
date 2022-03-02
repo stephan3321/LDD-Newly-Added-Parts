@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Adriano Aicardi
@@ -9,8 +9,8 @@
   <Annotations>
     <Annotation aliases="70644" />
     <Annotation designname="TECHNIC CRANE HOOK METAL" />
-    <Annotation maingroupid="372" />
-    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation maingroupid="381" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
     <Annotation platformid="300" />
     <Annotation platformname="TECHNIC" />
     <Annotation version="1" />

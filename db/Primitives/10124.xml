@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester.
+	Last modification: 2021-09-11
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="10124" />
@@ -11,10 +15,10 @@
   </Annotations>
   <Collision>
     <Box sX="0.583354" sY="0.49" sZ="0.066974" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.9037" />
-    <Box sX="0.521932" sY="0.086026" sZ="0.429258" angle="0" ax="1" ay="0" az="0" tx="1.0606" ty="-1.1917" tz="1.204" />
-    <Box sX="0.521932" sY="0.086026" sZ="0.429258" angle="90" ax="-1" ay="0" az="0" tx="1.0606" ty="-1.5956" tz="0.8001" />
-    <Box sX="0.521932" sY="0.086026" sZ="0.429258" angle="180" ax="1" ay="0" az="0" tx="1.0606" ty="-1.9996" tz="1.204" />
-    <Box sX="0.521932" sY="0.086026" sZ="0.429258" angle="90" ax="1" ay="0" az="0" tx="1.0606" ty="-1.5956" tz="1.608" />
+    <Box sX="0.521932" sY="0.086026" sZ="0.366229" angle="12.8473" ax="0" ay="-1" az="0" tx="0.9491" ty="-1.1917" tz="1.0779" />
+    <Box sX="0.521932" sY="0.086026" sZ="0.340516" angle="90" ax="-1" ay="0" az="0" tx="1.0606" ty="-1.5956" tz="0.8001" />
+    <Box sX="0.521932" sY="0.086026" sZ="0.310771" angle="180" ax="0.9966" ay="0" az="0.0828" tx="0.9949" ty="-1.9996" tz="1.0884" />
+    <Box sX="0.521932" sY="0.054756" sZ="0.258698" angle="90.2882" ax="0.995" ay="-0.0707" az="0.0707" tx="1.0629" ty="-1.5956" tz="1.5922" />
     <Box sX="0.284455" sY="0.247259" sZ="0.403531" angle="0" ax="1" ay="0" az="0" tx="-0.534" ty="0" tz="0.4132" />
     <Box sX="0.247259" sY="0.247259" sZ="0.403531" angle="0" ax="1" ay="0" az="0" tx="-0.3461" ty="0.3507" tz="0.4132" />
     <Box sX="0.284455" sY="0.776055" sZ="0.403531" angle="90" ax="0" ay="0" az="1" tx="-0.0151" ty="-0.534" tz="0.4132" />
@@ -37,5 +41,5 @@
   <GeometryBounding>
     <AABB minX="-0.939257" minY="-2.28474" minZ="-0.001587" maxX="1.59363" maxY="0.831503" maxZ="1.78367" />
   </GeometryBounding>
-  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0" />
 </LEGOPrimitive>

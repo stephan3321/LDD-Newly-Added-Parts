@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface added by jester
+	Last modification: 2021-07-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="17013" />
+    <Annotation designname="CREATURE HEAD NO. 9 [RACCOON]" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6037" tz="0.3022" />
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="60" ax="0" ay="1" az="0" tx="0.2617" ty="0.6037" tz="0.1511" />
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="120" ax="0" ay="1" az="0" tx="0.2617" ty="0.6037" tz="-0.1511" />
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.6037" tz="-0.3022" />
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="120" ax="0" ay="-1" az="0" tx="-0.2617" ty="0.6037" tz="-0.1511" />
+    <Box sX="0.227948" sY="0.593745" sZ="0.077292" angle="60" ax="0" ay="-1" az="0" tx="-0.2617" ty="0.6037" tz="0.1511" />
+    <Box sX="0.282367" sY="0.072135" sZ="0.282367" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.2326" tz="0" />
+    <Box sX="0.38206" sY="0.36052" sZ="0.047935" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.0189" tz="-0.4649" />
+    <Box sX="0.33246" sY="0.298934" sZ="0.191834" angle="19.1713" ax="1" ay="0" az="0" tx="0" ty="0.5983" tz="0.5116" />
+    <Box sX="0.184193" sY="0.165182" sZ="0.191834" angle="19.1713" ax="1" ay="0" az="0" tx="0" ty="0.4415" tz="0.8425" />
+    <Box sX="0.404602" sY="0.249348" sZ="0.05024" angle="180" ax="0" ay="0.999" az="0.0449" tx="0" ty="0.584" tz="-0.3719" />
+    <Box sX="0.156907" sY="0.134833" sZ="0.065298" angle="172.5192" ax="0.4181" ay="0.9051" az="0.0779" tx="-0.5489" ty="1.2413" tz="0.023" />
+    <Box sX="0.156907" sY="0.389243" sZ="0.253218" angle="180" ax="0.1823" ay="0.9832" az="0" tx="-0.4981" ty="0.803" tz="0.1948" />
+    <Box sX="0.302602" sY="0.306191" sZ="0.023079" angle="131.2643" ax="0.3109" ay="0.9212" az="-0.2338" tx="-0.6625" ty="0.1245" tz="0.2347" />
+    <Box sX="0.05613" sY="0.544399" sZ="0.253218" angle="158.101" ax="0.0723" ay="0.9953" az="0.0647" tx="-0.4536" ty="0.6192" tz="-0.149" />
+    <Box sX="0.156907" sY="0.134833" sZ="0.065298" angle="50.8566" ax="0.181" ay="0.1519" az="0.9717" tx="0.5489" ty="1.2413" tz="0.023" />
+    <Box sX="0.156907" sY="0.389243" sZ="0.253218" angle="21.0031" ax="0" ay="0" az="1" tx="0.4981" ty="0.803" tz="0.1948" />
+    <Box sX="0.302602" sY="0.306191" sZ="0.023079" angle="65.897" ax="-0.3916" ay="0.7586" az="0.5207" tx="0.6625" ty="0.1245" tz="0.2347" />
+    <Box sX="0.05613" sY="0.544399" sZ="0.253218" angle="24.5379" ax="0.2991" ay="0.8938" az="0.334" tx="0.4536" ty="0.6192" tz="-0.149" />
+    <Box sX="0.302602" sY="0.306191" sZ="0.023079" angle="59.1137" ax="0.3975" ay="-0.6802" az="0.6159" tx="0.6645" ty="0.1318" tz="-0.256" />
+    <Box sX="0.302602" sY="0.306191" sZ="0.023079" angle="121.8247" ax="-0.2965" ay="-0.9184" az="-0.2621" tx="-0.6671" ty="0.1244" tz="-0.2219" />
+    <Box sX="0.623344" sY="0.122992" sZ="0.039302" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1422" tz="-0.4563" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.530707,0,0,0,0.608435,0,0,0,0.644725" centerOfMass="0.014934,0.530767,0.299296" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.02607" minY="-0.391456" minZ="-0.56188" maxX="1.05593" maxY="1.45299" maxZ="1.16047" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.900735" minY="-0.391456" minZ="-0.56188" maxX="0.900735" maxY="1.44153" maxZ="1.16047" />
+  </GeometryBounding>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
+</LEGOPrimitive>

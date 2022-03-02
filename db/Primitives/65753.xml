@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2021-02-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65753" />
+    <Annotation designname="MINI CLOTHING, NO. 17 SKIRT" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.382625" sY="0.02943" sZ="0.137793" angle="90" ax="0" ay="-1" az="0" tx="0.4007" ty="0.0727" tz="-0.0008" />
+    <Box sX="0.368002" sY="0.02943" sZ="0.044411" angle="90" ax="0" ay="-1" az="0" tx="-0.3047" ty="0.0728" tz="-0.0008" />
+    <Box sX="0.061099" sY="0.02943" sZ="0.710141" angle="90" ax="0" ay="-1" az="0" tx="0.3946" ty="0.0728" tz="-0.3357" />
+    <Box sX="0.368002" sY="0.02943" sZ="0.044411" angle="90" ax="0" ay="-1" az="0" tx="1.1047" ty="0.0728" tz="-0.0008" />
+    <Box sX="0.061148" sY="0.02943" sZ="0.710141" angle="90" ax="0" ay="-1" az="0" tx="0.3946" ty="0.0728" tz="0.3284" />
+    <Box sX="0.335224" sY="0.02943" sZ="0.187026" angle="109.8143" ax="0.5031" ay="-0.7026" az="0.5031" tx="-0.4157" ty="-0.1335" tz="-0.0008" />
+    <Box sX="0.098416" sY="0.006203" sZ="0.714245" angle="106.3537" ax="0.4687" ay="-0.7487" az="-0.4687" tx="0.4007" ty="-0.0246" tz="0.4288" />
+    <Box sX="0.086411" sY="0.01658" sZ="0.714245" angle="113.1346" ax="0.5311" ay="-0.6602" az="-0.5311" tx="0.4007" ty="-0.216" tz="0.4832" />
+    <Box sX="0.098416" sY="0.006735" sZ="0.714245" angle="106.6535" ax="-0.472" ay="0.7447" az="-0.472" tx="0.4007" ty="-0.0252" tz="-0.4271" />
+    <Box sX="0.086411" sY="0.01658" sZ="0.714245" angle="113.1346" ax="-0.5311" ay="0.6602" az="-0.5311" tx="0.4007" ty="-0.216" tz="-0.4832" />
+    <Box sX="0.335224" sY="0.02943" sZ="0.187026" angle="109.8143" ax="-0.5031" ay="-0.7026" az="-0.5031" tx="1.2111" ty="-0.1192" tz="-0.0008" />
+    <Box sX="0.186239" sY="0.018538" sZ="0.020717" angle="142.6762" ax="0.5349" ay="-0.8154" az="-0.2215" tx="-0.3874" ty="-0.1157" tz="0.4145" />
+    <Box sX="0.186239" sY="0.018538" sZ="0.020717" angle="78.8409" ax="0.3305" ay="-0.5039" az="-0.798" tx="1.1874" ty="-0.1157" tz="0.4145" />
+    <Box sX="0.186239" sY="0.018538" sZ="0.020717" angle="78.8409" ax="-0.3305" ay="0.5039" az="-0.798" tx="1.1874" ty="-0.1157" tz="-0.4145" />
+    <Box sX="0.186239" sY="0.018538" sZ="0.020717" angle="142.6762" ax="-0.5349" ay="0.8154" az="-0.2215" tx="-0.3874" ty="-0.1157" tz="-0.4145" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="180" ax="1" ay="0" az="0" tx="-0.1" ty="0.12" tz="0" />
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,15:4:1,22:2:1,15:4:1,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.12" tz="0.4">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,15:4:1,22:2:1,15:4:1,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="0" az="1" tx="0.9" ty="0.12" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.11182875,0,0,0,0.37161208,0,0,0,0.29205002" centerOfMass="0.4,-0.1,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.51" minY="-0.3202" minZ="-0.54" maxX="1.31" maxY="0.1198" maxZ="0.54" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.51" minY="-0.3202" minZ="-0.54" maxX="1.31" maxY="0.1198" maxZ="0.54" />
+  </GeometryBounding>
+</LEGOPrimitive>

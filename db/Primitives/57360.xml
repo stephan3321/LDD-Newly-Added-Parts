@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Max Martin Richter [MMR1988]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="57360" />
+    <Annotation designname="FRICTION FORK W/ CROSS HOLE" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.38" sY="0.057962" sZ="0.057962" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="0.177" tz="0.177" />
+    <Box sX="0.24448" sY="0.178535" sZ="0.07" angle="180" ax="0" ay="1" az="0" tx="0.1455" ty="0.0015" tz="0.25" />
+    <Box sX="0.24448" sY="0.178535" sZ="0.07" angle="180" ax="0" ay="1" az="0" tx="0.1455" ty="0.0015" tz="-0.25" />
+    <Box sX="0.095557" sY="0.090993" sZ="0.07" angle="180" ax="0" ay="1" az="0" tx="-0.1056" ty="0" tz="0.25" />
+    <Box sX="0.095557" sY="0.090993" sZ="0.07" angle="180" ax="0" ay="1" az="0" tx="-0.1056" ty="0" tz="-0.25" />
+    <Box sX="0.38" sY="0.057962" sZ="0.057962" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="-0.177" tz="0.177" />
+    <Box sX="0.38" sY="0.057962" sZ="0.057962" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="-0.177" tz="-0.177" />
+    <Box sX="0.38" sY="0.057962" sZ="0.057962" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="0.177" tz="-0.177" />
+    <Box sX="0.38" sY="0.034" sZ="0.098" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="0.289" tz="0" />
+    <Box sX="0.38" sY="0.034" sZ="0.098" angle="180" ax="0" ay="1" az="0" tx="0.81" ty="-0.289" tz="0" />
+    <Box sX="0.38" sY="0.034" sZ="0.098" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.81" ty="0" tz="0.289" />
+    <Box sX="0.38" sY="0.034" sZ="0.098" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.81" ty="0" tz="-0.289" />
+    <Box sX="0.38" sY="0.033256" sZ="0.098" angle="180" ax="0" ay="-0.3827" az="0.9239" tx="0.81" ty="0.2038" tz="0.2038" />
+    <Box sX="0.38" sY="0.033256" sZ="0.098" angle="180" ax="0" ay="0.3827" az="0.9239" tx="0.81" ty="0.2038" tz="-0.2038" />
+    <Box sX="0.38" sY="0.033256" sZ="0.098" angle="180" ax="0" ay="0.9239" az="-0.3827" tx="0.81" ty="-0.2038" tz="0.2038" />
+    <Box sX="0.38" sY="0.033256" sZ="0.098" angle="180" ax="0" ay="0.9239" az="0.3827" tx="0.81" ty="-0.2038" tz="-0.2038" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="1.2" ty="0" tz="0" />
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.020104,0,0,0,0.053402,0,0,0,0.049825" centerOfMass="0.550865,-0.000102,0" mass="0.300000011921" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.24" minY="-0.36" minZ="-0.36" maxX="1.2" maxY="0.36" maxZ="0.36" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.24" minY="-0.36" minZ="-0.36" maxX="1.2" maxY="0.36" maxZ="0.36" />
+  </GeometryBounding>
+</LEGOPrimitive>

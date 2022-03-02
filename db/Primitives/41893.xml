@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41893" />
+    <Annotation designname="OFFROAD TYRE 68,8 X 36" />
+    <Annotation maingroupid="366" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="0" ax="1" ay="0" az="0" tx="-0.0104" ty="-2.9887" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="45" ax="0" ay="0" az="1" tx="2.1144" ty="-2.1291" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="90" ax="0" ay="0" az="1" tx="3.0282" ty="-0.0104" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="135" ax="0" ay="0" az="1" tx="2.2098" ty="2.1951" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="180" ax="0" ay="0" az="1" tx="0.0104" ty="2.9587" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="135" ax="0" ay="0" az="-1" tx="-2.1463" ty="2.161" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="90" ax="0" ay="0" az="-1" tx="-3.0387" ty="0.0104" tz="-0.7" />
+    <Box sX="0.948747" sY="0.188354" sZ="1.39" angle="45" ax="0" ay="0" az="-1" tx="-2.1877" ty="-2.173" tz="-0.7" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.7" />
+    <Fixed type="14" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.7" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="62.5103,0,0,0,61.63509,0,0,0,99.64774" centerOfMass="-0.001249,1.7E-05,-0.706461" mass="21.5" frictionType="1" />
+  <Bounding>
+    <AABB minX="-3.441" minY="-3.45" minZ="-2.4979" maxX="3.441" maxY="3.4275" maxZ="1.1021" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.441" minY="-3.45" minZ="-2.4979" maxX="3.441" maxY="3.4275" maxZ="1.1021" />
+  </GeometryBounding>
+</LEGOPrimitive>

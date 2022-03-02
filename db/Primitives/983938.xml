@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+	Last modification: 2021-04-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="983938;1010482" />
+    <Annotation designname="FRIENDS ACCESSORIES MEDICAL NURSE HAT" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.329665" sY="0.065916" sZ="0.223184" angle="0" ax="1" ay="0" az="0" tx="0.0017" ty="0.3026" tz="-0.0467" />
+    <Box sX="0.329665" sY="0.041025" sZ="0.223184" angle="105" ax="-1" ay="0" az="0" tx="0.0017" ty="0.4203" tz="0.1152" />
+    <Box sX="0.045984" sY="0.094844" sZ="0.046016" angle="0" ax="1" ay="0" az="0" tx="-0.0014" ty="0.1227" tz="-0.0012" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.26" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2272" tz="0" />
+    <Axel type="15" length="0.226814" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.075369728,0,0,0,0.092756644,0,0,0,0.10742445" centerOfMass="0.00377,0.3675,0.00175" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4289" minY="0" minZ="-0.3017" maxX="0.4289" maxY="0.735" maxZ="0.3017" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4289" minY="0" minZ="-0.3017" maxX="0.4289" maxY="0.735" maxZ="0.3017" />
+  </GeometryBounding>
+</LEGOPrimitive>

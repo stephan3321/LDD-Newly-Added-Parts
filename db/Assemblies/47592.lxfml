@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="47592"/>
+		<Annotation designname="LIGHT, NO. 1 [3x3 colour light matrix]"/>
+    		<Annotation maingroupid="393"/>
+    		<Annotation maingroupname="POWERED UP"/>
+    		<Annotation platformid="300"/>
+    		<Annotation platformname="TECHNIC"/>
+   		<Annotation wire="47592"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="47592" uuid="d86c659f-b260-4080-b5ca-7e448004278e">
+			<Part refID="0" designID="47592" materials="21">
+				<Bone refID="0" transformation="0,0,1,0,-1,0,1,0,0,-7.2,2.360,33.6" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="23816" uuid="655d052d-e5fa-474e-9cfa-68245c2f6bcf">
+			<Part refID="1" designID="23816" materials="21">
+				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,-12.0,0.235,33.58" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Extra decoration surface created by jester
+	Last modification: 2021-09-20
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92754" />
+    <Annotation designname="SUBULBA ARM" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.296109" sY="0.23171" sZ="0.290743" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2406" tz="-0.0314" />
+    <Box sX="0.108727" sY="0.181291" sZ="0.142657" angle="0" ax="1" ay="0" az="0" tx="0.4248" ty="0.1896" tz="-0.0532" />
+    <Box sX="0.257671" sY="0.664815" sZ="0.125464" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.1571" tz="-0.1486" />
+    <Box sX="0.196482" sY="0.072252" sZ="0.151825" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.9142" tz="-0.1935" />
+    <Box sX="0.05" sY="0.165485" sZ="0.151824" angle="0" ax="1" ay="0" az="0" tx="-0.215" ty="2.1719" tz="-0.1983" />
+    <Box sX="0.05" sY="0.165485" sZ="0.151824" angle="0" ax="1" ay="0" az="0" tx="0.2152" ty="2.1719" tz="-0.1983" />
+    <Box sX="0.108727" sY="0.181291" sZ="0.142657" angle="0" ax="1" ay="0" az="0" tx="-0.4248" ty="0.1896" tz="-0.0532" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.322947" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="2.152" tz="-0.0385" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.194136,0,0,0,0.022555,0,0,0,0.199881" centerOfMass="0,0.930436,-0.116309" mass="0.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.543563" minY="-0.000609" minZ="-0.388545" maxX="0.543563" maxY="2.3489" maxZ="0.36471" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.543563" minY="-0.000609" minZ="-0.388545" maxX="0.543563" maxY="2.3489" maxZ="0.36471" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

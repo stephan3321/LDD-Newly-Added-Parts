@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: jester
+	Last modification: 2021-08-30
+	Comments: Collision data by Stephan
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9052;42070" />
+    <Annotation designname="WINDUP MOTOR AXLE 2.33" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.07312" sY="0.219883" sZ="0.578506" angle="90" ax="0" ay="0" az="-1" tx="0.3991" ty="1.1995" tz="0.6106" />
+    <Box sX="0.07312" sY="0.219883" sZ="0.578506" angle="180" ax="0" ay="0" az="1" tx="0.3991" ty="1.1995" tz="0.6106" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="229" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.4" ty="1.2" tz="0.32" />
+    <Axel type="5" length="0.718" grabbing="0" startCapped="1" endCapped="0" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="1.2" tz="0.4" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="0.16" minY="0.96" minZ="0" maxX="0.64" maxY="1.44" maxZ="1.12" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.16" minY="0.96" minZ="0" maxX="0.64" maxY="1.44" maxZ="1.12" />
+  </GeometryBounding>
+</LEGOPrimitive>

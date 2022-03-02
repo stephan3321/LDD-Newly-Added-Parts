@@ -8,8 +8,8 @@ Editted for LDD by Equilibrium
   <Annotations>
     <Annotation aliases="2682"/>
     <Annotation designname="BOGEY CONTACT SWITCH"/>
-    <Annotation maingroupid="274"/>
-    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
     <Annotation platformid="200"/>
     <Annotation platformname="SYSTEM"/>
     <Annotation version="7"/>
@@ -23,6 +23,7 @@ Editted for LDD by Equilibrium
 	  <Box sX="0.2" sY="0.07" sZ="0.07" angle="98.4211" ax="-0.357407" ay="-0.357407" az="0.862856" tx="1.89" ty="-0.588" tz="0.0"/>
   </Collision>
   <Connectivity>
+		<Fixed type="3" axes="2" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="0.4" ty="0.0" tz="0.0"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="-5.36442e-007,-0.400001,0" mass="15.3000001907" frictionType="0"/>
   <Bounding>

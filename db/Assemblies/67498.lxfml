@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="67498"/>
+		<Annotation designname="SHOCK ABSORBER, NO. 2"/>
+		<Annotation maingroupid="386" />
+ 		<Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+  		<Annotation platformid="300" />
+  		<Annotation platformname="TECHNIC" />
+    <Annotation wire=""/>
+	</Meta>
+	<Bricks>
+                <Brick refID="0" designID="69633">
+                        <Part refID="0" designID="69633" materials="21,0" decoration="0">
+                                <Bone refID="0" transformation="0.99999994039535522,0,0,0,0,-1,0,1,0,1.2000000476837158,0.75999832153320313,6.8000001907348633" freeze="no"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="9560">
+                        <Part refID="1" designID="9560" materials="21">
+                                <Bone refID="1" transformation="0.99999994039535522,0,0,0,0,-1,0,1,0,1.6000006198883057,0.75999850034713745,10.680000305175781" freeze="no"/>
+                        </Part>
+                </Brick>
+	</Bricks>
+</LXFML>

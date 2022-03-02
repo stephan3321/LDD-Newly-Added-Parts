@@ -15,8 +15,10 @@ Edited for LDD by Equilibrium
     <Annotation version="13"/>
   </Annotations>
   <Collision>
+		<Box sX="3.1786" sY="2.79396" sZ="0.08" angle="90.0" ax="1.0" ay="0.0" az="0.0" tx="-2.4" ty="1.91464" tz="-3.6"/>
   </Collision>
   <Connectivity>
+		<Fixed type="3" axes="2" angle="90.0" ax="0.0" ay="0.0" az="-1.0" tx="-0.8" ty="1.88" tz="-3.6"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-2.3399,1.35,-3.60003" mass="18.5" frictionType="0"/>
   <Bounding>

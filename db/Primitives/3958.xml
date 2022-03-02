@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-02-16
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="3958" />
@@ -10,7 +14,7 @@
     <Annotation version="3" />
   </Annotations>
   <Collision>
-    <Box sX="2.39" sY="2.39" sZ="0.106381" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2" ty="0.2102" tz="-2" />
+    <Box sX="2.35998" sY="2.381422" sZ="0.106381" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2" ty="0.2102" tz="-2" />
     <Box sX="0.071726" sY="2.39" sZ="0.149075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="4.3257" ty="0.1657" tz="-2" />
     <Box sX="0.071726" sY="2.39" sZ="0.149075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.328" ty="0.1657" tz="-2" />
     <Box sX="0.071726" sY="2.39" sZ="0.149075" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.9945" ty="0.1657" tz="-4.3261" />

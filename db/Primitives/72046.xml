@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Takeshi Takahashi [RainbowDolphin]
+	Editted for LDD by: Stephan
+	Last modification: 2022-01-05
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="72046" />
+    <Annotation designname="DESIGN PLATE, 1X1X2/3, NO. 4" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1835" tz="0.3564" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="45" ax="0" ay="1" az="0" tx="0.2516" ty="0.1853" tz="0.2516" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="90" ax="0" ay="1" az="0" tx="0.3529" ty="0.1875" tz="0" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="135" ax="0" ay="1" az="0" tx="0.2482" ty="0.1884" tz="-0.2482" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1907" tz="-0.3579" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="135" ax="0" ay="-1" az="0" tx="-0.2514" ty="0.1906" tz="-0.2514" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="90" ax="0" ay="-1" az="0" tx="-0.3555" ty="0.1906" tz="0" />
+    <Box sX="0.126387" sY="0.132215" sZ="0.021736" angle="45" ax="0" ay="-1" az="0" tx="-0.2514" ty="0.1906" tz="0.2514" />
+    <Box sX="0.152721" sY="0.020302" sZ="0.162858" angle="179.7272" ax="0" ay="-1" az="0" tx="-0.012" ty="0.4391" tz="-0.0074" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.0253" tz="-0.3021" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="45" ax="0" ay="1" az="0" tx="0.1964" ty="0.0253" tz="-0.1964" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="0" ax="1" ay="0" az="0" tx="0.3082" ty="0.0253" tz="0" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="45" ax="0" ay="-1" az="0" tx="0.1964" ty="0.0253" tz="0.1964" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.0253" tz="0.3034" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="135" ax="0" ay="-1" az="0" tx="-0.1964" ty="0.0253" tz="0.1964" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="180" ax="0" ay="1" az="0" tx="-0.3135" ty="0.0253" tz="0" />
+    <Box sX="0.011493" sY="0.01471" sZ="0.080329" angle="135" ax="0" ay="1" az="0" tx="-0.1964" ty="0.0253" tz="-0.1964" />
+    <Box sX="0.116422" sY="0.007907" sZ="0.098164" angle="179.7352" ax="0.0006" ay="-0.9705" az="0.2411" tx="-0.0132" ty="0.3743" tz="-0.2611" />
+    <Box sX="0.116422" sY="0.007907" sZ="0.098164" angle="93.3333" ax="0.2344" ay="-0.9435" az="0.2344" tx="-0.2519" ty="0.3787" tz="-0.0154" />
+    <Box sX="0.116422" sY="0.007907" sZ="0.098164" angle="27.9065" ax="1" ay="0" az="0" tx="-0.014" ty="0.3728" tz="0.243" />
+    <Box sX="0.116422" sY="0.007907" sZ="0.098164" angle="93.3333" ax="0.2344" ay="0.9435" az="-0.2344" tx="0.2327" ty="0.3728" tz="-0.0066" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.069817038,0,0,0,0.1032859,0,0,0,0.069817042" centerOfMass="0,0.2335,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.48" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.48" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>
