@@ -198,6 +198,7 @@
 	<Material MatID="351" Red="86" Green="230" Blue="70" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="352" Red="208" Green="109" Blue="79" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="353" Red="255" Green="109" Blue="119" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="354" Red="226" Green="223" Blue="211" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="355" Red="2" Green="14" Blue="10" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="358" Red="230" Green="244" Blue="237" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="360" Red="252" Green="252" Blue="252" Alpha="150" MaterialType="shinyPlastic"/>
@@ -209,4 +210,6 @@
 	<Material MatID="367" Red="35" Green="120" Blue="65" Alpha="150" MaterialType="shinyPlastic"/>
 	<Material MatID="368" Red="218" Green="218" Blue="0" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="369" Red="255" Green="255" Blue="255" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="370" Red="118" Green="87" Blue="69" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="371" Red="205" Green="165" Blue="116" Alpha="255" MaterialType="shinyPlastic"/>
 </Materials>
