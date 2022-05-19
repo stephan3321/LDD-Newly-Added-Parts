@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-05-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40378" />
+    <Annotation designname="NECK - TAIL LINK, Ø7.84-Ø6,47," />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.232086" sY="0.228048" sZ="0.814384" angle="46.0675" ax="-0.0863" ay="-0.2084" az="0.9742" tx="0.1562" ty="-0.0189" tz="-2.6306" />
+    <Box sX="0.205245" sY="0.203421" sZ="0.788512" angle="51.1266" ax="-0.1914" ay="-0.4621" az="0.866" tx="0.5728" ty="0.004" tz="-4.1354" />
+    <Box sX="0.152184" sY="-0.002239" sZ="0.520391" angle="45" ax="0" ay="0" az="1" tx="-0.1926" ty="0.1945" tz="-1.3304" />
+    <Box sX="0.171401" sY="0.023958" sZ="0.647931" angle="45" ax="0" ay="0" az="-1" tx="0.1945" ty="0.1926" tz="-1.4579" />
+    <Box sX="0.171401" sY="0.023958" sZ="0.647931" angle="135" ax="0" ay="0" az="-1" tx="0.1926" ty="-0.1945" tz="-1.4579" />
+    <Box sX="0.144797" sY="0.010742" sZ="0.520391" angle="135" ax="0" ay="0" az="1" tx="-0.1945" ty="-0.1926" tz="-1.3304" />
+    <Box sX="0.145855" sY="0.019176" sZ="0.434891" angle="142.3467" ax="0.3788" ay="0.9146" az="0.1412" tx="1.3026" ty="0.1667" tz="-5.078" />
+    <Box sX="0.145855" sY="0.019176" sZ="0.455601" angle="142.3467" ax="-0.3788" ay="0.9146" az="-0.1412" tx="1.0519" ty="0.1651" tz="-5.2963" />
+    <Box sX="0.145855" sY="0.019176" sZ="0.455601" angle="164.6367" ax="-0.8735" ay="0.3618" az="-0.3256" tx="1.0531" ty="-0.1674" tz="-5.2952" />
+    <Box sX="0.145855" sY="0.019176" sZ="0.434891" angle="164.6367" ax="0.8735" ay="0.3618" az="0.3256" tx="1.3039" ty="-0.1658" tz="-5.0769" />
+    <Box sX="0.085463" sY="0.005378" sZ="0.383275" angle="45" ax="0" ay="0" az="1" tx="-0.1311" ty="0.1314" tz="-0.4067" />
+    <Box sX="0.085463" sY="0.005378" sZ="0.383275" angle="135" ax="0" ay="0" az="1" tx="-0.1314" ty="-0.1311" tz="-0.4067" />
+    <Box sX="0.085463" sY="0.005378" sZ="0.383275" angle="45" ax="0" ay="0" az="-1" tx="0.1314" ty="0.1311" tz="-0.4067" />
+    <Box sX="0.085463" sY="0.005378" sZ="0.383275" angle="135" ax="0" ay="0" az="-1" tx="0.1311" ty="-0.1314" tz="-0.4067" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.5" grabbing="0" startCapped="1" endCapped="0" angle="98.4211" ax="-0.3574" ay="0.3574" az="-0.8629" tx="1.1358" ty="0" tz="-5.1924" />
+    <Axel type="19" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="-0.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.97035,0,0,0,4.2728,0,0,0,0.433965" centerOfMass="0.363281,-0.000305,-3.03346" mass="2.41000008583" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.392" minY="-0.392" minZ="-5.77393" maxX="1.7161" maxY="0.392" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.392" minY="-0.392" minZ="-5.77393" maxX="1.7161" maxY="0.392" maxZ="-0.01345" />
+  </GeometryBounding>
+</LEGOPrimitive>

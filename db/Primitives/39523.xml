@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2022-05-15
+	Comments: Collision data by Stephan.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39523" />
+    <Annotation designname="COLLAR, NO. 1" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="9" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.271389" sY="0.015706" sZ="0.402636" angle="0" ax="1" ay="0" az="0" tx="0.5481" ty="0.0225" tz="0.0316" />
+    <Box sX="0.726338" sY="0.015706" sZ="0.092137" angle="100.0006" ax="-1" ay="0.0036" az="0.003" tx="0" ty="-0.0969" tz="0.4948" />
+    <Box sX="0.168828" sY="0.015706" sZ="0.092137" angle="90.0005" ax="-1" ay="0.0031" az="0.0031" tx="0.4534" ty="-0.2477" tz="0.4983" />
+    <Box sX="0.168828" sY="0.015706" sZ="0.092137" angle="90.0005" ax="-1" ay="0.0031" az="0.0031" tx="-0.4229" ty="-0.2477" tz="0.5036" />
+    <Box sX="0.572499" sY="0.015706" sZ="0.092137" angle="179.7232" ax="-0.0026" ay="-0.539" az="-0.8423" tx="-0.0004" ty="-0.0848" tz="-0.5441" />
+    <Box sX="0.381181" sY="0.015706" sZ="0.092137" angle="179.7101" ax="-0.0025" ay="-0.5773" az="-0.8165" tx="-0.0007" ty="-0.2455" tz="-0.6193" />
+    <Box sX="0.271389" sY="0.015706" sZ="0.402636" angle="0" ax="1" ay="0" az="0" tx="-0.5306" ty="0.0225" tz="0.0316" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.9357" minY="-0.4415" minZ="-0.7118" maxX="0.9424" maxY="0.0945" maxZ="0.5426" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9357" minY="-0.4415" minZ="-0.7118" maxX="0.9424" maxY="0.0945" maxZ="0.5426" />
+  </GeometryBounding>
+</LEGOPrimitive>

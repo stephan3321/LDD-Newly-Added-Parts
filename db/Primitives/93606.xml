@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-03-30
+	Comments: Added decoration surface.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93606" />
+    <Annotation designname="BRICK W. BOW 2X4" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.071995" sY="0.193905" sZ="0.045" angle="0" ax="1" ay="0" az="0" tx="1.1252" ty="-0.1161" tz="0" />
+    <Box sX="0.071995" sY="0.194465" sZ="0.045" angle="0" ax="1" ay="0" az="0" tx="1.1252" ty="-0.1167" tz="-0.4" />
+    <Box sX="0.071995" sY="0.193905" sZ="0.045" angle="0" ax="1" ay="0" az="0" tx="1.1252" ty="-0.1161" tz="-0.8" />
+    <Box sX="0.077776" sY="0.088884" sZ="0.05" angle="0" ax="1" ay="0" az="0" tx="0.3288" ty="0.0989" tz="-0.8" />
+    <Box sX="0.077776" sY="0.088884" sZ="0.05" angle="0" ax="1" ay="0" az="0" tx="0.3288" ty="0.0989" tz="-0.4" />
+    <Box sX="0.077776" sY="0.088884" sZ="0.05" angle="0" ax="1" ay="0" az="0" tx="0.3288" ty="0.0989" tz="0" />
+    <Box sX="0.79" sY="0.276809" sZ="0.064318" angle="90" ax="0" ay="1" az="0" tx="0.474" ty="-0.0332" tz="-0.4" />
+    <Box sX="0.79" sY="0.142098" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="-0.325" ty="0.1528" tz="-0.4" />
+    <Box sX="0.39" sY="0.217276" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="-0.0927" tz="0.325" />
+    <Box sX="0.383582" sY="0.126062" sZ="0.061958" angle="0" ax="1" ay="0" az="0" tx="0.0024" ty="0.1368" tz="0.3216" />
+    <Box sX="0.79" sY="0.086" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="2" ty="-0.544" tz="-0.4" />
+    <Box sX="0.390182" sY="0.216515" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.7998" ty="-0.0935" tz="-1.125" />
+    <Box sX="0.383582" sY="0.126062" sZ="0.061958" angle="0" ax="1" ay="0" az="0" tx="0.0024" ty="0.1368" tz="-1.1266" />
+    <Box sX="0.84137" sY="0.086" sZ="0.79" angle="19.7812" ax="0" ay="0" az="-1" tx="1.9664" ty="-0.2502" tz="-0.4" />
+    <Box sX="0.451885" sY="0.23093" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="1.6619" ty="-0.3991" tz="-0.4" />
+    <Box sX="0.394535" sY="0.086" sZ="0.79" angle="9.3726" ax="0" ay="0" az="-1" tx="0.7852" ty="0.1057" tz="-0.4" />
+    <Box sX="0.383681" sY="0.086" sZ="0.789277" angle="3.7616" ax="0" ay="0" az="-1" tx="0.0026" ty="0.1963" tz="-0.3993" />
+    <Box sX="0.416599" sY="0.114599" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.0266" ty="0.1253" tz="0.325" />
+    <Box sX="0.416599" sY="0.114599" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.0266" ty="0.1253" tz="-1.1236" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.32" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="-0.64" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.431942,0,0,0,1.23784,0,0,0,0.970757" centerOfMass="1.16709,-0.114884,-0.4" mass="1.39999997616" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.64" minZ="-1.2" maxX="2.8" maxY="0.32" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.64" minZ="-1.2" maxX="2.8" maxY="0.32" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

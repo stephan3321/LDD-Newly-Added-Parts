@@ -45,9 +45,9 @@
     <Axel type="6" length="0.217873" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.5442" ty="0" tz="1.2" />
     <Axel type="6" length="0.217873" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.3263" ty="0" tz="1.2" />
     <Custom2DField type="23" width="4" height="2" angle="45" ax="1" ay="0" az="0" tx="-0.7969" ty="0.9611" tz="0.676">
-      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      29:0,23:4:1,18:2:1,23:4:1,29:0,
       23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
-      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+      29:0,23:4:1,18:2:1,23:4:1,29:0
     </Custom2DField>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.42436804,0,0,0,0.45961177,0,0,0,0.33978333" centerOfMass="0,0.375877,0.65853" mass="1" frictionType="0" />

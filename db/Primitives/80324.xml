@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-04-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80324" />
+    <Annotation designname="BANNER 26 DEG. W/ 2 HOLDERS [2022+]" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.037061" sY="0.019743" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1329" ty="0.16" tz="0.1647" />
+    <Box sX="0.037061" sY="0.019743" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1329" ty="0.16" tz="-0.1647" />
+    <Box sX="0.037061" sY="0.019743" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1329" ty="1.44" tz="-0.1647" />
+    <Box sX="0.037061" sY="0.019743" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1329" ty="1.44" tz="0.1647" />
+    <Box sX="0.087744" sY="0.032939" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0015" ty="0.16" tz="0.2028" />
+    <Box sX="0.087744" sY="0.032939" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0015" ty="0.16" tz="-0.2028" />
+    <Box sX="0.087744" sY="0.032939" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0015" ty="1.44" tz="0.2028" />
+    <Box sX="0.087744" sY="0.032939" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0015" ty="1.44" tz="-0.2028" />
+    <Box sX="0.035754" sY="0.184974" sZ="0.15" angle="137.0573" ax="0.3933" ay="-0.6501" az="0.6501" tx="0.2061" ty="1.44" tz="-0.125" />
+    <Box sX="0.128341" sY="0.065" sZ="0.876779" angle="136.3549" ax="-0.4004" ay="0.6479" az="-0.6479" tx="1.1313" ty="1.0796" tz="0" />
+    <Box sX="0.79" sY="0.065" sZ="0.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.4" tz="0" />
+    <Box sX="0.035754" sY="0.184974" sZ="0.15" angle="105.4922" ax="0.7605" ay="-0.4591" az="0.4591" tx="0.2062" ty="0.16" tz="0.1253" />
+    <Box sX="0.035754" sY="0.184974" sZ="0.15" angle="137.0573" ax="0.3933" ay="-0.6501" az="0.6501" tx="0.2061" ty="0.16" tz="-0.125" />
+    <Box sX="0.035754" sY="0.184974" sZ="0.15" angle="105.4922" ax="0.7605" ay="-0.4591" az="0.4591" tx="0.2062" ty="1.44" tz="0.1253" />
+    <Box sX="0.361934" sY="0.065" sZ="0.299015" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.7719" ty="0.9082" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.6" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.085731,0,0,0,0.131781,0,0,0,0.212128" centerOfMass="0.871842,0.665481,0" mass="0.40000000596" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.1608" minY="0" minZ="-0.2991" maxX="1.9992" maxY="1.6" maxZ="0.2978" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1608" minY="0" minZ="-0.2991" maxX="1.9992" maxY="1.6" maxZ="0.2978" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

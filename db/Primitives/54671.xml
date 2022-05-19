@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Vincent Messenet [Cheenzo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-03-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="54671" />
+    <Annotation designname="BRICK 1X2/FRIC/FORK VERT./END" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.146332" sY="0.085" sZ="0.227894" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.5563" ty="0.56" tz="0.255" />
+    <Box sX="0.11356" sY="0.085" sZ="0.164519" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.8362" ty="0.56" tz="0.255" />
+    <Box sX="0.146332" sY="0.085" sZ="0.227894" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.5563" ty="0.56" tz="-0.255" />
+    <Box sX="0.11356" sY="0.085" sZ="0.164519" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.8362" ty="0.56" tz="-0.255" />
+    <Box sX="0.79" sY="0.39" sZ="0.385" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.565" tz="0" />
+    <Box sX="0.705" sY="0.39" sZ="0.075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.485" ty="0.085" tz="0" />
+    <Box sX="0.110208" sY="0.39" sZ="0.097324" angle="148.6003" ax="-0.2811" ay="-0.6786" az="0.6786" tx="-0.2391" ty="0.1609" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="0.96" tz="0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="-0.8" ty="0.56" tz="0" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.143341,0,0,0,0.373553,0,0,0,0.391446" centerOfMass="0.277317,0.561778,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.04" minY="0" minZ="-0.4" maxX="1.2" maxY="1.12" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.04" minY="0" minZ="-0.4" maxX="1.2" maxY="1.12" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-04-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67696" />
+    <Annotation designname="BRICK 2X2 W. CUP FOR BALL [2022+]" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.135" sY="0.36" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="-0.545" ty="0.58" tz="-0.4" />
+    <Box sX="0.176779" sY="0.36" sZ="0.1675" angle="0" ax="1" ay="0" az="0" tx="-0.7682" ty="0.58" tz="-1.0225" />
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="0" ax="1" ay="0" az="0" tx="-1.1668" ty="0.8533" tz="-1.0114" />
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="90" ax="0" ay="0" az="1" tx="-1.4396" ty="0.58" tz="-1.0353" />
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="1" ay="0" az="0" tx="-1.1668" ty="0.3067" tz="-1.0114" />
+    <Box sX="0.176779" sY="0.36" sZ="0.1675" angle="0" ax="1" ay="0" az="0" tx="-0.7682" ty="0.58" tz="0.2225" />
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="0" ax="1" ay="0" az="0" tx="-1.1668" ty="0.8533" tz="0.2114" />
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="90" ax="0" ay="0" az="1" tx="-1.4396" ty="0.58" tz="0.2353" />
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="1" ay="0" az="0" tx="-1.1668" ty="0.3067" tz="0.2114" />
+    <Box sX="0.335462" sY="0.47" sZ="0.335462" angle="0" ax="1" ay="0" az="0" tx="-0.0545" ty="0.48" tz="0.0545" />
+    <Box sX="0.334964" sY="0.47" sZ="0.334964" angle="90" ax="0" ay="1" az="0" tx="0.854" ty="0.48" tz="0.054" />
+    <Box sX="0.334465" sY="0.47" sZ="0.335462" angle="180" ax="0" ay="1" az="0" tx="0.8535" ty="0.48" tz="-0.8545" />
+    <Box sX="0.334964" sY="0.47" sZ="0.335961" angle="90" ax="0" ay="-1" az="0" tx="-0.055" ty="0.48" tz="-0.854" />
+  </Collision>
+  <Connectivity>
+    <Ball type="4" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-1.2" ty="0.58" tz="-0.4" />
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:2:1,23:4:1,18:4,23:4:1,18:2:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:2:1,23:4:1,7:4,23:4:1,22:2:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="4" length="0.66" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0.399" ty="0.3" tz="-0.4" />
+    <Hinge type="164" oriented="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="-1.2" ty="0.58" tz="-0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.655746,0,0,0,1.487,0,0,0,1.16126" centerOfMass="0.038356,0.590784,-0.4" mass="2" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.57" minY="0" minZ="-1.20111" maxX="1.2" maxY="1.138" maxZ="0.401114" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.57" minY="0" minZ="-1.20111" maxX="1.2" maxY="1.138" maxZ="0.401114" />
+  </GeometryBounding>
+</LEGOPrimitive>
