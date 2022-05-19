@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="12799"/>
+		<Annotation designname="PULL-BACK 6x3x5"/>
+		<Annotation maingroupid="386" />
+ 		<Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+  		<Annotation platformid="300" />
+  		<Annotation platformname="TECHNIC" />
+	</Meta>
+	<Bricks>
+                <Brick refID="0" designID="12799">
+                        <Part refID="0" designID="12799" materials="21,21,21" decoration="0,0">
+                                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0,12.399999618530273"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="9029">
+                        <Part refID="1" designID="9029" materials="21">
+                                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.39999997615814209,0,12.399999618530273"/>
+                        </Part>
+                </Brick>
+	</Bricks>
+</LXFML>

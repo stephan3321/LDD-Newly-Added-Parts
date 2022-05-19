@@ -7,6 +7,7 @@
 		<Annotation maingroupid="240"/>
 		<Annotation maingroupname="MINI FIGURE"/>
 		<Annotation designname="MINI LEG NBA"/>
+    <DefaultCamera lat="-0.24547988176345825" lon="0.40539842844009399"/>
 	</Meta>
 	<Bricks>
 		<Brick refID="0" designID="43220">
