@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author(s): Philippe Hurbain [Philo]
-Editted for LDD by Kuramapika1
+	Derived from: The LDraw Parts Library
+	Orginal Author: (s): Philippe Hurbain [Philo]
+	Editted for LDD by: Kuramapika1
+	Last modification: 2022-04-23
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -18,8 +19,8 @@ Editted for LDD by Kuramapika1
     <Box sX="0.144975" sY="0.444738" sZ="0.014471" angle="90" ax="0" ay="0" az="-1" tx="1.6187" ty="1.8411" tz="-0.332" />
     <Box sX="0.148251" sY="0.452935" sZ="0.008493" angle="99.1486" ax="0.3704" ay="0.3704" az="-0.8518" tx="1.6158" ty="2.0988" tz="-0.2326" />
     <Box sX="0.148251" sY="0.452935" sZ="0.00841" angle="148.6743" ax="0.6787" ay="0.6787" az="-0.2804" tx="1.6158" ty="2.0916" tz="0.236" />
-    <Box sX="0.144975" sY="0.444738" sZ="0.014471" angle="180" ax="0.7071" ay="0.7071" az="0" tx="1.6187" ty="1.8411" tz="0.3406" />
-    <Box sX="0.298411" sY="0.294144" sZ="0.019719" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="1.6561" ty="1.6367" tz="-0.0091" />
+    <Box sX="0.127988" sY="0.444738" sZ="0.014471" angle="180" ax="0.7071" ay="0.7071" az="0" tx="1.6187" ty="1.848" tz="0.3406" />
+    <Box sX="0.2836" sY="0.294144" sZ="0.019719" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="1.6647" ty="1.6363" tz="-0.0017" />
     <Box sX="0.060369" sY="0.110644" sZ="0.019719" angle="82.8265" ax="-0.0828" ay="-0.6363" az="0.767" tx="1.9639" ty="1.7216" tz="0.2158" />
     <Box sX="0.099327" sY="0.099552" sZ="0.020995" angle="0" ax="1" ay="0" az="0" tx="1.0346" ty="2.0567" tz="-0.2063" />
     <Box sX="0.099327" sY="0.110421" sZ="0.014809" angle="0" ax="1" ay="0" az="0" tx="1.0346" ty="1.6458" tz="-0.1952" />
@@ -55,7 +56,7 @@ Editted for LDD by Kuramapika1
     <Box sX="0.060369" sY="0.110644" sZ="0.019719" angle="111.9955" ax="0.4872" ay="0.1005" az="0.8675" tx="1.9893" ty="1.988" tz="-0.2441" />
     <Box sX="0.060369" sY="0.110644" sZ="0.019719" angle="101.5979" ax="0.3218" ay="0.3435" az="0.8823" tx="1.9914" ty="1.8385" tz="-0.2776" />
     <Box sX="0.060369" sY="0.110644" sZ="0.019719" angle="82.8265" ax="0.0828" ay="0.6363" az="0.767" tx="1.9639" ty="1.7216" tz="-0.2514" />
-    <Box sX="0.114562" sY="0.452935" sZ="-0.000529" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.6158" ty="2.2153" tz="0.0039" />
+    <Box sX="0.094934" sY="0.452935" sZ="0.000529" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.6158" ty="2.2153" tz="0.0039" />
   </Collision>
   <Connectivity>
     <Hinge type="14" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="1.86" ty="1.84" tz="0" />

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-03-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11214" />
+    <Annotation designname="CON. BUSH 2M FR. + CROSS AXLE" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.075152" sY="0.2255" sZ="0.426504" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4435" />
+    <Box sX="0.068893" sY="0.219772" sZ="0.426504" angle="90" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.4435" />
+    <Box sX="0.113193" sY="0.01244" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1714" tz="-1.6" />
+    <Box sX="0.113193" sY="0.043567" sZ="0.606212" angle="90" ax="0" ay="0" az="1" tx="-0.1426" ty="0" tz="-1.4162" />
+    <Box sX="0.113193" sY="0.01244" sZ="0.79" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.1714" tz="-1.6" />
+    <Box sX="0.113193" sY="0.043567" sZ="0.606212" angle="90" ax="0" ay="0" az="-1" tx="0.1426" ty="0" tz="-1.4162" />
+    <Box sX="0.205281" sY="0.03" sZ="0.170408" angle="98.4211" ax="0.8629" ay="0.3574" az="0.3574" tx="0.0061" ty="-0.0093" tz="-0.84" />
+    <Box sX="0.186261" sY="0.03" sZ="0.197381" angle="90" ax="1" ay="0" az="0" tx="-0.0025" ty="-0.0007" tz="-0.84" />
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="3" length="1.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="-2.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.507941,0,0,0,0.509008,0,0,0,0.056949" centerOfMass="0,-0.005475,-1.2" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.294999" minY="-0.294999" minZ="-2.4" maxX="0.294999" maxY="0.284048" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.294999" minY="-0.294999" minZ="-2.4" maxX="0.294999" maxY="0.27" maxZ="-0.007" />
+  </GeometryBounding>
+  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0" />
+</LEGOPrimitive>

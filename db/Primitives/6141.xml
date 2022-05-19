@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Comments: Updated colission data.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6141;30057;44325;51809;54003" />
+    <Annotation designname="PLATE 1X1 ROUND" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="8" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="45" ax="0" ay="1" az="0" tx="-0.201" ty="0.16" tz="0.201" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="45" ax="0" ay="1" az="0" tx="0.1949" ty="0.16" tz="-0.1949" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="75" ax="0" ay="1" az="0" tx="-0.0755" ty="0.16" tz="0.2734" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="75" ax="0" ay="1" az="0" tx="0.0694" ty="0.16" tz="-0.2674" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="105" ax="0" ay="1" az="0" tx="0.0694" ty="0.16" tz="0.2734" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="105" ax="0" ay="1" az="0" tx="-0.0755" ty="0.16" tz="-0.2674" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="135" ax="0" ay="1" az="0" tx="0.1949" ty="0.16" tz="0.201" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="135" ax="0" ay="1" az="0" tx="-0.201" ty="0.16" tz="-0.1949" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="15" ax="0" ay="1" az="0" tx="-0.2734" ty="0.16" tz="0.0755" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="15" ax="0" ay="1" az="0" tx="0.2674" ty="0.16" tz="-0.0694" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="15" ax="0" ay="-1" az="0" tx="-0.2734" ty="0.16" tz="-0.0694" />
+    <Box sX="0.031122" sY="0.15" sZ="0.083994" angle="15" ax="0" ay="-1" az="0" tx="0.2674" ty="0.16" tz="0.0755" />
+    <Box sX="0.031122" sY="0.15" sZ="0.214652" angle="90" ax="0" ay="0" az="-1" tx="0.0025" ty="0.2528" tz="0.0025" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,2:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="27" axes="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3" tz="0" />
+    <Fixed type="27" axes="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.11" tz="0" />
+    <Fixed type="27" axes="1" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.3" tz="0" />
+    <Fixed type="27" axes="1" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.11" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.005675,0,0,0,0.007823,0,0,0,0.005673" centerOfMass="4.6E-05,0.263129,0" mass="0.10000000149" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.498" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.498" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

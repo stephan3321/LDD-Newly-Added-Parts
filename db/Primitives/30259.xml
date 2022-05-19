@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-04-23
+	Comments: Added decoration surface.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30259" />
+    <Annotation designname="TRIANGULAR  SIGN W. SNAP" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.051018" sY="0.15" sZ="0.181053" angle="0" ax="1" ay="0" az="0" tx="-0.216" ty="0" tz="0.0689" />
+    <Box sX="0.051018" sY="0.15" sZ="0.181053" angle="0" ax="1" ay="0" az="0" tx="0.216" ty="0" tz="0.0689" />
+    <Box sX="0.04" sY="0.15" sZ="0.04" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.21" />
+    <Box sX="0.825556" sY="0.15613" sZ="0.06" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3139" tz="0.33" />
+    <Box sX="0.825556" sY="0.15613" sZ="0.06" angle="60" ax="0" ay="0" az="1" tx="-0.3344" ty="0.3085" tz="0.33" />
+    <Box sX="0.825556" sY="0.15613" sZ="0.06" angle="60" ax="0" ay="0" az="-1" tx="0.3344" ty="0.3085" tz="0.33" />
+    <Box sX="0.395203" sY="0.433099" sZ="0.06" angle="0" ax="1" ay="0" az="0" tx="0.0079" ty="0.0586" tz="0.33" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0.16" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.039086,0,0,0,0.040014,0,0,0,0.073682" centerOfMass="0,0.075599,0.297802" mass="0.280000001192" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.9061" minY="-0.48" minZ="-0.1455" maxX="0.9061" maxY="1.1166" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9061" minY="-0.48" minZ="-0.1455" maxX="0.9061" maxY="1.1166" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: J.C. Tchang [tchang]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9029" />
+    <Annotation designname="Technic Motor Pull Back 5 x 7 x 3 Type 6 - Axle Bush" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19079" sY="0.043894" sZ="0.031724" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.304" tz="-1.731" />
+    <Box sX="1.19079" sY="0.043894" sZ="0.031724" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0218" tz="-1.731" />
+    <Box sX="1.19079" sY="0.043894" sZ="0.031724" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0218" tz="-1.9991" />
+    <Box sX="1.19079" sY="0.043894" sZ="0.031724" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.3187" tz="-1.9991" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="53" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="1.16" tz="-1.86" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.2" minY="0.84" minZ="-2.18" maxX="1.2" maxY="1.48" maxZ="-1.54" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="0.84" minZ="-2.18" maxX="1.2" maxY="1.48" maxZ="-1.54" />
+  </GeometryBounding>
+</LEGOPrimitive>

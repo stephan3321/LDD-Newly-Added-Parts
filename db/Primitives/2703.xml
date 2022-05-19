@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author(s): Donald Sutter [technog]
-Editted for LDD by Kuramapika1
+	Derived from: The LDraw Parts Library
+	Orginal Author: (s): Donald Sutter [technog]
+	Editted for LDD by: Kuramapika1
+	Last modification: 2022-04-23
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,24 +16,24 @@ Editted for LDD by Kuramapika1
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="0" ax="1" ay="0" az="0" tx="0.4119" ty="2.2761" tz="-0.1602" />
-    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="45" ax="-1" ay="0" az="0" tx="0.4119" ty="2.2761" tz="-0.1602" />
-    <Box sX="0.154537" sY="0.291572" sZ="0.119416" angle="90" ax="-1" ay="0" az="0" tx="0.4119" ty="2.2761" tz="-0.1602" />
-    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="45" ax="1" ay="0" az="0" tx="0.4119" ty="2.2761" tz="-0.1602" />
+    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="0" ax="1" ay="0" az="0" tx="0.4024" ty="2.2761" tz="-0.1602" />
+    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="45" ax="-1" ay="0" az="0" tx="0.4024" ty="2.2761" tz="-0.1602" />
+    <Box sX="0.154537" sY="0.291572" sZ="0.119416" angle="90" ax="-1" ay="0" az="0" tx="0.4024" ty="2.2761" tz="-0.1602" />
+    <Box sX="0.154537" sY="0.244636" sZ="0.119416" angle="45" ax="1" ay="0" az="0" tx="0.4024" ty="2.2761" tz="-0.1602" />
     <Box sX="0.147017" sY="0.162912" sZ="0.350773" angle="0" ax="1" ay="0" az="0" tx="0.4088" ty="2.6732" tz="-0.1672" />
-    <Box sX="0.341264" sY="0.74622" sZ="0.015839" angle="3.1505" ax="1" ay="0" az="0" tx="0.4548" ty="3.266" tz="0.2545" />
+    <Box sX="0.341264" sY="0.74622" sZ="0.015839" angle="3.1505" ax="1" ay="0" az="0" tx="0.4548" ty="3.266" tz="0.2449" />
     <Box sX="0.38793" sY="0.25788" sZ="0.027305" angle="0" ax="1" ay="0" az="0" tx="0.4088" ty="3.0431" tz="-0.5638" />
-    <Box sX="0.033037" sY="0.530017" sZ="0.047385" angle="0" ax="1" ay="0" az="0" tx="0.0389" ty="3.1509" tz="0.2026" />
-    <Box sX="0.033037" sY="0.453822" sZ="0.047385" angle="180" ax="0" ay="1" az="0" tx="0.0555" ty="3.2267" tz="-0.5672" />
+    <Box sX="0.033037" sY="0.530017" sZ="0.047385" angle="0" ax="1" ay="0" az="0" tx="0.0389" ty="3.1399" tz="0.1992" />
+    <Box sX="0.033037" sY="0.453822" sZ="0.047385" angle="180" ax="0" ay="0.9996" az="-0.0283" tx="0.0555" ty="3.2223" tz="-0.5587" />
     <Box sX="0.033037" sY="0.453822" sZ="0.047385" angle="180" ax="0" ay="1" az="0" tx="0.1262" ty="3.593" tz="-0.5473" />
     <Box sX="0.033037" sY="0.453822" sZ="0.047385" angle="180" ax="0" ay="1" az="0" tx="0.7542" ty="3.593" tz="-0.5473" />
     <Box sX="0.376895" sY="0.080882" sZ="0.363361" angle="0" ax="1" ay="0" az="0" tx="0.3963" ty="3.5621" tz="-0.0874" />
     <Box sX="0.161082" sY="0.177176" sZ="0.116024" angle="0" ax="1" ay="0" az="0" tx="0.5352" ty="3.9076" tz="0.1644" />
-    <Box sX="0.341264" sY="0.156045" sZ="0.057336" angle="0" ax="1" ay="0" az="0" tx="0.4486" ty="3.9538" tz="-0.5682" />
-    <Box sX="0.165843" sY="0.281111" sZ="0.057336" angle="0" ax="1" ay="0" az="0" tx="0.2423" ty="3.8617" tz="0.213" />
+    <Box sX="0.341264" sY="0.156045" sZ="0.057336" angle="0" ax="1" ay="0" az="0" tx="0.4486" ty="3.9508" tz="-0.5682" />
+    <Box sX="0.165843" sY="0.281111" sZ="0.057336" angle="0" ax="1" ay="0" az="0" tx="0.2491" ty="3.8617" tz="0.213" />
     <Box sX="0.236707" sY="0.036862" sZ="0.04242" angle="0" ax="1" ay="0" az="0" tx="0.4928" ty="3.7078" tz="-0.4228" />
     <Box sX="0.236707" sY="0.2051" sZ="0.04242" angle="0" ax="1" ay="0" az="0" tx="0.4622" ty="3.9715" tz="-0.4228" />
-    <Box sX="-0.100152" sY="0.086751" sZ="0.065237" angle="34.4199" ax="0" ay="0" az="-1" tx="0.2629" ty="4.1809" tz="0.0969" />
+    <Box sX="0.100152" sY="0.086751" sZ="0.065237" angle="34.4199" ax="0" ay="0" az="-1" tx="0.2629" ty="4.1809" tz="0.0969" />
     <Box sX="0.304961" sY="0.048943" sZ="0.003093" angle="26.3605" ax="-1" ay="0" az="0" tx="0.4964" ty="4.1621" tz="0.2584" />
     <Box sX="0.222663" sY="0.048943" sZ="0.074077" angle="36.1257" ax="-1" ay="0" az="0" tx="0.5741" ty="4.2108" tz="0.1422" />
     <Box sX="0.176786" sY="0.048943" sZ="0.064681" angle="52.1584" ax="-1" ay="0" az="0" tx="0.6205" ty="4.2856" tz="0.0698" />

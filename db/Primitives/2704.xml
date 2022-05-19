@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author(s): Orion Pobursky [OrionP]
-Editted for LDD by Kuramapika1
+	Derived from: The LDraw Parts Library
+	Orginal Author: (s): Orion Pobursky [OrionP]
+	Editted for LDD by: Kuramapika1
+	Last modification: 2022-04-23
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -16,7 +17,7 @@ Editted for LDD by Kuramapika1
   </Annotations>
   <Collision>
     <Box sX="0.372603" sY="0.714434" sZ="0.037423" angle="0" ax="1" ay="0" az="0" tx="0.3957" ty="1.5078" tz="0.1879" />
-    <Box sX="0.372603" sY="0.556732" sZ="0.037423" angle="0" ax="1" ay="0" az="0" tx="0.3957" ty="1.349" tz="-0.5315" />
+    <Box sX="0.372603" sY="0.556732" sZ="0.037423" angle="0" ax="1" ay="0" az="0" tx="0.3957" ty="1.349" tz="-0.5286" />
     <Box sX="0.108075" sY="0.280671" sZ="0.037423" angle="0" ax="1" ay="0" az="0" tx="0.1193" ty="2.1691" tz="-0.5071" />
     <Box sX="0.108075" sY="0.280671" sZ="0.037423" angle="0" ax="1" ay="0" az="0" tx="0.6798" ty="2.1691" tz="-0.5071" />
     <Box sX="0.108075" sY="0.139692" sZ="0.021085" angle="40.0145" ax="1" ay="0" az="0" tx="0.1193" ty="2.5878" tz="-0.4142" />
