@@ -1,25 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2022-05-28
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="49098" />
-    <Annotation designname="Wheel Cover 10 Spoke Inset" />
+    <Annotation designname="HUB CAP, DIA. 24 MM, W/ TUBE, NO. 1" />
     <Annotation maingroupid="266" />
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.23696" sY="0.23696" sZ="0.143188" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.1194" tz="-0.0968" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="60" ax="0" ay="0" az="1" tx="-0.4077" ty="1.3548" tz="-0.0869" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="60" ax="0" ay="0" az="1" tx="-0.7317" ty="1.5418" tz="0.1395" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="120" ax="0" ay="0" az="1" tx="-0.4077" ty="0.884" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="90" ax="0" ay="0" az="1" tx="-0.4708" ty="1.1194" tz="-0.0869" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="90" ax="0" ay="0" az="1" tx="-0.8449" ty="1.1194" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="120" ax="0" ay="0" az="1" tx="-0.7317" ty="0.697" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.2745" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="150" ax="0" ay="0" az="-1" tx="0.4224" ty="0.3877" tz="0.1395" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="120" ax="0" ay="0" az="-1" tx="0.4077" ty="0.884" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="150" ax="0" ay="0" az="-1" tx="0.2354" ty="0.7117" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="30" ax="0" ay="0" az="-1" tx="0.2354" ty="1.5271" tz="-0.0869" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="30" ax="0" ay="0" az="-1" tx="0.4224" ty="1.8511" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.9643" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="30" ax="0" ay="0" az="1" tx="-0.4224" ty="1.8511" tz="0.1395" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="30" ax="0" ay="0" az="1" tx="-0.2354" ty="1.5271" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.5902" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="60" ax="0" ay="0" az="-1" tx="0.4077" ty="1.3548" tz="-0.0869" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="120" ax="0" ay="0" az="-1" tx="0.7317" ty="0.697" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="60" ax="0" ay="0" az="-1" tx="0.7317" ty="1.5418" tz="0.1395" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="90" ax="0" ay="0" az="-1" tx="0.8449" ty="1.1194" tz="0.1395" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="90" ax="0" ay="0" az="-1" tx="0.4708" ty="1.1194" tz="-0.0869" />
+    <Box sX="0.262576" sY="0.225207" sZ="0.05799" angle="150" ax="0" ay="0" az="1" tx="-0.4224" ty="0.3877" tz="0.1395" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.6486" tz="-0.0869" />
+    <Box sX="0.133035" sY="0.225207" sZ="0.153126" angle="150" ax="0" ay="0" az="1" tx="-0.2354" ty="0.7117" tz="-0.0869" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.52" tz="-0.24">
       29:0,29:0,29:0,
-      29:0,5:4:34,29:0,
+      29:0,5:4:33,29:0,
       29:0,29:0,29:0
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.44198458,0,0,0,0.44198432,0,0,0,0.84715223" centerOfMass="0,0,0.235" mass="1" frictionType="0" />
   <Bounding>
-    <AABB minX="-1.118215" minY="0.001786" minZ="-0.24" maxX="1.118214" maxY="2.238214" maxZ="0.24" />
+    <AABB minX="-1.12" minY="0" minZ="-0.24" maxX="1.12" maxY="2.24" maxZ="0.24" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.118215" minY="0.001786" minZ="-0.24" maxX="1.118214" maxY="2.238214" maxZ="0.24" />
+    <AABB minX="-1.12" minY="0" minZ="-0.24" maxX="1.12" maxY="2.24" maxZ="0.24" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

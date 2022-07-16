@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-12
+	Comments: v0.0: Initial creation [jester].
+v0.1: Added collision data, separated into two pieces [Stephan].
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="88618" />
+    <Annotation designname="OSTRICH BODY" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.10979" sY="0.623883" sZ="1.03235" angle="0" ax="1" ay="0" az="0" tx="0.817" ty="2.8861" tz="0.3775" />
+    <Box sX="0.204969" sY="1.11" sZ="0.207506" angle="13.8799" ax="0" ay="0" az="1" tx="1.5454" ty="1.4017" tz="0.8726" />
+    <Box sX="0.216976" sY="1.07795" sZ="0.158994" angle="12.7846" ax="0.0347" ay="0.0238" az="-0.9991" tx="0.4624" ty="1.3526" tz="-0.1471" />
+    <Box sX="0.366967" sY="0.207906" sZ="0.336327" angle="0" ax="1" ay="0" az="0" tx="1.5871" ty="0.2178" tz="0.8472" />
+    <Box sX="0.340474" sY="0.174386" sZ="0.356473" angle="0" ax="1" ay="0" az="0" tx="-0.0699" ty="0.1863" tz="-0.0765" />
+    <Box sX="0.279967" sY="0.457837" sZ="0.383264" angle="32.7383" ax="0" ay="0" az="1" tx="2.2449" ty="2.8089" tz="0.3757" />
+    <Box sX="0.205954" sY="0.111389" sZ="0.111452" angle="145.0917" ax="0" ay="1" az="0" tx="-0.5744" ty="0.1233" tz="-0.3567" />
+    <Box sX="0.205954" sY="0.111389" sZ="0.131969" angle="143.725" ax="0" ay="-1" az="0" tx="-0.59" ty="0.1233" tz="0.3304" />
+    <Box sX="0.272366" sY="0.113135" sZ="0.118263" angle="151.2522" ax="0" ay="-1" az="0" tx="1.0587" ty="0.1231" tz="1.1321" />
+    <Box sX="0.095088" sY="0.092961" sZ="0.283795" angle="107.8696" ax="0" ay="-1" az="0" tx="1.0864" ty="0.1029" tz="0.4348" />
+    <Box sX="0.353444" sY="0.260548" sZ="0.290783" angle="48.7934" ax="0" ay="0" az="-1" tx="-0.3532" ty="2.8861" tz="0.3775" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="0" ty="3.52" tz="-0.3921">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="10" height="6" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.8">
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,22:2:1,22:2:1,9:4:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,9:4:1,15:4,9:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      29:0:1,22:2:1,22:2:1,9:4:1,22:2:1,22:2:1,22:2:1,9:4:1,22:2:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,9:4:1,15:4,9:4:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,9:4:1,22:2:1,29:0:1,29:0:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Axel type="6" length="0.48" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="-0.76" ty="3.1396" tz="0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="19.89635,0,0,0,15.75653,0,0,0,29.9894" centerOfMass="0.428005,2.70428,0.400818" mass="7" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.0335" minY="0" minZ="-0.702" maxX="2.7816" maxY="3.68" maxZ="1.5028" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.0335" minY="0" minZ="-0.702" maxX="2.7816" maxY="3.68" maxZ="1.5028" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

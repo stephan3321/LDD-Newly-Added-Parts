@@ -2,7 +2,7 @@
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="36840" />
-    <Annotation designname="Bracket 1 x 1 - 1 x 1 Up" />
+    <Annotation designname="PLATE 1X1, W/ 1.5 PLATE 1X1, UPWARDS" />
     <Annotation maingroupid="216" />
     <Annotation maingroupname="None" />
     <Annotation platformid="200" />
@@ -27,9 +27,9 @@
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.400000005960464" minY="0" minZ="-0.400000005960464" maxX="0.400000005960464" maxY="0.800000011920929" maxZ="0.720000028610229" />
+    <AABB minX="-0.400000005" minY="0" minZ="-0.40000000" maxX="0.40000000" maxY="0.8000000" maxZ="0.7200000" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.400000005960464" minY="0" minZ="-0.400000005960464" maxX="0.400000005960464" maxY="0.800000011920929" maxZ="0.720000028610229" />
+    <AABB minX="-0.40000000" minY="0" minZ="-0.40000000" maxX="0.40000000" maxY="0.8000000" maxZ="0.7200000" />
   </GeometryBounding>
 </LEGOPrimitive>

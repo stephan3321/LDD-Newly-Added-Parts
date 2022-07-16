@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2022-05-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40687" />
+    <Annotation designname="WHEEL SUSPENSION 2X4 W. SNAP REINF. [2020-current]" />
+    <Annotation maingroupid="268" />
+    <Annotation maingroupname="WHEEL BASE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="1.59" sZ="0.15" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.2" ty="0.16" tz="-0.4" />
+    <Box sX="0.14" sY="0.39" sZ="0.14" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.8" ty="-0.0602" tz="-0.4003" />
+    <Box sX="0.14" sY="0.39" sZ="0.14" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="3.2" ty="-0.0602" tz="-0.4003" />
+    <Box sX="0.266439" sY="0.292256" sZ="0.12087" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1909" ty="-0.0792" tz="-0.4003" />
+    <Box sX="0.249579" sY="0.191351" sZ="0.243117" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.2098" ty="-0.0746" tz="-0.4003" />
+    <Box sX="0.266439" sY="0.292256" sZ="0.12087" angle="90" ax="1" ay="0" az="0" tx="2.5902" ty="-0.0792" tz="-0.4003" />
+    <Box sX="0.249579" sY="0.191351" sZ="0.243117" angle="90" ax="1" ay="0" az="0" tx="2.6091" ty="-0.0746" tz="-0.4003" />
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="0.7071" ay="0.7071" az="0" tx="-1.2" ty="-0.0825" tz="-0.4" />
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="3.6" ty="-0.0825" tz="-0.4" />
+    <Custom2DField type="23" width="4" height="8" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0" tz="-1.2">
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.339408,0,0,0,2.22512,0,0,0,1.9711" centerOfMass="1.2,0.192227,-0.4" mass="1.60000002384" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.2" minY="-0.32" minZ="-1.2" maxX="3.6" maxY="0.48" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-0.32" minZ="-1.2" maxX="3.6" maxY="0.48" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

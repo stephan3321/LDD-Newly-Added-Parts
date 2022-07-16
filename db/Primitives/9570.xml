@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-12
+	Comments: v0.0: Initial creation [jester].
+v0.1: Added collision data, separated into two pieces [Stephan].
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9570" />
+    <Annotation designname="OSTRICH HEAD" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.202825" sY="0.445221" sZ="0.214936" angle="0" ax="1" ay="0" az="0" tx="-0.6719" ty="4.0765" tz="0.3906" />
+    <Box sX="0.351389" sY="0.303147" sZ="0.40078" angle="0" ax="1" ay="0" az="0" tx="-0.8991" ty="5.0059" tz="0.4183" />
+    <Box sX="0.312797" sY="0.088374" sZ="0.145927" angle="0" ax="1" ay="0" az="0" tx="-1.5833" ty="4.8778" tz="0.4093" />
+    <Box sX="0.109447" sY="0.255924" sZ="0.102541" angle="0" ax="1" ay="0" az="0" tx="-0.7569" ty="3.4004" tz="0.4033" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.48" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="0" az="1" tx="-0.758" ty="3.6213" tz="0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="19.89635,0,0,0,15.75653,0,0,0,29.9894" centerOfMass="0.428005,2.70428,0.400818" mass="7" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.9255" minY="3.1376" minZ="-0.0803" maxX="-0.3425" maxY="5.4086" maxZ="0.8804" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.9255" minY="3.1376" minZ="-0.0803" maxX="-0.3425" maxY="5.4086" maxZ="0.8804" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

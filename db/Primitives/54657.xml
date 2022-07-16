@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-04-03
-	Comments: Reworked mesh for better outlines.
+	Last modification: 2022-06-29
+	Comments: v0.1: Reworked mesh for better outlines.
+v0.2: Updated collision data [Stephan].
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -17,7 +18,7 @@
     <Annotation version="5" />
   </Annotations>
   <Collision>
-    <Box sX="0.79" sY="0.39" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.79" sY="0.39" sZ="0.044693" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.2716" tz="0" />
     <Box sX="0.148428" sY="0.085" sZ="0.144947" angle="90" ax="1" ay="0" az="0" tx="-0.5542" ty="0.1651" tz="-0.255" />
     <Box sX="0.232634" sY="0.085" sZ="0.102692" angle="96.6162" ax="0.8907" ay="-0.3214" az="-0.3214" tx="-0.4832" ty="0.2443" tz="-0.255" />
     <Box sX="0.19799" sY="0.085" sZ="0.029251" angle="90" ax="1" ay="0" az="0" tx="-0.8042" ty="0.2437" tz="-0.255" />
@@ -32,6 +33,10 @@
     <Box sX="0.219396" sY="0.085" sZ="0.0725" angle="98.4211" ax="0.8629" ay="0.3574" az="0.3574" tx="-0.785" ty="0.2688" tz="0.2548" />
     <Box sX="0.047416" sY="0.085" sZ="0.227894" angle="90" ax="1" ay="0" az="0" tx="-0.6552" ty="0.248" tz="-0.255" />
     <Box sX="0.047416" sY="0.085" sZ="0.227894" angle="90" ax="1" ay="0" az="0" tx="-0.6552" ty="0.248" tz="0.2548" />
+    <Box sX="0.79" sY="0.067131" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0.3252" />
+    <Box sX="0.79" sY="0.067131" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="-0.3131" />
+    <Box sX="0.378908" sY="0.067131" sZ="0.15" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.1222" ty="0.16" tz="0.006" />
+    <Box sX="0.378908" sY="0.067131" sZ="0.15" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.3217" ty="0.16" tz="0.006" />
   </Collision>
   <Connectivity>
     <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="-0.8" ty="0.248" tz="0" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />

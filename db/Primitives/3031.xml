@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2022-07-01
+	Comments: v0.1: Updated collision data [Stephan]
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="3031" />
@@ -10,7 +14,11 @@
     <Annotation version="4" />
   </Annotations>
   <Collision>
-    <Box sX="1.5900000333786" sY="1.5900000333786" sZ="0.108976513147354" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.1962" tz="-1.2" />
+    <Box sX="1.59" sY="1.59" sZ="0.045578" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.2736" tz="-1.2" />
+    <Box sX="0.066616" sY="1.59" sZ="0.154839" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7308" ty="0.1618" tz="-1.2" />
+    <Box sX="0.066616" sY="1.59" sZ="0.154839" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.3221" ty="0.1618" tz="-1.2" />
+    <Box sX="0.066616" sY="1.59" sZ="0.154839" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.2043" ty="0.1618" tz="-2.7265" />
+    <Box sX="0.066616" sY="1.59" sZ="0.154839" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.2043" ty="0.1618" tz="0.3265" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="8" height="8" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-2.8">

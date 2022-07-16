@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-12
+	Comments: v0.0: Initial creation [jester].
+v0.1: Added collision data [Stephan].
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="58213" />
+    <Annotation designname="Figure Arm Mario" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.111207" sY="0.491547" sZ="0.180449" angle="21.3493" ax="0" ay="0" az="1" tx="0.2683" ty="-0.4469" tz="0" />
+    <Box sX="0.055484" sY="0.193665" sZ="0.155783" angle="0" ax="1" ay="0" az="0" tx="0.2588" ty="-1.1072" tz="0" />
+    <Box sX="0.055484" sY="0.193665" sZ="0.155783" angle="0" ax="1" ay="0" az="0" tx="0.7004" ty="-1.1072" tz="0" />
+    <Box sX="0.055484" sY="0.193665" sZ="0.155783" angle="90" ax="0" ay="0" az="1" tx="0.5032" ty="-0.9567" tz="0" />
+    <Box sX="0.031464" sY="0.121659" sZ="0.396667" angle="0" ax="1" ay="0" az="0" tx="0.1824" ty="-1.1481" tz="0" />
+    <Box sX="0.031464" sY="0.121659" sZ="0.319456" angle="23.2898" ax="0" ay="0" az="1" tx="0.1915" ty="-1.2928" tz="0" />
+    <Box sX="0.031464" sY="0.121659" sZ="0.396667" angle="0" ax="1" ay="0" az="0" tx="0.7791" ty="-1.1481" tz="0" />
+    <Box sX="0.031464" sY="0.121659" sZ="0.319456" angle="180" ax="0.1585" ay="0.9874" az="0" tx="0.777" ty="-1.2928" tz="0" />
+    <Box sX="0.012862" sY="0.193665" sZ="0.394439" angle="90" ax="0" ay="0" az="1" tx="0.5032" ty="-0.9037" tz="0" />
+    <Box sX="0.012862" sY="0.118849" sZ="0.394439" angle="90" ax="0" ay="0" az="1" tx="0.4817" ty="-0.8452" tz="0" />
+    <Box sX="0.180972" sY="0.136682" sZ="0.218567" angle="9.8838" ax="0" ay="0" az="1" tx="0.4186" ty="-0.8433" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="1" ay="0" az="0" tx="0.48" ty="-1.176" tz="-0.16" />
+    <Hinge type="15" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.24" minY="-1.4588" minZ="-0.4" maxX="0.848" maxY="0.2743" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.24" minY="-1.4588" minZ="-0.4" maxX="0.848" maxY="0.2743" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

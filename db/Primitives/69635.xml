@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-02-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69635;9560" />
+    <Annotation designname="SHOCK ABSORBER, NO. 2 - PISTON" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.0675" sY="0.07455" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.1779" ty="1.3214" tz="0" />
+    <Box sX="0.193391" sY="0.13" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="-0.2267" ty="0.8605" tz="0" />
+    <Box sX="0.194056" sY="0.13" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.2244" ty="0.8598" tz="0" />
+    <Box sX="0.133837" sY="0.019966" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.3344" ty="0.497" tz="0" />
+    <Box sX="0.30439" sY="0.030818" sZ="0.39" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2911" ty="1.2544" tz="0" />
+    <Box sX="0.052997" sY="0.006056" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.0026" ty="0.0185" tz="0" />
+    <Box sX="0.063306" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="-1" tx="0.2399" ty="0.1168" tz="0" />
+    <Box sX="0.08486" sY="0.006056" sZ="0.39" angle="135" ax="0" ay="0" az="1" tx="-0.2347" ty="0.1168" tz="0" />
+    <Box sX="0.304405" sY="0.030813" sZ="0.39" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.2817" ty="1.2544" tz="0" />
+    <Box sX="0.0675" sY="0.074552" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="-0.1713" ty="1.3214" tz="0" />
+    <Box sX="0.574983" sY="0.02" sZ="0.304101" angle="90" ax="0" ay="0" az="-1" tx="-0.2973" ty="0.7939" tz="0" />
+    <Box sX="0.574983" sY="0.02" sZ="0.304101" angle="90" ax="0" ay="0" az="-1" tx="0.2627" ty="0.7939" tz="0" />
+    <Box sX="0.30439" sY="2.984748" sZ="0.429101" angle="180" ax="1" ay="0" az="0" tx="0" ty="4.548" tz="0" />
+    <Box sX="0.30439" sY="2.984748" sZ="0.429101" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="4.548" tz="0" />
+    <Box sX="0.069327" sY="0.005445" sZ="0.618575" angle="180" ax="1" ay="0" az="0" tx="0" ty="7.5521" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.36" tz="0.4" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="1.16" tz="0.4" />
+    <Custom2DField type="22" width="2" height="2" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.4" ty="0.76" tz="0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="-0.4" ty="0.04" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Slider type="19" length="0.3" startCapped="0" endCapped="0" angle="180" ax="0" ay="0" az="1" tx="0.54" ty="7.56" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.5429" minY="0" minZ="-0.5429" maxX="0.5429" maxY="7.56" maxZ="0.5429" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5429" minY="0" minZ="-0.5429" maxX="0.5429" maxY="7.56" maxZ="0.5429" />
+  </GeometryBounding>
+</LEGOPrimitive>

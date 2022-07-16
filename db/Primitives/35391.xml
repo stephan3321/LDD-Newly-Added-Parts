@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Orginal Author: The LEGO Group
+	Last modification: 2022-07-11
+	Comments: v0.0: Initial release [Stephan].
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35391" />
+    <Annotation designname="WALL DOUBLE CORNER 1X2X1 [2018-current]" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.78995" sY="0.39035" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.0004" />
+    <Box sX="0.78995" sY="0.065025" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.48" tz="-0.3249" />
+    <Box sX="0.065025" sY="0.39035" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.3249" ty="0.48" tz="0.0004" />
+    <Box sX="0.065025" sY="0.39035" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.125" ty="0.48" tz="0.0004" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.13024,0,0,0,0.266774,0,0,0,0.290133" centerOfMass="0.4,0.48,0.0004" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

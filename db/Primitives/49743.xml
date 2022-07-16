@@ -3,7 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-01-12
+	Last modification: 2022-07-16
+	Comments: v0.0: Initial release [Stephan].
+v0.1: Updated 3D model, updated edgelines [Stephan].
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -46,8 +48,8 @@
     <Box sX="0.066114" sY="0.057506" sZ="0.220515" angle="0" ax="1" ay="0" az="0" tx="3.7898" ty="0.3949" tz="0.1695" />
     <Box sX="0.044939" sY="0.146925" sZ="0.220515" angle="45" ax="0" ay="0" az="1" tx="3.3877" ty="0.3382" tz="0.1695" />
     <Box sX="0.257067" sY="0.151251" sZ="0.220515" angle="0" ax="1" ay="0" az="0" tx="3.5988" ty="0.1663" tz="0.1695" />
-    <Box sX="0.211236" sY="0.031106" sZ="0.087083" angle="97.7554" ax="-0.873" ay="-0.3448" az="-0.3448" tx="4.5488" ty="0.5753" tz="-0.8253" />
-    <Box sX="0.211236" sY="0.031106" sZ="0.087083" angle="97.7554" ax="0.873" ay="0.3448" az="-0.3448" tx="4.5488" ty="0.5753" tz="0.0253" />
+    <Box sX="0.211236" sY="0.031106" sZ="0.087083" angle="97.7553" ax="-0.873" ay="-0.3448" az="-0.3448" tx="4.5488" ty="0.5753" tz="-0.8253" />
+    <Box sX="0.211236" sY="0.031106" sZ="0.087083" angle="97.7553" ax="0.873" ay="0.3448" az="-0.3448" tx="4.5488" ty="0.5753" tz="0.0253" />
     <Box sX="0.142753" sY="0.063786" sZ="0.023117" angle="31.5534" ax="-1" ay="0" az="0" tx="4.5261" ty="0.7473" tz="-0.1387" />
     <Box sX="0.142753" sY="0.063786" sZ="0.030314" angle="58.6007" ax="-1" ay="0" az="0" tx="4.5261" ty="0.8323" tz="-0.2343" />
     <Box sX="0.124679" sY="0.092328" sZ="0.023117" angle="138.6818" ax="-1" ay="0" az="0" tx="4.5538" ty="0.3806" tz="-0.1659" />
@@ -75,8 +77,7 @@
       23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <Axel type="4" length="0.65" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="3.6" ty="0.56" tz="0.4" />
-    <Axel type="4" length="0.65" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="3.6" ty="0.56" tz="-1.2" />
+    <Axel type="4" length="1.6" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="3.6" ty="0.56" tz="-1.2" />
     <Axel type="4" length="0.4" grabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="4.8" ty="0.56" tz="-0.4" />
     <Slider type="18" length="0.438254" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="3.207" ty="0.7186" tz="-0.4" />
   </Connectivity>

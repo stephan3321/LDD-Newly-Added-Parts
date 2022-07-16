@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-01
+	Comments: v0: Initial creation [Stephan]
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28578;92851" />
+    <Annotation designname="WHEEL FOR BICYCLE W/TYRE" />
+    <Annotation maingroupid="267" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.21593" sY="0.827822" sZ="0.079267" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.21593" sY="0.827111" sZ="0.079267" angle="30" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+    <Box sX="0.21593" sY="0.826278" sZ="0.079267" angle="60" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+    <Box sX="0.21593" sY="0.824708" sZ="0.079267" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+    <Box sX="0.21593" sY="0.824615" sZ="0.079267" angle="120" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+    <Box sX="0.21593" sY="0.828509" sZ="0.079267" angle="150" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="75" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Fixed type="43" axes="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Fixed type="43" axes="1" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.29962418,0,0,0,0.29962427,0,0,0,0.55243178" centerOfMass="0,0,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8479" minY="-0.85" minZ="-0.26" maxX="0.8479" maxY="0.8457" maxZ="0.26" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8479" minY="-0.85" minZ="-0.26" maxX="0.8479" maxY="0.8457" maxZ="0.26" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

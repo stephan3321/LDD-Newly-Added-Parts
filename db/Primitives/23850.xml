@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2022-05-21
+	Comments: Extra decoration surface by jester.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="23850" />
+    <Annotation designname="MINI HAT NO. 11" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.390557" sY="0.186326" sZ="0.390557" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1963" tz="0" />
+    <Box sX="0.3025" sY="0.037294" sZ="0.299388" angle="63.292" ax="1" ay="0" az="0" tx="0" ty="0.0047" tz="0.5175" />
+    <Box sX="0.400556" sY="0.037294" sZ="0.573321" angle="180" ax="0" ay="0.742" az="-0.6704" tx="0" ty="-0.4176" tz="-0.5891" />
+    <Box sX="0.329698" sY="0.021557" sZ="0.62435" angle="131.655" ax="0.3622" ay="0.7364" az="-0.5714" tx="0.5233" ty="-0.2931" tz="-0.2187" />
+    <Box sX="0.243156" sY="0.037294" sZ="0.299388" angle="90.4405" ax="0.7098" ay="0.5729" az="-0.4098" tx="0.4396" ty="0.0047" tz="0.2736" />
+    <Box sX="0.329698" sY="0.021557" sZ="0.62435" angle="95.5832" ax="-0.7038" ay="0.5528" az="0.4461" tx="-0.5233" ty="-0.2931" tz="-0.2187" />
+    <Box sX="0.243156" sY="0.037294" sZ="0.299388" angle="132.0075" ax="-0.3184" ay="0.771" az="0.5515" tx="-0.4396" ty="0.0047" tz="0.2736" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.378162,0,0,0,0.402595,0,0,0,0.421276" centerOfMass="0,-0.281773,0.016947" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8141" minY="-1.0533" minZ="-0.7174" maxX="0.814" maxY="0.4898" maxZ="0.7513" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8141" minY="-1.0533" minZ="-0.7174" maxX="0.814" maxY="0.4898" maxZ="0.7513" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

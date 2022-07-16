@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Magnus Forsberg [MagFors]
 	Editted for LDD by: Stephan
-	Last modification: 2021-05-29
+	Comments: v0.1: Updated collision data [Stephan].
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -89,7 +89,7 @@
     <Box sX="0.386535" sY="0.587006" sZ="0.078577" angle="0" ax="1" ay="0" az="0" tx="11.9988" ty="0.6041" tz="-8.8" />
     <Box sX="0.386535" sY="0.587006" sZ="0.078577" angle="0" ax="1" ay="0" az="0" tx="11.9988" ty="0.6041" tz="-9.6" />
     <Box sX="1.58666" sY="0.624748" sZ="1.58832" angle="0" ax="1" ay="0" az="0" tx="5.9969" ty="0.6389" tz="-5.9995" />
-    <Box sX="6.38622" sY="0.023671" sZ="6.38478" angle="0" ax="1" ay="0" az="0" tx="6.0018" ty="1.24" tz="-5.9959" />
+    <Box sX="6.38622" sY="0.028737" sZ="6.38478" angle="0" ax="1" ay="0" az="0" tx="6.0018" ty="1.236" tz="-5.9959" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="22" height="2" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0.18" tz="0.4">

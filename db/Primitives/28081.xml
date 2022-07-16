@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Digital Designer
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2022-07-14
+	Comments: v0.1: Added decoration surface [jester].
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28081" />
+    <Annotation designname="MINI HAT NO. 18" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.643463" sY="0.264017" sZ="0.440756" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.42" tz="0.0492" />
+    <Box sX="0.559406" sY="0.44722" sZ="0.117502" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9735" tz="0.2534" />
+    <Box sX="0.01145" sY="0.072897" sZ="0.058358" angle="0" ax="1" ay="0" az="0" tx="1.081" ty="0.3235" tz="0" />
+    <Box sX="0.01145" sY="0.072897" sZ="0.058358" angle="90" ax="0" ay="1" az="0" tx="0.984" ty="0.3235" tz="-0.097" />
+    <Box sX="0.01145" sY="0.072897" sZ="0.058358" angle="180" ax="0" ay="1" az="0" tx="0.8871" ty="0.3235" tz="0" />
+    <Box sX="0.01145" sY="0.072897" sZ="0.058358" angle="90" ax="0" ay="-1" az="0" tx="0.984" ty="0.3235" tz="0.097" />
+    <Box sX="0.487896" sY="0.137164" sZ="0.272856" angle="7.6836" ax="0" ay="0" az="1" tx="-0.861" ty="0.1335" tz="0.0277" />
+    <Box sX="0.487896" sY="0.07424" sZ="0.272856" angle="180" ax="0.067" ay="0.9978" az="0" tx="0.8526" ty="0.0711" tz="0.0277" />
+    <Box sX="0.079975" sY="0.171789" sZ="0.167741" angle="180" ax="0.067" ay="0.9978" az="0" tx="1.1383" ty="0.1614" tz="0.0131" />
+    <Box sX="0.152037" sY="0.283616" sZ="0.233115" angle="170.1352" ax="0.2813" ay="-0.9593" az="0.0253" tx="0.6348" ty="0.2948" tz="0.0424" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="14" length="0.149732" grabbing="0" startCapped="1" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0.984" ty="0.2567" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.329776,0,0,0,0.717926,0,0,0,0.857484" centerOfMass="-0.008413,0.661109,0.096855" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.3433" minY="-0.1779" minZ="-0.4373" maxX="1.3433" maxY="1.5002" maxZ="0.631" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.3433" minY="-0.1779" minZ="-0.4373" maxX="1.3433" maxY="1.5002" maxZ="0.631" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
