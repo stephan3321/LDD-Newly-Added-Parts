@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Derived from: LEGO Digital Designer
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2022-07-13
+	Comments: v0.0: Initial creation [jester].
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="26497"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="CREATURE NO. 40"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+		<PartMap part="3820" offset="0,0,0" relativeTo="16000" relativeToOffset="-0.198995,-0.315856,0.632942" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="25315" uuid="7d17738d-55c8-43c8-929b-7298d18b544e">
+			<Part refID="0" designID="25315" materials="194" decoration="0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="24943" uuid="8cd0da58-87f6-48e0-87c1-711733d4c476">
+			<Part refID="1" designID="24943" materials="194,0,0" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,2.40060019493103024,2.0007998943328857,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="24943" uuid="31e9af63-68c4-4843-a119-60fbc39054fa">
+			<Part refID="2" designID="24943" materials="194" decoration="0">
+				<Bone refID="2" transformation="-1,0,0,0,-1,0,0,0,1,-0.80439996719360356,2.0007998943328857,0" freeze="no"/>
+			</Part>
+
+		</Brick>		
+	</Bricks>
+</LXFML>

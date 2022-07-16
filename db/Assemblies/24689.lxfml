@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-13
+	Comments: v0.0: Initial creation [Stephan].
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="OSTRICH 'NO.1'"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="88618">
+			<Part refID="0" designID="88618" materials="0,0,0" decoration="0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,0.99999988079071045,0,0,0,1,-2,0,0.40000000596046448"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="9570">
+			<Part refID="1" designID="9570" materials="21,1" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-2.0019998550415039,-0.0017003350658342242,0.40000000596046448"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

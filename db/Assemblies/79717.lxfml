@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+v0.0: Initial creation [Stephan].
+-->
+<LXFML versionMajor="5" versionMinor="0">
+        <Meta>
+		<Annotation aliases="79717"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="SHOCK ABSORBER, NO. 3"/>
+	</Meta>
+        <Bricks>
+                <Brick refID="0" designID="80021">
+                        <Part refID="0" designID="80021" materials="24,24">
+                                <Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,-0.6398005485534668,0.75189977884292603,2.7797999382019043"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="80022">
+                        <Part refID="1" designID="80022" materials="24,24">
+                                <Bone refID="1" transformation="0,0,1,0,1,0,-1,0,0,-2.8000001907348633,0.76059997081756592,2.7999999523162842"/>
+	                </Part>
+		</Brick>
+	</Bricks>
+</LXFML>

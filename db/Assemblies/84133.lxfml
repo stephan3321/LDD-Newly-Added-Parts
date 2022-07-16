@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Comments: v0.0: Initial creation [jester].
+-->
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="240"/>
+    <Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+    <Annotation designname="MINI LOWER PART, NO. 2181"/>
+    <DefaultCamera lat="-0.24547988176345825" lon="0.40539842844009399"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="3816" materialID="140" refID="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group angle="0" ax="0" ay="1" az="0" refID="1" tx="0" ty="1.6" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="3815" materialID="140" refID="1" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group angle="0" ax="0" ay="1" az="0" refID="2" tx="0.8" ty="0" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="80690" materialID="140,140" refID="2" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

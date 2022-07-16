@@ -18,8 +18,8 @@ Created for LDD by Stephan
                                 <Bone refID="0" transformation="0.99999994039535522,0,0,0,0,-1,0,1,0,1.2000000476837158,0.75999832153320313,6.8000001907348633" freeze="no"/>
                         </Part>
                 </Brick>
-                <Brick refID="1" designID="9560">
-                        <Part refID="1" designID="9560" materials="21">
+                <Brick refID="1" designID="69635">
+                        <Part refID="1" designID="69635" materials="21">
                                 <Bone refID="1" transformation="0.99999994039535522,0,0,0,0,-1,0,1,0,1.6000006198883057,0.75999850034713745,10.680000305175781" freeze="no"/>
                         </Part>
                 </Brick>
