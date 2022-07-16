@@ -10,6 +10,7 @@ v0.0: Initial creation [Stephan].
 		<Annotation maingroupid="386"/>
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
 		<Annotation designname="SHOCK ABSORBER, NO. 3"/>
+    <Annotation wire=""/>
 	</Meta>
         <Bricks>
                 <Brick refID="0" designID="80021">
