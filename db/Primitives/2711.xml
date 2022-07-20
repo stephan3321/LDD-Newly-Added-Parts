@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author: James Jessiman
-Editted for LDD by Stephan
+	Derived from: The LDraw Parts Library
+	Orginal Author: James Jessiman
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-19
+	Comments: v0.0: Initial release [jester].
+v0.1: Updated connections [Stephan] 2022-07-19.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -75,38 +78,34 @@ Editted for LDD by Stephan
     <Box sX="0.070765" sY="0.141061" sZ="0.06707" angle="0" ax="1" ay="0" az="0" tx="0.1548" ty="0.1602" tz="-0.153" />
   </Collision>
   <Connectivity>
-    <!--top studs-->
-    <Custom2DField type="23" width="6" height="2" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0.32" tz="-0.4">
+    <Custom2DField type="23" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-0.4">
       18:1:1,23:4:1,18:2:1,29:0:1,18:2:1,23:4:1,18:1:1,
       23:4:1,1:4,23:4:1,29:0:1,23:4:1,1:4,23:4:1,
       18:1:1,23:4:1,18:2:1,29:0:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <!--bottom studs-->
-    <Custom2DField type="22" width="10" height="2" angle="0" ax="0" ay="1" az="0" tx="-2.0" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="10" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:2,9:4:1,15:4:1,22:2:1,29:0:1,22:2:1,15:4:1,9:4:1,15:4:2,22:2:1,
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
-    <!--pin/axle holes 2x +1-->
-    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-1.6" ty="0" tz="0" />
-    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="1.6" ty="0" tz="0" />
-    <Axel type="4" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
-    <!--holes 1x1 top upside down-->
+    <Axel type="2" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="-1.6" ty="0" tz="0" />
+    <Axel type="2" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="1.6" ty="0" tz="0" />
+    <Axel type="4" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
     <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="-1.2" ty="0.32" tz="-0.4">
       29:0,29:0,29:0,
       29:0,15:4:96,29:0,
       29:0,29:0,29:0
     </Custom2DField>
-    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="2.0" ty="0.32" tz="-0.4">
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="2" ty="0.32" tz="-0.4">
       29:0,29:0,29:0,
       29:0,15:4:96,29:0,
       29:0,29:0,29:0
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-2" minY="0" minZ="-0.400040000677109" maxX="2" maxY="0.479999989271164" maxZ="0.400040000677109" />
+    <AABB minX="-2" minY="0" minZ="-0.40004" maxX="2" maxY="0.48" maxZ="0.40004" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-2" minY="0" minZ="-0.400040000677109" maxX="2" maxY="0.479999989271164" maxZ="0.400040000677109" />
+    <AABB minX="-2" minY="0" minZ="-0.40004" maxX="2" maxY="0.48" maxZ="0.40004" />
   </GeometryBounding>
 </LEGOPrimitive>
