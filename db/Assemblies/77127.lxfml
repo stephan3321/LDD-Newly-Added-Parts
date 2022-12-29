@@ -2,26 +2,25 @@
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
-	Editted for LDD by: jester
+	Editted for LDD by: Stephan
 	Last modification: 2022-07-12
-	Comments: v0.0: Initial creation [jester].
-v0.1: Added collision data, updated with 58272 [Stephan].
+	Comments: v0.0: Initial creation [Stephan] 2022-07-30.
 -->
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
 		<Environment name="Standard"/>
-		<Annotation aliases="49242"/>
+		<Annotation aliases="77127"/>
 		<Annotation platformid="200"/>
 		<Annotation platformname="SYSTEM"/>
 		<Annotation maingroupid="292"/>
 		<Annotation maingroupname="ELECTRIC PARTS"/>
-		<Annotation designname="ELECTRIC HUB MARIO"/>
+		<Annotation designname="ELECTRIC HUB LUIGI"/>
 		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
 		<PartMap part="3820" offset="0,0,0" relativeTo="16000" relativeToOffset="-0.198995,-0.315856,0.632942" />
 	</Meta>
 	<Bricks>
-		<Brick refID="0" designID="58272" uuid="7d17738d-55c8-43c8-929b-7298d18b544e">
-			<Part refID="0" designID="58272" materials="21,26,283,192,315,1,26,40" decoration="0,0,0,0,0,0,0">
+		<Brick refID="0" designID="9324" uuid="7d17738d-55c8-43c8-929b-7298d18b544e">
+			<Part refID="0" designID="9324" materials="21,26,283,192,315,1,26,40" decoration="0,0,0,0,0,0,0">
 				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0.82999968528747559" freeze="no"/>
 			</Part>
 		</Brick>
