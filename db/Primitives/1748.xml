@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: jester
+	Last modification: 2022-09-10
+	Comments: v0.0: Initial creation [jester] 2022-09-03.
+v0.1: Added colission data [Stephan] 2022-09-10.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1748" />
+    <Annotation designname="TILE 1X2, W/ 1/2 CIRCLE" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.75189" sY="0.074554" sZ="0.09729" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.2386" tz="-0.295" />
+    <Box sX="0.680821" sY="0.074554" sZ="0.09729" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.2386" tz="-0.1036" />
+    <Box sX="0.524779" sY="0.074554" sZ="0.09729" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.2386" tz="0.0889" />
+    <Box sX="0.209331" sY="0.074554" sZ="0.06921" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.2386" tz="0.2875" />
+    <Box sX="0.293917" sY="0.074554" sZ="0.021456" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0759" tz="0.266" />
+    <Box sX="0.76793" sY="0.074554" sZ="0.073798" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0759" tz="-0.3194" />
+    <Box sX="0.054885" sY="0.074554" sZ="0.073798" angle="0" ax="1" ay="0" az="0" tx="0.2004" ty="0.0844" tz="-0.2728" />
+    <Box sX="0.054885" sY="0.074554" sZ="0.073798" angle="0" ax="1" ay="0" az="0" tx="0.6002" ty="0.0844" tz="-0.2728" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,15:4:2,15:4:2,15:4:2,29:0:1,
+      29:0:1,29:0:1,22:2:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
