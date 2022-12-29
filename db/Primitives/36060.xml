@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-12-16
+	Comments: v0.0: Initial creation [jester] 2022-12-07
+v0.1: Added colission data [Stephan] 2022-12-16
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36060" />
+    <Annotation designname="MINI WIG, NO. 200" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.18662" sY="0.195104" sZ="0.461546" angle="0" ax="1" ay="0" az="0" tx="-0.2832" ty="0.2068" tz="-0.0539" />
+    <Box sX="0.037761" sY="0.500119" sZ="0.311229" angle="59.0746" ax="-0.0537" ay="0.994" az="-0.0953" tx="0.277" ty="-0.2026" tz="-0.5695" />
+    <Box sX="0.051698" sY="0.303535" sZ="0.262343" angle="6.1933" ax="0" ay="0" az="1" tx="0.5512" ty="-0.0714" tz="-0.079" />
+    <Box sX="0.055351" sY="0.280774" sZ="0.291421" angle="10.6677" ax="0" ay="0" az="-1" tx="-0.5572" ty="-0.0546" tz="-0.0473" />
+    <Box sX="0.037761" sY="0.500119" sZ="0.311229" angle="121.3143" ax="-0.0539" ay="0.9981" az="-0.0303" tx="-0.2845" ty="-0.2026" tz="-0.5649" />
+    <Box sX="0.312775" sY="0.153506" sZ="0.109131" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1631" tz="0.5345" />
+    <Box sX="0.200293" sY="0.195104" sZ="0.461546" angle="0" ax="1" ay="0" az="0" tx="0.3024" ty="0.2068" tz="-0.0539" />
+    <Box sX="0.210901" sY="0.195104" sZ="0.461546" angle="90" ax="0" ay="-1" az="0" tx="0.0215" ty="0.2068" tz="-0.3128" />
+    <Box sX="0.155256" sY="0.195104" sZ="0.461546" angle="90" ax="0" ay="-1" az="0" tx="-0.0095" ty="0.2068" tz="0.2488" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.33330794,0,0,0,0.34312762,0,0,0,0.30024351" centerOfMass="0.001417,-0.128144,-0.057727" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6335" minY="-0.7483" minZ="-0.7539" maxX="0.648" maxY="0.4859" maxZ="0.65" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6335" minY="-0.7483" minZ="-0.7539" maxX="0.648" maxY="0.4859" maxZ="0.65" />
+  </GeometryBounding>
+</LEGOPrimitive>

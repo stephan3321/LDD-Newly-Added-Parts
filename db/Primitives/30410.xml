@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-12-16
+	Comments: v0.0: Initial creation [The LEGO Group]
+v0.1: Updated 3D model [jester] 2022-12-07
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30410;92756" />
+    <Annotation designname="QUI-GON JINN WIG" />
+    <Annotation maingroupid="250" />
+    <Annotation maingroupname="FIGURE, THEME" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="7" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.433237" sY="0.066873" sZ="0.503009" angle="0" ax="1" ay="0" az="0" tx="-0.0039" ty="0.1171" tz="-0.0711" />
+    <Box sX="0.425877" sY="0.120654" sZ="0.756892" angle="90" ax="1" ay="0" az="0" tx="0.0235" ty="-0.9233" tz="-0.7318" />
+    <Box sX="0.463097" sY="0.040355" sZ="0.424063" angle="90" ax="0" ay="0" az="1" tx="-0.5729" ty="-0.4936" tz="-0.1042" />
+    <Box sX="0.463097" sY="0.042552" sZ="0.422256" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.5703" ty="-0.4936" tz="-0.105" />
+    <Box sX="0.463097" sY="0.040355" sZ="0.334134" angle="98.8552" ax="-0.3652" ay="-0.3652" az="0.8563" tx="-0.3162" ty="-0.4936" tz="-0.4796" />
+    <Box sX="0.463097" sY="0.040355" sZ="0.334134" angle="98.855" ax="0.3652" ay="0.3652" az="0.8563" tx="0.4053" ty="-0.4936" tz="-0.4069" />
+    <Box sX="0.094986" sY="0.02421" sZ="0.259199" angle="171.8206" ax="-0.3664" ay="-0.9135" az="-0.1768" tx="0.6223" ty="-0.9014" tz="0.19" />
+    <Box sX="0.094986" sY="0.014708" sZ="0.259199" angle="49.7806" ax="0.4662" ay="-0.1505" az="0.8718" tx="-0.6399" ty="-0.9226" tz="0.1837" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.273817,0,0,0,0.190416,0,0,0,0.258927" centerOfMass="-0.00078,-0.579532,-0.34321" mass="0.839999973774" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7199" minY="-1.4626" minZ="-0.9717" maxX="0.7007" maxY="0.4052" maxZ="0.5433" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7199" minY="-1.4626" minZ="-0.9717" maxX="0.7007" maxY="0.4052" maxZ="0.5433" />
+  </GeometryBounding>
+</LEGOPrimitive>

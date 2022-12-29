@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2022-07-09
+	Created for LDD by: Stephan
+	Last modification: 2022-08-08
 	Comments: v0.1: Added decoration surface [M2m].
 v0.2: Updated collision data [Stephan].
+v0.3: Updated collision data [Stephan] 2022-08-08.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -23,7 +25,7 @@ v0.2: Updated collision data [Stephan].
     <Box sX="0.069431" sY="0.099797" sZ="0.394615" angle="0" ax="1" ay="0" az="0" tx="-0.324" ty="0.1023" tz="0.0016" />
     <Box sX="0.069431" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="-0.324" ty="0.2425" tz="-0.059" />
     <Box sX="0.069431" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="0.3229" ty="0.2425" tz="-0.059" />
-    <Box sX="0.037647" sY="0.115609" sZ="0.340489" angle="105.1709" ax="-0.4554" ay="-0.765" az="0.4554" tx="0.0012" ty="0.5248" tz="-0.2801" />
+    <Box sX="0.029025" sY="0.115609" sZ="0.340489" angle="105.1709" ax="-0.4554" ay="-0.765" az="0.4554" tx="0.0012" ty="0.5302" tz="-0.2772" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

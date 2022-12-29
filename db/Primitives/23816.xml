@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="23816"/>
+    <Annotation designname="LPF2 MALE PLUG 1"/>
+    <Annotation maingroupid="292"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+    <Annotation wireMarker="0,180,0,-1.6,0,0"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.35" sZ="0.689999" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="-0.0004" tz="0"/>
+    <Box sX="0.304548" sY="0.1775" sZ="0.494999" angle="0" ax="0" ay="1" az="0" tx="0.265452" ty="-0.0179" tz="0.004999"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="155" axes="2" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0" ty="0.08" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.207043,0,0,0,0.428014,0,0,0,0.307372" centerOfMass="-0.309767,-0.0004,-0.000284" mass="1" frictionType="0"/>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3"/>
+  <Bounding>
+    <AABB minX="-1.2" minY="-0.3604" minZ="-0.701375" maxX="0.580466" maxY="0.3596" maxZ="0.700807"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-0.3604" minZ="-0.701375" maxX="0.580466" maxY="0.3596" maxZ="0.700807"/>
+  </GeometryBounding>
+</LEGOPrimitive>

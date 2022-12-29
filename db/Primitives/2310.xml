@@ -7,11 +7,12 @@
 	Comments: v0.0: 2022-07-06 Initial creation [jester].
 v0.1: 2022-07-16 Added collision data [Stephan].
 v0.2: 2022-07-17 Rotated 90 degrees clockwise, updated boundary box [Stephan]
+v0.3: Updated name [Stephan] 2022-08-02.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="2310" />
-    <Annotation designname="[[Slope 2 x 1 x 1 inverted with 2/3 cutout]]" />
+    <Annotation designname="ROOF TILE 1X2, INVERTED, DEG. 45, W/ CUT" />
     <Annotation maingroupid="205" />
     <Annotation maingroupname="BRICKS, WITH SLOPE" />
     <Annotation platformid="200" />

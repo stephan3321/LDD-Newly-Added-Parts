@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-09-17
+	Comments: v0.0: Initial creation [Stephan] 2022-09-17.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25450" />
+    <Annotation designname="Electric Powered Up Light Middle Box [Bottom]" />
+    <Annotation maingroupid="392" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="6" />
+    <Annotation wireMarker="0,90,0,0,0.4,-1.6"/>
+  </Annotations>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.76" minY="0" minZ="-1.2" maxX="0.76" maxY="0.4" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.76" minY="0" minZ="-1.2" maxX="0.76" maxY="0.4" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

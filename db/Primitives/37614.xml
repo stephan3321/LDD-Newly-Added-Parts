@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-12-01
+	Comments: v0.0: Initial creation [Stephan] 2022-12-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37614" />
+    <Annotation designname="MINI ARMOUR, NO. 12" />
+    <Annotation maingroupid="252" />
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.027708" sY="0.247745" sZ="0.136755" angle="66.7778" ax="0.6646" ay="0.6315" az="-0.3994" tx="-1.0374" ty="-0.2239" tz="0.3218" />
+    <Box sX="0.194418" sY="0.040374" sZ="0.372421" angle="0" ax="1" ay="0" az="0" tx="-0.4611" ty="0.063" tz="-0.0044" />
+    <Box sX="0.027708" sY="0.247745" sZ="0.136755" angle="67.2036" ax="-0.6574" ay="-0.6284" az="-0.4159" tx="-1.0607" ty="-0.2275" tz="-0.329" />
+    <Box sX="0.055081" sY="0.288778" sZ="0.233611" angle="60.1375" ax="0" ay="0" az="-1" tx="-0.8982" ty="0.0996" tz="0.0024" />
+    <Box sX="0.023239" sY="0.185011" sZ="0.148732" angle="81.7001" ax="-0.0578" ay="-0.7454" az="-0.6641" tx="-0.7964" ty="0.0208" tz="-0.376" />
+    <Box sX="0.263048" sY="0.040374" sZ="0.057874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.063" tz="-0.3199" />
+    <Box sX="0.027708" sY="0.247745" sZ="0.233611" angle="180" ax="-0.0843" ay="0.9964" az="0" tx="1.1874" ty="-0.2202" tz="0.0024" />
+    <Box sX="0.021056" sY="0.186625" sZ="0.138306" angle="123.004" ax="-0.4451" ay="0.8951" az="-0.0277" tx="0.7782" ty="0.0421" tz="0.3857" />
+    <Box sX="0.023239" sY="0.185011" sZ="0.148732" angle="121.6438" ax="0.4975" ay="-0.8664" az="0.0433" tx="0.7964" ty="0.0208" tz="-0.376" />
+    <Box sX="0.027708" sY="0.247745" sZ="0.136755" angle="139.3271" ax="-0.2344" ay="0.8905" az="0.3901" tx="1.0374" ty="-0.2239" tz="0.3218" />
+    <Box sX="0.027708" sY="0.247745" sZ="0.233611" angle="9.6732" ax="0" ay="0" az="-1" tx="-1.1874" ty="-0.2202" tz="0.0024" />
+    <Box sX="0.027708" sY="0.247745" sZ="0.136755" angle="139.2977" ax="0.2455" ay="-0.8884" az="0.388" tx="1.0607" ty="-0.2275" tz="-0.329" />
+    <Box sX="0.194418" sY="0.040374" sZ="0.372421" angle="180" ax="0" ay="1" az="0" tx="0.4611" ty="0.063" tz="-0.0044" />
+    <Box sX="0.263048" sY="0.040374" sZ="0.058549" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.063" tz="0.3207" />
+    <Box sX="0.021056" sY="0.186625" sZ="0.138306" angle="76.2609" ax="-0.0394" ay="0.7727" az="-0.6335" tx="-0.7782" ty="0.0421" tz="0.3857" />
+    <Box sX="0.055081" sY="0.288778" sZ="0.233611" angle="180" ax="-0.501" ay="0.8654" az="0" tx="0.8982" ty="0.0996" tz="0.0024" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.17391104,0,0,0,0.67399486,0,0,0,0.62885456" centerOfMass="-0.001227,-0.085955,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.3001" minY="-0.525" minZ="-0.5732" maxX="1.3001" maxY="0.354" maxZ="0.5732" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.3001" minY="-0.525" minZ="-0.5732" maxX="1.3001" maxY="0.354" maxZ="0.5732" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -3,7 +3,9 @@
 	Derived from: The LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: jester, colissions by Stephan
-	Last modification: 2022-02-03
+	Last modification: 2022-09-10
+	Comments: v0.0: Initial release [jester].
+v0.1: Added decoration surfaces [Stephan] 2022-09-10.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -36,4 +38,5 @@
   <GeometryBounding>
     <AABB minX="-2" minY="0" minZ="-0.4" maxX="1.2" maxY="3.04" maxZ="0.4" />
   </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0" />
 </LEGOPrimitive>

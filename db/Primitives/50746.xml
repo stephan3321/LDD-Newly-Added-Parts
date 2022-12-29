@@ -4,8 +4,8 @@ Added decoration surface by M2m
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="50746;54200;63290" />
-    <Annotation designname="ROOF TILE 1X1X2/3, PC" />
+    <Annotation aliases="50746;35338" />
+    <Annotation designname="ROOF TILE 1X1X2/3 [Transparent, PC]" />
     <Annotation maingroupid="205" />
     <Annotation maingroupname="BRICKS, WITH SLOPE" />
     <Annotation platformid="200" />

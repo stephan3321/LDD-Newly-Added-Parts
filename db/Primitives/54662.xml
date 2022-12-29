@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Evert-Jan Boer [ejboer]
+	Editted for LDD by: Stephan
+	Last modification: 2022-09-22
+	Comments: v0.0: Initial creation [Stephan] 2022-09-22.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="54662" />
+    <Annotation designname="LINK 1M FRIC/FORK/STUMPF [7 TEETH]" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="9" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1095" sY="0.281885" sZ="0.199794" angle="0" ax="1" ay="0" az="0" tx="0.5205" ty="-0.007" tz="0" />
+    <Box sX="0.67421" sY="0.155603" sZ="0.065603" angle="180" ax="1" ay="0" az="0" tx="0.5138" ty="0" tz="-0.2356" />
+    <Box sX="0.67421" sY="0.155603" sZ="0.065658" angle="180" ax="1" ay="0" az="0" tx="0.5138" ty="0" tz="0.2376" />
+    <Box sX="0.030773" sY="0.281885" sZ="0.107166" angle="90" ax="0" ay="1" az="0" tx="0.8" ty="-0.007" tz="0.2008" />
+    <Box sX="0.422291" sY="0.23445" sZ="0.15" angle="180" ax="1" ay="0" az="0" tx="1.4075" ty="0" tz="0" />
+    <Box sX="0.030773" sY="0.281885" sZ="0.107166" angle="90" ax="0" ay="-1" az="0" tx="0.8" ty="-0.007" tz="-0.2008" />
+    <Box sX="0.110217" sY="0.246354" sZ="0.246354" angle="45" ax="1" ay="0" az="0" tx="0.5198" ty="0" tz="0" />
+    <Box sX="0.1095" sY="0.246354" sZ="0.246354" angle="45" ax="1" ay="0" az="0" tx="1.0795" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="3" oriented="0" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0" tz="0" />
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />
+    <Axel type="6" length="0.7" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.8" ty="-0.35" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.026837,0,0,0,0.146553,0,0,0,0.141608" centerOfMass="0.850274,-2.7E-05,-0.000123" mass="0.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.246434" minY="-0.36" minZ="-0.361849" maxX="1.89342" maxY="0.36" maxZ="0.361849" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.246434" minY="-0.36" minZ="-0.361849" maxX="1.89342" maxY="0.36" maxZ="0.361849" />
+  </GeometryBounding>
+</LEGOPrimitive>

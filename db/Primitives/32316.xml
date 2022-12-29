@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Digital Designer
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-29
+	Comments: v0.0: Initial creation [TLG].
+v0.1: Added decoration surface [Stephan] 2022-07-29.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32316;41616" />
+    <Annotation designname="TECHNIC 5M BEAM" />
+    <Annotation maingroupid="310" />
+    <Annotation maingroupname="BEAMS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="11" />
+    <Annotation holes="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.39" sZ="0.019" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.6003" ty="-0.341" tz="-0.3995" />
+    <Box sX="0.08" sY="0.39" sZ="0.359" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="-0.001" tz="-0.3995" />
+    <Box sX="0.08" sY="0.39" sZ="0.359" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="-0.001" tz="-0.3995" />
+    <Box sX="0.08" sY="0.39" sZ="0.359" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2" ty="-0.001" tz="-0.3995" />
+    <Box sX="0.08" sY="0.39" sZ="0.359" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.8" ty="-0.001" tz="-0.3995" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="0" ax="1" ay="0" az="0" tx="-0.3255" ty="0" tz="-0.3998" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="40" ax="0" ay="0" az="-1" tx="-0.2493" ty="0.2092" tz="-0.3998" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="40" ax="0" ay="0" az="1" tx="-0.2493" ty="-0.2092" tz="-0.3998" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="180" ax="0" ay="0" az="1" tx="3.5255" ty="0" tz="-0.3998" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="140" ax="0" ay="0" az="1" tx="3.4494" ty="-0.2092" tz="-0.3998" />
+    <Box sX="0.0055" sY="0.097949" sZ="0.389755" angle="140" ax="0" ay="0" az="-1" tx="3.4494" ty="0.2092" tz="-0.3998" />
+    <Box sX="1.59" sY="0.39" sZ="0.019875" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.6003" ty="0.3399" tz="-0.3995" />
+    <Box sX="1.77842" sY="0.02" sZ="0.31" angle="0" ax="1" ay="0" az="0" tx="1.6034" ty="-0.28" tz="-0.4" />
+    <Box sX="1.77842" sY="0.02" sZ="0.31" angle="0" ax="1" ay="0" az="0" tx="1.6034" ty="0.28" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0.8" ty="0" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="2.4" ty="0" tz="0" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="3.2" ty="0" tz="0" />
+    <Custom2DField type="22" width="10" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="10" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.133731,0,0,0,1.46456,0,0,0,1.48668" centerOfMass="1.60001,0,-0.4" mass="1.25600004196" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.8" maxX="3.6" maxY="0.4" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.371" minZ="-0.8" maxX="3.56971" maxY="0.369" maxZ="0" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,14 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2022-10-17
+	Comments: v0.0: Initial creation [jester]
+v0.1: Updated decoration surface [jester] 2022-10-16
+v0.2: Updated name, added colission data [Stephan] 2022-10-17 
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="35700" />
-    <Annotation designname="Box 2X2, Bottom, No. 1" />
+    <Annotation designname="BOX 2X2, BOTTOM, NO. 1" />
     <Annotation maingroupid="227" />
     <Annotation maingroupname="INTERIOR" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.787753" sY="0.070925" sZ="0.790881" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.0761" tz="-0.4" />
+    <Box sX="0.787753" sY="0.061938" sZ="0.464434" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.4686" tz="0.3324" />
+    <Box sX="0.787753" sY="0.061938" sZ="0.464434" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.4686" tz="-1.1339" />
+    <Box sX="0.787753" sY="0.061938" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-1.1331" ty="0.4686" tz="-0.4008" />
+    <Box sX="0.787753" sY="0.061938" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0.3331" ty="0.4686" tz="-0.4008" />
+    <Box sX="0.127662" sY="0.0524" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0.1797" ty="0.6234" tz="-0.8834" />
+    <Box sX="0.127662" sY="0.0524" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0.1797" ty="0.6234" tz="0.0854" />
+    <Box sX="0.127662" sY="0.052019" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.9802" ty="0.6234" tz="-0.8834" />
+    <Box sX="0.127662" sY="0.052019" sZ="0.464434" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.9802" ty="0.6234" tz="0.0854" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-1.2">
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
@@ -38,5 +58,5 @@
   <GeometryBounding>
     <AABB minX="-1.2" minY="0" minZ="-1.2" maxX="0.4" maxY="1.12" maxZ="0.4" />
   </GeometryBounding>
-  <Decoration faces="5" subMaterialRedirectLookupTable="0,0,0,0,0" />
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

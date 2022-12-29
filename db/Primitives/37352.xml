@@ -3,7 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Magnus Forsberg [MagFors]
 	Editted for LDD by: jester
-	Last modification: 2021-12-03
+	Last modification: 2022-08-23
+	Comments: v0.0: Initial creation [jester].
+v0.1: Updated colission data [Stephan] 2022-08-23.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -16,13 +18,16 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.790144" sY="0.11745" sZ="0.380891" angle="0" ax="1" ay="0" az="0" tx="-0.3999" ty="0.1274" tz="0.0003" />
     <Box sX="0.790144" sY="0.028893" sZ="0.177532" angle="111.8735" ax="-1" ay="0" az="0" tx="-0.3999" ty="0.4236" tz="0.2815" />
     <Box sX="0.790144" sY="0.028893" sZ="0.177532" angle="138.5135" ax="-1" ay="0" az="0" tx="-0.3999" ty="0.7245" tz="0.0731" />
     <Box sX="0.790144" sY="0.028893" sZ="0.176527" angle="166.358" ax="-1" ay="0" az="0" tx="-0.3999" ty="0.8581" tz="-0.2085" />
     <Box sX="0.790144" sY="0.028893" sZ="0.343564" angle="90" ax="1" ay="0" az="0" tx="-0.3999" ty="0.6027" tz="-0.3611" />
     <Box sX="0.020153" sY="0.220274" sZ="0.256787" angle="45" ax="1" ay="0" az="0" tx="-1.1698" ty="0.5057" tz="-0.047" />
     <Box sX="0.020153" sY="0.220274" sZ="0.256787" angle="45" ax="1" ay="0" az="0" tx="0.3701" ty="0.5057" tz="-0.047" />
+    <Box sX="0.790144" sY="0.068222" sZ="0.343564" angle="90" ax="1" ay="0" az="0" tx="-0.3999" ty="0.3511" tz="-0.3242" />
+    <Box sX="0.790144" sY="0.068222" sZ="0.092563" angle="90" ax="1" ay="0" az="0" tx="-0.3999" ty="0.0935" tz="0.3164" />
+    <Box sX="0.387462" sY="0.068222" sZ="0.092563" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0.3221" ty="0.0935" tz="0.0039" />
+    <Box sX="0.387462" sY="0.068222" sZ="0.092563" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-1.1244" ty="0.0935" tz="0.0039" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-0.4">

@@ -3,11 +3,12 @@
 Derived from The LDraw Parts Library
 Orginal Author: Yu Zhang [ishkafel]
 Editted for LDD by Stephan
+Comments: v0.1: Updated name and connections [Stephan] 2022-08-04.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="67440" />
-    <Annotation designname="Slope, Inverted 60 4 x 1 x 3" />
+    <Annotation designname="ROOF TILE 1X4X3, INV., DEG. 60" />
     <Annotation maingroupid="205" />
     <Annotation maingroupname="BRICKS, WITH SLOPE" />
     <Annotation platformid="200" />
@@ -34,7 +35,7 @@ Editted for LDD by Stephan
     </Custom2DField>
     <Custom2DField type="23" width="8" height="2" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="2.8816" tz="-1.6">
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
-      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
   </Connectivity>

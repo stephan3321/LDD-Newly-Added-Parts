@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-09-15
+	Comments: v0.0: Initial release [Stephan] 2022-09-15.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="43967" />
+    <Annotation designname="LEFT DOOR 1X4X5 [2018-current]" />
+    <Annotation maingroupid="226" />
+    <Annotation maingroupname="GATES AND ROOFS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.19" sY="0.065" sZ="2.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.2" ty="2.4" tz="0.325" />
+    <Box sX="1.19" sY="0.065" sZ="1.11" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="1.12" tz="0.325" />
+    <Box sX="1.315" sY="0.115" sZ="0.075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.325" ty="2.005" tz="0.125" />
+    <Box sX="0.19" sY="0.065" sZ="2.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.2" ty="2.4" tz="0.325" />
+    <Box sX="0.143469" sY="0.24" sZ="2.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.1535" ty="2.4" tz="0" />
+    <Box sX="0.274306" sY="0.270609" sZ="0.065" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="4.725" tz="0" />
+    <Box sX="1.19" sY="0.065" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="4.64" tz="0.325" />
+    <Box sX="0.066511" sY="0.049786" sZ="2.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4765" ty="2.4" tz="0.3098" />
+    <Box sX="0.661106" sY="0.156299" sZ="0.075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.9511" ty="4.715" tz="0.1663" />
+    <Box sX="0.049786" sY="0.066511" sZ="2.39" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.7098" ty="2.4" tz="0.0765" />
+    <Box sX="0.048336" sY="0.029839" sZ="0.075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="4.715" tz="0.0102" />
+    <Box sX="0.691422" sY="0.131422" sZ="0.075" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4186" ty="4.715" tz="0.1414" />
+    <Box sX="0.274305" sY="0.270609" sZ="0.065" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.075" tz="0" />
+    <Box sX="0.09" sY="0.04" sZ="0.235" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.3" ty="2.485" tz="0.55" />
+    <Box sX="0.043035" sY="0.16075" sZ="2.39" angle="145.2246" ax="0.3131" ay="0.6715" az="-0.6715" tx="2.5969" ty="2.4" tz="0.2345" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="4.8" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="124" axes="2" angle="180" ax="0" ay="1" az="0" tx="1.7" ty="2.09" tz="0.13" />
+    <Fixed type="124" axes="2" angle="0" ax="1" ay="0" az="0" tx="0.7" ty="2.09" tz="0.13" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="6.71074,0,0,0,3.63802,0,0,0,10.09097" centerOfMass="0.806283,2.36621,0.158833" mass="3.04299998283" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3991" minY="0" minZ="-0.4001" maxX="2.8009" maxY="4.96" maxZ="0.5599" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3991" minY="0" minZ="-0.4001" maxX="2.8009" maxY="4.96" maxZ="0.5599" />
+  </GeometryBounding>
+</LEGOPrimitive>

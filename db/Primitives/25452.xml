@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-09-17
+	Comments: v0.0: Initial creation [Stephan] 2022-09-17.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25452" />
+    <Annotation designname="Electric Powered Up Light Middle Box [Top]" />
+    <Annotation maingroupid="392" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="6" />
+    <Annotation wireMarker="0,-90,0,0,0.4,1.6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.398729" sY="0.359658" sZ="0.426566" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4" tz="0.7666" />
+    <Box sX="0.398729" sY="0.359658" sZ="0.426566" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4" tz="-0.7683" />
+    <Box sX="0.066437" sY="0.330601" sZ="1.186787" angle="0" ax="1" ay="0" az="0" tx="0.4637" ty="0.4" tz="0.0036" />
+    <Box sX="0.066437" sY="0.233649" sZ="1.186787" angle="0" ax="1" ay="0" az="0" tx="0.598" ty="0.4" tz="0.0036" />
+    <Box sX="0.04164" sY="0.122942" sZ="1.186787" angle="0" ax="1" ay="0" az="0" tx="0.6908" ty="0.4" tz="0.0036" />
+    <Box sX="0.066437" sY="0.330601" sZ="1.186787" angle="180" ax="0" ay="1" az="0" tx="-0.4546" ty="0.4" tz="0.0036" />
+    <Box sX="0.066437" sY="0.233649" sZ="1.186787" angle="180" ax="0" ay="1" az="0" tx="-0.589" ty="0.4" tz="0.0036" />
+    <Box sX="0.04164" sY="0.122942" sZ="1.186787" angle="180" ax="0" ay="1" az="0" tx="-0.6818" ty="0.4" tz="0.0036" />
+    <Box sX="0.066437" sY="0.330601" sZ="0.243719" angle="140" ax="0" ay="1" az="0" tx="-0.2748" ty="0.4" tz="-0.2107" />
+    <Box sX="0.066437" sY="0.330601" sZ="0.243719" angle="140" ax="0" ay="1" az="0" tx="0.2783" ty="0.4" tz="0.2534" />
+    <Box sX="0.066437" sY="0.330601" sZ="0.243719" angle="40" ax="0" ay="1" az="0" tx="0.2783" ty="0.4" tz="-0.2107" />
+    <Box sX="0.066437" sY="0.330601" sZ="0.243719" angle="40" ax="0" ay="1" az="0" tx="-0.2748" ty="0.4" tz="0.2534" />
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.8" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.76" minY="0.08" minZ="-1.2" maxX="0.76" maxY="0.8" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.76" minY="0.08" minZ="-1.2" maxX="0.76" maxY="0.8" maxZ="1.2" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>
