@@ -3,7 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Max Martin Richter [MMR1988]
 	Editted for LDD by: Stephan
-	Last modification: 2022-01-06
+	Last modification: 2022-08-10
+	Comments: v0.0: Initial creation [Stephan].
+v0.1: Updated connections [Stephan] 2022-08-10.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -45,6 +47,7 @@
       29:0,3:4:36,29:0,
       29:0,29:0,29:0
     </Custom2DField>
+    <Axel type="6" length="0.327" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.4" ty="0.56" tz="0.5603" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.135276,0,0,0,0.251571,0,0,0,0.276051" centerOfMass="0.4,0.559029,0" mass="0.794000029564" frictionType="0" />
   <Bounding>

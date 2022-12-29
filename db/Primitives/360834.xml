@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: jester
+	Last modification: 2022-10-29
+	Comments: v0.0: Initial creation [jester] 2022-05-05
+v0.1: Added colission data [Stephan] 2022-10-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="360834" />
+    <Annotation designname=" Weapon Web Effect, Small" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="0" ax="1" ay="0" az="0" tx="0.1129" ty="0.5999" tz="0" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="0" ax="1" ay="0" az="0" tx="-0.113" ty="0.5999" tz="0" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="45" ax="0" ay="1" az="0" tx="-0.0799" ty="0.5999" tz="0.0799" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="45" ax="0" ay="1" az="0" tx="0.0798" ty="0.5999" tz="-0.0799" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="90" ax="0" ay="1" az="0" tx="-0.0001" ty="0.5999" tz="0.1129" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="90" ax="0" ay="1" az="0" tx="-0.0001" ty="0.5999" tz="-0.1129" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="135" ax="0" ay="1" az="0" tx="0.0798" ty="0.5999" tz="0.0799" />
+    <Box sX="0.032279" sY="0.596996" sZ="0.061483" angle="135" ax="0" ay="1" az="0" tx="-0.0799" ty="0.5999" tz="-0.0799" />
+    <Box sX="0.032279" sY="0.118708" sZ="0.061483" angle="0" ax="1" ay="0" az="0" tx="-0.0017" ty="0.6792" tz="0.0022" />
+    <Box sX="0.605462" sY="0.249336" sZ="0.061483" angle="119.2961" ax="1" ay="0" az="0" tx="-0.0017" ty="0.6009" tz="0.2725" />
+    <Box sX="0.510397" sY="0.320037" sZ="0.061483" angle="136.9216" ax="0.6098" ay="0.4258" az="-0.6684" tx="0.3678" ty="0.592" tz="-0.0221" />
+    <Box sX="0.334114" sY="0.320037" sZ="0.061483" angle="165.7945" ax="0.2127" ay="-0.53" az="0.8209" tx="-0.2148" ty="0.602" tz="-0.2751" />
+    <Box sX="0.334114" sY="0.320037" sZ="0.061483" angle="138.7152" ax="0.602" ay="-0.4375" az="0.6679" tx="-0.3485" ty="0.602" tz="0.0182" />
+  </Collision>
+  <Connectivity>
+    <Axel type="21" length="0.7" grabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="21" length="0.32" grabbing="0" startCapped="0" endCapped="1" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.2" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.7703" minY="0" minZ="-0.752" maxX="0.7703" maxY="1.2" maxZ="0.7964" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7703" minY="0" minZ="-0.752" maxX="0.7703" maxY="1.2" maxZ="0.7964" />
+  </GeometryBounding>
+</LEGOPrimitive>

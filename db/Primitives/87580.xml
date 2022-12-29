@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2021-02-23
-	Comments: Made decoratable.
+	Last modification: 2022-10-17
+	Comments: v0.0: Initial creation [The LEGO Group]
+v0.1: Made decoratable [Stephan]
+v0.2: Updated colission data [Stephan] 2022-10-17
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,8 +17,11 @@
     <Annotation version="5" />
   </Annotations>
   <Collision>
-    <Box sX="0.79" sY="0.125" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.185" tz="-0.4" />
-    <Box sX="0.722571" sY="0.015" sZ="0.722571" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.025" tz="-0.4" />
+    <Box sX="0.79" sY="0.048795" sZ="0.795555" angle="0" ax="1" ay="0" az="0" tx="0.4036" ty="0.2688" tz="-0.4" />
+    <Box sX="0.79" sY="0.141478" sZ="0.064833" angle="0" ax="1" ay="0" az="0" tx="0.4036" ty="0.1523" tz="0.3177" />
+    <Box sX="0.79" sY="0.141478" sZ="0.064833" angle="0" ax="1" ay="0" az="0" tx="0.4036" ty="0.1523" tz="-1.1168" />
+    <Box sX="0.79" sY="0.141478" sZ="0.064833" angle="90" ax="0" ay="1" az="0" tx="1.1209" ty="0.1523" tz="-0.3996" />
+    <Box sX="0.79" sY="0.141478" sZ="0.064833" angle="90" ax="0" ay="1" az="0" tx="-0.3136" ty="0.1523" tz="-0.3996" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.32" tz="-0.8">

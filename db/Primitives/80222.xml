@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Created for LDD by: jester
-	Last modification: 2022-05-30
-	Comments: Colission data by Stephan.
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: jester
+	Last modification: 2022-09-10
+	Comments: v0.0: Initial creation [jester] 2022-05-30.
+v0.1: Added colission data [Stephan] 2022-05-30.
+v0.2: Updated 3D model [jester] 2022-09-10.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -66,10 +70,10 @@
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="1.46" maxZ="5.2" />
+    <AABB minX="-0.3958" minY="0" minZ="-0.3923" maxX="4.3958" maxY="1.44" maxZ="5.1952" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="1.46" maxZ="5.2" />
+    <AABB minX="-0.3958" minY="0" minZ="-0.3923" maxX="4.3958" maxY="1.44" maxZ="5.1952" />
   </GeometryBounding>
   <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

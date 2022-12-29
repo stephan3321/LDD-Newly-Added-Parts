@@ -3,7 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
-	Last modification: 2022-04-16
+	Last modification: 2022-07-27
+	Comments: v0.0: Initial release.
+v0.1: Added decoration surface [Stephan] 2022-07-27.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -32,7 +34,7 @@
     <Box sX="0.048143" sY="0.395338" sZ="0.092545" angle="111.752" ax="-0.6777" ay="0.52" az="-0.52" tx="0.0696" ty="-0.283" tz="-0.4006" />
     <Box sX="0.048143" sY="0.395338" sZ="0.092545" angle="129.0066" ax="-0.4769" ay="0.6215" az="-0.6215" tx="0.0774" ty="0.2819" tz="-0.4006" />
     <Box sX="0.048143" sY="0.395338" sZ="0.092545" angle="129.0066" ax="-0.4769" ay="0.6215" az="-0.6215" tx="-0.0685" ty="-0.2847" tz="-0.4006" />
-    <Box sX="0.047792" sY="0.395338" sZ="0.168503" angle="112.903" ax="-0.6631" ay="0.5293" az="-0.5293" tx="-0.502" ty="0.2447" tz="-0.4006" />
+    <Box sX="0.047792" sY="0.395338" sZ="0.168503" angle="112.9031" ax="-0.6631" ay="0.5293" az="-0.5293" tx="-0.502" ty="0.2447" tz="-0.4006" />
     <Box sX="0.040044" sY="0.395338" sZ="0.168503" angle="107.6495" ax="-0.7312" ay="0.4823" az="-0.4823" tx="-0.8561" ty="0.1308" tz="-0.4006" />
     <Box sX="0.044995" sY="0.362174" sZ="0.054981" angle="104.146" ax="-0.7792" ay="0.4432" az="-0.4432" tx="-1.1097" ty="0.0086" tz="-0.4006" />
     <Box sX="0.044331" sY="0.321935" sZ="0.007366" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-1.1785" ty="-0.0378" tz="-0.4006" />
@@ -47,5 +49,6 @@
   <GeometryBounding>
     <AABB minX="-1.1876" minY="-0.36" minZ="-0.8" maxX="0.36" maxY="0.36" maxZ="0" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
   <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0" />
 </LEGOPrimitive>

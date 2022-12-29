@@ -4,12 +4,14 @@
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: jester
 	Last modification: 2021-07-14
-	Comments: Collision data by Stephan.
+	Comments: v0.0: Initial creation [jester]
+v0.1: Added collision data [Stephan] 2021-07-14
+v0.2: Updated name [Stephan] 2022-12-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="79393" />
-    <Annotation designname="Tile 3 x 3 Corner Round" />
+    <Annotation designname="TILE 3X3, W/ BOW" />
     <Annotation maingroupid="217" />
     <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
     <Annotation platformid="200" />

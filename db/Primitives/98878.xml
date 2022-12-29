@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: jester
+	Last modification: 2022-10-29
+	Comments: v0.0: Initial creation [jester] 2022-05-07
+v0.1: Added colission data [Stephan] 2022-10-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98878" />
+    <Annotation designname="COCKPIT 4X10X2 W/3.2 SHAFT" />
+    <Annotation maingroupid="277" />
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="7" length="1.12" requireGrabbing="0" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.96" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-2" minY="-1.84" minZ="-0.24" maxX="1.2" maxY="0.24" maxZ="8.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="-1.84" minZ="-0.24" maxX="1.2" maxY="0.24" maxZ="8.4" />
+  </GeometryBounding>
+</LEGOPrimitive>
