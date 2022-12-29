@@ -212,4 +212,5 @@
 	<Material MatID="369" Red="255" Green="255" Blue="255" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="370" Red="118" Green="87" Blue="69" Alpha="255" MaterialType="shinyPlastic"/>
 	<Material MatID="371" Red="205" Green="165" Blue="116" Alpha="255" MaterialType="shinyPlastic"/>
+	<Material MatID="376" Red="250" Green="241" Blue="93" Alpha="150" MaterialType="shinyPlastic"/>
 </Materials>
