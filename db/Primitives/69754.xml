@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-12-20
+	Last modification: 2022-12-31
 	Comments: v0.0: Initial creation [jester] 2022-10-12
 v0.1: Added colission data [Stephan] 2022-12-20
+v0.2: Updated connection data [Stephan] 2022-12-31
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -47,7 +48,7 @@ v0.1: Added colission data [Stephan] 2022-12-20
       18:1:1,23:4:1,18:1:1
     </Custom2DField>
     <Hinge type="209" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0.9984" tz="1.412" />
-    <Custom2DField type="23" width="2" height="2" angle="98.4211" ax="0.3574" ay="0.3574" az="-0.8629" tx="-0.184" ty="1.147" tz="2.0505">
+    <Custom2DField type="23" width="2" height="2" angle="98.4211" ax="0.3574" ay="0.3574" az="-0.8629" tx="-0.2343" ty="1.147" tz="2.0505">
       18:1:1,23:4:1,18:1:1,
       23:4:1,0:4:1,23:4:1,
       18:1:1,23:4:1,18:1:1

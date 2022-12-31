@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-09-17
-	Comments: v0.0: Initial release [Stephan] 2022-09-17.
+	Last modification: 2022-12-31
+	Comments: v0.0: Initial release [Stephan] 2022-09-17
+v0.1: Updated connection data [Stephan] 2022-12-31
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -15,7 +16,7 @@
     <Annotation platformid="300" />
     <Annotation platformname="TECHNIC" />
     <Annotation version="6" />
-    <Annotation wireMarker="0,90,0,0,0,-0.95"/>
+    <Annotation wireMarker="0,90,0,0,0,-0.95" />
   </Annotations>
   <Collision>
     <Box sX="0.22947" sY="0.285526" sZ="0.31504" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5627" tz="-0.2754" />
@@ -31,9 +32,9 @@
     <Box sX="0.051372" sY="0.221912" sZ="0.31504" angle="120.8918" ax="0" ay="0" az="1" tx="0" ty="0.8043" tz="0.2839" />
   </Collision>
   <Connectivity>
-    <Axel type="3" length="0.55" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.8" tz="0.5985" />
+    <Axel type="5" length="0.55" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.8" tz="0.5985" />
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.177521,0,0,0,1.22525,0,0,0,1.24756" centerOfMass="1.76551,0.5475,-0.482501" mass="1" frictionType="0"/>
+  <PhysicsAttributes inertiaTensor="0.177521,0,0,0,1.22525,0,0,0,1.24756" centerOfMass="1.76551,0.5475,-0.482501" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-0.24" minY="0" minZ="-0.6" maxX="0.24" maxY="1.04" maxZ="0.6" />
   </Bounding>
