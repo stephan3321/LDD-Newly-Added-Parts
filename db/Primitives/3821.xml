@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-03-18
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated collision data [Stephan] 2023-03-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3821" />
+    <Annotation designname="RIGHT DOOR 1X3" />
+    <Annotation maingroupid="226" />
+    <Annotation maingroupname="GATES AND ROOFS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.99" sY="0.065" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1" ty="0.48" tz="-0.325" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="148.6003" ax="0.2811" ay="0.6786" az="-0.6786" tx="0.2259" ty="0.48" tz="0.2259" />
+    <Box sX="0.214899" sY="0.165" sZ="0.066816" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.6" ty="0.48" tz="-0.425" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="148.6003" ax="0.2811" ay="0.6786" az="-0.6786" tx="-0.222" ty="0.48" tz="-0.222" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="176.465" ax="0.0309" ay="0.7068" az="-0.7068" tx="0.3175" ty="0.48" tz="0.0296" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="176.465" ax="0.0309" ay="0.7068" az="-0.7068" tx="-0.3136" ty="0.48" tz="-0.0256" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="155.4468" ax="0.2176" ay="-0.6902" az="0.6902" tx="0.2614" ty="0.48" tz="-0.1797" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="155.4468" ax="0.2176" ay="-0.6902" az="0.6902" tx="-0.2575" ty="0.48" tz="0.1836" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="129.0066" ax="0.4769" ay="-0.6215" az="0.6215" tx="0.0839" ty="0.48" tz="-0.304" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="129.0066" ax="0.4769" ay="-0.6215" az="0.6215" tx="-0.08" ty="0.48" tz="0.3079" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="111.752" ax="0.6777" ay="-0.52" az="0.52" tx="-0.08" ty="0.48" tz="-0.304" />
+    <Box sX="0.059776" sY="0.103765" sZ="0.47" angle="111.752" ax="0.6777" ay="-0.52" az="0.52" tx="0.0839" ty="0.48" tz="0.3079" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.093554,0,0,0,0.317023,0,0,0,0.339054" centerOfMass="0.462803,0.533248,-0.140364" mass="0.59399998188" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.6" maxX="2" maxY="1.138" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.6" maxX="2" maxY="1.138" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

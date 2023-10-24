@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2023-02-11
+	Comments: v0.0: Initial creation [jester] 2023-02-04
+v0.1: Added collision data [Stephan] 2023-02-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3130" />
+    <Annotation designname="WALL 2X2X1, NO. 1" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.787647" sY="0.150557" sZ="0.793543" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1606" tz="0.4" />
+    <Box sX="0.397862" sY="0.325576" sZ="0.07563" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.6319" tz="1.118" />
+    <Box sX="0.397862" sY="0.325576" sZ="0.07563" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.6319" tz="-0.3185" />
+    <Box sX="0.397862" sY="0.325576" sZ="0.07563" angle="89.6466" ax="0" ay="-1" az="0" tx="-0.3183" ty="0.6319" tz="0.4042" />
+    <Box sX="0.397862" sY="0.325576" sZ="0.07563" angle="89.6466" ax="0" ay="-1" az="0" tx="1.1183" ty="0.6319" tz="0.3953" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

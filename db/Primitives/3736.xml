@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3736"/>
+    <Annotation designname="STEERING WHEEL/CRANK"/>
+    <Annotation maingroupid="372"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.062607" sY="0.062607" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.180107" ty="0.180107" tz="-0.4"/>
+    <Box sX="0.062607" sY="0.062607" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="-0.180107" ty="-0.180107" tz="-0.4"/>
+    <Box sX="0.062607" sY="0.062607" sZ="0.39" angle="180" ax="0" ay="0" az="1" tx="0.180107" ty="-0.180107" tz="-0.4"/>
+    <Box sX="0.062607" sY="0.062607" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="0.180107" ty="0.180107" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.53943" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="60" ax="0" ay="0" az="1" tx="-1.33319" ty="0.769716" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="120" ax="0" ay="0" az="1" tx="-1.33319" ty="-0.769716" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="180" ax="0" ay="0" az="1" tx="0" ty="-1.53943" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="120" ax="0" ay="0" az="-1" tx="1.33319" ty="-0.769716" tz="-0.4"/>
+    <Box sX="0.847661" sY="0.039431" sZ="0.176602" angle="60" ax="0" ay="0" az="-1" tx="1.33319" ty="0.769716" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="180" ax="0" ay="1" az="0" tx="-0.933301" ty="0" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="180" ax="0.707107" ay="0.707107" az="0" tx="-1.2" ty="-0.266699" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="180" ax="1" ay="0" az="0" tx="-1.4667" ty="0" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="-1.2" ty="0.266699" tz="-0.4"/>
+    <Box sX="0.268133" sY="0.129877" sZ="0.129877" angle="180" ax="0" ay="0.92388" az="0.382683" tx="-0.644739" ty="0" tz="-0.399437"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="0" ax="0" ay="1" az="0" tx="0.933301" ty="0" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="90" ax="0" ay="0" az="1" tx="1.2" ty="-0.266699" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="180" ax="0" ay="0" az="1" tx="1.4667" ty="0" tz="-0.4"/>
+    <Box sX="0.006705" sY="0.146419" sZ="0.3" angle="90" ax="0" ay="0" az="-1" tx="1.2" ty="0.266699" tz="-0.4"/>
+    <Box sX="0.268133" sY="0.129877" sZ="0.129877" angle="45" ax="1" ay="0" az="0" tx="0.644739" ty="0" tz="-0.399437"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-1.2" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.2" ty="0" tz="0"/>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.47963,0,0,0,1.78319,0,0,0,3.20167" centerOfMass="0,0,-0.400059" mass="1.71399998665" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.84" minY="-1.84" minZ="-0.8" maxX="1.84" maxY="1.84" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.84" minY="-1.84" minZ="-0.8" maxX="1.84" maxY="1.84" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

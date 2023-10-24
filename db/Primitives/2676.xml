@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-04-28
+	Comments: v0.0: Initial creation [Stephan] 2023-04-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2676" />
+    <Annotation designname="MINI BEARD, NO. 6" />
+    <Annotation maingroupid="252" />
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.258458" sY="0.548804" sZ="0.117117" angle="0" ax="1" ay="0" az="0" tx="-0.0436" ty="-0.4592" tz="-0.5396" />
+    <Box sX="0.248656" sY="0.570839" sZ="0.034295" angle="0" ax="1" ay="0" az="0" tx="0.0086" ty="-0.3267" tz="-0.5375" />
+    <Box sX="0.556547" sY="0.752425" sZ="0.075185" angle="0" ax="1" ay="0" az="0" tx="0.0188" ty="-0.3037" tz="0.5982" />
+    <Box sX="0.458046" sY="0.025195" sZ="0.208122" angle="90" ax="0" ay="1" az="0" tx="-0.5424" ty="0.0359" tz="0.0441" />
+    <Box sX="0.458046" sY="0.025195" sZ="0.208122" angle="180" ax="0" ay="1" az="0" tx="0.0423" ty="0.0359" tz="0.5429" />
+    <Box sX="0.458046" sY="0.025195" sZ="0.208122" angle="90" ax="0" ay="-1" az="0" tx="0.5411" ty="0.0359" tz="-0.0418" />
+    <Box sX="0.2405" sY="0.183475" sZ="0.030282" angle="90" ax="0" ay="1" az="0" tx="0.5379" ty="0.1741" tz="0.078" />
+    <Box sX="0.2405" sY="0.183475" sZ="0.030282" angle="90" ax="0" ay="-1" az="0" tx="-0.5264" ty="0.1741" tz="0.0062" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="-0.0218" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="-0.0218" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.513049,0,0,0,0.411132,0,0,0,0.398456" centerOfMass="0.00586,-0.36184,0.003283" mass="0.899999976158" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8092" minY="-1.161" minZ="-0.6776" maxX="0.7732" maxY="0.4542" maxZ="0.7094" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8092" minY="-1.161" minZ="-0.6776" maxX="0.7732" maxY="0.4542" maxZ="0.7094" />
+  </GeometryBounding>
+</LEGOPrimitive>

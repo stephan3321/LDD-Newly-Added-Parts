@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Jester
+	Last modification: 2023-02-11
+	Comments: v0.0: Initial creation [jester] 2023-02-07
+v0.1: Updated 3D model, added collision data [Stephan] 2023-02-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2657" />
+    <Annotation designname="INTERIOR, NO. 7" />
+    <Annotation maingroupid="227" />
+    <Annotation maingroupname="INTERIOR" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.974374" sY="2.019294" sZ="0.02862" angle="0" ax="1" ay="0" az="0" tx="0.9081" ty="2.1964" tz="0" />
+    <Box sX="0.849491" sY="0.024893" sZ="0.100682" angle="0" ax="1" ay="0" az="0" tx="0.9081" ty="4.2572" tz="0" />
+    <Box sX="0.849491" sY="0.024893" sZ="0.100682" angle="0" ax="1" ay="0" az="0" tx="0.9081" ty="0.1072" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="47" oriented="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="2.19" tz="0" />
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="1.14" ty="2.59" tz="0.14">
+      29:0,29:0,29:0,
+      29:0,1:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.15" minY="0" minZ="-0.15" maxX="1.92" maxY="4.38" maxZ="0.3" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.15" minY="0" minZ="-0.15" maxX="1.92" maxY="4.38" maxZ="0.3" />
+  </GeometryBounding>
+</LEGOPrimitive>

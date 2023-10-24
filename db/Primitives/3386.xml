@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2023-03-18
+	Comments: v0.0: Initial creation [Stephan] 2023-03-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3386" />
+    <Annotation designname="PLATE 1X1X2/3, W/ 1 KNOB, ROUNDED" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.115951" sZ="0.074734" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1202" tz="0.3209" />
+    <Box sX="0.312608" sY="0.115951" sZ="0.074734" angle="90" ax="0" ay="0" az="-1" tx="0.2787" ty="0.3213" tz="0.3209" />
+    <Box sX="0.312608" sY="0.115951" sZ="0.074734" angle="90" ax="0" ay="0" az="-1" tx="-0.2822" ty="0.3213" tz="0.3209" />
+    <Box sX="0.312608" sY="0.194258" sZ="0.074734" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0.3222" ty="0.3213" tz="0.2017" />
+    <Box sX="0.312608" sY="0.194258" sZ="0.074734" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="-0.3226" ty="0.3213" tz="0.2017" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="90" ax="0" ay="0" az="-1" tx="0.0005" ty="0.3213" tz="-0.3191" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="94.4214" ax="-0.2675" ay="0.2675" az="-0.9257" tx="-0.1854" ty="0.3213" tz="-0.2624" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="103.3677" ax="-0.4333" ay="0.4333" az="-0.7902" tx="-0.2649" ty="0.3213" tz="-0.1804" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="114.3032" ax="-0.54" ay="0.54" az="-0.6457" tx="-0.321" ty="0.3213" tz="-0.0543" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="94.7618" ax="0.2769" ay="-0.2769" az="-0.9201" tx="0.1833" ty="0.3213" tz="-0.2662" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="102.5499" ax="0.4225" ay="-0.4225" az="-0.8019" tx="0.2688" ty="0.3213" tz="-0.1823" />
+    <Box sX="0.312608" sY="0.073353" sZ="0.063521" angle="113.5939" ax="0.5346" ay="-0.5346" az="-0.6545" tx="0.3155" ty="0.3213" tz="-0.067" />
+    <Box sX="0.398574" sY="0.194258" sZ="0.035302" angle="90" ax="1" ay="0" az="0" tx="-0.0001" ty="0.6024" tz="0.2" />
+    <Box sX="0.361204" sY="0.093069" sZ="0.035302" angle="90" ax="1" ay="0" az="0" tx="-0.0001" ty="0.6024" tz="-0.0577" />
+    <Box sX="0.278781" sY="0.093069" sZ="0.035302" angle="90" ax="1" ay="0" az="0" tx="-0.0001" ty="0.6024" tz="-0.1908" />
+    <Box sX="0.145813" sY="0.076243" sZ="0.035302" angle="90" ax="1" ay="0" az="0" tx="-0.0001" ty="0.6024" tz="-0.2898" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.8" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,3:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.64" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Axel type="6" length="0.327" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.4" tz="0.567" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.073522,0,0,0,0.060028,0,0,0,0.07022" centerOfMass="-0.006787,0.553572,0.011305" mass="0.42199999094" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.8" maxZ="0.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.8" maxZ="0.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2023-02-01
+	Comments: v0.0: Initial creation [Stephan] 2023-02-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1872;100729" />
+    <Annotation designname="HUBCAP, DIA. 14.8, NO. 2" />
+    <Annotation maingroupid="267" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.230514" sY="0.695119" sZ="0.074837" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7538" tz="0.0503" />
+    <Box sX="0.230514" sY="0.695119" sZ="0.074837" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.7538" tz="0.0503" />
+    <Box sX="0.230514" sY="0.695119" sZ="0.074837" angle="44.2339" ax="0" ay="0" az="-1" tx="0" ty="0.7538" tz="0.0503" />
+    <Box sX="0.230514" sY="0.695119" sZ="0.074837" angle="134.2339" ax="0" ay="0" az="-1" tx="0" ty="0.7538" tz="0.0503" />
+    <Box sX="0.300316" sY="0.266866" sZ="0.074837" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8103" tz="0.1791" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.14" tz="-0.16">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.75" minY="0" minZ="-0.1597" maxX="0.75" maxY="1.5" maxZ="0.2597" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.75" minY="0" minZ="-0.1597" maxX="0.75" maxY="1.5" maxZ="0.2597" />
+  </GeometryBounding>
+</LEGOPrimitive>

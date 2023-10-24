@@ -1,15 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-05-26
-	Comments: v0.0: Initial creation [The LEGO Group]
-	v0.1: Made decorable [Stephan] 2021-02-08
-	v0.2: Updated 3D model, updated decoration surfaces [Stephan] 2023-05-19
+	Comments: v0.0: Initial creation [Stephan] 2023-05-19
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="3001;6210;54534;72841" />
-    <Annotation designname="BRICK 2X4" />
+    <Annotation aliases="3556" />
+    <Annotation designname="BRICK 2X4 [PC, 2023-current]" />
     <Annotation maingroupid="201" />
     <Annotation maingroupname="BRICKS" />
     <Annotation platformid="200" />

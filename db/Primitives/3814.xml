@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2021-02-26
+	Created for LDD by: Stephan
+	Last modification: 2022-12-30
+	Comments: v0.0: Initial creation [The LEGO Group]
+v0.1: Adjusted UV maps [Equilibrium] 2022-12-08
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -13,7 +16,7 @@
     <Annotation version="8" />
   </Annotations>
   <Collision>
-    <Box sX="0.039748" sY="0.39" sZ="0.625412" angle="173.3945" ax="-0.0577" ay="0.7059" az="-0.7059" tx="1.0146" ty="0.6437" tz="0" />
+    <Box sX="0.039748" sY="0.39" sZ="0.625412" angle="173.3946" ax="-0.0577" ay="0.7059" az="-0.7059" tx="1.0146" ty="0.6437" tz="0" />
     <Box sX="0.027" sY="0.64882" sZ="0.309051" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.4024" ty="0.3191" tz="-0.363" />
     <Box sX="0.027" sY="0.64882" sZ="0.309051" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.4024" ty="0.3191" tz="0.363" />
     <Box sX="0.31" sY="0.556618" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="0.4012" ty="0.96" tz="0" />

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2021-01-30
+	Last modification: 2022-09-06
+	Comments: v0.1: Updated colission data [Stephan] 2022-09-06.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -14,7 +15,11 @@
     <Annotation version="4" />
   </Annotations>
   <Collision>
-    <Box sX="0.39" sY="0.15" sZ="1.19" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.8" ty="0.16" tz="0" />
+    <Box sX="0.39" sY="0.024835" sZ="1.19" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.8" ty="0.2444" tz="0" />
+    <Box sX="0.062481" sY="0.15" sZ="1.19" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.8" ty="0.16" tz="0.3307" />
+    <Box sX="0.062481" sY="0.15" sZ="1.19" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.8" ty="0.16" tz="-0.3315" />
+    <Box sX="0.062481" sY="0.15" sZ="0.395236" angle="180" ax="1" ay="0" az="0" tx="1.923" ty="0.16" tz="-0.0004" />
+    <Box sX="0.062481" sY="0.15" sZ="0.395236" angle="180" ax="1" ay="0" az="0" tx="-0.3279" ty="0.16" tz="-0.0004" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
