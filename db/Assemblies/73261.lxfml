@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+v0.0: Initial creation [Stephan] 2023-05-29
+-->
+<LXFML versionMajor="5" versionMinor="0">
+        <Meta>
+		<Annotation aliases="73261"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="ELECTRIC 4.5 V C-CELL BATTERY BOX POLARITY SWITCH"/>
+    <Annotation wire="4352;4354"/>
+	</Meta>
+        <Bricks>
+                <Brick refID="0" designID="4352">
+                        <Part refID="0" designID="4352" materials="21,0,0">
+                                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.40000000596046448,0,-0.40000000596046448"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="4354">
+                        <Part refID="1" designID="4354" materials="24">
+                                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.80000001192092896,0.00090382213238626719,0"/>
+	                </Part>
+		</Brick>
+	</Bricks>
+</LXFML>

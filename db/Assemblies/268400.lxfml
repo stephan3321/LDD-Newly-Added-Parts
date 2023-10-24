@@ -27,13 +27,13 @@ Created for LDD by Equilibrium
 				<Bone refID="2" transformation="-1,0,0,0,0,1,0,1,0,0,1.14,-2.1718" freeze="no"/>
 			</Part>
 		</Brick>
-		<Brick refID="3" designID="2682" uuid="bdb0f18c-bdce-49bb-980c-789bf8ca201d">
-			<Part refID="3" designID="2682" materials="21">
+		<Brick refID="3" designID="268200" uuid="bdb0f18c-bdce-49bb-980c-789bf8ca201d">
+			<Part refID="3" designID="268200" materials="21">
 				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,0,0.94,0" freeze="no"/>
 			</Part>
 		</Brick>
-		<Brick refID="4" designID="2683" uuid="9fa8079d-7fde-4864-b7ce-c766fcc76d55">
-			<Part refID="4" designID="2683" materials="21">
+		<Brick refID="4" designID="268300" uuid="9fa8079d-7fde-4864-b7ce-c766fcc76d55">
+			<Part refID="4" designID="268300" materials="21">
 				<Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,-0.4,5.48,0.4" freeze="no"/>
 			</Part>
 		</Brick>

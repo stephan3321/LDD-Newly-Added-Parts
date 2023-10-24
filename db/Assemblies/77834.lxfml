@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by jester [2022-12-15].
+-->
+<LXFML versionMajor="5" versionMinor="0">
+        <Meta>
+		<Annotation aliases="77834"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="2X4X5 BRICK, W/ SPRING, NO. 1"/>
+    <Annotation wire=""/>
+	</Meta>
+        <Bricks>
+                <Brick refID="0" designID="80432">
+                        <Part refID="0" designID="80432" materials="24">
+                                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.5999998092651367,0,-0.00000000596046448"/>
+                        </Part>
+                </Brick>
+                <Brick refID="1" designID="80433">
+                        <Part refID="1" designID="80433" materials="24,24">
+                                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.79999973773956299,1.9199999570846558,-0.00000000596046448"/>
+	                </Part>
+		</Brick>
+	</Bricks>
+</LXFML>

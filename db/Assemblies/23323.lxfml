@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="23323">
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Chris Dee [cwdee]
+	Editted for LDD by: Jester
+	Last modification: 2023-02-21
+	Comments: v0.0: Initial creation [jester] 2023-01-04
+	v0.1: Added collision data [Stephan] 2023-02-21
+-->
+  <Meta>
+	<Annotation platformid="300"/>
+	<Annotation platformname="TECHNIC"/>
+	<Annotation maingroupid="392"/>
+	<Annotation maingroupname="ELECTRIC PARTS"/>
+	<Annotation designname="Electric Bionicle Motor Remote Control Receiver Unit (Manas)"/>
+	<Annotation aliases="23323"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="43.683116912841797" transformation="0.95966178178787231,0,-0.28115755319595337,-0.086602173745632172,0.95138001441955566,-0.29559507966041565,0.26748761534690857,0.30802008509635925,0.91300284862518311,10.084691047668457,16.215276718139648,39.882808685302734"/>
+  </Cameras>
+  <Bricks>
+    <Brick refID="0" designID="9270">
+      <Part refID="0" designID="9270" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,6.4000000953674316,3.2800045013427734,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="9271">
+      <Part refID="1" designID="9271" materials="21">
+        <Bone refID="1" transformation="0,1,0,1,0,0,0,0,-1,13.600000381469727,2.1600046157836914,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="9275">
+      <Part refID="2" designID="9275" materials="21">
+        <Bone refID="2" transformation="0,1,0,-1,0,0,0,0,1,0.80000019073486328,2.1600046157836914,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="9272">
+      <Part refID="3" designID="9272" materials="21">
+        <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,8,3.2000045776367187,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="9273">
+      <Part refID="4" designID="9273" materials="21">
+        <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,7.2000007629394531,3.7600047588348389,-0.080000162124633789">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="23323">
+      <Part refID="5" designID="23323" materials="21">
+        <Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,0.40000057220458984,1.6000044345855713,-3.6000001430511475">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="6" designID="23324">
+      <Part refID="6" designID="23324" materials="21,21">
+        <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,0.40000057220458984,0,-3.6000001430511475">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="7" designID="9274">
+      <Part refID="7" designID="9274" materials="21">
+        <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,-2.4000012874603271,0.00050449371337890625,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="8" designID="9274">
+      <Part refID="8" designID="9274" materials="21">
+        <Bone refID="8" transformation="1,0,0,0,1,0,0,0,1,7.2000007629394531,0.00050449371337890625,-2.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>
