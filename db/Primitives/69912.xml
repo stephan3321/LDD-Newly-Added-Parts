@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Equilibrium
+	Last modification: 2023-08-21
+	Comments: v0.0: Initial creation [Stephan] 2023-08-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69912" />
+    <Annotation designname="TYRE TRACTOR DIA. 81X35, NO. 1" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="3.0158" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="157.4668" ax="-0.1992" ay="-0.6929" az="0.6929" tx="1.6017" ty="2.5553" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="136.5882" ax="-0.3981" ay="-0.6487" az="0.6487" tx="2.6888" ty="1.3658" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="116.5062" ax="-0.6187" ay="-0.5555" az="0.5555" tx="2.9984" ty="-0.3239" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="101.3237" ax="-0.8196" ay="-0.4051" az="0.4051" tx="2.396" ty="-1.8315" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="91.3679" ax="-0.9764" ay="-0.1527" az="0.1527" tx="0.9207" ty="-2.8718" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="91.0627" ax="-0.9816" ay="0.1349" az="-0.1349" tx="-0.8138" ty="-2.9039" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="99.7787" ax="-0.8424" ay="0.381" az="-0.381" tx="-2.2648" ty="-1.9914" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="114.8719" ax="-0.6386" ay="0.5441" az="-0.5441" tx="-2.9775" ty="-0.479" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="134.6605" ax="-0.4177" ay="0.6425" az="-0.6425" tx="-2.7563" ty="1.2238" tz="-0.4" />
+    <Box sX="1.00613" sY="0.932524" sZ="0.865328" angle="156.821" ax="-0.2051" ay="0.6921" az="-0.6921" tx="-1.643" ty="2.5289" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="2.9831" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="156.479" ax="-0.2082" ay="0.6916" az="-0.6916" tx="-1.6467" ty="2.4874" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="131.9308" ax="-0.446" ay="0.6329" az="-0.6329" tx="-2.8092" ty="1.0037" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="112.243" ax="-0.6714" ay="0.524" az="-0.524" tx="-2.8937" ty="-0.7247" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="97.526" ax="-0.8766" ay="0.3403" az="-0.3403" tx="-2.0128" ty="-2.2017" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="90.1368" ax="-0.9976" ay="0.0488" az="-0.0488" tx="-0.2912" ty="-2.9689" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="93.7784" ax="-0.9361" ay="-0.2486" az="0.2486" tx="1.4802" ty="-2.5899" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="107.5345" ax="-0.7328" ay="-0.4812" az="0.4812" tx="2.7374" ty="-1.1856" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="129.0621" ax="-0.4763" ay="-0.6217" az="0.6217" tx="2.8802" ty="0.7766" tz="-0.4" />
+    <Box sX="1.00613" sY="1.648219" sZ="0.375409" angle="153.3272" ax="-0.2371" ay="-0.687" az="0.687" tx="1.8398" ty="2.3482" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4" />
+    <Fixed type="14" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.3144,0,0,0,2.31649,0,0,0,3.96422" centerOfMass="-1.19209E-07,0,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-4.037" minY="-4.0377" minZ="-2.1152" maxX="4.037" maxY="4.0363" maxZ="1.3152" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.037" minY="-4.0377" minZ="-2.1152" maxX="4.037" maxY="4.0363" maxZ="1.3152" />
+  </GeometryBounding>
+</LEGOPrimitive>

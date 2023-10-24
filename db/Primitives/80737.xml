@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-07-29
+	Comments: v0.0: Initial Creation [Stephan] 2023-07-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80737" />
+    <Annotation designname="POWERED UP Battery Lid - Screw-Opening" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="13" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="3" axes="2" angle="90" ax="0" ay="0" az="-1" tx="-0.8" ty="1.88" tz="-3.6" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-2.3399,1.35,-3.6" mass="18.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-5.8" minY="0.944" minZ="-6.4" maxX="1.32" maxY="2" maxZ="-0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.8" minY="0.944" minZ="-6.4" maxX="1.32" maxY="2" maxZ="-0.8" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

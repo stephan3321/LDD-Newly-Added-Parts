@@ -3,7 +3,7 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Vincent Messenet [Cheenzo]
 	Editted for LDD by: Stephan
-	Last modification: 2021-04-03
+	Last modification: 2022-10-26
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -17,13 +17,13 @@
   </Annotations>
   <Collision>
     <Box sX="0.39" sY="0.156704" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1587" tz="0" />
-    <Box sX="0.314" sY="0.069286" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.004" ty="0.8767" tz="0" />
+    <Box sX="0.314" sY="0.052425" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.004" ty="0.8767" tz="0" />
     <Box sX="0.061689" sY="0.47" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.3369" ty="0.48" tz="0" />
-    <Box sX="0.061689" sY="0.47" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.3049" ty="0.48" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.7346" tz="0" />
+    <Box sX="0.061689" sY="0.47" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.3149" ty="0.48" tz="0" />
+    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.7658" tz="0" />
     <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.38" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1484" ty="0.7346" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1484" ty="0.38" tz="0" />
+    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1608" ty="0.7912" tz="0" />
+    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1547" ty="0.38" tz="0" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
@@ -36,7 +36,7 @@
       23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:1:1
     </Custom2DField>
-    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.5617" tz="0.4" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0.5788" tz="0.4" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.060351,0,0,0,0.04956,0,0,0,0.067693" centerOfMass="0,0.523904,0" mass="0.40000000596" frictionType="0" />
   <Bounding>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2023-05-30
+	Comments: v0.0: Initial creation [jester] 2022-06-28
+	v0.1: Added collision data [Stephan] 2023-05-30
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80577" />
+    <Annotation designname="MINI WIG, W/ HAT, NO. 31" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.599949" sY="0.638437" sZ="0.090094" angle="0" ax="1" ay="0" az="0" tx="0" ty="-1.0329" tz="-0.636" />
+    <Box sX="0.361542" sY="0.306224" sZ="0.041237" angle="23.8494" ax="1" ay="0" az="0" tx="0" ty="-0.0372" tz="-0.53" />
+    <Box sX="0.421861" sY="0.371398" sZ="0.090094" angle="97.6349" ax="0.0266" ay="0.9995" az="-0.0146" tx="-0.6375" ty="-0.7674" tz="0.0033" />
+    <Box sX="0.421861" sY="0.371398" sZ="0.090094" angle="85.1825" ax="0.0022" ay="0.9989" az="-0.0471" tx="0.6376" ty="-0.8977" tz="-0.0226" />
+    <Box sX="0.326327" sY="0.227155" sZ="0.031152" angle="180" ax="0" ay="0.9784" az="-0.2066" tx="0" ty="0.0388" tz="0.4727" />
+    <Box sX="0.326327" sY="0.227155" sZ="0.031152" angle="92.3445" ax="0.2027" ay="-0.9581" az="0.2023" tx="0.4727" ty="0.0388" tz="-0.0009" />
+    <Box sX="0.326327" sY="0.227155" sZ="0.031152" angle="93.9355" ax="0.1972" ay="0.9592" az="-0.2026" tx="-0.4726" ty="0.0388" tz="0.0128" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.8748" minY="-1.7576" minZ="-0.9724" maxX="0.8828" maxY="0.4062" maxZ="0.6584" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8748" minY="-1.7576" minZ="-0.9724" maxX="0.8828" maxY="0.4062" maxZ="0.6584" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

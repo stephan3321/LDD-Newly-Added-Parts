@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Willy Tschager [Holly-Wood]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="72514" />
+    <Annotation designname="BELVILLE CROWN, MINI" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.09707" sY="0.031067" sZ="0.315311" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4742" tz="0" />
+    <Box sX="0.09707" sY="0.031067" sZ="0.315311" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.4742" tz="0" />
+    <Box sX="0.09707" sY="0.031067" sZ="0.315311" angle="85" ax="0" ay="-1" az="0" tx="0" ty="0.4742" tz="0" />
+    <Box sX="0.09707" sY="0.031067" sZ="0.315311" angle="120" ax="0" ay="-1" az="0" tx="0" ty="0.4742" tz="0" />
+    <Box sX="0.09707" sY="0.031067" sZ="0.315311" angle="145" ax="0" ay="-1" az="0" tx="0" ty="0.4742" tz="0" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3862" tz="0.2748" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3862" tz="-0.2702" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="30" ax="0" ay="1" az="0" tx="0.1363" ty="0.3862" tz="0.2383" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="30" ax="0" ay="1" az="0" tx="-0.1363" ty="0.3862" tz="-0.2337" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="65" ax="0" ay="1" az="0" tx="0.247" ty="0.3862" tz="0.1174" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="65" ax="0" ay="1" az="0" tx="-0.247" ty="0.3862" tz="-0.1129" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="100" ax="0" ay="1" az="0" tx="0.2684" ty="0.3862" tz="-0.0451" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="100" ax="0" ay="1" az="0" tx="-0.2684" ty="0.3862" tz="0.0496" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="140" ax="0" ay="1" az="0" tx="0.1752" ty="0.3862" tz="-0.2065" />
+    <Box sX="0.09707" sY="0.135728" sZ="0.028555" angle="140" ax="0" ay="1" az="0" tx="-0.1752" ty="0.3862" tz="0.211" />
+    <Box sX="0.09707" sY="0.340912" sZ="0.022983" angle="15.8526" ax="1" ay="0" az="0" tx="0.0043" ty="0.8458" tz="0.3173" />
+    <Box sX="0.09707" sY="0.340912" sZ="0.022983" angle="72.7964" ax="0.1889" ay="-0.9726" az="0.1354" tx="-0.2993" ty="0.8458" tz="0.0996" />
+    <Box sX="0.09707" sY="0.340912" sZ="0.022983" angle="143.2343" ax="0.0463" ay="0.9894" az="-0.1378" tx="0.1952" ty="0.8458" tz="-0.2606" />
+    <Box sX="0.09707" sY="0.340912" sZ="0.022983" angle="141.9006" ax="0.0481" ay="-0.9893" az="0.1377" tx="-0.1952" ty="0.8458" tz="-0.2542" />
+    <Box sX="0.09707" sY="0.340912" sZ="0.022983" angle="72.6136" ax="0.1895" ay="0.9725" az="-0.1354" tx="0.3051" ty="0.8458" tz="0.0988" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.43" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.446" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.25" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.4184" minY="0" minZ="-0.4074" maxX="0.4184" maxY="1.178" maxZ="0.4074" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4184" minY="0" minZ="-0.4074" maxX="0.4184" maxY="1.178" maxZ="0.4074" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

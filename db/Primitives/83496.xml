@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2023-05-06
+	Comments: v0.0: Initial creation [Stephan] 2023-05-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="83496" />
+    <Annotation designname="FLAT TILE, 4X8 INVERTED, NO. 1" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="3.19" sY="1.59" sZ="0.159666" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.8" ty="0.16" tz="-1.2" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="16" height="8" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,
+      18:2:1,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,23:4:1,18:2:1,
+      23:4:1,3:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,3:4:1,23:4:1,
+      18:2:1,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,23:4:1,18:2:1,
+      23:4:1,3:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,3:4:1,23:4:1,
+      18:2:1,23:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,23:4:1,18:2:1,
+      23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,3:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.21489,0,0,0,20.2631,0,0,0,16.17318" centerOfMass="2.8,0.253932,-1.2" mass="4.30000019073" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-2.8" maxX="6" maxY="0.48" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-2.8" maxX="6" maxY="0.48" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2023-04-28
+	Comments: v0.0: Initial creation [Stephan] 2023-04-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="79996" />
+    <Annotation designname="BAGGAGE TAG, 3X8" />
+    <Annotation maingroupid="296" />
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="3.458557" sY="0.056408" sZ="1.438255" angle="0" ax="1" ay="0" az="0" tx="0.398" ty="0.058" tz="0" />
+    <Box sX="3.458557" sY="0.1032" sZ="0.108648" angle="0" ax="1" ay="0" az="0" tx="0.398" ty="0.1737" tz="1.4372" />
+    <Box sX="3.458557" sY="0.1032" sZ="0.108648" angle="0" ax="1" ay="0" az="0" tx="0.398" ty="0.1737" tz="-1.4368" />
+    <Box sX="1.455123" sY="0.1032" sZ="0.100393" angle="90" ax="0" ay="-1" az="0" tx="3.8405" ty="0.1737" tz="0.0082" />
+    <Box sX="1.455123" sY="0.1032" sZ="0.100393" angle="90" ax="0" ay="-1" az="0" tx="-3.0321" ty="0.1737" tz="0.0082" />
+    <Box sX="1.2095" sY="0.155547" sZ="0.100393" angle="90" ax="0" ay="-1" az="0" tx="-3.871" ty="0.162" tz="0.0082" />
+    <Box sX="0.954153" sY="0.155547" sZ="0.100393" angle="90" ax="0" ay="-1" az="0" tx="-4.088" ty="0.162" tz="0.0082" />
+    <Box sX="0.347558" sY="0.155547" sZ="0.100393" angle="90" ax="0" ay="-1" az="0" tx="-4.359" ty="0.162" tz="0.0082" />
+    <Box sX="0.353269" sY="0.155547" sZ="0.308903" angle="76.3906" ax="0" ay="-1" az="0" tx="-3.3504" ty="0.162" tz="-1.021" />
+    <Box sX="0.353269" sY="0.155547" sZ="0.306771" angle="113.7115" ax="0" ay="-1" az="0" tx="-3.4047" ty="0.162" tz="0.9987" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="16" height="6" angle="0" ax="1" ay="0" az="0" tx="-2.8" ty="0.12" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-4.51" minY="0" minZ="-1.56" maxX="3.9633" maxY="0.3201" maxZ="1.56" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.51" minY="0" minZ="-1.56" maxX="3.9633" maxY="0.3201" maxZ="1.56" />
+  </GeometryBounding>
+</LEGOPrimitive>

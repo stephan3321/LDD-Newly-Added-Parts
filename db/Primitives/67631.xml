@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Jester
+	Last modification: 2023-02-21
+	Comments: v0.0: Initial creation [jester] 2023-01-08
+	v0.1: Added collision data [Stephan] 2023-02-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67631" />
+    <Annotation designname="ANIMAL, NO. 88" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.299562" sY="0.254603" sZ="1" angle="14.3295" ax="-1" ay="0" az="0" tx="0" ty="0.7769" tz="0" />
+    <Box sX="0.130308" sY="0.141523" sZ="0.092567" angle="14.3295" ax="-1" ay="0" az="0" tx="0" ty="1.0334" tz="1.0505" />
+    <Box sX="0.299562" sY="0.314691" sZ="0.660175" angle="0.3376" ax="-1" ay="0" az="0" tx="0" ty="0.6328" tz="-0.3375" />
+    <Box sX="0.062722" sY="0.107275" sZ="0.660175" angle="10.5306" ax="-1" ay="0" az="0" tx="0" ty="0.5127" tz="-1.3092" />
+    <Box sX="0.052579" sY="0.314691" sZ="0.106985" angle="22.7752" ax="-0.0146" ay="-0.9999" az="0.003" tx="0.2719" ty="0.3231" tz="0.1195" />
+    <Box sX="0.049268" sY="0.314691" sZ="0.106985" angle="29.3275" ax="-0.0113" ay="0.9999" az="-0.003" tx="-0.2494" ty="0.3232" tz="0.1257" />
+    <Box sX="0.064172" sY="0.314691" sZ="0.106985" angle="155.4554" ax="-0.0006" ay="1" az="-0.0029" tx="-0.2447" ty="0.3167" tz="-0.9738" />
+    <Box sX="0.064172" sY="0.314691" sZ="0.106985" angle="152.4465" ax="-0.0007" ay="-1" az="0.0029" tx="0.2531" ty="0.3167" tz="-0.9746" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4,22:2:1,
+      29:0:1,29:0:1,29:0:1,
+      22:2:1,15:4,22:2:1,
+      22:2:1,22:2:1,22:2:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.3643" minY="0" minZ="-1.9859" maxX="0.3643" maxY="1.2668" maxZ="1.1859" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3643" minY="0" minZ="-1.9859" maxX="0.3643" maxY="1.2668" maxZ="1.1859" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

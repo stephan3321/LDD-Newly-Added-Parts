@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Vincent Messenet [Cheenzo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-07-27
+	Comments: v0.0: Initial creation [Stephan] 2022-07-27.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80326" />
+    <Annotation designname="FLAG W/ 2 HOLDERS [2022-current]" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.84125" sY="0.79" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.1288" ty="0.8" tz="0" />
+    <Box sX="0.15087" sY="0.15" sZ="0.047299" angle="90" ax="0" ay="1" az="0" tx="0.2215" ty="0.16" tz="0.0035" />
+    <Box sX="0.15087" sY="0.15" sZ="0.020652" angle="0" ax="1" ay="0" az="0" tx="0.0062" ty="0.16" tz="-0.1888" />
+    <Box sX="0.15087" sY="0.15" sZ="0.020652" angle="0" ax="1" ay="0" az="0" tx="0.0022" ty="0.16" tz="0.1876" />
+    <Box sX="0.15087" sY="0.15" sZ="0.047164" angle="90" ax="0" ay="1" az="0" tx="0.2215" ty="1.4398" tz="0.0035" />
+    <Box sX="0.15087" sY="0.15" sZ="0.020652" angle="0" ax="1" ay="0" az="0" tx="0.0049" ty="1.4398" tz="-0.1888" />
+    <Box sX="0.15087" sY="0.15" sZ="0.020652" angle="0" ax="1" ay="0" az="0" tx="0.0024" ty="1.4398" tz="0.1876" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.6" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.122621,0,0,0,0.172955,0,0,0,0.289895" centerOfMass="0.962996,0.8,0" mass="0.600000023842" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.2985" maxX="2" maxY="1.6" maxZ="0.2985" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.2985" maxX="2" maxY="1.6" maxZ="0.2985" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

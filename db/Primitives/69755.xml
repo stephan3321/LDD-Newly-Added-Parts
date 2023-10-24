@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-12-20
+	Comments: v0.0: Initial creation [jester] 2022-10-12
+v0.1: Added colission data [Stephan] 2022-12-20
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69755" />
+    <Annotation designname="TRIGGER, NO. 1" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.070411" sY="0.35922" sZ="0.133061" angle="26.1502" ax="-1" ay="0" az="0" tx="0" ty="-0.1851" tz="0.1399" />
+    <Box sX="0.112495" sY="0.323042" sZ="0.08355" angle="72.1311" ax="-1" ay="0" az="0" tx="0" ty="0.1988" tz="-0.4347" />
+    <Box sX="0.073536" sY="0.253218" sZ="0.133061" angle="53.6559" ax="-1" ay="0" az="0" tx="0" ty="-0.1903" tz="-0.2166" />
+    <Box sX="0.258953" sY="0.09958" sZ="0.052097" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.3358" tz="-0.5541" />
+    <Box sX="0.15886" sY="0.174125" sZ="0.133061" angle="26.1502" ax="-1" ay="0" az="0" tx="0" ty="-0.3335" tz="0.2127" />
+    <Box sX="0.073536" sY="0.215167" sZ="0.077238" angle="53.6559" ax="-1" ay="0" az="0" tx="0" ty="-0.3364" tz="-0.2823" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="208" oriented="0" angle="92.9466" ax="-0.2211" ay="-0.2211" az="-0.9499" tx="0" ty="0.0587" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.288" minY="-0.5697" minZ="-0.8392" maxX="0.288" maxY="0.432" maxZ="0.425" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.288" minY="-0.5697" minZ="-0.8392" maxX="0.288" maxY="0.432" maxZ="0.425" />
+  </GeometryBounding>
+</LEGOPrimitive>

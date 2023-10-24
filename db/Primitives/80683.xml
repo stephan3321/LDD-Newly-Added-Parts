@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-06-16
+	Comments: v0.0: Initial creation [Stephan] 2023-06-16
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80683" />
+    <Annotation designname="DOOR 3X6" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.086878" sY="2.58779" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.8785" ty="2.95" tz="0.2595" />
+    <Box sX="0.448549" sY="0.39" sZ="0.135555" angle="0" ax="1" ay="0" az="0" tx="1.5186" ty="2.95" tz="0.261" />
+    <Box sX="0.088674" sY="0.083248" sZ="0.088674" angle="45" ax="0" ay="1" az="0" tx="-0.1109" ty="5.48" tz="0.2595" />
+    <Box sX="0.08846" sY="0.083046" sZ="0.08846" angle="45" ax="0" ay="1" az="0" tx="-0.1109" ty="0.42" tz="0.2595" />
+    <Box sX="0.044302" sY="0.274522" sZ="0.255914" angle="0" ax="1" ay="0" az="0" tx="1.9244" ty="2.9412" tz="0.261" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="1.0516" ty="3.3388" tz="0.4095">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="1.0516" ty="2.5388" tz="0.1095">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="47" oriented="0" angle="0" ax="1" ay="0" az="0" tx="-0.1109" ty="2.95" tz="0.2598" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="5.32952,0,0,0,1.74315,0,0,0,7.05694" centerOfMass="1.25002,2.95,0.259461" mass="2.83999991417" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2597" minY="0.2708" minZ="-0.042" maxX="1.9703" maxY="5.6108" maxZ="0.558" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2597" minY="0.2708" minZ="-0.042" maxX="1.9703" maxY="5.6108" maxZ="0.558" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

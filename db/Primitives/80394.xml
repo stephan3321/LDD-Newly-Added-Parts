@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: jester
+	Last modification: 2023-05-22
+	Comments: v0.0: Initial creation [jester] 2022-10-06
+	v0.1: Added colission data [Stephan] 2023-05-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80394" />
+    <Annotation designname="COCKPIT 4+" />
+    <Annotation maingroupid="272" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.598089" sY="1.585885" sZ="0.370186" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="2.8826" tz="0" />
+    <Box sX="0.398089" sY="1.585885" sZ="0.370186" angle="0" ax="1" ay="0" az="0" tx="0" ty="2.8826" tz="0.8" />
+    <Box sX="0.398089" sY="1.585885" sZ="0.370186" angle="0" ax="1" ay="0" az="0" tx="2.4" ty="2.8826" tz="0.8" />
+    <Box sX="0.060383" sY="1.640946" sZ="0.770186" angle="0" ax="1" ay="0" az="0" tx="2.7252" ty="2.7914" tz="2" />
+    <Box sX="0.060383" sY="1.640946" sZ="0.770186" angle="0" ax="1" ay="0" az="0" tx="-0.3198" ty="2.7914" tz="2" />
+    <Box sX="0.054218" sY="1.647537" sZ="0.229268" angle="90" ax="0" ay="-1" az="0" tx="2.5554" ty="2.8286" tz="2.7396" />
+    <Box sX="0.054218" sY="1.647537" sZ="0.229268" angle="90" ax="0" ay="-1" az="0" tx="-0.1691" ty="2.8286" tz="2.7396" />
+    <Box sX="0.398089" sY="0.780644" sZ="0.55241" angle="0" ax="1" ay="0" az="0" tx="2.4" ty="0.7973" tz="3.8318" />
+    <Box sX="0.398089" sY="0.780644" sZ="0.55241" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7973" tz="3.8318" />
+    <Box sX="0.398089" sY="0.531186" sZ="0.224476" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0542" tz="3.0318" />
+    <Box sX="0.398089" sY="0.531186" sZ="0.224476" angle="0" ax="1" ay="0" az="0" tx="2.4" ty="1.0542" tz="3.0318" />
+    <Box sX="0.798089" sY="0.318191" sZ="1.459792" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.3197" tz="2.9015" />
+    <Box sX="0.798089" sY="0.318191" sZ="0.242615" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.3197" tz="0.6578" />
+    <Box sX="0.284825" sY="0.318191" sZ="0.242615" angle="90" ax="0" ay="1" az="0" tx="1.7553" ty="0.3197" tz="1.1858" />
+    <Box sX="0.284825" sY="0.318191" sZ="0.242615" angle="90" ax="0" ay="1" az="0" tx="0.6448" ty="0.3197" tz="1.1858" />
+    <Box sX="0.051918" sY="0.570913" sZ="0.955412" angle="43.4543" ax="0" ay="0" az="1" tx="0.0406" ty="0.7888" tz="1.9994" />
+    <Box sX="0.051918" sY="0.570913" sZ="0.955412" angle="180" ax="0.3702" ay="0.929" az="0" tx="2.3713" ty="0.7888" tz="1.9994" />
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.64" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0" tz="1.2" />
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0" tz="0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0" tz="2.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.64" tz="2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4296" ty="1.6" tz="2.8">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="2" ty="1.6" tz="2.8">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="4.48" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:1:1,23:4:1,18:2:1,29:0:0,18:1:1,23:4:1,29:0:0,
+      23:4:1,0:4:1,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,29:0:0
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="2.8" ty="3.2" tz="2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="-0.4" ty="3.2" tz="1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.56" minY="0" minZ="-0.4" maxX="2.96" maxY="4.64" maxZ="4.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.56" minY="0" minZ="-0.4" maxX="2.96" maxY="4.64" maxZ="4.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

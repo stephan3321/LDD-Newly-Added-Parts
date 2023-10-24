@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-12-01
+	Comments: v0.0: Initial creation [jester] 2022-08-30
+v0.1: Added colission data [Stephan] 2022-12-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80477" />
+    <Annotation designname="4.85 BUSH 3 M, FRICTION, W/ 5.9 BALL" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.305535" angle="90" ax="0" ay="0" az="1" tx="0.3194" ty="0" tz="-0.0006" />
+    <Box sX="0.13665" sY="0.573099" sZ="0.070624" angle="90" ax="0" ay="0" az="1" tx="1.0238" ty="0" tz="-0.0006" />
+    <Box sX="0.13665" sY="0.573099" sZ="0.070624" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="1.0238" ty="0" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="90" ax="0" ay="0" az="1" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="92.6951" ax="0.2119" ay="-0.2119" az="0.954" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="101.9453" ax="0.4141" ay="-0.4141" az="0.8106" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="115.3031" ax="0.5472" ay="-0.5472" az="0.6334" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="129.9653" ax="0.6254" ay="-0.6254" az="0.4667" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="146.5687" ax="0.6745" ay="-0.6745" az="0.3003" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.296812" sY="0.037329" sZ="0.070624" angle="162.7087" ax="0.6989" ay="-0.6989" az="0.1521" tx="1.5592" ty="-0.0008" tz="-0.0006" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="1.9361" ty="-0.1856" tz="-0.0006" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="1.9361" ty="0.1856" tz="-0.0006" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="146.8873" ax="-0.6751" ay="0.6751" az="0.2973" tx="1.9361" ty="-0.1369" tz="0.1247" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="99.3464" ax="0.3738" ay="-0.3738" az="0.8489" tx="1.9361" ty="0.1369" tz="-0.1259" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="98.8532" ax="-0.3652" ay="0.3652" az="0.8563" tx="1.9361" ty="-0.1339" tz="-0.129" />
+    <Box sX="0.099104" sY="0.379017" sZ="0.025432" angle="147.7896" ax="0.677" ay="-0.677" az="0.2887" tx="1.9361" ty="0.1339" tz="0.1279" />
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="2.3192" ty="0" tz="-0.0006" />
+    <Axel type="7" length="0.88" requireGrabbing="0" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="1.5192" ty="0" tz="-0.0006" />
+    <Ball type="3" angle="90" ax="0" ay="0" az="1" tx="0.3192" ty="0" tz="-0.0006" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.0008" minY="-0.32" minZ="-0.3206" maxX="2.3192" maxY="0.32" maxZ="0.3194" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.0008" minY="-0.32" minZ="-0.3206" maxX="2.3192" maxY="0.32" maxZ="0.3194" />
+  </GeometryBounding>
+</LEGOPrimitive>

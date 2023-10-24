@@ -3,14 +3,16 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2021-03-25
+	Last modification: 2023-05-20
+	Comments: v0.0: Initial creation [Stephan] 2021-01-11
+	v0.1: Updated name and category [Stephan] 2023-05-20
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="66790" />
     <Annotation designname="PLATE, 8X8X2/3, CIRCLE, W/ REDUCED KNOBS" />
-    <Annotation maingroupid="216" />
-    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation maingroupid="217" />
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
