@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2023-04-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="22566" />
+    <Annotation designname="WEAPON NO. 9" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.102513" sY="0.393346" sZ="0.109695" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3963" tz="0" />
+    <Box sX="0.145371" sY="1.085357" sZ="0.167538" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.823" tz="1.0529" />
+    <Box sX="0.145371" sY="0.519096" sZ="0.167538" angle="102.8598" ax="-1" ay="0" az="0" tx="0" ty="0.9398" tz="0.4294" />
+    <Box sX="0.307057" sY="0.519096" sZ="0.167538" angle="102.8598" ax="-1" ay="0" az="0" tx="0" ty="0.9398" tz="0.4294" />
+    <Box sX="0.065609" sY="0.339407" sZ="0.167538" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.3698" tz="2.1781" />
+    <Box sX="0.065609" sY="0.339407" sZ="0.167538" angle="138.5904" ax="-0.378" ay="0.6547" az="-0.6547" tx="0.4341" ty="0.6487" tz="2.1781" />
+    <Box sX="0.065609" sY="0.339407" sZ="0.167538" angle="145.903" ax="-0.3482" ay="-0.6525" az="0.673" tx="-0.4206" ty="0.6548" tz="2.1791" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.5" grabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.38" grabbing="0" startCapped="1" endCapped="0" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.8965" tz="1.8125" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.5891" minY="0" minZ="-0.2608" maxX="0.5891" maxY="1.5573" maxZ="2.5447" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5891" minY="0" minZ="-0.2608" maxX="0.5891" maxY="1.5573" maxZ="2.5447" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

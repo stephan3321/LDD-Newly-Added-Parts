@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author: James Jessiman
-Editted for LDD by Kuramapika1 & Stephan
+	Derived from: The LDraw Parts Library
+	Orginal Author: James Jessiman
+	Editted for LDD by: Kuramapika1 & Stephan
+	Last modification: 2022-07-19
+	Comments: v0.0: Initial release [Kuramapika1].
+v0.1: Updated connections [Stephan] 2022-07-19.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -44,7 +47,7 @@ Editted for LDD by Kuramapika1 & Stephan
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="16.5164" ax="0" ay="-1" az="0" tx="2.8976" ty="0.0433" tz="-0.0938" />
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="179.993" ax="0.9931" ay="-0.0004" az="0.117" tx="3.5029" ty="0.0431" tz="0.0866" />
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="180.0236" ax="0.9372" ay="-0.0005" az="0.3488" tx="3.4445" ty="0.0431" tz="0.2029" />
-    <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="179.9563" ax="0.8614" ay="-0.0005" az="0.5079" tx="3.3493" ty="0.0431" tz="0.2769" />
+    <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="179.9564" ax="0.8614" ay="-0.0005" az="0.5079" tx="3.3493" ty="0.0431" tz="0.2769" />
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="179.9318" ax="0.7399" ay="-0.0005" az="0.6727" tx="3.231" ty="0.0432" tz="0.3137" />
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="179.9123" ax="0.5932" ay="-0.0005" az="0.8051" tx="3.1082" ty="0.0433" tz="0.3025" />
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="180.0297" ax="0.4322" ay="-0.0004" az="0.9018" tx="2.9972" ty="0.0434" tz="0.2446" />
@@ -68,23 +71,19 @@ Editted for LDD by Kuramapika1 & Stephan
     <Box sX="0.074599" sY="0.04198" sZ="0.016018" angle="180" ax="0.9988" ay="0" az="-0.0485" tx="-2.7131" ty="0.0421" tz="0.0348" />
   </Collision>
   <Connectivity>
-    <!--top studs-->
-    <Custom2DField type="23" width="12" height="2" angle="0" ax="1" ay="0" az="0" tx="-2.00" ty="0.32" tz="-0.4">
+    <Custom2DField type="23" width="12" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0.32" tz="-0.4">
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
       23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
-    <!--bottom studs-->
-    <Custom2DField type="22" width="16" height="2" angle="0" ax="0" ay="1" az="0" tx="-2.8" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="16" height="2" angle="0" ax="1" ay="0" az="0" tx="-2.8" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
-    <!--pin/axle holes 2x-->
-    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-2.4" ty="0" tz="0" />
-    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="3.2" ty="0" tz="0" />
-    <!--holes 1x1 top upside down-->
-    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="-2.0" ty="0.32" tz="-0.4">
+    <Axel type="2" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="-2.4" ty="0" tz="0" />
+    <Axel type="2" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="3.2" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="-2" ty="0.32" tz="-0.4">
       29:0,29:0,29:0,
       29:0,15:4:96,29:0,
       29:0,29:0,29:0

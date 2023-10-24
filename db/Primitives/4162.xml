@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Comments: Made decoratable
+	Last modification: 2022-11-27
+	Comments: v0.1: Made decoratable [Stephan] 2022-11-27
+v0.2: Updated decoration surface [jester] 2022-11-30
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

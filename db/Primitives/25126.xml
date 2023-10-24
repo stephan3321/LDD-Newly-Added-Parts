@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-02-01
+	Comments: v0.0: Initial creation [The LEGO Group]
+v0.1: Added decoration surface [Stephan] 2023-01-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25126" />
+    <Annotation designname="BODY - SPECIAL" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.102563" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1126" tz="0" />
+    <Box sX="0.39" sY="0.102563" sZ="0.340737" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3363" tz="-0.0493" />
+    <Box sX="0.306351" sY="0.248356" sZ="0.259298" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7016" tz="-0.0104" />
+    <Box sX="0.095" sY="0.15" sZ="0.095" angle="45" ax="0" ay="1" az="0" tx="0" ty="1.12" tz="0" />
+    <Box sX="0.095" sY="0.14" sZ="0.095" angle="0" ax="1" ay="0" az="0" tx="-0.4599" ty="0.6947" tz="0.4932" />
+    <Box sX="0.095" sY="0.14" sZ="0.095" angle="0" ax="1" ay="0" az="0" tx="0.4599" ty="0.6947" tz="0.4932" />
+    <Box sX="0.497145" sY="0.151623" sZ="0.106136" angle="45" ax="-1" ay="0" az="0" tx="0" ty="0.7429" tz="0.0308" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.32" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.96" tz="0" />
+    <Axel type="7" length="0.3" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.4599" ty="0.5364" tz="0.4932" />
+    <Axel type="7" length="0.3" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-0.4599" ty="0.5364" tz="0.4932" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.222392,0,0,0,0.214839,0,0,0,0.265513" centerOfMass="0,0.64,0.107521" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.622" minY="0" minZ="-0.4" maxX="0.622" maxY="1.28" maxZ="0.615" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.622" minY="0" minZ="-0.4" maxX="0.622" maxY="1.28" maxZ="0.615" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0" />
+</LEGOPrimitive>

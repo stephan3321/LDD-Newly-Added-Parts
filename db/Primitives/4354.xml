@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Rene Rechthaler [Blechtaler]
+	Editted for LDD by: Stephan
+	Last modification: 2023-05-29
+	Comments: v0.0: Initial creation [Stephan] 2023-05-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4354" />
+    <Annotation designname="ELECTRIC 4.5 V C-CELL BATTERY BOX SWITCH" />
+    <Annotation maingroupid="292" />
+    <Annotation maingroupname="ELECTRIC PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.289215" sY="0.215268" sZ="0.114438" angle="0" ax="1" ay="0" az="0" tx="-0.3995" ty="1.1069" tz="0.3998" />
+    <Box sX="0.289215" sY="0.433548" sZ="0.114438" angle="0" ax="1" ay="0" az="0" tx="-0.3995" ty="2.1229" tz="0.3998" />
+    <Box sX="0.064257" sY="0.215268" sZ="0.114438" angle="0" ax="1" ay="0" az="0" tx="-0.1733" ty="1.5138" tz="0.3998" />
+    <Box sX="0.064257" sY="0.215268" sZ="0.114438" angle="0" ax="1" ay="0" az="0" tx="-0.6255" ty="1.5138" tz="0.3998" />
+    <Box sX="0.064257" sY="0.350149" sZ="0.052205" angle="0" ax="1" ay="0" az="0" tx="-0.5528" ty="2.8488" tz="0.559" />
+    <Box sX="0.064257" sY="0.350149" sZ="0.062546" angle="0" ax="1" ay="0" az="0" tx="-0.5528" ty="2.8488" tz="0.2376" />
+    <Box sX="0.064257" sY="0.350149" sZ="0.06517" angle="0" ax="1" ay="0" az="0" tx="-0.2411" ty="2.8488" tz="0.2367" />
+    <Box sX="0.064257" sY="0.350149" sZ="0.04107" angle="0" ax="1" ay="0" az="0" tx="-0.2411" ty="2.8488" tz="0.548" />
+    <Box sX="0.0172" sY="0.350149" sZ="0.085652" angle="0" ax="1" ay="0" az="0" tx="-0.6614" ty="2.8488" tz="0.391" />
+    <Box sX="0.0172" sY="0.350149" sZ="0.085652" angle="0" ax="1" ay="0" az="0" tx="-0.1332" ty="2.8488" tz="0.391" />
+    <Box sX="0.0172" sY="0.350149" sZ="0.085652" angle="90" ax="0" ay="-1" az="0" tx="-0.3973" ty="2.8488" tz="0.1269" />
+    <Box sX="0.0172" sY="0.350149" sZ="0.085652" angle="90" ax="0" ay="-1" az="0" tx="-0.3973" ty="2.8488" tz="0.6773" />
+    <Box sX="0.037443" sY="0.2745" sZ="0.790738" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="-0.3973" ty="3.1611" tz="0.9227" />
+    <Box sX="0.037443" sY="0.2745" sZ="0.790738" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="-0.3973" ty="3.1611" tz="-0.1137" />
+    <Box sX="0.037443" sY="0.2745" sZ="0.790738" angle="180" ax="0.7071" ay="0.7071" az="0" tx="-0.9155" ty="3.1611" tz="0.4045" />
+    <Box sX="0.037443" sY="0.2745" sZ="0.790738" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.1209" ty="3.1611" tz="0.4045" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.24" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="1.5291" tz="0.52" />
+    <Axel type="4" length="0.7" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="2.5014" tz="0.4" />
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="3.2027" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.1996" minY="0.8889" minZ="-0.4" maxX="0.3959" maxY="3.3622" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1996" minY="0.8889" minZ="-0.4" maxX="0.3959" maxY="3.3622" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

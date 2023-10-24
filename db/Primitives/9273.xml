@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Chris Dee [cwdee]
+	Editted for LDD by: Stephan
+	Last modification: 2023-02-21
+	Comments: v0.0: Initial creation [jester] 2023-02-04
+	v0.2: Added collision data [Stephan] 2023-02-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9273" />
+    <Annotation designname="Electric Motor Unit 6 x 18 x 4 - IR Lens" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.496432" sY="0.360037" sZ="0.108855" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3364" tz="0.121" />
+    <Box sX="0.496432" sY="0.360037" sZ="0.108855" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.1187" tz="-0.3428" />
+    <Box sX="0.855333" sY="0.360037" sZ="0.066046" angle="0" ax="1" ay="0" az="0" tx="-0.006" ty="-0.3364" tz="0.0771" />
+    <Box sX="0.842689" sY="0.360037" sZ="0.065722" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.0721" tz="-0.3428" />
+    <Box sX="0.463186" sY="0.16677" sZ="0.065722" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.0721" tz="-0.8166" />
+    <Box sX="0.516235" sY="0.280396" sZ="0.066046" angle="0" ax="1" ay="0" az="0" tx="-0.006" ty="-0.6908" tz="0.0771" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="2" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.192" minY="-1.12" minZ="-1.12" maxX="1.192" maxY="0.36" maxZ="0.36" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.192" minY="-1.12" minZ="-1.12" maxX="1.192" maxY="0.36" maxZ="0.36" />
+  </GeometryBounding>
+</LEGOPrimitive>

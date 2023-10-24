@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-04-28
+	Comments: v0.0: Initial creation [Stephan] 2023-04-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26746" />
+    <Annotation designname="MINIFIGURE, WEAPON AXE, DWARVEN" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.084253" sY="1.436824" sZ="0.10252" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.44" tz="0" />
+    <Box sX="0.117206" sY="0.321247" sZ="0.10252" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6422" tz="0" />
+    <Box sX="0.117206" sY="0.388883" sZ="0.10252" angle="0" ax="1" ay="0" az="0" tx="0" ty="2.4877" tz="0" />
+    <Box sX="0.340341" sY="0.331524" sZ="0.058585" angle="0" ax="1" ay="0" az="0" tx="-0.4864" ty="2.4776" tz="0" />
+    <Box sX="0.203539" sY="0.481103" sZ="0.058585" angle="0" ax="1" ay="0" az="0" tx="-0.5361" ty="2.4851" tz="0" />
+    <Box sX="0.067325" sY="0.481103" sZ="0.058585" angle="14.5151" ax="0" ay="0" az="1" tx="-0.788" ty="2.7363" tz="0" />
+    <Box sX="0.067325" sY="0.481103" sZ="0.058585" angle="14.5151" ax="0" ay="0" az="1" tx="-0.881" ty="2.5723" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.645" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.964" tz="0" />
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="2.8828" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.093007,0,0,0,0.004919,0,0,0,0.096314" centerOfMass="0.000166,1.13328,0.001015" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.0304" minY="0" minZ="-0.16" maxX="0.1604" maxY="3.22" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.0304" minY="0" minZ="-0.16" maxX="0.1604" maxY="3.22" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Chris Dee [cwdee]
+	Editted for LDD by: Stephan
+	Last modification: 2023-02-21
+	Comments: v0.0: Initial creation [Stephan]
+	v0.1: Updated model [jester] 2023-02-04
+	v0.2: Added collision data [Stephan] 2023-02-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9271" />
+    <Annotation designname="Electric Motor Unit 6 x 18 x 4 - Axle Bush" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.075647" sY="0.396376" sZ="0.062609" angle="0" ax="1" ay="0" az="0" tx="-0.1657" ty="0.3995" tz="0.1552" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.062609" angle="0" ax="1" ay="0" az="0" tx="-0.1657" ty="0.3995" tz="-0.1545" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.062609" angle="0" ax="1" ay="0" az="0" tx="0.1664" ty="0.3995" tz="0.1551" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.062609" angle="0" ax="1" ay="0" az="0" tx="0.1664" ty="0.3995" tz="-0.1545" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.039512" angle="0" ax="1" ay="0" az="0" tx="0.0023" ty="0.3995" tz="0.2829" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.039512" angle="180" ax="0" ay="1" az="0" tx="-0.0023" ty="0.3995" tz="-0.2829" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.029089" angle="153.0028" ax="0" ay="1" az="0" tx="0.1311" ty="0.3995" tz="-0.2625" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.031513" angle="26.9972" ax="0" ay="-1" az="0" tx="-0.1331" ty="0.3995" tz="0.262" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.036698" angle="124.9485" ax="0" ay="1" az="0" tx="0.2348" ty="0.3995" tz="-0.1669" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.033069" angle="55.0516" ax="0" ay="-1" az="0" tx="-0.2322" ty="0.3995" tz="0.1651" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.032636" angle="97.2286" ax="0" ay="1" az="0" tx="0.2897" ty="0.3995" tz="-0.0391" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.030768" angle="82.7714" ax="0" ay="-1" az="0" tx="-0.2884" ty="0.3995" tz="0.0379" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.030773" angle="70.4223" ax="0" ay="1" az="0" tx="0.2751" ty="0.3995" tz="0.0954" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.030768" angle="109.5777" ax="0" ay="-1" az="0" tx="-0.2754" ty="0.3995" tz="-0.0926" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.039512" angle="43.8823" ax="0" ay="1" az="0" tx="0.1978" ty="0.3995" tz="0.2023" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.039512" angle="136.1178" ax="0" ay="-1" az="0" tx="-0.1978" ty="0.3995" tz="-0.2023" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.027329" angle="21.9574" ax="0" ay="1" az="0" tx="0.1131" ty="0.3995" tz="0.2743" />
+    <Box sX="0.075647" sY="0.396376" sZ="0.027257" angle="158.0427" ax="0" ay="-1" az="0" tx="-0.112" ty="0.3995" tz="-0.2718" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Hinge type="53" oriented="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.34" minY="-0.16" minZ="-0.34" maxX="0.34" maxY="0.8" maxZ="0.34" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.34" minY="-0.16" minZ="-0.34" maxX="0.34" maxY="0.8" maxZ="0.34" />
+  </GeometryBounding>
+</LEGOPrimitive>

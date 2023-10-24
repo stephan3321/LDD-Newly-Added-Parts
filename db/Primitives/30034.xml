@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-12-30
+	Comments: v0.1: Added colission data [Stephan] 2022-12-30
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="30034" />
@@ -9,6 +14,18 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="1.187098" sY="0.148948" sZ="0.38437" angle="0" ax="1" ay="0" az="0" tx="0.8001" ty="0.1818" tz="0" />
+    <Box sX="0.632163" sY="0.050021" sZ="0.881964" angle="0" ax="1" ay="0" az="0" tx="1.3632" ty="0.2819" tz="0" />
+    <Box sX="0.196496" sY="0.050021" sZ="1.206019" angle="0" ax="1" ay="0" az="0" tx="1.7876" ty="0.2819" tz="0" />
+    <Box sX="0.196756" sY="0.050021" sZ="0.881964" angle="113.4422" ax="-0.2717" ay="-0.9434" az="0.1903" tx="0.7412" ty="0.3735" tz="0.956" />
+    <Box sX="0.196756" sY="0.03882" sZ="0.983735" angle="131.2873" ax="-0.2197" ay="-0.9531" az="0.2084" tx="0.5216" ty="0.6406" tz="1.2437" />
+    <Box sX="0.196756" sY="0.050021" sZ="0.881964" angle="75.2934" ax="0.2492" ay="-0.8955" az="-0.3688" tx="0.789" ty="0.3903" tz="-1.0108" />
+    <Box sX="0.196756" sY="0.03882" sZ="0.983735" angle="59.9575" ax="0.4085" ay="-0.8102" az="-0.4203" tx="0.5196" ty="0.6443" tz="-1.2522" />
+    <Box sX="0.106459" sY="0.043492" sZ="0.155813" angle="0" ax="1" ay="0" az="0" tx="-0.8835" ty="0.0349" tz="0" />
+    <Box sX="0.106459" sY="0.043492" sZ="0.155813" angle="0" ax="1" ay="0" az="0" tx="-0.8835" ty="0.4781" tz="0" />
+    <Box sX="0.106459" sY="0.043492" sZ="0.155813" angle="90" ax="0" ay="0" az="-1" tx="-0.596" ty="0.2655" tz="0" />
+  </Collision>
   <Connectivity>
     <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.8" ty="0.248" tz="0.16" />
     <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

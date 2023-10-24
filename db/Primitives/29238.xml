@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Last modification: 2023-06-05
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [jester] 2022-10-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="29238"/>
+    <Annotation designname="RIGHT HEAD, BIG CAT NO.1"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.358887" sY="0.568245" sZ="0.358887" angle="81.40237" ax="0" ay="0" az="1" tx="-1.44802" ty="0.291184" tz="0"/>
+    <Box sX="0.358887" sY="0.350821" sZ="0.584696" angle="107.72037" ax="0" ay="0" az="1" tx="-1.59626" ty="0.314247" tz="-0.005492"/>
+    <Box sX="0.20787" sY="0.255837" sZ="0.37717" angle="90" ax="0" ay="0" az="-1" tx="-0.060636" ty="0.555571" tz="-0.00279"/>
+    <Box sX="0.361371" sY="0.519772" sZ="0.28769" angle="129.09201" ax="0" ay="0" az="1" tx="-1.89415" ty="0.154269" tz="-0.011432"/>
+    <Box sX="0.112519" sY="0.086239" sZ="0.92591" angle="90" ax="0" ay="0" az="1" tx="-1.43421" ty="0.865811" tz="0"/>
+    <Box sX="0.20787" sY="0.255837" sZ="0.37717" angle="130.00171" ax="0" ay="0" az="-1" tx="0.277081" ty="0.449782" tz="-0.00279"/>
+    <Box sX="0.20787" sY="0.255837" sZ="0.37717" angle="180" ax="0" ay="0" az="1" tx="0.498389" ty="0.039456" tz="-0.00279"/>
+    <Box sX="0.20787" sY="0.255837" sZ="0.37717" angle="117.05663" ax="0" ay="0" az="1" tx="0.272794" ty="-0.431206" tz="-0.00279"/>
+    <Box sX="0.19062" sY="0.620006" sZ="0.37717" angle="64.09007" ax="0" ay="0" az="1" tx="-0.583536" ty="-0.263121" tz="-0.00279"/>
+    <Box sX="0.565182" sY="0.375967" sZ="0.384995" angle="90" ax="0" ay="0" az="-1" tx="-0.76283" ty="0.293497" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="152" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.599924,0,0,0,1.23878,0,0,0,1.2096" centerOfMass="-0.890752,0.150881,0" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0"/>
+  <Bounding>
+    <AABB minX="-2.55589" minY="-0.774383" minZ="-0.971421" maxX="0.774383" maxY="1.07615" maxZ="0.971421"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.55589" minY="-0.774383" minZ="-0.971421" maxX="0.774383" maxY="1.07615" maxZ="0.971421"/>
+  </GeometryBounding>
+</LEGOPrimitive>

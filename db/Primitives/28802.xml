@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author: Vincent Messenet [Cheenzo]
-Edited for LDD by Polymaker
+	Derived from: The LDraw Parts Library
+	Orginal Author: Vincent Messenet [Cheenzo]
+	Editted for LDD by: Polymaker
+	Last modification: 2023-10-22
+	Comments: v0.0: Initial creation [Polymaker] 2020-08-29
+	v0.1: Updated 3D model [Stephan] 2023-10-21
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -37,9 +40,9 @@ Edited for LDD by Polymaker
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0.4,0.009,0.169" mass="0.8" frictionType="0" />
   <Bounding>
-    <AABB minX="-1.2" minY="-0.48" minZ="-0.4" maxX="2" maxY="0.498" maxZ="0.738" />
+    <AABB minX="-1.2" minY="-0.48" minZ="-0.4" maxX="2" maxY="0.48" maxZ="0.72" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.2" minY="-0.48" minZ="-0.4" maxX="2" maxY="0.498" maxZ="0.738" />
+    <AABB minX="-1.2" minY="-0.48" minZ="-0.4" maxX="2" maxY="0.48" maxZ="0.72" />
   </GeometryBounding>
 </LEGOPrimitive>
