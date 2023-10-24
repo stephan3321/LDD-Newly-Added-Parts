@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: jester
+	Last modification: 2022-10-27
+	Comments: v0.0: Initial creation [jester] 2022-09-10
+v0.1: Added colission data [Stephan] 2022-10-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="88105" />
+    <Annotation designname="CREATURE NR 4 &quot;NO. 1&quot;" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.169739" sY="0.235077" sZ="0.291864" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5422" tz="0.7744" />
+    <Box sX="0.304504" sY="0.235077" sZ="0.291864" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5422" tz="0.6041" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4433" tz="0.286" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4433" tz="-0.2861" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="49.3882" ax="0" ay="1" az="0" tx="0.2171" ty="0.4433" tz="0.1861" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="49.3882" ax="0" ay="1" az="0" tx="-0.2171" ty="0.4433" tz="-0.1862" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="100.733" ax="0" ay="1" az="0" tx="0.281" ty="0.4433" tz="-0.0533" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="100.733" ax="0" ay="1" az="0" tx="-0.281" ty="0.4433" tz="0.0532" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="141.8022" ax="0" ay="1" az="0" tx="0.1769" ty="0.4433" tz="-0.2248" />
+    <Box sX="0.147486" sY="0.442874" sZ="0.031654" angle="141.8022" ax="0" ay="1" az="0" tx="-0.1769" ty="0.4433" tz="0.2247" />
+    <Box sX="0.304504" sY="0.235077" sZ="0.097398" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9153" tz="-0.351" />
+    <Box sX="0.304504" sY="0.009252" sZ="0.291864" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0581" tz="-0.0216" />
+    <Box sX="0.304504" sY="0.086046" sZ="0.291864" angle="12.0073" ax="-1" ay="0" az="0" tx="0" ty="1.1847" tz="-0.0612" />
+    <Box sX="0.543338" sY="0.210634" sZ="0.291864" angle="5.0087" ax="1" ay="0" az="0" tx="-0.0013" ty="1.1472" tz="0.517" />
+    <Box sX="0.154544" sY="0.294037" sZ="0.027237" angle="49.8381" ax="0.2925" ay="0.2817" az="0.9138" tx="0.6483" ty="0.9227" tz="-0.0851" />
+    <Box sX="0.089431" sY="0.111111" sZ="0.027237" angle="49.8381" ax="0.2925" ay="0.2817" az="0.9138" tx="0.9388" ty="0.7906" tz="-0.1993" />
+    <Box sX="0.279607" sY="0.210634" sZ="0.031776" angle="48.3004" ax="0.0639" ay="-0.3006" az="0.9516" tx="-0.6498" ty="0.8802" tz="-0.1127" />
+    <Box sX="0.116585" sY="0.085772" sZ="0.031776" angle="31.5374" ax="0.1661" ay="-0.4317" az="0.8866" tx="-0.9609" ty="0.7772" tz="-0.1935" />
+    <Box sX="0.304504" sY="0.235077" sZ="0.177757" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7366" tz="0.4262" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.1109" minY="0" minZ="-0.619" maxX="1.1109" maxY="1.461" maxZ="1.121" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1109" minY="0" minZ="-0.619" maxX="1.1109" maxY="1.461" maxZ="1.121" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>
