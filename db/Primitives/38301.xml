@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-02-01
+	Comments: v0.0: Initial creation [Stephan] 2023-02-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="38301" />
+    <Annotation designname="CAPE, 1 HOLE, NO. 8 [formed]" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="4" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.334497" sY="0.004552" sZ="0.259747" angle="0" ax="1" ay="0" az="0" tx="0.583" ty="0.0223" tz="-0.1479" />
+    <Box sX="0.334497" sY="0.004552" sZ="0.259747" angle="0" ax="1" ay="0" az="0" tx="-0.5846" ty="0.0223" tz="-0.1479" />
+    <Box sX="0.334497" sY="0.004552" sZ="0.079056" angle="0" ax="1" ay="0" az="0" tx="0.0062" ty="0.0223" tz="-0.3328" />
+    <Box sX="0.739199" sY="0.004552" sZ="0.079056" angle="0" ax="1" ay="0" az="0" tx="0.0062" ty="0.0223" tz="0.3151" />
+    <Box sX="0.562664" sY="0.004552" sZ="0.079056" angle="90" ax="1" ay="0" az="0" tx="0.0062" ty="-0.0606" tz="0.4003" />
+    <Box sX="0.298563" sY="0.004552" sZ="0.079056" angle="90" ax="1" ay="0" az="0" tx="0.0062" ty="-0.2072" tz="0.4003" />
+    <Box sX="1.079517" sY="0.004552" sZ="0.278274" angle="90" ax="1" ay="0" az="0" tx="0.0062" ty="-0.2606" tz="-0.4124" />
+    <Box sX="1.230399" sY="0.004552" sZ="0.278274" angle="93.8497" ax="1" ay="0" az="0" tx="0.0062" ty="-0.8174" tz="-0.4332" />
+    <Box sX="1.460459" sY="0.004552" sZ="0.278274" angle="98.3058" ax="1" ay="0" az="0" tx="0.0062" ty="-1.4108" tz="-0.4974" />
+    <Box sX="1.088906" sY="0.004552" sZ="0.1597" angle="107.3929" ax="1" ay="0" az="0" tx="0.0062" ty="-1.8553" tz="-0.5842" />
+    <Box sX="0.44213" sY="0.004552" sZ="0.1597" angle="114.0904" ax="0.8824" ay="-0.2785" az="-0.3791" tx="1.49" ty="-1.6601" tz="-0.5976" />
+    <Box sX="0.408303" sY="0.004552" sZ="0.1597" angle="111.6044" ax="0.7953" ay="0.2726" az="0.5415" tx="-1.5934" ty="-1.7099" tz="-0.6131" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0.0184" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.988971,0,0,0,1.24171,0,0,0,1.54949" centerOfMass="0.030928,-1.35293,-0.430589" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.989" minY="-2.1722" minZ="-0.8963" maxX="1.989" maxY="0.0292" maxZ="0.4049" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.989" minY="-2.1722" minZ="-0.8963" maxX="1.989" maxY="0.0292" maxZ="0.4049" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-06-03
+	Comments: v0.0: Initial creation [Stephan] 2023-06-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35530" />
+    <Annotation designname="CREATURE HEAD, NO. 33" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.469336" sY="0.470002" sZ="0.038152" angle="90" ax="0" ay="1" az="0" tx="0.4309" ty="0.4797" tz="0" />
+    <Box sX="0.469336" sY="0.470002" sZ="0.038152" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.4797" tz="-0.4309" />
+    <Box sX="0.469336" sY="0.470002" sZ="0.038152" angle="90" ax="0" ay="-1" az="0" tx="-0.4309" ty="0.4797" tz="0" />
+    <Box sX="0.469336" sY="0.470002" sZ="0.038152" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4797" tz="0.4309" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.15331482,0,0,0,0.15308723,0,0,0,0.15342214" centerOfMass="4.3E-05,0.479737,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.48" minY="0" minZ="-0.48" maxX="0.48" maxY="0.96" maxZ="0.48" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.48" minY="0" minZ="-0.48" maxX="0.48" maxY="0.96" maxZ="0.48" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

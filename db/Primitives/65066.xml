@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2023-03-11
+	Comments: v0.0: Initial creation [Steph
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65066" />
+    <Annotation designname="GLASS FOR FRAME 1X6X7, W/ BOW" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.54736" sY="2.35277" sZ="0.064829" angle="0" ax="1" ay="0" az="0" tx="2" ty="2.7142" tz="0.0002" />
+    <Box sX="1.22558" sY="0.328018" sZ="0.064829" angle="0" ax="1" ay="0" az="0" tx="2" ty="5.4181" tz="0.0002" />
+    <Box sX="0.56259" sY="0.251309" sZ="0.064829" angle="0" ax="1" ay="0" az="0" tx="2" ty="6.0138" tz="0.0002" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="187" axes="2" angle="180" ax="0" ay="1" az="0" tx="3" ty="0.32" tz="0" />
+    <Fixed type="187" axes="2" angle="0" ax="1" ay="0" az="0" tx="1" ty="0.32" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.1641267,0,0,0,0.85532703,0,0,0,4.0154662" centerOfMass="2,3.34721,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="0.42" minY="0.3172" minZ="-0.0822" maxX="3.58" maxY="6.4372" maxZ="0.0778" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.42" minY="0.3172" minZ="-0.0822" maxX="3.58" maxY="6.4372" maxZ="0.0778" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

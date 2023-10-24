@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: UnityLegoGame
+	Editted for LDD by: M2m
+	Original author: The LEGO Group
+	Last modification: 2022-09-30
+	Comments: v0.0: Initial creation [M2m].
+v0.1: Added decoration surface [jester] 2022-09-22.
+v0.2: Added colission data [Stephan] 2022-09-30.
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36756" />
+    <Annotation designname="ANIMAL NO. 31" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.383264" sY="0.448839" sZ="0.49" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4588" tz="0" />
+    <Box sX="0.279804" sY="0.243316" sZ="0.396351" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2533" tz="-0.9133" />
+    <Box sX="0.279804" sY="0.109054" sZ="0.396351" angle="42.4449" ax="-1" ay="0" az="0" tx="0" ty="0.5643" tz="-0.6706" />
+    <Box sX="0.279804" sY="0.257091" sZ="0.387344" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.497" tz="0.8485" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4,22:2:1,
+      22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.66552429,0,0,0,0.6464974,0,0,0,0.12569356" centerOfMass="0,0.465919,-0.012149" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3882" minY="0" minZ="-1.3461" maxX="0.3905" maxY="0.9318" maxZ="1.3218" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3882" minY="0" minZ="-1.3461" maxX="0.3905" maxY="0.9318" maxZ="1.3218" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

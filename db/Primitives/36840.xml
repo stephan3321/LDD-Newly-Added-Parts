@@ -1,14 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2022-12-30
+	Comments: v0.1: Added colission data [Stephan] 2022-12-30
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="36840" />
-    <Annotation designname="Bracket 1 x 1 - 1 x 1 Up" />
+    <Annotation designname="PLATE 1X1, W/ 1.5 PLATE 1X1, UPWARDS" />
     <Annotation maingroupid="216" />
     <Annotation maingroupname="None" />
     <Annotation platformid="200" />
     <Annotation platformname="None" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.3979" sY="0.357425" sZ="0.075986" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3713" tz="0.4785" />
+    <Box sX="0.338102" sY="0.040242" sZ="0.075986" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7555" tz="0.4785" />
+    <Box sX="0.3979" sY="0.151021" sZ="0.075986" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1581" tz="-0.3174" />
+    <Box sX="0.3979" sY="0.151021" sZ="0.075986" angle="90" ax="0" ay="1" az="0" tx="-0.3174" ty="0.1581" tz="0" />
+    <Box sX="0.3979" sY="0.151021" sZ="0.075986" angle="90" ax="0" ay="1" az="0" tx="0.3195" ty="0.1581" tz="0" />
+    <Box sX="0.06225" sY="0.151021" sZ="0.056338" angle="90" ax="0" ay="1" az="0" tx="-0.0023" ty="0.1581" tz="0.3055" />
+    <Box sX="0.3979" sY="0.357425" sZ="0.075986" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.2421" tz="0.0167" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:1:1,
@@ -27,9 +41,9 @@
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-0.400000005960464" minY="0" minZ="-0.400000005960464" maxX="0.400000005960464" maxY="0.800000011920929" maxZ="0.720000028610229" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.8" maxZ="0.72" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.400000005960464" minY="0" minZ="-0.400000005960464" maxX="0.400000005960464" maxY="0.800000011920929" maxZ="0.720000028610229" />
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.8" maxZ="0.72" />
   </GeometryBounding>
 </LEGOPrimitive>

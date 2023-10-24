@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Lego Digital Designer
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2022-05-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="45991" />
+    <Annotation designname="TAP Ø4.9/6.4 W/O HOLE [2013-current]" />
+    <Annotation maingroupid="227" />
+    <Annotation maingroupname="INTERIOR" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="11" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="30" ax="0" ay="-1" az="0" tx="0.1344" ty="0.0812" tz="-0.2318" />
+    <Box sX="0.099347" sY="0.350882" sZ="0.099347" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5991" tz="0" />
+    <Box sX="0.095" sY="0.007255" sZ="0.409719" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8877" tz="0.3803" />
+    <Box sX="0.197754" sY="0.045" sZ="0.197754" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.265" tz="0" />
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="90" ax="0" ay="-1" az="0" tx="0.2679" ty="0.0812" tz="0.0005" />
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="150" ax="0" ay="-1" az="0" tx="0.1335" ty="0.0812" tz="0.2322" />
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="30" ax="0" ay="1" az="0" tx="-0.1335" ty="0.0812" tz="-0.2322" />
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="90" ax="0" ay="1" az="0" tx="-0.2679" ty="0.0812" tz="-0.0005" />
+    <Box sX="0.154509" sY="0.068797" sZ="0.007894" angle="150" ax="0" ay="1" az="0" tx="-0.1344" ty="0.0812" tz="0.2318" />
+    <Box sX="0.095" sY="0.007255" sZ="0.409719" angle="90" ax="0" ay="0" az="-1" tx="0.0877" ty="0.8" tz="0.3803" />
+    <Box sX="0.095" sY="0.007255" sZ="0.409719" angle="180" ax="0" ay="0" az="1" tx="0" ty="0.7122" tz="0.3803" />
+    <Box sX="0.095" sY="0.007255" sZ="0.409719" angle="90" ax="0" ay="0" az="1" tx="-0.0877" ty="0.8" tz="0.3803" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.44" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.32" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="1.2" tz="0.8">
+      29:0,29:0,29:0,
+      29:0,11:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.555" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0.8" tz="0.245" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.033322,0,0,0,0.015048,0,0,0,0.02396" centerOfMass="0,0.616043,0.121209" mass="0.194999992847" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.33" minY="0" minZ="-0.33" maxX="0.33" maxY="1.138" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.33" minY="0" minZ="-0.33" maxX="0.33" maxY="1.138" maxZ="0.8" />
+  </GeometryBounding>
+</LEGOPrimitive>

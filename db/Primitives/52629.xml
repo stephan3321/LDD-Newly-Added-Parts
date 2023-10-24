@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-Derived from The LDraw Parts Library
-Orginal Author: Philippe Hurbain [Philo]
-Edited for LDD by Stephan
+	Derived from: The LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-08-07
+	Comments: v0.0: Initial creation [jester]
+	v0.1: Updated position [Stephan] 2023-08-07
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="52629" />
-    <Annotation designname="Ball, Hard Plastic 19mm D. (Spike Prime)" />
+    <Annotation designname="DIA. 19 WHEEL BALL" />
     <Annotation maingroupid="392" />
     <Annotation maingroupname="ELECTRIC PARTS" />
     <Annotation platformid="300" />
@@ -15,16 +18,16 @@ Edited for LDD by Stephan
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Sphere radius="0.948299646377563" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.959" tz="0" />
+    <Sphere radius="0.9483" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
   </Collision>
   <Connectivity>
-    <Ball type="15" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Ball type="15" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0,0" mass="1" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.959999978542328" minY="0" minZ="-0.959999978542328" maxX="0.959999978542328" maxY="1.92000007629395" maxZ="0.959999978542328" />
+    <AABB minX="-0.96" minY="-0.96" minZ="-0.96" maxX="0.96" maxY="0.96" maxZ="0.96" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.959999978542328" minY="0" minZ="-0.959999978542328" maxX="0.959999978542328" maxY="1.92000007629395" maxZ="0.959999978542328" />
+    <AABB minX="-0.96" minY="-0.96" minZ="-0.96" maxX="0.96" maxY="0.96" maxZ="0.96" />
   </GeometryBounding>
 </LEGOPrimitive>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2022-12-01
+	Comments: v0.0: Initial creation [Stephan] 2022-12-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="48267" />
+    <Annotation designname="BION. EYE [2018-current]" />
+    <Annotation maingroupid="381" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.035001" sY="0.29" sZ="0.029844" angle="44.9013" ax="0" ay="1" az="0" tx="0.15" ty="0.4" tz="-0.1501" />
+    <Box sX="0.035001" sY="0.29" sZ="0.029844" angle="44.9013" ax="0" ay="1" az="0" tx="-0.1493" ty="0.4" tz="0.1492" />
+    <Box sX="0.068931" sY="0.29" sZ="0.069802" angle="0" ax="1" ay="0" az="0" tx="-0.1689" ty="0.4" tz="-0.1698" />
+    <Box sX="0.068931" sY="0.29" sZ="0.069802" angle="0" ax="1" ay="0" az="0" tx="0.1689" ty="0.4" tz="0.1698" />
+    <Box sX="0.223804" sY="0.19021" sZ="0.011897" angle="20.0497" ax="0.8833" ay="-0.3695" az="-0.2887" tx="0.8822" ty="0.2257" tz="-0.2257" />
+    <Box sX="0.213111" sY="0.134755" sZ="0.009396" angle="38.9239" ax="0.9048" ay="-0.1571" az="-0.3957" tx="0.8948" ty="0.5451" tz="-0.0773" />
+    <Box sX="0.195465" sY="0.21537" sZ="0.011897" angle="34.0645" ax="0.7849" ay="-0.2561" az="-0.5642" tx="1.2569" ty="0.3053" tz="-0.1127" />
+    <Box sX="0.200262" sY="0.105828" sZ="0.011897" angle="40.4053" ax="0.8275" ay="-0.3251" az="-0.4577" tx="1.5899" ty="0.2241" tz="-0.0738" />
+    <Box sX="0.8075" sY="0.030085" sZ="0.094621" angle="0" ax="1" ay="0" az="0" tx="1.0825" ty="0.0401" tz="0" />
+    <Box sX="0.826235" sY="0.030085" sZ="0.099272" angle="8.509" ax="0" ay="-1" az="0" tx="1.0568" ty="0.0401" tz="-0.1203" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="0" ax="1" ay="0" az="0" tx="-0.299" ty="0.4" tz="0" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="45" ax="0" ay="1" az="0" tx="-0.2115" ty="0.4" tz="0.2115" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.4" tz="0.299" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="45" ax="0" ay="-1" az="0" tx="-0.2115" ty="0.4" tz="-0.2115" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.4" tz="-0.299" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="135" ax="0" ay="-1" az="0" tx="0.2115" ty="0.4" tz="-0.2115" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="135" ax="0" ay="1" az="0" tx="0.2115" ty="0.4" tz="0.2115" />
+    <Box sX="0.024039" sY="0.39" sZ="0.1225" angle="180" ax="0" ay="1" az="0" tx="0.299" ty="0.4" tz="0" />
+    <Box sX="0.195465" sY="0.22681" sZ="0.038685" angle="24.8824" ax="0.8664" ay="-0.1073" az="-0.4877" tx="0.4773" ty="0.3122" tz="-0.201" />
+    <Box sX="0.228327" sY="0.10689" sZ="0.009396" angle="35.2911" ax="0.9617" ay="-0.1583" az="-0.2239" tx="0.492" ty="0.6476" tz="-0.0635" />
+    <Box sX="0.223804" sY="0.19021" sZ="0.011897" angle="20.0497" ax="-0.8833" ay="0.3695" az="-0.2887" tx="0.8822" ty="0.2257" tz="0.2257" />
+    <Box sX="0.213111" sY="0.134755" sZ="0.009396" angle="38.9239" ax="-0.9048" ay="0.1571" az="-0.3957" tx="0.8948" ty="0.5451" tz="0.0773" />
+    <Box sX="0.195465" sY="0.21537" sZ="0.011897" angle="34.0645" ax="-0.7849" ay="0.2561" az="-0.5642" tx="1.2569" ty="0.3053" tz="0.1127" />
+    <Box sX="0.200262" sY="0.105828" sZ="0.011897" angle="40.4053" ax="-0.8275" ay="0.3251" az="-0.4577" tx="1.5899" ty="0.2241" tz="0.0738" />
+    <Box sX="0.826235" sY="0.030085" sZ="0.099272" angle="8.509" ax="0" ay="1" az="0" tx="1.0568" ty="0.0401" tz="0.1203" />
+    <Box sX="0.195465" sY="0.22681" sZ="0.038685" angle="24.8824" ax="-0.8664" ay="0.1073" az="-0.4877" tx="0.4773" ty="0.3122" tz="0.201" />
+    <Box sX="0.228327" sY="0.10689" sZ="0.009396" angle="35.2911" ax="-0.9617" ay="0.1583" az="-0.2239" tx="0.492" ty="0.6476" tz="0.0635" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.036149,0,0,0,0.162803,0,0,0,0.166005" centerOfMass="0.51009,0.33206,0" mass="0.52999997139" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.36" minY="0" minZ="-0.36" maxX="1.92" maxY="0.8" maxZ="0.36" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="0" minZ="-0.36" maxX="1.92" maxY="0.8" maxZ="0.36" />
+  </GeometryBounding>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+</LEGOPrimitive>
