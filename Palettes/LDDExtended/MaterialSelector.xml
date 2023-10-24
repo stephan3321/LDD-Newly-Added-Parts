@@ -23,6 +23,7 @@
 		<Material id="102"/>
 		<Material id="106"/>
 		<Material id ="111"/>
+		<Material id ="117"/>
 		<Material id ="119"/>
 		<Material id ="140"/>
 		<Material id ="141"/>
@@ -30,22 +31,18 @@
 		<Material id ="182"/>
 		<Material id ="221"/>
 		<Material id ="38"/>
-		<Material id ="47"/>
 		<Material id ="113"/>
 		<Material id ="124"/>
 		<Material id ="126"/>
 		<Material id ="135"/>
 		<Material id ="138"/>
-		<Material id ="143"/>
 		<Material id ="151"/>
 		<Material id ="191"/>
-		<Material id ="208"/>
 		<Material id ="212"/>
 		<Material id ="222"/>
 		<Material id ="226"/>
 		<Material id ="268"/>
 		<Material id ="283"/>
-		<Material id ="294"/>
 		<Material id ="297"/>
 		<Material id ="308"/>
 		<Material id ="311"/>
@@ -58,30 +55,9 @@
 		<Material id ="324"/>
 		<Material id ="325"/>
 		<Material id ="326"/>
-
-		<Material id ="309"/>
-		<Material id ="310"/>
-
-		<Material id ="195"/>
-		<Material id ="25"/>
-		<Material id ="217"/>
-		<Material id ="27"/>
 		<Material id ="107"/>
-		<Material id ="147"/>
-		<Material id ="50"/>
-		<Material id ="2"/>
-		<Material id ="3"/>
-		<Material id ="11"/>
-		<Material id ="105"/>
-		<Material id ="145"/>
-		<Material id ="9"/>
 		<Material id ="114"/>
 		<Material id ="129"/>
-		<Material id ="153"/>
-		<Material id ="139"/>
-		<Material id ="179"/>
-<!--		<Material id ="299"/> -->
-		<Material id ="298"/>
 		<Material id ="302"/>
 		<Material id ="329"/>
 		<Material id ="330"/>
@@ -95,5 +71,40 @@
 		<Material id ="363"/>
 		<Material id ="364"/>
 		<Material id ="365"/>
+		<Material id ="366"/>
+		<Material id ="367"/>
+		<Material id ="368"/>
+		<Material id ="370"/>  <!-- Medium Brown -->
+		<Material id ="371"/>  <!-- Warm Tan -->
+		<Material id ="376"/>  <!-- Tr. Yellow Opal -->
+
+		<Material id ="309"/>
+		<Material id ="310"/>
+		<Material id ="334"/>
+		<Material id ="335"/>
+		<Material id ="375"/>  <!-- Transparent Black -->
+
+<!-- Legacy -->
+		<Material id ="195"/>
+		<Material id ="25"/>
+		<Material id ="217"/>
+		<Material id ="27"/>
+		<Material id ="147"/>
+		<Material id ="50"/>
+		<Material id ="2"/>
+		<Material id ="3"/>
+		<Material id ="11"/>
+		<Material id ="105"/>
+		<Material id ="145"/>
+		<Material id ="9"/>
+		<Material id ="47"/>
+		<Material id ="143"/>
+		<Material id ="153"/>
+		<Material id ="139"/>
+		<Material id ="179"/>
+		<Material id ="208"/>
+		<Material id ="294"/>
+		<Material id ="299"/>
+		<Material id ="298"/>
 	</Grid>
 </MaterialDefinition>
