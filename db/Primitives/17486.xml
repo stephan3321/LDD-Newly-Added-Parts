@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="17486"/>
+    <Annotation designname="LEG 1X2X2 WITH SNAP [2014-2017]"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.007276" sY="0.139254" sZ="0.35" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.4" ty="1.41237" tz="0.84"/>
+    <Box sX="0.009719" sY="0.128411" sZ="0.2" angle="180" ax="1" ay="0" az="0" tx="0.584814" ty="1.23" tz="0.69"/>
+    <Box sX="0.007277" sY="0.139254" sZ="0.35" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="0.4" ty="1.04763" tz="0.84"/>
+    <Box sX="0.009719" sY="0.128411" sZ="0.2" angle="180" ax="0" ay="1" az="0" tx="0.215186" ty="1.23" tz="0.69"/>
+    <Box sX="0.201269" sY="0.201269" sZ="0.135" angle="180" ax="0.92388" ay="0.382683" az="0" tx="0.4" ty="1.23" tz="0.335"/>
+    <Box sX="0.25163" sY="0.251629" sZ="0.19" angle="45" ax="0" ay="0" az="1" tx="0.4" ty="1.23" tz="0.2"/>
+    <Box sX="0.265" sY="0.505" sZ="0.175" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.715" tz="0.185"/>
+    <Box sX="0.39" sY="0.265" sZ="0.29" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.275" tz="0.1"/>
+    <Box sX="0.79" sY="0.09" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.1" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="1.23" tz="1.2"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.63" tz="0">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.426667,0,0,0,0.426667,0,0,0,0.426667" centerOfMass="0.4,0.8,0.4" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.6" maxZ="1.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.6" maxZ="1.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

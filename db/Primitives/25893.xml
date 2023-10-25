@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2022-03-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25893" />
+    <Annotation designname="3.2 Shaft W/ Knob [w/ short stem, 2016-2020]" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.09" sY="0.363252" sZ="0.203752" angle="90" ax="0" ay="1" az="0" tx="0.1022" ty="0" tz="0" />
+    <Box sX="0.264673" sY="0.264673" sZ="0.043985" angle="90" ax="0" ay="1" az="0" tx="0.262" ty="0" tz="0" />
+    <Box sX="0.095" sY="0.365" sZ="0.095" angle="45" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.3966" tz="0" />
+    <Custom2DField type="23" width="2" height="2" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0.32" ty="0.4" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.106667,0,0,0,0.089451,0,0,0,0.089451" centerOfMass="0.168831,0,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.1603" minY="-0.4" minZ="-0.4" maxX="0.498" maxY="0.4" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1603" minY="-0.4" minZ="-0.4" maxX="0.498" maxY="0.4" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2021-10-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16770" />
+    <Annotation designname="Ø3.2 HOLDER W. CLAW [2014-2018]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.388664" sY="0.197334" sZ="0.123464" angle="0" ax="1" ay="0" az="0" tx="0.6157" ty="0.0052" tz="0" />
+    <Box sX="0.388664" sY="0.41026" sZ="0.123464" angle="8.6014" ax="0" ay="0" az="-1" tx="0.8462" ty="0.2641" tz="0" />
+    <Box sX="0.388664" sY="0.346643" sZ="0.123464" angle="15.7289" ax="0" ay="0" az="-1" tx="1.5307" ty="0.0895" tz="0" />
+    <Box sX="0.285601" sY="0.052842" sZ="0.089787" angle="43.6513" ax="0" ay="0" az="-1" tx="2.0316" ty="-0.2126" tz="0" />
+    <Box sX="0.03203" sY="0.197334" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="0.2065" ty="0" tz="0" />
+    <Box sX="0.03203" sY="0.163795" sZ="0.15" angle="97.4026" ax="0" ay="0" az="1" tx="0.0136" ty="0.2075" tz="0" />
+    <Box sX="0.03203" sY="0.163795" sZ="0.15" angle="180" ax="-0.66" ay="0.7513" az="0" tx="0.0136" ty="-0.2075" tz="0" />
+    <Box sX="0.285601" sY="0.052842" sZ="0.089787" angle="65.0522" ax="0" ay="0" az="-1" tx="2.1093" ty="-0.1205" tz="0" />
+    <Box sX="0.285601" sY="0.052842" sZ="0.089787" angle="17.1312" ax="0" ay="0" az="-1" tx="1.9117" ty="-0.3302" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.16" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.150851,0,0,0,0.551486,0,0,0,0.673002" centerOfMass="1.10351,0.088728,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.165522" minY="-0.550453" minZ="-0.209769" maxX="2.37255" maxY="0.727908" maxZ="0.209769" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.165522" minY="-0.473718" minZ="-0.209769" maxX="2.29196" maxY="0.711888" maxZ="0.209769" />
+  </GeometryBounding>
+</LEGOPrimitive>
