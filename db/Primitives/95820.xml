@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95820"/>
+    <Annotation designname="BRICK 1X2 W. HORIZONTAL HOLDER [2009-2019]"/>
+    <Annotation maingroupid="202"/>
+    <Annotation maingroupname="BRICKS, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.47" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.48" tz="0"/>
+    <Box sX="0.19" sY="0.15" sZ="0.11" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.48" tz="0.52"/>
+    <Box sX="0.039341" sY="0.15" sZ="0.142844" angle="0" ax="0" ay="1" az="0" tx="0.6309" ty="0.48" tz="0.801639"/>
+    <Box sX="0.039341" sY="0.15" sZ="0.142844" angle="0" ax="0" ay="1" az="0" tx="0.1691" ty="0.48" tz="0.801639"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.32" tz="0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.165653,0,0,0,0.283212,0,0,0,0.279654" centerOfMass="0.399925,0.553343,0.051473" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.138" maxZ="0.97"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.138" maxZ="0.97"/>
+  </GeometryBounding>
+</LEGOPrimitive>
