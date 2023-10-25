@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80133"/>
+    <Annotation designname="HINGE PLATE 1X2 I"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.59" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.6" ty="0.16" tz="0"/>
+    <Box sX="0.19" sY="0.19" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.2" ty="0.16" tz="-0.2"/>
+    <Box sX="0.201347" sY="0.201347" sZ="0.07" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.4" ty="0.24" tz="0.4"/>
+    <Box sX="0.093836" sY="0.093836" sZ="0.07" angle="148.60028" ax="0.281085" ay="-0.678598" az="0.678598" tx="-0.4" ty="0.08" tz="0.4"/>
+    <Box sX="0.201347" sY="0.201347" sZ="0.07" angle="148.60028" ax="0.281085" ay="-0.678598" az="0.678598" tx="-0.4" ty="0.24" tz="0.4"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:2,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="7" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.4" ty="0.16" tz="0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.050324,0,0,0,0.165927,0,0,0,0.132468" centerOfMass="0.245,0.249,0.155" mass="0.407999992371" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.71" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.71"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.71" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.71"/>
+  </GeometryBounding>
+</LEGOPrimitive>

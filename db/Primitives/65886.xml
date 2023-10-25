@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="65886" />
+    <Annotation designname="PLATE 2X3 W. HOLDER [2020-current]" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="10" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19" sY="0.15" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.16" tz="-0.4" />
+    <Box sX="0.06" sY="0.045" sZ="0.55" angle="0" ax="1" ay="0" az="0" tx="-0.47" ty="0.265" tz="-0.4" />
+    <Box sX="0.160288" sY="0.061234" sZ="0.15" angle="49.2941" ax="0" ay="0" az="-1" tx="-0.6012" ty="0.3716" tz="-0.8" />
+    <Box sX="0.13711" sY="0.058923" sZ="0.15" angle="6.034" ax="0" ay="0" az="1" tx="-0.8254" ty="0.4774" tz="-0.8" />
+    <Box sX="0.106413" sY="0.148244" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.5164" ty="0.1582" tz="-0.8" />
+    <Box sX="0.16647" sY="0.044104" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.7906" ty="0.0269" tz="-0.8" />
+    <Box sX="0.16647" sY="0.044104" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.7906" ty="0.0269" tz="0" />
+    <Box sX="0.13711" sY="0.058923" sZ="0.15" angle="6.034" ax="0" ay="0" az="1" tx="-0.8254" ty="0.4774" tz="0" />
+    <Box sX="0.160288" sY="0.061234" sZ="0.15" angle="49.2941" ax="0" ay="0" az="-1" tx="-0.6012" ty="0.3716" tz="0" />
+    <Box sX="0.106413" sY="0.148244" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.5164" ty="0.1582" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="-0.8006" ty="0.2507" tz="0.16" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="1" ay="0" az="0" tx="-0.8006" ty="0.2507" tz="-0.96" />
+    <Ball type="2" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="-0.7994" ty="0.248" tz="-0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.215746,0,0,0,0.840025,0,0,0,0.644677" centerOfMass="0.569713,0.20491,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.975997" minY="-0.058038" minZ="-1.2" maxX="2" maxY="0.561962" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.975997" minY="-0.058038" minZ="-1.2" maxX="2" maxY="0.561962" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

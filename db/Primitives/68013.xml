@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-04-27
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="68013" />
-    <Annotation designname="Cylinder Half 1 x 2 x 1" />
+    <Annotation designname="WALL ½ CIRCLE, 1X2, W/ 4.85 HOLE" />
     <Annotation maingroupid="203" />
     <Annotation maingroupname="BRICKS, SPECIAL CIRCLES AND ANGLES" />
     <Annotation platformid="200" />

@@ -7,13 +7,26 @@ Editted for LDD by Stephan
 -->
   <Annotations>
     <Annotation aliases="73831" />
-    <Annotation designname="Plate 2 x 3 with 1 x 1 Cutout" />
+    <Annotation designname="PLATE 2X3, W/ CUT OUT" />
     <Annotation maingroupid="215" />
     <Annotation maingroupname="PLATES" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.390237" sY="0.078662" sZ="0.797688" angle="0" ax="1" ay="0" az="0" tx="-0.7986" ty="0.2408" tz="0.3996" />
+    <Box sX="0.390237" sY="0.078662" sZ="0.797688" angle="0" ax="1" ay="0" az="0" tx="0.8014" ty="0.2408" tz="0.3996" />
+    <Box sX="0.390237" sY="0.078662" sZ="0.426021" angle="90" ax="0" ay="-1" az="0" tx="0.0014" ty="0.2408" tz="-0.0004" />
+    <Box sX="1.191685" sY="0.155925" sZ="0.07677" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1629" tz="-0.3205" />
+    <Box sX="0.391685" sY="0.155925" sZ="0.07677" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0.1629" tz="1.1185" />
+    <Box sX="0.391685" sY="0.155925" sZ="0.07677" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.1629" tz="1.1185" />
+    <Box sX="0.545415" sY="0.155925" sZ="0.07677" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1629" tz="0.3185" />
+    <Box sX="0.391685" sY="0.155925" sZ="0.07677" angle="90" ax="0" ay="1" az="0" tx="-0.4798" ty="0.1629" tz="0.8008" />
+    <Box sX="0.391685" sY="0.155925" sZ="0.07677" angle="90" ax="0" ay="1" az="0" tx="0.4803" ty="0.1629" tz="0.8008" />
+    <Box sX="0.791685" sY="0.155925" sZ="0.07677" angle="90" ax="0" ay="1" az="0" tx="1.119" ty="0.1629" tz="0.4008" />
+    <Box sX="0.791685" sY="0.155925" sZ="0.07677" angle="90" ax="0" ay="1" az="0" tx="-1.121" ty="0.1629" tz="0.4008" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0.32" tz="-0.4">
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
