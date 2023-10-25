@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2022-08-08
+	Last modification: 2023-03-18
 	Comments: v0.1: Added decoration surface [M2m].
-v0.2: Updated collision data [Stephan].
-v0.3: Updated collision data [Stephan] 2022-08-08.
+	v0.2: Updated collision data [Stephan].
+	v0.3: Updated collision data [Stephan] 2022-08-08.
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -18,13 +18,13 @@ v0.3: Updated collision data [Stephan] 2022-08-08.
   </Annotations>
   <Collision>
     <Box sX="0.012395" sY="0.207259" sZ="0.350428" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.4008" tz="-0.372" />
-    <Box sX="0.037647" sY="0.376352" sZ="0.387962" angle="105.1709" ax="-0.4554" ay="-0.765" az="0.4554" tx="0.0012" ty="0.3479" tz="0.0462" />
-    <Box sX="0.069431" sY="0.248533" sZ="0.394615" angle="90" ax="0" ay="-1" az="0" tx="0.0014" ty="0.2506" tz="-0.3207" />
-    <Box sX="0.069431" sY="0.099797" sZ="0.394615" angle="90" ax="0" ay="-1" az="0" tx="0.0014" ty="0.1023" tz="0.321" />
-    <Box sX="0.069431" sY="0.099797" sZ="0.394615" angle="0" ax="1" ay="0" az="0" tx="0.3269" ty="0.1023" tz="0.0016" />
-    <Box sX="0.069431" sY="0.099797" sZ="0.394615" angle="0" ax="1" ay="0" az="0" tx="-0.324" ty="0.1023" tz="0.0016" />
-    <Box sX="0.069431" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="-0.324" ty="0.2425" tz="-0.059" />
-    <Box sX="0.069431" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="0.3229" ty="0.2425" tz="-0.059" />
+    <Box sX="0.037647" sY="0.376352" sZ="0.383154" angle="105.1709" ax="-0.4554" ay="-0.765" az="0.4554" tx="0.0012" ty="0.3479" tz="0.0462" />
+    <Box sX="0.069431" sY="0.248533" sZ="0.383464" angle="90" ax="0" ay="-1" az="0" tx="0.0014" ty="0.2506" tz="-0.3207" />
+    <Box sX="0.069431" sY="0.099797" sZ="0.385633" angle="90" ax="0" ay="-1" az="0" tx="0.0014" ty="0.1023" tz="0.321" />
+    <Box sX="0.059095" sY="0.099797" sZ="0.394615" angle="0" ax="1" ay="0" az="0" tx="0.3269" ty="0.1023" tz="0.0016" />
+    <Box sX="0.059975" sY="0.099797" sZ="0.394615" angle="0" ax="1" ay="0" az="0" tx="-0.324" ty="0.1023" tz="0.0016" />
+    <Box sX="0.063245" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="-0.324" ty="0.2425" tz="-0.059" />
+    <Box sX="0.063102" sY="0.125511" sZ="0.235687" angle="24.4278" ax="1" ay="0" az="0" tx="0.3229" ty="0.2425" tz="-0.059" />
     <Box sX="0.029025" sY="0.115609" sZ="0.340489" angle="105.1709" ax="-0.4554" ay="-0.765" az="0.4554" tx="0.0012" ty="0.5302" tz="-0.2772" />
   </Collision>
   <Connectivity>

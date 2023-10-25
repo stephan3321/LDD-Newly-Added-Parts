@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-05-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32028" />
+    <Annotation designname="PLATE 1X2 WITH SLIDE" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.79" sY="0.1" sZ="0.04" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.51" />
+    <Box sX="0.79" sY="0.040521" sZ="0.121977" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.68" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Slider type="2" length="1.60376" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0.7071" az="0" tx="-0.4" ty="0.21" tz="0.51" />
+    <Slider type="2" length="1.60376" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.4" ty="0.1094" tz="0.51" />
+    <Slider type="5" length="1.59782" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.4" ty="0.16" tz="0.7422" />
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.056255,0,0,0,0.150243,0,0,0,0.106614" centerOfMass="0.4,0.210689,0.13226" mass="0.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.20376" maxY="0.498" maxZ="0.8" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.74" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -44,7 +44,7 @@
     </Custom2DField>
     <Custom2DField type="22" width="2" height="2" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-1.2" ty="-0.152" tz="-0.4">
       29:0,29:0,29:0,
-      29:0,9:4:32,29:0,
+      29:0,5:4:96,29:0,
       29:0,29:0,29:0
     </Custom2DField>
     <Axel type="21" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-1.1878" ty="0.248" tz="0" />

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-10-06
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated decoration surface [Stephan] 2023-10-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32474" />
+    <Annotation designname="VOODOO BALL Ø10,2" />
+    <Annotation maingroupid="313" />
+    <Annotation maingroupname="BEAMS W/ BALL AND BALL CUP" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.030305" sY="0.070937" sZ="0.255063" angle="45" ax="0" ay="0" az="-1" tx="0.1757" ty="0.1757" tz="-0.4751" />
+    <Box sX="0.070938" sY="0.070937" sZ="0.255063" angle="0" ax="1" ay="0" az="0" tx="0.1709" ty="-0.1709" tz="-0.4751" />
+    <Box sX="0.061272" sY="0.070937" sZ="0.255063" angle="0" ax="1" ay="0" az="0" tx="-0.1613" ty="0.1709" tz="-0.4751" />
+    <Box sX="0.061271" sY="0.030305" sZ="0.255063" angle="45" ax="0" ay="0" az="1" tx="-0.1689" ty="-0.1689" tz="-0.4751" />
+    <Box sX="0.145597" sY="0.145597" sZ="0.013017" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8056" />
+    <Box sX="0.219019" sY="0.219019" sZ="0.045957" angle="98.4211" ax="0.8629" ay="0.3574" az="-0.3574" tx="0" ty="0.3153" tz="-0.37" />
+    <Box sX="0.219019" sY="0.219019" sZ="0.045957" angle="98.4211" ax="0.3574" ay="0.8629" az="0.3574" tx="-0.3153" ty="0" tz="-0.37" />
+    <Box sX="0.219019" sY="0.219019" sZ="0.045957" angle="148.6003" ax="-0.2811" ay="0.6786" az="0.6786" tx="0" ty="-0.3153" tz="-0.37" />
+    <Box sX="0.219019" sY="0.219019" sZ="0.045957" angle="148.6003" ax="0.6786" ay="-0.2811" az="-0.6786" tx="0.3153" ty="0" tz="-0.37" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.782599" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Ball type="5" angle="119.9965" ax="-0.5771" ay="-0.5758" az="0.5792" tx="-0.0012" ty="-0.001" tz="-0.3682" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.039799,0,0,0,0.039799,0,0,0,0.048852" centerOfMass="0,0,-0.397393" mass="0.418999999762" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.51" minY="-0.51" minZ="-0.88" maxX="0.51" maxY="0.51" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.51" minY="-0.51" minZ="-0.88" maxX="0.51" maxY="0.51" maxZ="0" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

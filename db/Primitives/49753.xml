@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49753"/>
+    <Annotation designname="BAD ROBOT ARM, THICK SUPPORT [~2014-current]"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.055" sY="0.193353" sZ="0.289998" angle="180" ax="0" ay="0.708534" az="-0.705677" tx="-0.225" ty="-0.638374" tz="1.32144"/>
+    <Box sX="0.15" sY="0.059577" sZ="0.206016" angle="180" ax="0" ay="-0.52356" az="0.851989" tx="0" ty="-0.056993" tz="0.314388"/>
+    <Box sX="0.15" sY="0.263522" sZ="0.102186" angle="180" ax="0" ay="-0.558738" az="0.829345" tx="0" ty="-0.251665" tz="0.100126"/>
+    <Box sX="0.15" sY="0.035773" sZ="0.300408" angle="180" ax="0" ay="-0.646978" az="0.762508" tx="0" ty="-0.150143" tz="-0.207126"/>
+    <Box sX="0.28" sY="0.035627" sZ="0.214795" angle="180" ax="0" ay="-0.693938" az="0.720034" tx="0" ty="-0.645603" tz="0.742356"/>
+    <Box sX="0.28" sY="0.367598" sZ="0.062555" angle="180" ax="0" ay="-0.681166" az="0.732129" tx="0" ty="-0.893894" tz="1.14222"/>
+    <Box sX="0.13" sY="0.364024" sZ="0.203271" angle="180" ax="0" ay="0.859161" az="-0.511705" tx="0" ty="-0.457158" tz="0.391616"/>
+    <Box sX="0.055" sY="0.193353" sZ="0.289998" angle="180" ax="0" ay="0.708534" az="-0.705677" tx="0.225" ty="-0.638374" tz="1.32144"/>
+    <Box sX="0.28" sY="0.349902" sZ="0.060925" angle="180" ax="0" ay="0.731651" az="-0.681679" tx="0" ty="-0.384529" tz="1.16199"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.16" ty="0" tz="0"/>
+    <Axel type="6" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="-0.6392" tz="1.526"/>
+    <Axel type="6" length="0.58" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.29" ty="-0.64" tz="0.96"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.134896,0,0,0,0.113018,0,0,0,0.037932" centerOfMass="-1.7E-005,-0.505863,0.694646" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.29" minY="-0.993627" minZ="-0.304999" maxX="0.29" maxY="0.17" maxZ="1.526"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.29" minY="-0.993627" minZ="-0.304999" maxX="0.29" maxY="0.17" maxZ="1.526"/>
+  </GeometryBounding>
+</LEGOPrimitive>
