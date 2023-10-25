@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="HINGE PLATE 1X2, NO. 2 [2022-current]"/>
+		<Annotation aliases=""/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="80133" uuid="c55bcc81-353e-4cd0-bdc2-5f74e4c7ba15">
+			<Part refID="0" designID="80133" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,1.5999994278,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="80134" uuid="17a784ba-086c-4b0a-a105-3c223b036c6d">
+			<Part refID="1" designID="80134" materials="194">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
