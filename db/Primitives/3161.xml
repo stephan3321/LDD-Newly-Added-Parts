@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Derived from: LDraw Parts Library
-	Orginal Author:  Philippe Hurbain [Philo]
+	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Jester
-	Last modification: 2023-02-11
+	Last modification: 2023-10-26
 	Comments: v0.0: Initial creation [jester] 2023-02-07
-v0.1: Added collision data [Stephan] 2023-02-11
+	v0.1: Added collision data [Stephan] 2023-02-11
+	v0.2: Corrected connection data [Stephan] 2023-10-26
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -39,7 +40,7 @@ v0.1: Added collision data [Stephan] 2023-02-11
     <Box sX="0.602066" sY="0.791743" sZ="0.065853" angle="180" ax="0.7071" ay="0.7071" az="0" tx="1.2045" ty="3.201" tz="-0.4935" />
   </Collision>
   <Connectivity>
-    <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="-0.0009" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1

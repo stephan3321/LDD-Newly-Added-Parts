@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Jester
-	Last modification: 2023-03-18
+	Last modification: 2023-10-26
 	Comments: v0.0: Initial creation [jester] 2023-02-07
 	v0.1: Added collision data [Stephan] 2023-02-21
+	v0.2: Corrected connection data [Stephan] 2023-10-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -36,7 +37,7 @@
       22:2:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
-    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-2.8218" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-2.8" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1

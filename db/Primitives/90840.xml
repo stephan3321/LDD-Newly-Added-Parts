@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
-	Last modification: 2023-05-20
+	Last modification: 2023-10-26
 	Comments: v0.0: Initial creation, corrected 3D  [Stephan] 2023-05-20
+	v0.1: Updated collision data [Stephan] 2023-10-26
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -81,8 +82,8 @@
     <Box sX="0.078437" sY="0.810702" sZ="0.139331" angle="53.9878" ax="0" ay="0" az="1" tx="-1.256" ty="0.9114" tz="0.5763" />
     <Box sX="0.078437" sY="0.810702" sZ="0.139331" angle="36.0351" ax="0" ay="0" az="1" tx="-0.9139" ty="1.2542" tz="0.5763" />
     <Box sX="0.078437" sY="0.810702" sZ="0.139331" angle="17.9997" ax="0" ay="0" az="1" tx="-0.4807" ty="1.4755" tz="0.5763" />
-    <Box sX="0.055243" sY="0.763316" sZ="0.372509" angle="14.49" ax="0" ay="0" az="-1" tx="0.4957" ty="-1.0199" tz="0.4" />
-    <Box sX="0.055243" sY="0.763316" sZ="0.372509" angle="14.4528" ax="0" ay="0" az="1" tx="-0.4971" ty="-1.0199" tz="0.4" />
+    <Box sX="0.055243" sY="0.661101" sZ="0.372509" angle="14.49" ax="0" ay="0" az="-1" tx="0.5315" ty="-0.8814" tz="0.4" />
+    <Box sX="0.055243" sY="0.661101" sZ="0.372509" angle="14.4528" ax="0" ay="0" az="1" tx="-0.5255" ty="-0.9097" tz="0.4" />
     <Box sX="0.020698" sY="0.213576" sZ="0.372509" angle="90" ax="0" ay="0" az="-1" tx="-0.0115" ty="0.7214" tz="0.4" />
     <Box sX="0.020698" sY="0.213576" sZ="0.372509" angle="56.0367" ax="0" ay="0" az="-1" tx="-0.4126" ty="0.5919" tz="0.4" />
     <Box sX="0.020698" sY="0.213576" sZ="0.372509" angle="124.0058" ax="0" ay="0" az="-1" tx="0.3939" ty="0.6045" tz="0.4" />
@@ -93,8 +94,8 @@
     <Box sX="0.377215" sY="0.0675" sZ="0.053352" angle="0" ax="1" ay="0" az="0" tx="0.0032" ty="0.6137" tz="0.7055" />
     <Box sX="0.585641" sY="0.0675" sZ="0.053352" angle="0" ax="1" ay="0" az="0" tx="0.0032" ty="0.4851" tz="0.7055" />
     <Box sX="0.683504" sY="0.0675" sZ="0.053352" angle="0" ax="1" ay="0" az="0" tx="0.0032" ty="0.3315" tz="0.7055" />
-    <Box sX="0.807516" sY="0.238601" sZ="0.053352" angle="105" ax="0" ay="0" az="-1" tx="0.3531" ty="-0.5663" tz="0.7055" />
-    <Box sX="0.807516" sY="0.238601" sZ="0.053352" angle="75.9236" ax="0" ay="0" az="-1" tx="-0.3521" ty="-0.5893" tz="0.7055" />
+    <Box sX="0.807516" sY="0.238601" sZ="0.053352" angle="105" ax="0" ay="0" az="-1" tx="0.3611" ty="-0.5364" tz="0.7055" />
+    <Box sX="0.807516" sY="0.238601" sZ="0.053352" angle="75.9236" ax="0" ay="0" az="-1" tx="-0.3676" ty="-0.5274" tz="0.7055" />
     <Box sX="0.235356" sY="0.263573" sZ="0.053352" angle="0" ax="1" ay="0" az="0" tx="0.0032" ty="-0.5087" tz="0.7055" />
   </Collision>
   <Connectivity>

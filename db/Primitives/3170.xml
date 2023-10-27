@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: Stephan
-	Last modification: 2023-02-11
+	Last modification: 2023-10-26
 	Comments: v0.0: Initial creation [jester] 2023-01-03
-v0.1: Added collision data [Stephan] 2023-02-11
+	v0.1: Added collision data [Stephan] 2023-02-11
+	v0.2: Updated collision data [Stephan] 2023-10-26
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -19,8 +20,8 @@ v0.1: Added collision data [Stephan] 2023-02-11
   </Annotations>
   <Collision>
     <Box sX="0.799481" sY="0.148021" sZ="0.395474" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1613" tz="0" />
-    <Sphere radius="0.313962" angle="0" ax="1" ay="0" az="0" tx="1.6" ty="0.1616" tz="0" />
-    <Sphere radius="0.313962" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0.1616" tz="0" />
+    <Sphere radius="0.261786" angle="0" ax="1" ay="0" az="0" tx="1.6" ty="0.1616" tz="0" />
+    <Sphere radius="0.261786" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0.1616" tz="0" />
     <Box sX="1.092134" sY="0.148021" sZ="0.043503" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1613" tz="0" />
     <Box sX="1.092134" sY="0.148021" sZ="0.043503" angle="90" ax="-1" ay="0" az="0" tx="0.4" ty="0.1613" tz="0" />
     <Box sX="1.092134" sY="0.148021" sZ="0.043503" angle="135" ax="-1" ay="0" az="0" tx="0.4" ty="0.1613" tz="0" />

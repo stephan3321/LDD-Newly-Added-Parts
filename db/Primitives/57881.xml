@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Magnus Forsberg [MagFors]
 	Editted for LDD by: Stephan
-	Last modification: 2023-05-20
+	Last modification: 2023-10-27
 	Comments: v0.0: Initial creation [Stephan] 2023-05-20
+	v0.1: Updated collision data [Stephan] 2023-10-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -20,13 +21,13 @@
     <Box sX="0.686007" sY="0.03" sZ="0.24995" angle="58.7322" ax="-1" ay="0" az="0" tx="-0.0142" ty="-0.0013" tz="0.7688" />
     <Box sX="0.686025" sY="0.03" sZ="0.24341" angle="180" ax="0" ay="0.9578" az="-0.2874" tx="0.0232" ty="-0.5425" tz="-0.6608" />
     <Box sX="0.686025" sY="0.03" sZ="0.194821" angle="92.1953" ax="-0.1921" ay="-0.9624" az="0.1921" tx="-0.7341" ty="-0.4574" tz="0.0878" />
-    <Box sX="0.49" sY="0.109005" sZ="0.543868" angle="20.6017" ax="-1" ay="0" az="0" tx="0" ty="0.1952" tz="-0.0357" />
-    <Box sX="0.387634" sY="0.035121" sZ="0.119176" angle="99.8415" ax="0.7516" ay="-0.3821" az="0.5377" tx="-0.5228" ty="-0.0642" tz="0.2775" />
+    <Box sX="0.226971" sY="0.052794" sZ="0.229255" angle="20.6017" ax="-1" ay="0" az="0" tx="0" ty="0.2728" tz="-0.0649" />
+    <Box sX="0.387634" sY="0.035121" sZ="0.119176" angle="99.8415" ax="0.7516" ay="-0.3821" az="0.5377" tx="-0.5377" ty="-0.0642" tz="0.2861" />
     <Box sX="0.387634" sY="0.035121" sZ="0.12277" angle="133.7117" ax="0.2149" ay="-0.6393" az="0.7383" tx="-0.4307" ty="-0.1746" tz="-0.3614" />
     <Box sX="0.314708" sY="0.035121" sZ="0.118423" angle="99.9199" ax="0.7521" ay="0.3833" az="-0.536" tx="0.5507" ty="-0.0748" tz="0.2963" />
     <Box sX="0.312076" sY="0.035121" sZ="0.122017" angle="131.4697" ax="0.1938" ay="0.6312" az="-0.751" tx="0.4307" ty="-0.1754" tz="-0.3614" />
     <Box sX="0.686025" sY="0.03" sZ="0.194821" angle="91.2131" ax="-0.144" ay="-0.979" az="0.144" tx="0.745" ty="-0.4857" tz="0.0703" />
-    <Box sX="0.49" sY="0.085667" sZ="0.244605" angle="20.6017" ax="-1" ay="0" az="0" tx="0" ty="0.1963" tz="0.638" />
+    <Box sX="0.49" sY="0.085667" sZ="0.17882" angle="20.6017" ax="-1" ay="0" az="0" tx="0" ty="0.218" tz="0.6958" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

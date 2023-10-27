@@ -6,6 +6,7 @@
 	Last modification: 2023-02-08
 	Comments: v0.0: Initial creation [jester] 2023-02-07
 v0.1: Added collision data, updated outlines [Stephan] 2023-02-08
+v0.2: Updated connection data [Stephan] 2023-10-26
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -34,7 +35,7 @@ v0.1: Added collision data, updated outlines [Stephan] 2023-02-08
     <Box sX="0.792719" sY="0.059682" sZ="2.319473" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.3236" ty="2.4255" tz="0.4" />
   </Collision>
   <Connectivity>
-    <Custom2DField type="23" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
       22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
