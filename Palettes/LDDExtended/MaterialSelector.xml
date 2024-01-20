@@ -83,6 +83,9 @@
 		<Material id ="334"/>
 		<Material id ="335"/>
 		<Material id ="375"/>  <!-- Transparent Black -->
+		<Material id ="402"/>  <!-- Reddish Orange -->
+		<Material id ="422"/>  <!-- Sienna Brown -->
+		<Material id ="423"/>  <!-- Umber Brown -->
 
 <!-- Legacy -->
 		<Material id ="195"/>
@@ -106,5 +109,6 @@
 		<Material id ="294"/>
 		<Material id ="299"/>
 		<Material id ="298"/>
+		<Material id ="314"/>  <!-- Iron Red -->
 	</Grid>
 </MaterialDefinition>
