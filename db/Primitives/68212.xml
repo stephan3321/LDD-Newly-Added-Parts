@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Editted for LDD by: Stephan
+	Last modification: 2023-11-18
+	Comments: v0.0: Initial creation [Stephan] 2023-11-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="68212" />
+    <Annotation designname="DESIGN PLATE, 1X1X2/3, NO. 4" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.239399" sY="0.141446" sZ="0.200884" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1618" tz="0.0241" />
+    <Box sX="0.062821" sY="0.163957" sZ="0.134627" angle="60.3207" ax="-0.0566" ay="-0.9936" az="0.0981" tx="0.1171" ty="0.2035" tz="0.2028" />
+    <Box sX="0.072614" sY="0.157662" sZ="0.134627" angle="135.1372" ax="-0.0759" ay="-0.9966" az="0.0315" tx="-0.1768" ty="0.213" tz="0.1768" />
+    <Box sX="0.072614" sY="0.16466" sZ="0.134627" angle="150" ax="0" ay="1" az="0" tx="-0.2115" ty="0.1797" tz="-0.1221" />
+    <Box sX="0.072614" sY="0.194013" sZ="0.134627" angle="75" ax="0" ay="1" az="0" tx="0.0632" ty="0.2091" tz="-0.2358" />
+    <Box sX="0.072614" sY="0.194013" sZ="0.134627" angle="0" ax="1" ay="0" az="0" tx="0.2442" ty="0.2091" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.068274118,0,0,0,0.099294055,0,0,0,0.067885369" centerOfMass="-0.000938,0.235156,-0.00045" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3852" minY="0" minZ="-0.3867" maxX="0.3852" maxY="0.4703" maxZ="0.3867" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3852" minY="0" minZ="-0.3867" maxX="0.3852" maxY="0.4703" maxZ="0.3867" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-07-21
+	Last modification: 2023-11-05
 	Comments: v0.0: Initial creation [The LEGO Group]
 	v0.1: Updated collision data [Stephan] 2023-07-21
+	v0.2: Updated UV mapping [Stephan] 2023-11-05
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

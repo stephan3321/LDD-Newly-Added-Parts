@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-10-31
+	Comments: v0.0: Initial creation [Stephan] 2020-05-07
+	v0.1: Updated collision and connection data [Stephan] 2023-10-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6025" />
+    <Annotation designname="BOBBED HAIR" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.0467" tz="-0.5718" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="45" ax="0" ay="1" az="0" tx="-0.4043" ty="-0.0467" tz="-0.4043" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="90" ax="0" ay="1" az="0" tx="-0.5718" ty="-0.0467" tz="0" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="135" ax="0" ay="1" az="0" tx="-0.4043" ty="-0.0467" tz="0.4043" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.0467" tz="0.5718" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="135" ax="0" ay="-1" az="0" tx="0.4043" ty="-0.0467" tz="0.4043" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="90" ax="0" ay="-1" az="0" tx="0.5718" ty="-0.0467" tz="0" />
+    <Box sX="0.283315" sY="0.158985" sZ="0.044409" angle="45" ax="0" ay="-1" az="0" tx="0.4043" ty="-0.0467" tz="-0.4043" />
+    <Box sX="0.464207" sY="0.104827" sZ="0.447999" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2488" tz="0.0018" />
+    <Box sX="0.222393" sY="0.345951" sZ="0.048692" angle="0" ax="1" ay="0" az="0" tx="0.0016" ty="0.4899" tz="0.239" />
+    <Box sX="0.222393" sY="0.345951" sZ="0.044775" angle="0" ax="1" ay="0" az="0" tx="0.0016" ty="0.4899" tz="-0.239" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.4" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2021" ty="0.6268" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.12294,0,0,0,0.170588,0,0,0,0.121336" centerOfMass="-0.000702,0.13518,-1.2E-05" mass="0.699999988079" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.753402" minY="-0.218752" minZ="-0.741421" maxX="0.753402" maxY="0.845837" maxZ="0.74142" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.753402" minY="-0.218752" minZ="-0.741421" maxX="0.753402" maxY="0.845837" maxZ="0.74142" />
+  </GeometryBounding>
+</LEGOPrimitive>

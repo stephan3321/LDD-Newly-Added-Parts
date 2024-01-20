@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Comments: v0.0: Initial creation [Stephan] 2023-12-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3484" />
+    <Annotation designname="STICK Ø 3.2 W/ HOLDER [2023-current]" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="8" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.098735" sY="0.454865" sZ="0.098735" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4991" tz="0" />
+    <Box sX="0.169483" sY="0.044557" sZ="0.05" angle="50.75" ax="0" ay="0" az="1" tx="0.2149" ty="0.9836" tz="0" />
+    <Box sX="0.169483" sY="0.044557" sZ="0.05" angle="180" ax="0.4285" ay="0.9035" az="0" tx="-0.2149" ty="0.9836" tz="0" />
+    <Box sX="0.137272" sY="0.04002" sZ="0.15" angle="180" ax="0.1785" ay="0.9839" az="0" tx="-0.2236" ty="1.0529" tz="0" />
+    <Box sX="0.157046" sY="0.066173" sZ="0.15" angle="180" ax="-0.6011" ay="0.7992" az="0" tx="-0.2559" ty="1.2291" tz="0" />
+    <Box sX="0.137272" sY="0.04002" sZ="0.15" angle="20.5596" ax="0" ay="0" az="1" tx="0.2236" ty="1.0529" tz="0" />
+    <Box sX="0.157046" sY="0.066173" sZ="0.15" angle="73.8905" ax="0" ay="0" az="-1" tx="0.2559" ty="1.2291" tz="0" />
+    <Box sX="0.246902" sY="0.019446" sZ="0.15" angle="72.9936" ax="0" ay="0" az="-1" tx="0.2524" ty="1.2367" tz="0" />
+    <Box sX="0.246902" sY="0.019446" sZ="0.15" angle="180" ax="-0.5948" ay="0.8039" az="0" tx="-0.2528" ty="1.2367" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.81" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0.8118" tz="0" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="1.2" tz="0.16" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.025496,0,0,0,0.006392,0,0,0,0.029667" centerOfMass="0,0.837749,0" mass="0.20000000298" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.16" maxX="0.4" maxY="1.4748" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.16" maxX="0.4" maxY="1.4748" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

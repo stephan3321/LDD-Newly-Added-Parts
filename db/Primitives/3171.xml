@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-11-18
+	Comments: v0.0: Initial creation [Stephan] 2023-11-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3171" />
+    <Annotation designname="CLAW, W/ 3.2 HOLDER, NO. 1" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.15" sY="0.059577" sZ="0.206016" angle="180" ax="0" ay="-0.5236" az="0.852" tx="0" ty="-0.0597" tz="0.3091" />
+    <Box sX="0.15" sY="0.263522" sZ="0.102186" angle="180" ax="0" ay="-0.5587" az="0.8293" tx="0" ty="-0.2517" tz="0.1001" />
+    <Box sX="0.15" sY="0.035773" sZ="0.300408" angle="180" ax="0" ay="-0.647" az="0.7625" tx="0" ty="-0.1501" tz="-0.2071" />
+    <Box sX="0.058031" sY="0.263522" sZ="0.215491" angle="180" ax="0" ay="-0.4209" az="0.9071" tx="0" ty="-0.4884" tz="0.3412" />
+    <Box sX="0.058031" sY="0.161224" sZ="0.378988" angle="180" ax="0" ay="-0.1105" az="0.9939" tx="0" ty="-0.6751" tz="0.8709" />
+    <Box sX="0.135877" sY="0.077022" sZ="0.353746" angle="180" ax="0" ay="-0.2702" az="0.9628" tx="0" ty="-0.7038" tz="0.227" />
+    <Box sX="0.135877" sY="0.077022" sZ="0.353746" angle="94.1856" ax="0.2608" ay="0.2608" az="-0.9295" tx="0" ty="-0.7038" tz="0.227" />
+    <Box sX="0.135877" sY="0.077022" sZ="0.240174" angle="90.2351" ax="0.0639" ay="0.0639" az="-0.9959" tx="0" ty="-0.9008" tz="0.7611" />
+    <Box sX="0.135877" sY="0.077022" sZ="0.240174" angle="180" ax="0" ay="-0.0641" az="0.9979" tx="0" ty="-0.9008" tz="0.7611" />
+    <Box sX="0.098739" sY="0.077022" sZ="0.240174" angle="91.5628" ax="-0.1629" ay="-0.1629" az="-0.9731" tx="0" ty="-0.8855" tz="1.141" />
+    <Box sX="0.098739" sY="0.077022" sZ="0.240174" angle="180" ax="0" ay="0.1651" az="0.9863" tx="0" ty="-0.8855" tz="1.141" />
+    <Box sX="0.042891" sY="0.02917" sZ="0.003964" angle="180" ax="0" ay="0.1651" az="0.9863" tx="-0.0014" ty="-0.7618" tz="1.3768" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.16" ty="0" tz="0" />
+    <Axel type="7" length="0.56" grabbing="1" startCapped="0" endCapped="0" angle="104.0225" ax="-0.4416" ay="0.781" az="-0.4416" tx="0" ty="-0.8327" tz="0.4427" />
+    <Axel type="7" length="0.37" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="0" ay="0.75" az="-0.6615" tx="0" ty="-0.9211" tz="0.9095" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.134896,0,0,0,0.113018,0,0,0,0.037932" centerOfMass="-1.7E-05,-0.505863,0.694646" mass="0.40000000596" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.16" minY="-1.0894" minZ="-0.3" maxX="0.16" maxY="0.1594" maxZ="1.3999" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16" minY="-1.0894" minZ="-0.3" maxX="0.16" maxY="0.1594" maxZ="1.3999" />
+  </GeometryBounding>
+</LEGOPrimitive>

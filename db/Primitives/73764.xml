@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-10-31
+	Comments: v0.0: Initial creation [Stephan] 2023-10-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="73764" />
+    <Annotation designname="GEAR BLOCK 2X2X1 2/3" />
+    <Annotation maingroupid="288" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.130902" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.1367" tz="-0.4" />
+    <Box sX="0.79" sY="0.048505" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.5407" tz="-0.4" />
+    <Box sX="0.79" sY="0.093419" sZ="0.79" angle="90" ax="0" ay="0" az="-1" tx="1.106" ty="0.8023" tz="-0.4" />
+    <Box sX="0.79" sY="0.093419" sZ="0.79" angle="90" ax="0" ay="0" az="-1" tx="-0.3065" ty="0.8023" tz="-0.4" />
+    <Box sX="0.226791" sY="0.054943" sZ="0.79" angle="135" ax="0" ay="0" az="-1" tx="-0.1111" ty="1.3123" tz="-0.4" />
+    <Box sX="0.226791" sY="0.054943" sZ="0.79" angle="135" ax="0" ay="0" az="-1" tx="0.8318" ty="0.3694" tz="-0.4" />
+    <Box sX="0.226791" sY="0.054943" sZ="0.79" angle="140" ax="0" ay="0" az="1" tx="0.8256" ty="1.3954" tz="-0.4" />
+    <Box sX="0.226791" sY="0.054943" sZ="0.79" angle="140" ax="0" ay="0" az="1" tx="-0.0314" ty="0.374" tz="-0.4" />
+    <Box sX="0.077759" sY="0.054943" sZ="0.236116" angle="135.6518" ax="0.1649" ay="0.0683" az="-0.9839" tx="0.0308" ty="1.2504" tz="-0.398" />
+    <Box sX="0.124615" sY="0.054943" sZ="0.147924" angle="135.2767" ax="0.1077" ay="0.0446" az="-0.9932" tx="0.0312" ty="1.2508" tz="-0.4005" />
+    <Box sX="0.077759" sY="0.054943" sZ="0.236116" angle="135.6125" ax="-0.1599" ay="-0.0662" az="-0.9849" tx="0.7714" ty="0.51" tz="-0.3976" />
+    <Box sX="0.124615" sY="0.054943" sZ="0.147924" angle="135.2823" ax="-0.1088" ay="-0.0451" az="-0.993" tx="0.7706" ty="0.5092" tz="-0.4" />
+    <Box sX="0.077759" sY="0.054943" sZ="0.236116" angle="135.6518" ax="-0.1649" ay="0.0683" az="0.9839" tx="0.7715" ty="1.2501" tz="-0.398" />
+    <Box sX="0.124615" sY="0.054943" sZ="0.147924" angle="135.2767" ax="-0.1077" ay="0.0446" az="0.9932" tx="0.7719" ty="1.2497" tz="-0.4005" />
+    <Box sX="0.077759" sY="0.054943" sZ="0.236116" angle="135.6125" ax="0.1599" ay="-0.0662" az="0.9849" tx="0.0291" ty="0.5076" tz="-0.3976" />
+    <Box sX="0.124615" sY="0.054943" sZ="0.147924" angle="135.2823" ax="0.1088" ay="-0.0451" az="0.993" tx="0.0283" ty="0.5084" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.5974" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.233752,0,0,0,0.426667,0,0,0,0.233752" centerOfMass="0.4,-0.0721,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.76" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.76" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

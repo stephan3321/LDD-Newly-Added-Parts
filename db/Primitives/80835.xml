@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-12-02
+	Comments: v0.0: Initial creation [Stephan] 2023-12-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80835" />
+    <Annotation designname="CHEST LID, 2X4, NO. 2" />
+    <Annotation maingroupid="227" />
+    <Annotation maingroupname="INTERIOR" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.06" sY="0.095" sZ="0.18" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.18" ty="1.2021" tz="-1.0362" />
+    <Box sX="1.59" sY="0.05114" sZ="0.734546" angle="180" ax="0" ay="1" az="0" tx="1.2" ty="1.5672" tz="-0.419" />
+    <Box sX="1.59" sY="0.04157" sZ="0.058895" angle="180" ax="0" ay="-0.4657" az="0.885" tx="1.2" ty="1.5441" tz="0.317" />
+    <Box sX="1.59" sY="0.05447" sZ="0.104707" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="1.4072" tz="0.3225" />
+    <Box sX="0.06" sY="0.095" sZ="0.18" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.5787" ty="1.2017" tz="-1.0394" />
+    <Box sX="1.432411" sY="0.063496" sZ="0.145" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="1.225" tz="-1.1235" />
+    <Box sX="1.59" sY="0.04157" sZ="0.058895" angle="124.492" ax="1" ay="0" az="0" tx="1.2" ty="1.546" tz="-1.1524" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.62" tz="-0.8">
+      18:1:1,23:4:1,18:1:1,29:0:1,18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,29:0:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1,29:0:1,18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="83" oriented="0" angle="180" ax="0.7071" ay="0.7071" az="0" tx="1.2" ty="1.14" tz="-1.06" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.414862,0,0,0,1.69008,0,0,0,1.4573" centerOfMass="1.20019,1.63235,-0.454916" mass="1.48399996758" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0.94" minZ="-1.22" maxX="2.8" maxY="1.78" maxZ="0.38" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0.94" minZ="-1.22" maxX="2.8" maxY="1.78" maxZ="0.38" />
+  </GeometryBounding>
+</LEGOPrimitive>

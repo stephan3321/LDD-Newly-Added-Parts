@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-12-23
+	Comments: v0.0: Initial creation [Stephan] 2023-12-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1995" />
+    <Annotation designname="WEAPON, W/ CROSS HOLE, NO. 5" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.046352" sY="0.374376" sZ="0.040298" angle="0" ax="1" ay="0" az="0" tx="-0.1368" ty="0.3794" tz="0.1304" />
+    <Box sX="0.046352" sY="0.374376" sZ="0.040298" angle="0" ax="1" ay="0" az="0" tx="-0.1368" ty="0.3794" tz="-0.1304" />
+    <Box sX="0.046352" sY="0.374376" sZ="0.040298" angle="0" ax="1" ay="0" az="0" tx="0.1358" ty="0.3794" tz="0.1304" />
+    <Box sX="0.046352" sY="0.374376" sZ="0.040298" angle="0" ax="1" ay="0" az="0" tx="0.1358" ty="0.3794" tz="-0.1304" />
+    <Box sX="0.139609" sY="0.374376" sZ="0.731945" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.175" tz="0" />
+    <Box sX="0.085478" sY="3.892742" sZ="0.312361" angle="0" ax="1" ay="0" az="0" tx="0" ty="5.4417" tz="0" />
+    <Box sX="0.085478" sY="1.687147" sZ="0.312361" angle="2.0111" ax="-1" ay="0" az="0" tx="0" ty="3.6932" tz="0.6262" />
+    <Box sX="0.085478" sY="1.687147" sZ="0.312361" angle="2.0111" ax="1" ay="0" az="0" tx="0" ty="3.6932" tz="-0.6398" />
+    <Box sX="0.1289" sY="0.374376" sZ="1.01962" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.9328" tz="0" />
+    <Box sX="0.139609" sY="0.151212" sZ="0.606221" angle="63.5299" ax="-1" ay="0" az="0" tx="0" ty="0.9675" tz="0.664" />
+    <Box sX="0.139609" sY="0.151212" sZ="0.606221" angle="63.5299" ax="1" ay="0" az="0" tx="0" ty="0.9675" tz="-0.6554" />
+    <Box sX="0.085478" sY="1.687147" sZ="0.312361" angle="7.6615" ax="1" ay="0" az="0" tx="0" ty="6.9559" tz="-0.3651" />
+    <Box sX="0.085478" sY="1.687147" sZ="0.312361" angle="7.6615" ax="-1" ay="0" az="0" tx="0" ty="6.9559" tz="0.357" />
+    <Box sX="0.076357" sY="0.066324" sZ="0.141045" angle="0" ax="1" ay="0" az="0" tx="0" ty="9.4457" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.3756" minY="0" minZ="-1.1745" maxX="0.3756" maxY="9.5447" maxZ="1.1855" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3756" minY="0" minZ="-1.1745" maxX="0.3756" maxY="9.5447" maxZ="1.1855" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

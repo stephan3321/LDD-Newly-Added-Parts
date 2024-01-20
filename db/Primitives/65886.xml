@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2023-11-24
+	Comments: v0.0: Initial creation [Stephan] 2023-04-24
+	v0.1: Corrected 3D model, updated collision data [Stephan] 2023-11-24
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="65886" />
@@ -10,8 +16,7 @@
     <Annotation version="10" />
   </Annotations>
   <Collision>
-    <Box sX="1.19" sY="0.15" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0.16" tz="-0.4" />
-    <Box sX="0.06" sY="0.045" sZ="0.55" angle="0" ax="1" ay="0" az="0" tx="-0.47" ty="0.265" tz="-0.4" />
+    <Box sX="1.19" sY="0.15" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.8057" ty="0.16" tz="-0.4" />
     <Box sX="0.160288" sY="0.061234" sZ="0.15" angle="49.2941" ax="0" ay="0" az="-1" tx="-0.6012" ty="0.3716" tz="-0.8" />
     <Box sX="0.13711" sY="0.058923" sZ="0.15" angle="6.034" ax="0" ay="0" az="1" tx="-0.8254" ty="0.4774" tz="-0.8" />
     <Box sX="0.106413" sY="0.148244" sZ="0.15" angle="0" ax="1" ay="0" az="0" tx="-0.5164" ty="0.1582" tz="-0.8" />

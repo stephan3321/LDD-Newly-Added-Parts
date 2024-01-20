@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2023-11-18
+	Comments: v0.0: Initial creation [Stephan] 2023-11-16
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67144" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 24" />
+    <Annotation maingroupid="381" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.271621" sY="0.009523" sZ="2.691434" angle="0" ax="1" ay="0" az="0" tx="0" ty="3.1134" tz="0.0158" />
+    <Box sX="0.271621" sY="0.009523" sZ="2.540414" angle="20.5944" ax="-0.0294" ay="0.0053" az="-0.9996" tx="0.478" ty="3.0072" tz="-0.1228" />
+    <Box sX="0.271621" sY="0.009523" sZ="2.107258" angle="52.0829" ax="-0.0406" ay="0.039" az="-0.9984" tx="1.0509" ty="2.6157" tz="-0.628" />
+    <Box sX="0.271621" sY="0.009523" sZ="1.800815" angle="66.8728" ax="-0.0532" ay="0.0385" az="-0.9978" tx="1.305" ty="2.1683" tz="-0.8703" />
+    <Box sX="0.271621" sY="0.009523" sZ="1.396538" angle="74.429" ax="-0.0505" ay="0.0288" az="-0.9983" tx="1.4121" ty="1.7385" tz="-1.2704" />
+    <Box sX="0.271621" sY="0.009523" sZ="0.470106" angle="74.652" ax="-0.049" ay="0.0276" az="-0.9984" tx="1.455" ty="1.4132" tz="-1.9273" />
+    <Box sX="0.271621" sY="0.009523" sZ="2.540414" angle="20.5923" ax="-0.0157" ay="-0.0228" az="0.9996" tx="-0.5165" ty="2.9949" tz="-0.1258" />
+    <Box sX="0.271621" sY="0.009523" sZ="2.019767" angle="48.7568" ax="-0.023" ay="-0.0713" az="0.9972" tx="-1.0515" ty="2.6277" tz="-0.6321" />
+    <Box sX="0.271621" sY="0.009523" sZ="0.470106" angle="108.014" ax="0.0137" ay="-0.0305" az="-0.9994" tx="-1.4794" ty="1.4132" tz="-1.9273" />
+    <Box sX="0.271621" sY="0.009523" sZ="1.396538" angle="113.3902" ax="0.0345" ay="-0.0302" az="-0.9989" tx="-1.2957" ty="2.1088" tz="-1.3338" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="92" axes="2" angle="128.4113" ax="0.4045" ay="0.6953" az="0.5941" tx="1.6933" ty="1.0466" tz="1.1396" />
+    <Fixed type="92" axes="2" angle="101.2437" ax="0.7115" ay="0.5389" az="0.4509" tx="-1.6936" ty="1.0746" tz="1.1319" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.2781174,0,0,0,6.351518,0,0,0,4.0736001" centerOfMass="2.55978,0.0173,-0.351051" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.983" minY="0" minZ="-2.7693" maxX="1.958" maxY="3.1195" maxZ="2.7693" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.983" minY="0" minZ="-2.7693" maxX="1.958" maxY="3.1195" maxZ="2.7693" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>
