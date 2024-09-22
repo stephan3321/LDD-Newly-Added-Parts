@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Magnus Forsberg [MagFors]
 	Editted for LDD by: Jester
-	Last modification: 2023-02-21
+	Last modification: 2024-08-04
 	Comments: v0.0: Initial creation [jester] 2023-02-08
 	v0.1: Added collision data [Stephan] 2023-02-21
+	v0.2: Updated collision data [Stephan] 2024-06-07
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -18,8 +19,8 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="1.59707" sY="0.3" sZ="0.394331" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.3234" tz="0" />
-    <Box sX="0.796748" sY="0.075234" sZ="0.394331" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.8826" tz="0.8" />
+    <Box sX="1.59707" sY="0.3" sZ="0.355145" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.3234" tz="0" />
+    <Box sX="0.796748" sY="0.04865" sZ="0.394331" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.9112" tz="0.8" />
     <Box sX="0.796748" sY="0.075234" sZ="0.394331" angle="90" ax="0" ay="0" az="-1" tx="2.7199" ty="-0.1604" tz="0.8" />
     <Box sX="0.796748" sY="0.075234" sZ="0.394331" angle="90" ax="0" ay="0" az="-1" tx="-0.3192" ty="-0.1604" tz="0.8" />
     <Box sX="0.29707" sY="0.070572" sZ="0.394331" angle="0" ax="1" ay="0" az="0" tx="2.4949" ty="0.5655" tz="0.8" />
@@ -27,7 +28,7 @@
     <Box sX="0.243332" sY="0.03031" sZ="0.219136" angle="48.88" ax="1" ay="0" az="0" tx="1.2" ty="1.0541" tz="1.4156" />
     <Box sX="0.243332" sY="0.03031" sZ="0.219136" angle="51.1197" ax="0.9092" ay="-0.1098" az="-0.4017" tx="1.7242" ty="0.9807" tz="1.3906" />
     <Box sX="0.243332" sY="0.03031" sZ="0.219136" angle="54.0195" ax="0.9404" ay="0.1477" az="0.3063" tx="0.723" ty="0.9831" tz="1.3927" />
-    <Box sX="0.243332" sY="0.03031" sZ="0.219136" angle="62.1371" ax="0.7945" ay="0.1913" az="0.5764" tx="0.2982" ty="0.7634" tz="1.3831" />
+    <Box sX="0.243332" sY="0.03031" sZ="0.219136" angle="62.1371" ax="0.7945" ay="0.1913" az="0.5764" tx="0.2959" ty="0.766" tz="1.3872" />
     <Box sX="0.243332" sY="0.03031" sZ="0.132427" angle="78.6665" ax="0.6376" ay="0.3042" az="0.7077" tx="-0.0628" ty="0.3727" tz="1.3517" />
     <Box sX="0.243332" sY="0.03031" sZ="0.132427" angle="95.9482" ax="0.4052" ay="0.3298" az="0.8527" tx="-0.2136" ty="-0.0639" tz="1.3293" />
     <Box sX="0.342251" sY="0.03031" sZ="0.101905" angle="101.5595" ax="0.4812" ay="0.4043" az="0.7778" tx="-0.2549" ty="-0.594" tz="1.301" />

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-02
+	Comments: v0.0: Initial creation [jester] 2024-09-02
+	v0.1: Updated outlines [Stephan] 2024-09-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1623" />
+    <Annotation designname="MINI COSTUME, NO. 37" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.09580362611" sY="0.06814922346" sZ="0.7774223999" angle="0" ax="1" ay="0" az="0" tx="-0.8765" ty="-0.8705" tz="0" />
+    <Box sX="0.09580362611" sY="0.06814922346" sZ="0.7774223999" angle="0" ax="1" ay="0" az="0" tx="0.8865" ty="-0.8705" tz="0" />
+    <Box sX="0.6001850187" sY="0.7001168588" sZ="0.05112758899" angle="5.0934" ax="-1" ay="0" az="0" tx="0" ty="-1.5133" tz="-0.6855" />
+    <Box sX="0.605191709" sY="0.6912852656" sZ="0.05711478156" angle="5.659" ax="1" ay="0" az="0" tx="0" ty="-1.4992" tz="0.6691" />
+    <Box sX="0.5174067775" sY="0.1200954578" sZ="0.5608746493" angle="180" ax="-0.6265" ay="0.7794" az="0" tx="-0.6814" ty="-0.3204" tz="0.0456" />
+    <Box sX="0.5802871444" sY="0.1200954578" sZ="0.5776950996" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1926" tz="0" />
+    <Box sX="0.5174067775" sY="0.1200954578" sZ="0.5608746493" angle="77.5831" ax="0" ay="0" az="-1" tx="0.6814" ty="-0.3204" tz="0.0456" />
+    <Box sX="0.5802871444" sY="0.0567017899" sZ="0.5776950996" angle="74.0766" ax="-1" ay="0" az="0" tx="0" ty="-0.2407" tz="-0.5825" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.84844407,0,0,0,0.57665794,0,0,0,0.98582258" centerOfMass="0,-0.8618330061,-0.002411097288" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.0349" minY="-2.2353" minZ="-0.8141" maxX="1.0349" maxY="0.5116" maxZ="0.8093" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.0349" minY="-2.2353" minZ="-0.8141" maxX="1.0349" maxY="0.5116" maxZ="0.8093" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

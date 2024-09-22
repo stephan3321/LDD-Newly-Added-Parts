@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Last modification: 2021-05-11
+	Created for LDD by: Stephan
+	Last modification: 2024-06-29
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated decoration surfaces [Stephan] 2024-06-28
+	v0.1: Improved UV lay-out [Stephan] 2024-06-29
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

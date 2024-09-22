@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-11
+	Comments: v0.0: Initial creation [jester] 2024-07-30
+	v0.1: Added collision data, updated connection data, updated outlines [Stephan] 2024-09-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3264" />
+    <Annotation designname="VISOR, NO. 13" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.136017" sY="0.097588" sZ="0.613876" angle="91.4545" ax="0.0981" ay="0.9893" az="0.1078" tx="-0.0035" ty="-0.086" tz="0.8888" />
+    <Box sX="0.161182" sY="0.022145" sZ="0.154212" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="-0.1018" tz="0.768" />
+    <Box sX="0.161183" sY="0.022145" sZ="0.172172" angle="163.5903" ax="0.1644" ay="-0.6504" az="0.7416" tx="0.2783" ty="-0.0897" tz="0.7026" />
+    <Box sX="0.161182" sY="0.022145" sZ="0.166067" angle="141.9905" ax="0.3444" ay="-0.6638" az="0.6638" tx="0.4959" ty="-0.1076" tz="0.5247" />
+    <Box sX="0.161183" sY="0.022145" sZ="0.172654" angle="131.6817" ax="0.4486" ay="-0.632" az="0.632" tx="0.6009" ty="-0.112" tz="0.3046" />
+    <Box sX="0.141799" sY="0.045124" sZ="0.065911" angle="122.0686" ax="0.5535" ay="-0.5889" az="0.5889" tx="0.7028" ty="0" tz="0.0678" />
+    <Box sX="0.161182" sY="0.022145" sZ="0.172172" angle="163.4041" ax="0.163" ay="0.6579" az="-0.7353" tx="-0.2709" ty="-0.0898" tz="0.707" />
+    <Box sX="0.161183" sY="0.022145" sZ="0.166067" angle="143.8636" ax="0.3644" ay="0.6211" az="-0.6938" tx="-0.4864" ty="-0.1065" tz="0.5255" />
+    <Box sX="0.161182" sY="0.022145" sZ="0.172654" angle="131.4532" ax="0.451" ay="0.6311" az="-0.6311" tx="-0.6027" ty="-0.1081" tz="0.293" />
+    <Box sX="0.141799" sY="0.054485" sZ="0.065911" angle="123.6455" ax="0.5357" ay="0.5971" az="-0.5971" tx="-0.7059" ty="0" tz="0.0678" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.7905" minY="-0.2916" minZ="-0.0753" maxX="0.7905" maxY="0.1124" maxZ="1.0362" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7905" minY="-0.2916" minZ="-0.0753" maxX="0.7905" maxY="0.1124" maxZ="1.0362" />
+  </GeometryBounding>
+</LEGOPrimitive>

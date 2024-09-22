@@ -2,10 +2,11 @@
 <!--
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
-	Editted for LDD by: stephan
-	Last modification: 2023-10-26
+	Editted for LDD by: Stephan
+	Last modification: 2024-04-28
 	Comments: v0.0: Added colission data [Stephan] 2023-10-21.
 	v0.1: Updated collision data [Stephan] 2023-10-26
+	v0.2: Added decoration surface [Stephan] 2024-04-28
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -146,4 +147,5 @@
   <GeometryBounding>
     <AABB minX="-0.36" minY="-0.4" minZ="-5.9491" maxX="11.56" maxY="0.4" maxZ="5.9709" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-08-01
+	Comments: v0.0: Initial creation [jester] 2024-07-30
+	v0.1: Added collision data [Stephan] 2024-08-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2279;2009" />
+    <Annotation designname="MINI CREATURE HEAD, NO. 138" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2038637653" sY="0.708412922" sZ="0.3742394136" angle="38.6578" ax="-1" ay="0" az="0" tx="0.0136" ty="1.5898" tz="0.1598" />
+    <Box sX="0.5098409544" sY="0.3752223888" sZ="0.4594261656" angle="38.6578" ax="-1" ay="0" az="0" tx="0.0136" ty="1.6403" tz="0.0641" />
+    <Box sX="0.2877626494" sY="0.6441222789" sZ="0.01823440566" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.6658" tz="-0.3214" />
+    <Box sX="0.2877626494" sY="0.6441222789" sZ="0.01823440566" angle="90" ax="0" ay="1" az="0" tx="-0.3214" ty="0.6658" tz="0" />
+    <Box sX="0.2877626494" sY="0.6441222789" sZ="0.01823440566" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.6658" tz="0.3214" />
+    <Box sX="0.2877626494" sY="0.6441222789" sZ="0.01823440566" angle="90" ax="0" ay="-1" az="0" tx="0.3214" ty="0.6658" tz="0" />
+    <Box sX="0.287763" sY="0.067652" sZ="0.022839" angle="90" ax="0" ay="1" az="0" tx="-0.203" ty="0.6693" tz="0" />
+    <Box sX="0.287763" sY="0.067652" sZ="0.022839" angle="90" ax="0" ay="1" az="0" tx="0.2041" ty="0.6693" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="10" length="0.6" grabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.6507068,0,0,0,0.30159766,0,0,0,0.59238713" centerOfMass="0,1.188378894,0.1598186823" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6041" minY="0" minZ="-0.5456" maxX="0.6041" maxY="2.2252" maxZ="0.7121" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6041" minY="0" minZ="-0.5456" maxX="0.6041" maxY="2.2252" maxZ="0.7121" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

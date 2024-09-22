@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-05-09
+	Comments: v0.0: Initial creation [Stephan] 2024-05-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1613" />
+    <Annotation designname="ANTLERS, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.09146735101" sY="0.4096073592" sZ="0.06776503214" angle="34.5339" ax="-0.0026" ay="0.0039" az="1" tx="-0.3903" ty="0.405" tz="-0.0054" />
+    <Box sX="0.07515631272" sY="0.08315276069" sZ="0.06760593316" angle="33.9467" ax="0" ay="0" az="-1" tx="-0.3653" ty="0.5845" tz="0" />
+    <Box sX="0.07515631272" sY="0.08315276069" sZ="0.06760593316" angle="33.9906" ax="0" ay="0" az="-1" tx="-0.1704" ty="0.3404" tz="0" />
+    <Box sX="0.07515631272" sY="0.09436154068" sZ="0.06760593316" angle="80.3914" ax="0" ay="0" az="-1" tx="-0.5637" ty="0.445" tz="0" />
+    <Box sX="0.07729927451" sY="0.1062984831" sZ="0.07648255143" angle="82.8709" ax="-0.0019" ay="-0.0063" az="-1" tx="-0.3665" ty="0.1752" tz="0.0004" />
+    <Box sX="0.08909081193" sY="0.3764244168" sZ="0.07608447831" angle="34.7072" ax="0.0021" ay="-0.0125" az="-0.9999" tx="0.3915" ty="0.408" tz="0.0004" />
+    <Box sX="0.06556206702" sY="0.1132587997" sZ="0.07499861831" angle="24.1117" ax="0" ay="0" az="1" tx="0.3521" ty="0.5833" tz="0.0038" />
+    <Box sX="0.07629796492" sY="0.1132587997" sZ="0.07820929286" angle="28.8962" ax="0" ay="0" az="1" tx="0.1844" ty="0.3071" tz="0" />
+    <Box sX="0.07327487005" sY="0.1092781302" sZ="0.07790792519" angle="81.6581" ax="0" ay="0" az="1" tx="0.382" ty="0.1762" tz="-0.0001" />
+    <Box sX="0.06924987738" sY="0.105486347" sZ="0.07891263743" angle="82.748" ax="0" ay="0" az="1" tx="0.5627" ty="0.4386" tz="0" />
+    <Box sX="0.04611154252" sY="0.08403158691" sZ="0.04611154252" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.094" tz="0" />
+    <Box sX="0.1184914523" sY="0.04409644018" sZ="0.1230682932" angle="0.8118" ax="0" ay="1" az="0" tx="0.0063" ty="0.0594" tz="0.0007" />
+    <Box sX="0.2056278276" sY="0.04616820738" sZ="0.08669835874" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0611" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.188" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.188" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.093526824,0,0,0,0.18580269,0,0,0,0.26226495" centerOfMass="-0.0003361105919,0.3168958575,-3.799796104E-07" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7388" minY="-0.2" minZ="-0.16" maxX="0.7388" maxY="0.82" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7388" minY="-0.2" minZ="-0.16" maxX="0.7388" maxY="0.82" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

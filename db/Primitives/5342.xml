@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-11
+	Comments: v0.0: Initial creation [jester] 2024-07-29
+	v0.1: Added collision data, updated outlines [Stephan] 2024-09-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5342" />
+    <Annotation designname="TORSO, NO. 8" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.44" sY="0.094644" sZ="0.094644" angle="45" ax="1" ay="0" az="0" tx="0.0016" ty="0" tz="0" />
+    <Box sX="1.23157" sY="0.098429" sZ="0.098429" angle="45" ax="1" ay="0" az="0" tx="0.0016" ty="1.9199" tz="0" />
+    <Box sX="0.301526" sY="0.539778" sZ="0.307667" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8752" tz="0.2494" />
+    <Box sX="0.68" sY="0.302035" sZ="0.358838" angle="0" ax="1" ay="0" az="0" tx="0.0016" ty="1.918" tz="0.0072" />
+    <Box sX="0.08764" sY="0.343911" sZ="0.197115" angle="27.7664" ax="1" ay="0" az="0" tx="0.2904" ty="0.1422" tz="0.0611" />
+    <Box sX="0.025803" sY="0.180071" sZ="0.180071" angle="45" ax="1" ay="0" az="0" tx="1.1274" ty="1.9199" tz="0" />
+    <Box sX="0.084869" sY="0.343911" sZ="0.197115" angle="180" ax="0" ay="0.9708" az="0.2399" tx="-0.2823" ty="0.1422" tz="0.0611" />
+    <Box sX="0.031025" sY="0.180071" sZ="0.180071" angle="180" ax="0" ay="0.9239" az="0.3827" tx="-1.1295" ty="1.9199" tz="0" />
+    <Box sX="0.44098" sY="0.607957" sZ="0.47949" angle="0" ax="1" ay="0" az="0" tx="0.0016" ty="1.7745" tz="0.1655" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.35242" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.1772" ty="0" tz="0" />
+    <Axel type="7" length="0.36674" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-1.09" ty="1.92" tz="0" />
+    <Axel type="7" length="0.36674" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.7233" ty="1.92" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.235" minY="-0.2402" minZ="-0.4144" maxX="1.235" maxY="2.5083" maxZ="0.8163" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.235" minY="-0.2402" minZ="-0.4144" maxX="1.235" maxY="2.5083" maxZ="0.8163" />
+  </GeometryBounding>
+</LEGOPrimitive>

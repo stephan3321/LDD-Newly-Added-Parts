@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2022-10-17
+	Last modification: 2024-08-04
 	Comments: v0.0: Initial creation [The LEGO Group]
-v0.1: Updated colission data [Stephan] 2022-10-17
+	v0.1: Updated colission data [Stephan] 2022-10-17
+	v0.2: Added decoration surface [Stephan] 2024-08-04
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -45,4 +46,5 @@ v0.1: Updated colission data [Stephan] 2022-10-17
   <GeometryBounding>
     <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="6" maxY="0.497" maxZ="0.4" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-02
+	Comments: v0.0: Initial creation [jester] 2024-08-03
+	v0.1: Added collision data [Stephan] 2024-09-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1884" />
+    <Annotation designname="CAPE, NO. 61" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.210784" sY="0.00187" sZ="0.127168" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0028" tz="0.3862" />
+    <Box sX="0.540497" sY="0.00187" sZ="0.077773" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0028" tz="-0.3389" />
+    <Box sX="0.127022" sY="0.00187" sZ="0.26905" angle="0" ax="1" ay="0" az="0" tx="0.3908" ty="0.0028" tz="-0.1021" />
+    <Box sX="0.127022" sY="0.00187" sZ="0.26905" angle="0" ax="1" ay="0" az="0" tx="-0.3958" ty="0.0028" tz="-0.1021" />
+    <Box sX="0.549148" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.0819" tz="-0.4246" />
+    <Box sX="0.638119" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.248" tz="-0.4253" />
+    <Box sX="0.727498" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.4008" tz="-0.4268" />
+    <Box sX="0.827529" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.562" tz="-0.4268" />
+    <Box sX="0.949818" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.7282" tz="-0.4268" />
+    <Box sX="1.067823" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.8889" tz="-0.4268" />
+    <Box sX="1.15801" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-1.0363" tz="-0.4251" />
+    <Box sX="1.243487" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-1.1841" tz="-0.4243" />
+    <Box sX="1.335741" sY="0.00187" sZ="0.077773" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-1.3479" tz="-0.4275" />
+    <Box sX="1.4289" sY="0.00187" sZ="0.077773" angle="83.4776" ax="-1" ay="0" az="0" tx="0" ty="-1.5416" tz="-0.4336" />
+    <Box sX="1.510266" sY="0.00187" sZ="0.077773" angle="83.9646" ax="-1" ay="0" az="0" tx="0" ty="-1.7059" tz="-0.4513" />
+    <Box sX="1.612452" sY="0.00187" sZ="0.077773" angle="75.06" ax="-1" ay="0" az="0" tx="0" ty="-1.881" tz="-0.4845" />
+    <Box sX="1.676876" sY="0.00187" sZ="0.077773" angle="75.06" ax="-1" ay="0" az="0" tx="0" ty="-2.0445" tz="-0.5281" />
+    <Box sX="1.676876" sY="0.00187" sZ="0.077773" angle="62.5114" ax="-1" ay="0" az="0" tx="0" ty="-2.187" tz="-0.579" />
+    <Box sX="1.776431" sY="0.00187" sZ="0.077773" angle="62.5114" ax="-1" ay="0" az="0" tx="0" ty="-2.329" tz="-0.6528" />
+    <Box sX="1.776431" sY="0.00187" sZ="0.077773" angle="42.4682" ax="-1" ay="0" az="0" tx="0" ty="-2.4668" tz="-0.7577" />
+    <Box sX="1.871442" sY="0.00187" sZ="0.077773" angle="42.4682" ax="-1" ay="0" az="0" tx="0" ty="-2.5812" tz="-0.8827" />
+    <Box sX="1.638317" sY="0.00187" sZ="0.077773" angle="31.1543" ax="-1" ay="0" az="0" tx="0" ty="-2.6708" tz="-1.0185" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.9189" minY="-2.815" minZ="-1.2571" maxX="1.9189" maxY="0.006" maxZ="0.5699" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.9189" minY="-2.815" minZ="-1.2571" maxX="1.9189" maxY="0.006" maxZ="0.5699" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-12-24
+	Last modification: 2024-08-12
 	Comments: v0.0: Initial creation [jester] 2022-12-23
-v0.1: Added colission data [Stephan] 2022-12-24
+	v0.1: Added colission data [Stephan] 2022-12-24
+	v0.2: Updated connection data [Stephan] 2024-08-12
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -18,14 +19,14 @@ v0.1: Added colission data [Stephan] 2022-12-24
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="-0.1819" tz="-0.144" />
-    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="0.1825" tz="-0.144" />
-    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="-0.1819" tz="0.1393" />
-    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="0.1825" tz="0.1393" />
-    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.9819" ty="0.0006" tz="-0.144" />
-    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.6175" ty="0.0006" tz="-0.144" />
-    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.9819" ty="0.0006" tz="0.1393" />
-    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.6175" ty="0.0006" tz="0.1393" />
+    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="-0.1968" tz="-0.1562" />
+    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="0.1931" tz="-0.1537" />
+    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="-0.1973" tz="0.1483" />
+    <Box sX="0.355258" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="0.2016" tz="0.1586" />
+    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.9979" ty="0.0006" tz="-0.1567" />
+    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.6077" ty="0.0006" tz="-0.1614" />
+    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.9987" ty="0.0006" tz="0.144" />
+    <Box sX="0.392997" sY="0.089692" sZ="0.048764" angle="90" ax="0" ay="0" az="-1" tx="-0.6009" ty="0.0006" tz="0.1564" />
     <Box sX="0.146424" sY="0.013464" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="-0.7977" ty="0.4137" tz="0.1664" />
     <Box sX="0.355258" sY="0.195347" sZ="0.02263" angle="0" ax="1" ay="0" az="0" tx="0.0396" ty="-0.0022" tz="-0.2656" />
     <Box sX="0.355258" sY="0.195347" sZ="0.02263" angle="0" ax="1" ay="0" az="0" tx="-0.04" ty="-0.0022" tz="0.2692" />
@@ -55,9 +56,10 @@ v0.1: Added colission data [Stephan] 2022-12-24
     <Box sX="0.399473" sY="0.089692" sZ="0.048764" angle="0" ax="1" ay="0" az="0" tx="-1.1222" ty="-0.3039" tz="0.2941" />
   </Collision>
   <Connectivity>
-    <Axel type="4" length="0.72" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="0.4" ty="0" tz="0" />
-    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="0" az="1" tx="-0.8" ty="0.4" tz="0" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0.4" ty="0" tz="0" />
+    <Axel type="4" length="0.8" grabbing="0" startCapped="1" endCapped="0" angle="180" ax="-0.7071" ay="0" az="0.7071" tx="-0.8" ty="0.4" tz="0" />
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.4545136,0,0,0,0.24134847,0,0,0,0.60380381" centerOfMass="0.3654788882,1.106997993,0.001600906253" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-1.84" minY="-0.4" minZ="-0.36" maxX="0.4" maxY="1.1876" maxZ="0.36" />
   </Bounding>

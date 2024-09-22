@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4255"/>
+    <Annotation designname="SHOCK ABSORBER, CYLINDER"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="11"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.115149" sY="0.0055" sZ="1.115" angle="90" ax="0" ay="1" az="0" tx="1.125" ty="-0.3255" tz="-0.4"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.974305" angle="98.42105" ax="0.357407" ay="0.862856" az="0.357407" tx="1.2657" ty="-0.230163" tz="-0.630163"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.96" angle="120" ax="0.57735" ay="0.57735" az="0.57735" tx="1.28" ty="0" tz="-0.7255"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.974305" angle="148.60028" ax="0.678598" ay="0.281085" az="0.678598" tx="1.2657" ty="0.230163" tz="-0.630163"/>
+    <Box sX="0.115149" sY="0.0055" sZ="1.115" angle="180" ax="0.707107" ay="0" az="0.707107" tx="1.125" ty="0.3255" tz="-0.4"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.974305" angle="148.60028" ax="-0.678598" ay="0.281085" az="-0.678598" tx="1.2657" ty="0.230163" tz="-0.169837"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.96" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.28" ty="0" tz="-0.0745"/>
+    <Box sX="0.115149" sY="0.0055" sZ="0.974305" angle="98.42105" ax="-0.357407" ay="0.862856" az="-0.357407" tx="1.2657" ty="-0.230163" tz="-0.169837"/>
+    <Box sX="0.199891" sY="0.02" sZ="0.31" angle="0" ax="0" ay="1" az="0" tx="0.024891" ty="-0.28" tz="-0.4"/>
+    <Box sX="0.199891" sY="0.02" sZ="0.31" angle="0" ax="0" ay="1" az="0" tx="0.024891" ty="0.28" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="149.99998" ax="0" ay="0" az="1" tx="0.164247" ty="0.284151" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="149.99998" ax="0" ay="0" az="-1" tx="-0.163958" ty="0.284317" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="90" ax="0" ay="0" az="-1" tx="-0.328205" ty="0.000167" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="29.99999" ax="0" ay="0" az="-1" tx="-0.164247" ty="-0.284151" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="29.99999" ax="0" ay="0" az="1" tx="0.163958" ty="-0.284317" tz="-0.4"/>
+    <Box sX="0.190167" sY="0.008205" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="0.328205" ty="-0.000167" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Slider type="18" length="1.1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="0.1" tz="-0.4"/>
+    <Slider type="18" length="1.1" startCapped="1" endCapped="1" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.4" ty="-0.1" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.063767,0,0,0,0.414095,0,0,0,0.422023" centerOfMass="0.842173,0,-0.399947" mass="0.722000002861" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.372" minY="-0.4" minZ="-0.8" maxX="2.25" maxY="0.4" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.372" minY="-0.4" minZ="-0.8" maxX="2.25" maxY="0.4" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>
