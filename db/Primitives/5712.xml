@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2024-06-07
+	Comments: v0.0: Initial creation [Stephan] 2024-06-07
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5712" />
+    <Annotation designname="BRICK, W/ PLATE 1X5X1 1/3" />
+    <Annotation maingroupid="202" />
+    <Annotation maingroupname="BRICKS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.8742500448" sY="0.390000006" sZ="0.04703091621" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4843" ty="0.263" tz="0" />
+    <Box sX="1.189999809" sY="0.0650002861" sZ="0.1499999666" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4" ty="1.12" tz="0.325" />
+    <Box sX="0.06475662231" sY="0.3899999762" sZ="0.1499999815" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="3.5252" ty="1.12" tz="0" />
+    <Box sX="0.06500000298" sY="0.390000006" sZ="0.1499999964" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.325" ty="0.16" tz="0" />
+    <Box sX="1.186249902" sY="0.06481974363" sZ="0.1499999964" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.7962" ty="0.16" tz="-0.3248" />
+    <Box sX="1.186249843" sY="0.06500001788" sZ="0.1500000262" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.7962" ty="0.16" tz="0.325" />
+    <Box sX="0.07425021172" sY="0.3899999762" sZ="0.5249999666" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2843" ty="0.745" tz="0" />
+    <Box sX="0.3862500095" sY="0.06500001788" sZ="0.6300000453" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.5963" ty="0.64" tz="0.325" />
+    <Box sX="0.3862497711" sY="0.06500001788" sZ="0.6300000453" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.5962" ty="0.64" tz="-0.325" />
+    <Box sX="1.189999809" sY="0.3899999762" sZ="0.04653470755" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4" ty="1.2235" tz="0" />
+    <Box sX="1.189999809" sY="0.06500004768" sZ="0.1499999666" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.4" ty="1.12" tz="-0.3246" />
+    <Box sX="0.06124996185" sY="0.3899999762" sZ="0.6300001049" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.9212" ty="0.64" tz="0" />
+    <Box sX="0.06874965668" sY="0.05000009953" sZ="0.1499999815" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.0708" ty="1.12" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="1.28" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="2" ty="0.96" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.23048033,0,0,0,1.3866667,0,0,0,1.5104803" centerOfMass="1.599999997,0.7289999574,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="3.6" maxY="1.44" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="3.6" maxY="1.44" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

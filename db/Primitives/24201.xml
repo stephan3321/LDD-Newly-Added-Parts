@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-06-27
+	Last modification: 2024-05-05
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-05-05
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -17,7 +19,7 @@
     <Box sX="0.390001" sY="0.096161" sZ="0.39" angle="180" ax="1" ay="0" az="0" tx="0" ty="-0.1062" tz="0" />
     <Box sX="0.390001" sY="0.063261" sZ="0.39" angle="180" ax="1" ay="0" az="0" tx="0.8" ty="0.2538" tz="0" />
     <Box sX="0.416624" sY="0.062359" sZ="0.39" angle="180" ax="0.9738" ay="0.2272" az="0" tx="0.7697" ty="0.05" tz="0" />
-    <Box sX="0.395069" sY="0.086" sZ="0.39" angle="180" ax="0.9975" ay="0.0714" az="0" tx="0.0156" ty="-0.1646" tz="0" />
+    <Box sX="0.395069" sY="0.086" sZ="0.39" angle="180" ax="0.9974" ay="0.0714" az="0" tx="0.0156" ty="-0.1646" tz="0" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
@@ -38,4 +40,5 @@
   <GeometryBounding>
     <AABB minX="-0.4" minY="-0.32" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.4" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-03-08
-	Comments: Added decoration surface.
+	Last modification: 2024-05-05
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-05-05
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

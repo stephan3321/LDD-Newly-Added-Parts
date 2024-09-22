@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-08-04
+	Comments: v0.0: Initial creation [Stephan]
+	v0.1: Added decoration surface [Stephan] 2024-08-04
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="41740" />
@@ -9,10 +15,14 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.1295" sZ="1.59" angle="180" ax="0.7071" ay="0" az="0.7071" tx="-0.4" ty="0.1784" tz="0" />
+    <Box sX="0.352206" sY="0.02933" sZ="1.535017" angle="180" ax="0.7071" ay="0" az="0.7071" tx="-0.4" ty="0.0417" tz="0" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0.32" tz="-0.4">
       18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1,
-      23:4:1,0:4:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,0:4:1,23:4:1,
+      23:4:1,0:4:1,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,0:4:1,23:4:1,
       18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1
     </Custom2DField>
     <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="0" tz="-0.4">
@@ -27,4 +37,5 @@
   <GeometryBounding>
     <AABB minX="-2" minY="0" minZ="-0.4" maxX="1.2" maxY="0.48" maxZ="0.4" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

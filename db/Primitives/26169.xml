@@ -1,30 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-06-08
+	Comments: v0.0: Initial creation [Stephan]
+	v0.1: Added decoration surface [Stephan] 2024-06-09
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="26169"/>
-    <Annotation designname="WALL ELEMENT 1X2X1 [2017-current]"/>
-    <Annotation maingroupid="225"/>
-    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="6"/>
+    <Annotation aliases="26169" />
+    <Annotation designname="WALL ELEMENT 1X2X1 [2017-current]" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
   </Annotations>
   <Collision>
-    <Box sX="0.78995" sY="0.39035" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.40005" ty="0.16" tz="0.00045"/>
-    <Box sX="0.78995" sY="0.065025" sZ="0.47" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="0.40005" ty="0.48" tz="-0.324875"/>
+    <Box sX="0.78995" sY="0.39035" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.0004" />
+    <Box sX="0.78995" sY="0.065025" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.48" tz="-0.3249" />
   </Collision>
   <Connectivity>
-    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
       22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
       22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.058559,0,0,0,0.129786,0,0,0,0.128404" centerOfMass="0.395851,0.342612,-0.11294" mass="0.483999997377" frictionType="0"/>
+  <PhysicsAttributes inertiaTensor="0.058559,0,0,0,0.129786,0,0,0,0.128404" centerOfMass="0.395851,0.342612,-0.11294" mass="0.483999997377" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008"/>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008"/>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.96" maxZ="0.4008" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

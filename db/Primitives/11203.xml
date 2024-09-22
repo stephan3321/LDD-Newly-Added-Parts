@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-06-01
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-06-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11203;73308" />
+    <Annotation designname="FLAT TILE 2X2 INV." />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.75" sY="0.1485" sZ="0.75" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.1611" tz="-0.4" />
+    <Box sX="0.79" sY="0.1135" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.1761" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="-0.0026" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.233752,0,0,0,0.426667,0,0,0,0.233752" centerOfMass="0.4,-0.0721,-0.4" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.3196" minZ="-1.2" maxX="1.2" maxY="0.1754" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.3196" minZ="-1.2" maxX="1.2" maxY="0.1754" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

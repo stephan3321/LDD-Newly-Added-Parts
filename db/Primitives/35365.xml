@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2024-06-15
+	Comments: v0.0: Initial creation (Stephan) 2024-06-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35365" />
+    <Annotation designname="LATTICE 3X6, W/ 3.2 SHAFT, NO. 1" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3828782046" sY="0.1498000824" sZ="0.3915733004" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1598" tz="0.0014" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="0" ax="1" ay="0" az="0" tx="0.5167" ty="0.2476" tz="0.0014" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="60" ax="0" ay="-1" az="0" tx="0.8607" ty="0.2476" tz="-0.5943" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="120" ax="0" ay="-1" az="0" tx="1.5485" ty="0.2476" tz="-0.5943" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="180" ax="0" ay="1" az="0" tx="1.8924" ty="0.2476" tz="0.0014" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="120" ax="0" ay="1" az="0" tx="1.5485" ty="0.2476" tz="0.597" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="60" ax="0" ay="1" az="0" tx="0.8607" ty="0.2476" tz="0.597" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="180" ax="0" ay="1" az="0" tx="-0.5167" ty="0.2476" tz="0.0014" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="120" ax="0" ay="-1" az="0" tx="-0.8607" ty="0.2476" tz="-0.5943" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="60" ax="0" ay="-1" az="0" tx="-1.5485" ty="0.2476" tz="-0.5943" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="0" ax="1" ay="0" az="0" tx="-1.8924" ty="0.2476" tz="0.0014" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="60" ax="0" ay="1" az="0" tx="-1.5485" ty="0.2476" tz="0.597" />
+    <Box sX="0.03325169325" sY="0.1215000057" sZ="0.3915733004" angle="120" ax="0" ay="1" az="0" tx="-0.8607" ty="0.2476" tz="0.597" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.32020742,0,0,0,1.8536297,0,0,0,1.5600889" centerOfMass="0,0.200000003,0.0005092918873" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.16" minY="0" minZ="-0.96" maxX="2.16" maxY="0.4" maxZ="0.96" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.16" minY="0" minZ="-0.96" maxX="2.16" maxY="0.4" maxZ="0.96" />
+  </GeometryBounding>
+</LEGOPrimitive>

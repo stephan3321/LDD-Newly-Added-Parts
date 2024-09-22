@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2024-08-10
+	Comments: v0.0: Initial creation [Stephan] 2024-08-10
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5907" />
+    <Annotation designname="BRICK 1X2X1 2/3, BOW W/ CUTOUT, NO. 1" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.04962528823" sY="0.2143583229" sZ="0.3741459011" angle="15.4389" ax="0" ay="0" az="1" tx="1.0535" ty="-0.5554" tz="0" />
+    <Box sX="0.04915728113" sY="0.2143583229" sZ="0.3741459011" angle="30.9927" ax="0" ay="0" az="1" tx="0.9033" ty="-0.2035" tz="0" />
+    <Box sX="0.04730090581" sY="0.2143583229" sZ="0.3741459011" angle="46.3201" ax="0" ay="0" az="1" tx="0.6419" ty="0.1294" tz="0" />
+    <Box sX="0.05014149615" sY="0.2143583229" sZ="0.3741459011" angle="63.2379" ax="0" ay="0" az="1" tx="0.2787" ty="0.3894" tz="0" />
+    <Box sX="0.05081321228" sY="0.2143583229" sZ="0.3741459011" angle="79.7799" ax="0" ay="0" az="1" tx="-0.1354" ty="0.5285" tz="0" />
+    <Box sX="0.0592511957" sY="0.3002547918" sZ="0.3741459011" angle="0" ax="1" ay="0" az="0" tx="-0.3193" ty="0.3099" tz="0" />
+    <Box sX="0.1108588159" sY="0.1888624687" sZ="0.05727672772" angle="0" ax="1" ay="0" az="0" tx="0.8647" ty="-0.3906" tz="0.3173" />
+    <Box sX="0.1108588159" sY="0.1888624687" sZ="0.05838708218" angle="0" ax="1" ay="0" az="0" tx="0.8647" ty="-0.3906" tz="-0.3184" />
+    <Box sX="0.1775108596" sY="0.3294230898" sZ="0.05727672772" angle="0" ax="1" ay="0" az="0" tx="0.5972" ty="-0.2501" tz="0.3173" />
+    <Box sX="0.1775108596" sY="0.3294230898" sZ="0.05838708218" angle="0" ax="1" ay="0" az="0" tx="0.5972" ty="-0.2501" tz="-0.3184" />
+    <Box sX="0.05127801162" sY="0.08890261457" sZ="0.3741459011" angle="0" ax="1" ay="0" az="0" tx="1.1113" ty="-0.8589" tz="0" />
+    <Box sX="0.07473012728" sY="0.1599505008" sZ="0.03500000168" angle="0" ax="1" ay="0" az="0" tx="0.3347" ty="0.185" tz="0" />
+    <Box sX="0.04429437" sY="0.6139769528" sZ="0.3741459011" angle="0" ax="1" ay="0" az="0" tx="0.4657" ty="-0.3338" tz="0" />
+    <Box sX="0.3501622062" sY="0.1852927569" sZ="0.05727672772" angle="0" ax="1" ay="0" az="0" tx="0.7699" ty="-0.7625" tz="0.3173" />
+    <Box sX="0.3501622062" sY="0.1852927569" sZ="0.05838708218" angle="0" ax="1" ay="0" az="0" tx="0.7699" ty="-0.7625" tz="-0.3184" />
+    <Box sX="0.390000006" sY="0.1852927569" sZ="0.05964536756" angle="0" ax="1" ay="0" az="0" tx="0.0077" ty="0.1953" tz="0.3196" />
+    <Box sX="0.390000006" sY="0.1852927569" sZ="0.05919547816" angle="0" ax="1" ay="0" az="0" tx="0.0077" ty="0.1953" tz="-0.3192" />
+    <Box sX="0.006987411754" sY="0.6139769528" sZ="0.02007540699" angle="0" ax="1" ay="0" az="0" tx="0.5235" ty="-0.3338" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="-0.96" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.26666682,0,0,0,0.26666669,0,0,0,0.42666683" centerOfMass="0.4000000209,-0.1600002348,1.788139342E-08" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.96" minZ="-0.4" maxX="1.2" maxY="0.64" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.96" minZ="-0.4" maxX="1.2" maxY="0.64" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-04
+	Comments: v0.0: Initial creation [jester] 2024-09-03
+	v0.1: Updated outlines [Stephan] 2024-09-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5725" />
+    <Annotation designname="MINI CLOTHING, NO. 34" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.4537" minY="-2.5518" minZ="-1.1206" maxX="1.4281" maxY="0.1371" maxZ="0.5802" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.4537" minY="-2.5518" minZ="-1.1206" maxX="1.4281" maxY="0.1371" maxZ="0.5802" />
+  </GeometryBounding>
+</LEGOPrimitive>

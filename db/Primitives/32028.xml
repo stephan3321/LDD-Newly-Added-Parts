@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-05-06
+	Last modification: 2024-04-28
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -14,9 +14,9 @@
     <Annotation version="3" />
   </Annotations>
   <Collision>
-    <Box sX="0.79" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0" />
+    <Box sX="0.79" sY="0.39" sZ="0.14032" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0" />
     <Box sX="0.79" sY="0.1" sZ="0.04" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.51" />
-    <Box sX="0.79" sY="0.040521" sZ="0.121977" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.68" />
+    <Box sX="0.79" sY="0.040521" sZ="0.106923" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.16" tz="0.68" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
