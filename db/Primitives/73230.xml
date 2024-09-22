@@ -3,7 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Vincent Messenet [Cheenzo]
 	Editted for LDD by: Stephan
-	Last modification: 2022-10-26
+	Last modification: 2024-05-20
+	Comments: v0.0: Initial creation [Stephan]
+	v0.1: Corrected collision data [Stephan] 2024-05-20
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -20,10 +22,10 @@
     <Box sX="0.314" sY="0.052425" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.004" ty="0.8767" tz="0" />
     <Box sX="0.061689" sY="0.47" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.3369" ty="0.48" tz="0" />
     <Box sX="0.061689" sY="0.47" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.3149" ty="0.48" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.7658" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.38" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1608" ty="0.7912" tz="0" />
-    <Box sX="0.061689" sY="0.091847" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1547" ty="0.38" tz="0" />
+    <Box sX="0.061689" sY="0.073004" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.7658" tz="0" />
+    <Box sX="0.061689" sY="0.073004" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="0.1521" ty="0.38" tz="0" />
+    <Box sX="0.061689" sY="0.073004" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1608" ty="0.7912" tz="0" />
+    <Box sX="0.061689" sY="0.073004" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.1547" ty="0.38" tz="0" />
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">

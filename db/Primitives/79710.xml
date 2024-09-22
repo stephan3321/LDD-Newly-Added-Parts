@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-13
+	Comments: v0.0: Initial creation [jester] 2024-09-12
+	v0.1: Updated outlines [Stephan] 2024-09-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="79710" />
+    <Annotation designname="FROG, NO. 4" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2486435913" sY="0.3130410014" sZ="0.2486435913" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.5417" tz="0" />
+    <Box sX="0.2807102769" sY="0.197595074" sZ="0.3945692323" angle="8.6575" ax="-1" ay="0" az="0" tx="0" ty="1.2968" tz="-0.0812" />
+    <Box sX="0.2168485396" sY="0.1569507736" sZ="0.2344330553" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.9947" tz="-0.0251" />
+    <Box sX="0.1762756955" sY="0.0896993019" sZ="0.07621647817" angle="34.7371" ax="-0.3087" ay="-0.0795" az="0.9478" tx="-0.2315" ty="1.527" tz="-0.086" />
+    <Box sX="0.0995518984" sY="0.1720493046" sZ="0.0995518984" angle="0" ax="1" ay="0" az="0" tx="-0.7988" ty="0.506" tz="0" />
+    <Box sX="0.1458207098" sY="0.1816538928" sZ="0.0995518984" angle="0" ax="1" ay="0" az="0" tx="-0.7988" ty="0.8759" tz="0" />
+    <Box sX="0.05165819219" sY="0.03386477814" sZ="0.05165819219" angle="0" ax="1" ay="0" az="0" tx="-0.7988" ty="1.104" tz="0" />
+    <Box sX="0.2044526241" sY="0.1450721279" sZ="0.07722891854" angle="0" ax="1" ay="0" az="0" tx="-0.469" ty="0.479" tz="0" />
+    <Box sX="0.2044526241" sY="0.0840121238" sZ="0.07722891854" angle="34.6143" ax="0" ay="0" az="1" tx="-0.3589" ty="0.6794" tz="0" />
+    <Box sX="0.2111523255" sY="0.07018888292" sZ="0.1908499782" angle="30" ax="0" ay="-1" az="0" tx="-0.3474" ty="0.0802" tz="0.3306" />
+    <Box sX="0.2111523255" sY="0.07018888292" sZ="0.1908499782" angle="150" ax="0" ay="-1" az="0" tx="0.3474" ty="0.0802" tz="0.3306" />
+    <Box sX="0.0995518984" sY="0.1450721279" sZ="0.0995518984" angle="180" ax="0" ay="1" az="0" tx="0.7988" ty="0.479" tz="0" />
+    <Box sX="0.2044526241" sY="0.1450721279" sZ="0.07722891854" angle="180" ax="0" ay="1" az="0" tx="0.469" ty="0.479" tz="0" />
+    <Box sX="0.2044526241" sY="0.0840121238" sZ="0.07722891854" angle="180" ax="0.2975" ay="0.9547" az="0" tx="0.3589" ty="0.6794" tz="0" />
+    <Box sX="0.1762756955" sY="0.0896993019" sZ="0.07621647817" angle="177.2817" ax="-0.283" ay="-0.9547" az="0.0922" tx="0.2315" ty="1.527" tz="-0.086" />
+    <Box sX="0.06429645018" sY="0.2527078439" sZ="0.2344330553" angle="22.166" ax="0" ay="0" az="1" tx="-0.2876" ty="1.1309" tz="-0.0251" />
+    <Box sX="0.06092028609" sY="0.1427720426" sZ="0.0606697685" angle="24.2561" ax="-0.8702" ay="-0.4844" az="0.0906" tx="-0.1555" ty="1.2107" tz="-0.5365" />
+    <Box sX="0.06429645018" sY="0.2527078439" sZ="0.2344330553" angle="180" ax="0.1922" ay="0.9814" az="0" tx="0.2876" ty="1.1309" tz="-0.0251" />
+    <Box sX="0.06092028609" sY="0.1427720426" sZ="0.0606697685" angle="168.3186" ax="-0.0191" ay="-0.9828" az="0.1838" tx="0.1555" ty="1.2107" tz="-0.5365" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.37903599,0,0,0,0.44412542,0,0,0,0.55305984" centerOfMass="-0.002897083759,0.8554799894,-0.03506631263" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.9658" minY="-0.0001" minZ="-0.6716" maxX="0.96" maxY="1.711" maxZ="0.5804" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.9658" minY="-0.0001" minZ="-0.6716" maxX="0.96" maxY="1.711" maxZ="0.5804" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-06-13
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-06-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44661" />
+    <Annotation designname="RUDDER 2X3X2" />
+    <Annotation maingroupid="275" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.79" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.16" tz="-0.4" />
+    <Box sX="0.39" sY="0.065" sZ="0.086" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.416" tz="-0.4" />
+    <Box sX="1.05565" sY="0.065" sZ="0.326329" angle="151.0857" ax="-0.2578" ay="-0.6832" az="0.6832" tx="-0.6222" ty="0.9636" tz="-0.4" />
+    <Box sX="0.807388" sY="0.065" sZ="0.326329" angle="163.4417" ax="-0.1455" ay="-0.6996" az="0.6996" tx="-1.0155" ty="0.6344" tz="-0.4" />
+    <Box sX="0.34" sY="0.065" sZ="0.624067" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-1.55" ty="1.2859" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.249625,0,0,0,0.365165,0,0,0,0.476838" centerOfMass="-0.553852,0.628086,-0.4" mass="0.800000011921" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.9" minY="0" minZ="-1.2" maxX="0.4" maxY="1.92" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.9" minY="0" minZ="-1.2" maxX="0.4" maxY="1.92" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

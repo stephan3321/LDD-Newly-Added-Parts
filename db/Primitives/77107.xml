@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Gerald Lasser [GeraldLasser]
 	Editted for LDD by: jester
-	Last modification: 2022-07-30
+	Last modification: 2024-04-29
 	Comments: v0.0: Initial creation [jester].
-v0.1: Added colission data [Stephan] 2022-07-30.
+	v0.1: Added colission data [Stephan] 2022-07-30.
+	v0.2: Added decoration surface [Stephan] 2024-04-29
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -135,4 +136,5 @@ v0.1: Added colission data [Stephan] 2022-07-30.
   <GeometryBounding>
     <AABB minX="-0.3599" minY="-0.4" minZ="-4.36" maxX="8.3599" maxY="0.4" maxZ="4.36" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Equilibrium
-	Last modification: 2023-08-25
+	Last modification: 2024-05-25
 	Comments: v0.0: Initial creaion [Equilibrium]
 	v0.1: Updated collision data [Stephan] 2023-08-25
+	v0.2: Added decoration surface [Stephan] 2024-05-25
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -62,8 +63,8 @@
     <Box sX="0.643906" sY="0.38537" sZ="0.018019" angle="90" ax="0" ay="-1" az="0" tx="0.3404" ty="0.4038" tz="-0.1439" />
     <Box sX="0.0874815" sY="0.3085" sZ="0.377024" angle="90" ax="-1" ay="0" az="0" tx="0.4037" ty="0.4" tz="0.7858" />
     <Box sX="0.269933" sY="0.38537" sZ="0.018019" angle="0" ax="1" ay="0" az="0" tx="0.5259" ty="0.4038" tz="0.4607" />
-    <Box sX="0.096686" sY="0.0055" sZ="0.39" angle="107.9782" ax="-0.7268" ay="-0.4857" az="-0.4857" tx="1.1007" ty="0.3996" tz="0.6754" />
-    <Box sX="0.096686" sY="0.0055" sZ="0.39" angle="92.1812" ax="-0.9626" ay="-0.1915" az="-0.1915" tx="0.9246" ty="0.3996" tz="0.4993" />
+    <Box sX="0.096686" sY="0.0055" sZ="0.39" angle="107.9802" ax="-0.7268" ay="-0.4857" az="-0.4857" tx="1.1007" ty="0.3996" tz="0.6754" />
+    <Box sX="0.096686" sY="0.0055" sZ="0.39" angle="92.1818" ax="-0.9626" ay="-0.1915" az="-0.1915" tx="0.9246" ty="0.3996" tz="0.4993" />
     <Box sX="0.574966" sY="0.02" sZ="0.3095" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.4" ty="0.3991" tz="1.08" />
     <Box sX="0.574966" sY="0.02" sZ="0.3095" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.4" ty="0.3991" tz="0.52" />
     <Box sX="1.73903" sY="0.02" sZ="0.3095" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.28" ty="0.3991" tz="-0.8" />
@@ -99,4 +100,5 @@
   <GeometryBounding>
     <AABB minX="-0.36" minY="0" minZ="-2.76" maxX="1.16" maxY="0.8" maxZ="1.16" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-11-24
+	Last modification: 2024-06-01
 	Comments: v0.0: Initial creation [Stephan] 2023-04-24
 	v0.1: Corrected 3D model, updated collision data [Stephan] 2023-11-24
+	v0.2: Updated decoration surface [Stephan] 2024-06-01
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -45,5 +46,5 @@
   <GeometryBounding>
     <AABB minX="-0.975997" minY="-0.058038" minZ="-1.2" maxX="2" maxY="0.561962" maxZ="0.4" />
   </GeometryBounding>
-  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>
