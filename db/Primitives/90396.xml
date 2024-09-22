@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-11
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated 3D model [jester] 2024-09-09
+	v0.2: Updated outlines Stephan] 2024-09-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90396" />
+    <Annotation designname="MINI WIG NO. 10" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.5554121761" sY="0.1116330994" sZ="0.5764656513" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2328" tz="0.0209" />
+    <Box sX="0.4730754108" sY="0.1116330994" sZ="0.05225293931" angle="0" ax="1" ay="0" az="0" tx="0.0364" ty="0.0104" tz="0.5556" />
+    <Box sX="0.4903042872" sY="1.010583179" sZ="0.1217784012" angle="7.0941" ax="0.998" ay="0.036" az="0.0523" tx="0" ty="-0.879" tz="-0.6833" />
+    <Box sX="0.1199553359" sY="0.6100968738" sZ="0.3123824168" angle="36.0158" ax="0.9632" ay="-0.1049" az="0.2475" tx="0.6454" ty="-0.461" tz="-0.1478" />
+    <Box sX="0.1199553359" sY="0.6100968738" sZ="0.3123824168" angle="36.4023" ax="0.9582" ay="0.1385" az="-0.2503" tx="-0.6268" ty="-0.4609" tz="-0.1475" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="-0.0188" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.45292698,0,0,0,0.32197581,0,0,0,0.52673559" centerOfMass="0.00300010045,-0.554968248,-0.306729838" mass="1.14" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.858" minY="-1.9473" minZ="-0.8898" maxX="0.8485" maxY="0.3595" maxZ="0.618" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.858" minY="-1.9473" minZ="-0.8898" maxX="0.8485" maxY="0.3595" maxZ="0.618" />
+  </GeometryBounding>
+</LEGOPrimitive>

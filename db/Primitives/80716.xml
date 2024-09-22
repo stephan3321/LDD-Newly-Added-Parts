@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-13
+	Comments: v0.0: Initial creation [jester] 2024-09-07
+	v0.1: Updated outlines [Stephan] 2024-09-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80716" />
+    <Annotation designname="MUSICAL INSTRUMENT, NO. 2" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1030354277" sY="0.8196123348" sZ="0.08999999404" angle="90" ax="0" ay="0" az="1" tx="1.5932" ty="0" tz="0.4724" />
+    <Box sX="0.01828431129" sY="0.01828425169" sZ="0.01000001073" angle="45.1696" ax="0.1408" ay="0.3385" az="0.9304" tx="2.9194" ty="0.1265" tz="0.441" />
+    <Box sX="0.5475532879" sY="0.5475532547" sZ="0.06222994964" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.4972" />
+    <Box sX="0.01828431129" sY="0.01828425169" sZ="0.01000001073" angle="45.1696" ax="0.1408" ay="0.3385" az="0.9304" tx="2.9194" ty="-0.1235" tz="0.441" />
+    <Box sX="0.01828431129" sY="0.01828425169" sZ="0.01000001073" angle="45.1696" ax="0.1408" ay="0.3385" az="0.9304" tx="2.529" ty="-0.1235" tz="0.5559" />
+    <Box sX="0.2273332558" sY="0.3242946766" sZ="0.07524952716" angle="91.3837" ax="0.1372" ay="0.1379" az="0.9809" tx="2.7319" ty="0.0021" tz="0.4115" />
+    <Box sX="0.01828431129" sY="0.01828425169" sZ="0.01000001073" angle="45.1696" ax="0.1408" ay="0.3385" az="0.9304" tx="2.529" ty="0.1265" tz="0.5559" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="0" ax="1" ay="0" az="0" tx="0.7012" ty="0.0003" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="90" ax="0" ay="0" az="1" tx="-0.0003" ty="0.7012" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="180" ax="0" ay="0" az="1" tx="-0.7012" ty="-0.0003" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="90" ax="0" ay="0" az="-1" tx="0.0003" ty="-0.7012" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="45" ax="0" ay="0" az="-1" tx="0.496" ty="-0.4956" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="135" ax="0" ay="0" az="-1" tx="-0.4956" ty="-0.496" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="45" ax="0" ay="0" az="1" tx="0.4956" ty="0.496" tz="0.3748" />
+    <Box sX="0.03990457778" sY="0.3041264842" sZ="0.185000037" angle="135" ax="0" ay="0" az="1" tx="-0.496" ty="0.4956" tz="0.3748" />
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0.4" />
+    <Axel type="7" length="1.229633" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.9867" ty="0" tz="0.5" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.23943242,0,0,0,1.2697707,0,0,0,1.4410381" centerOfMass="1.140072215,0,0.3197616041" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7853" minY="-0.7849" minZ="0" maxX="3.0261" maxY="0.7849" maxZ="0.6395" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7853" minY="-0.7849" minZ="0" maxX="3.0261" maxY="0.7849" maxZ="0.6395" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

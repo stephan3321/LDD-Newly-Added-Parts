@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Polymaker
-	Last modification: 2021-01-20
+	Last modification: 2024-09-12
+	Comments: v0.0: Initial creation [polymaker]
+	v0.1: Updated decoration surface [Stephan] 2024-09-12
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

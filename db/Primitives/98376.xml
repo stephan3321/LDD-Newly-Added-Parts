@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-07-20
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-07-21
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="98376" />
@@ -48,4 +54,5 @@
   <GeometryBounding>
     <AABB minX="-0.705755" minY="-0.000426" minZ="-0.392" maxX="0.863678" maxY="2.39946" maxZ="0.393071" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
 </LEGOPrimitive>

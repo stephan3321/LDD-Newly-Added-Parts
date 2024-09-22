@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-08-11
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-08-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87543" />
+    <Annotation designname="WALL ELEMENT 1X4X3, PC" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.06645" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="2.8036" tz="0" />
+    <Box sX="0.0575" sY="1.19" sZ="0.14" angle="0" ax="1" ay="0" az="0" tx="-0.3325" ty="1.5271" tz="0.25" />
+    <Box sX="0.0575" sY="1.19" sZ="0.14" angle="0" ax="1" ay="0" az="0" tx="2.7325" ty="1.5271" tz="0.25" />
+    <Box sX="1.455" sY="1.19" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="1.5271" tz="0.325" />
+    <Box sX="1.59" sY="0.15355" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.1636" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="2.88" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.54933,0,0,0,2.25073,0,0,0,4.5573" centerOfMass="1.2,1.45261,0.170365" mass="2.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="3.057" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="3.057" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

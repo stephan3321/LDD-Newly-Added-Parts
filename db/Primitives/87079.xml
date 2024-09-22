@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Stephan
-	Last modification: 2023-06-23
+	Last modification: 2024-09-12
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-07-12
+	v0.2: Updated decoration surface, resolved error in mesh structure [Stephan] 2024-09-12
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -11,7 +14,7 @@
     <Annotation maingroupname="PLATES" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
-    <Annotation version="5" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="1.54" sY="0.0275" sZ="0.044613" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.0375" tz="0.2985" />
@@ -33,7 +36,7 @@
       22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.231822,0,0,0,1.06233,0,0,0,0.843656" centerOfMass="1.2,0.208084,-0.4" mass="0.917999982834" frictionType="0" />
+  <PhysicsAttributes inertiaTensor="0.231822,0,0,0,1.06233,0,0,0,0.843656" centerOfMass="1.2,0.20808,-0.4" mass="0.918" frictionType="0" />
   <Bounding>
     <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.32" maxZ="0.4" />
   </Bounding>

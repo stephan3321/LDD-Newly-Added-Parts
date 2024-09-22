@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-09-11
+	Comments: v0.0: Initial creation [jester] 2024-07-30
+	v0.1: Updated 3D mesh, added collision data [Stephan] 2024-09-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="107405" />
+    <Annotation designname="COLLAR, NO.11" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-1.1156" minY="-0.0552" minZ="-0.7025" maxX="1.1156" maxY="0.006" maxZ="0.7001" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1156" minY="-0.0552" minZ="-0.7025" maxX="1.1156" maxY="0.006" maxZ="0.7001" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

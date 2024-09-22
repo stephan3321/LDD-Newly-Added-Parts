@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-08-02
+	Comments: v0.0: Initial creation [jester] 2024-08-03
+	v0.1: Added collision data [Stephan] 2024-08-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="100587;65384;79829" />
+    <Annotation designname="CAPE, NO. 30" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.146032" sY="0.001438" sZ="0.420162" angle="125.2028" ax="0" ay="1" az="0" tx="0.5528" ty="0.0032" tz="0.1056" />
+    <Box sX="0.103992" sY="0.00381" sZ="0.22849" angle="90" ax="0" ay="1" az="0" tx="-0.0055" ty="0.0077" tz="0.3905" />
+    <Box sX="0.130326" sY="0.007261" sZ="0.441123" angle="90" ax="0" ay="-1" az="0" tx="0.0055" ty="0.0181" tz="-0.4231" />
+    <Box sX="1.21585" sY="0.007261" sZ="0.626371" angle="118.8683" ax="-0.5706" ay="-0.5906" az="0.5706" tx="0.0148" ty="-1.272" tz="-0.638" />
+    <Box sX="1.21585" sY="0.007261" sZ="0.423483" angle="104.8524" ax="-0.5087" ay="-0.5158" az="0.6894" tx="-0.5714" ty="-1.2944" tz="-0.5886" />
+    <Box sX="1.21585" sY="0.007261" sZ="0.431144" angle="127.604" ax="-0.6285" ay="-0.6705" az="0.3943" tx="0.6651" ty="-1.224" tz="-0.5293" />
+    <Box sX="0.146032" sY="0.003239" sZ="0.420162" angle="54.7972" ax="0" ay="1" az="0" tx="-0.5526" ty="0.0083" tz="0.1058" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.2641699,0,0,0,1.7904766,0,0,0,0.5264779" centerOfMass="0.5484060049,0.01602380991,1.349872589" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.0838" minY="-2.6867" minZ="-0.6985" maxX="1.1082" maxY="0.0639" maxZ="0.6074" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.0838" minY="-2.6867" minZ="-0.6985" maxX="1.1082" maxY="0.0639" maxZ="0.6074" />
+  </GeometryBounding>
+</LEGOPrimitive>
