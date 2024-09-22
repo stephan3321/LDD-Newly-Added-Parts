@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by jester [2024-09-09]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="35817">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+		<Annotation designname="MINI UPPER PART W/ CACTUS"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="35698">
+			<Part refID="0" designID="35698" materials="21">
+				<Bone refID="0" transformation="0.98325479030609131,0.18223582208156586,0,0,0,-1,-0.18223586678504944,0.98325496912002563,0,1.01998823881149292,0.91003543138504028,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3814">
+			<Part refID="1" designID="3814" materials="21,0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="35698">
+			<Part refID="2" designID="35698" materials="21">
+				<Bone refID="2" transformation="-0.98325473070144653,0.18223565816879272,0,0,0,-0.99999994039535522,-0.18223568797111511,-0.98325490951538086,0,-0.21998834609985352,0.91003537178039551,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

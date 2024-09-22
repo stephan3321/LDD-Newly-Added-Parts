@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by jester [2024-09-11]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="104164">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+		<Annotation designname="MINI LOWER PART, NO. 2520"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3815">
+			<Part refID="0" designID="3815" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3817">
+			<Part refID="1" designID="3817" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.79999995231628418,-1.6000000238418579,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="103912">
+			<Part refID="2" designID="103912" materials="21,0">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0,-1.6000000238418579,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

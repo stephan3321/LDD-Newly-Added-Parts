@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="21019;24247;24387;24745;24909;25034;25500;25840;25843;25884;26031;26044;26062;26228;26300"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI LOWER PART NO. 2"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="20461" uuid="0b9476bc-ab21-4bc0-b96f-526e47d2a95e">
+			<Part refID="0" designID="20461" materials="194,0,0,0,0" decoration="0,0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3815" uuid="c67a53a9-e8fb-4fca-8ca3-efd87189d80d">
+			<Part refID="1" designID="3815" materials="140,0,0" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,1.60000002384,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="20460" uuid="39a8eb0c-a375-4e6f-9f9b-4328759396b7">
+			<Part refID="2" designID="20460" materials="194,0,0,0,0" decoration="0,0,0,0">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0.799999952316,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

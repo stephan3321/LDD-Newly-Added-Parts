@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!--
-Updated by Equilibrium
+Updated by Stephan [2024-05-09]
 -->
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
-		<Annotation aliases="76537;22977"/>
+		<Annotation aliases="76138;71953"/>
 		<Annotation platformid="300"/>
 		<Annotation platformname="TECHNIC"/>
 		<Annotation maingroupid="386"/>
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
-		<Annotation designname="SHOCK ABSORBER, EXTRA HARD"/>
+		<Annotation designname="SHOCK ABSORBER, HARD"/>
     <Annotation wire=""/>
 	</Meta>
 	<Bricks>
@@ -18,8 +18,8 @@ Updated by Equilibrium
 				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
 			</Part>
 		</Brick>
-		<Brick refID="1" designID="4254" uuid="8d3eb9c3-a09f-4cb2-969e-02fc57346a9f">
-			<Part refID="1" designID="4254" materials="24">
+		<Brick refID="1" designID="71953" uuid="8d3eb9c3-a09f-4cb2-969e-02fc57346a9f">
+			<Part refID="1" designID="71953" materials="24">
 				<Bone refID="1" transformation="-1,0,0,0,-1,0,0,0,1,4.4,0,0" freeze="no"/>
 			</Part>
 		</Brick>
