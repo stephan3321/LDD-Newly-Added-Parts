@@ -1,0 +1,50 @@
+Due to the multi-color function of 21019, the decoration process is looks difficult but is actually quite easy.
+You can find it below:
+
+In the examples below "Decor #1" refers to a decoration made according to UV map "21019 (3815+20460+20461)_1-6".
+
+For DecorationMapping use:
+
+The hips (3815):
+	<Mapping decorationID="Decor #1" designID="3815" surfaceID="1"/> <!-- Hip section -->
+	<Mapping decorationID="Decor #1" designID="3815" surfaceID="2"/> <!-- Crotch section -->
+The left leg (20460):
+	<Mapping decorationID="Decor #1" designID="20460" surfaceID="2"/> <!-- Upper leg section, front -->
+	<Mapping decorationID="Decor #1" designID="20460" surfaceID="3"/> <!-- Upper leg section, side -->
+	<Mapping decorationID="Decor #1" designID="20460" surfaceID="4"/> <!-- Lower leg section, front -->
+	<Mapping decorationID="Decor #1" designID="20460" surfaceID="5"/> <!-- Lower leg section, side -->
+	<Mapping decorationID="Decor #1" designID="20460" surfaceID="6"/> <!-- Feet section, front -->
+The right leg (20461):
+	<Mapping decorationID="Decor #1" designID="20461" surfaceID="2"/> <!-- Upper leg section, front -->
+	<Mapping decorationID="Decor #1" designID="20461" surfaceID="3"/> <!-- Upper leg section, side -->
+	<Mapping decorationID="Decor #1" designID="20461" surfaceID="4"/> <!-- Lower leg section, front -->
+	<Mapping decorationID="Decor #1" designID="20461" surfaceID="5"/> <!-- Lower leg section, side -->
+	<Mapping decorationID="Decor #1" designID="20461" surfaceID="6"/> <!-- Feet section, front -->
+
+For a Palette PAXML file use:
+
+		<Assembly designID="21019" quantity="1" ItemNos="_______">
+			<Part designID="3815" materialID="COLOUR ID OF HIPS">
+				<Decoration surfaceID="1" decorationID="Decor #1"/>
+				<Decoration surfaceID="2" decorationID="Decor #1"/>
+			</Part>
+			<Part designID="20460" materialID="COLOUR ID OF UPPER LEG">
+				<SubMaterial surfaceID="6" materialID="COLOUR ID OF LOWER LEG"/>
+				<Decoration surfaceID="2" decorationID="81185"/>
+				<Decoration surfaceID="3" decorationID="81185"/>
+				<Decoration surfaceID="4" decorationID="81185"/>
+				<Decoration surfaceID="5" decorationID="81185"/>
+				<Decoration surfaceID="6" decorationID="81185"/>
+			</Part>
+			<Part designID="20461" materialID="COLOUR ID OF UPPER LEG">
+				<SubMaterial surfaceID="6" materialID="COLOUR ID OF LOWER LEG"/>
+				<Decoration surfaceID="2" decorationID="81185"/>
+				<Decoration surfaceID="3" decorationID="81185"/>
+				<Decoration surfaceID="4" decorationID="81185"/>
+				<Decoration surfaceID="5" decorationID="81185"/>
+				<Decoration surfaceID="6" decorationID="81185"/>
+			</Part>
+		</Assembly>
+
+
+By creating your decoration with UV map "21019 (3815+20460+20461)_1-6" LLD will make the decoration without any seams.
