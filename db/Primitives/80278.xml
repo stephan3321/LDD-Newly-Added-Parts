@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Jens Brühl [jb70]
 	Editted for LDD by: Stephan
-	Last modification: 2022-07-27
-	Comments: v0.0: Initial release [Stephan] 2022-07-27.
+	Last modification: 2024-10-31
+	Comments: v0.0: Initial release [Stephan] 2022-07-27
+	v0.1: Added decoration surface [Stephan] 2024-10-31
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -117,4 +118,5 @@
   <GeometryBounding>
     <AABB minX="-0.76" minY="0" minZ="-1.52" maxX="0.76" maxY="3.96" maxZ="1.52" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

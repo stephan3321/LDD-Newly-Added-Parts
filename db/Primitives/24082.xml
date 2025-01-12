@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-09-27
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated decoration surfaces [jester] 2024-09-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24082" />
+    <Annotation designname="MINI LEG NO. 1 RIGHT" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.34465" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.0008" ty="0.16" tz="0.05" />
+    <Box sX="0.295025" sY="0.136234" sZ="0.020216" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.0205" ty="1.4102" tz="-0.0024" />
+    <Box sX="0.056411" sY="0.305993" sZ="0.203315" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0" ty="1.0286" tz="0.2629" />
+    <Box sX="0.265919" sY="0.332324" sZ="0.3725" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0.0132" ty="0.3825" tz="-0.0741" />
+    <Box sX="0.348441" sY="0.06" sZ="0.07" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0029" ty="0.08" tz="-0.28" />
+    <Box sX="0.194154" sY="0.027792" sZ="0.355423" angle="121.8101" ax="-0.5565" ay="-0.5875" az="-0.5875" tx="-0.2777" ty="1.0129" tz="0.0053" />
+    <Box sX="0.056411" sY="0.305993" sZ="0.133737" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0" ty="1.1033" tz="-0.2654" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="12" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2255" ty="1.125" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.35">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.252041,0,0,0,0.123706,0,0,0,0.235002" centerOfMass="0,0.738244,-0.009477" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.373" minY="0" minZ="-0.469" maxX="0.3555" maxY="1.4765" maxZ="0.45" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.373" minY="0" minZ="-0.469" maxX="0.3555" maxY="1.4765" maxZ="0.45" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

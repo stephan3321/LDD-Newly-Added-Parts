@@ -3,8 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Rolf Osterthun [Rolf]
 	Editted for LDD by: Stephan
-	Last modification: 2023-12-02
+	Last modification: 2024-10-20
 	Comments: v0.1: Updated collision and connection data [Stephan] 2023-12-02
+	v0.2: Updated decoration surface and corrected 3D model [Stephan] 2024-10-24
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

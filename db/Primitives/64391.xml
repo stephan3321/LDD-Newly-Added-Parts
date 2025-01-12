@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
 	Created for LDD by: Equilibrium
-	Last modification: 2024-05-14
+	Last modification: 2024-11-04
 	Comments: v0.0: Initial creation [Equilibrium]
 	v0.1: Added decoration surface [Stephan] 2024-05-10
+	v0.2: Updated decoration surface [Stephan] 2024-11-04
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

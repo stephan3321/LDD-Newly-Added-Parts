@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-10-24
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2024-10-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41749;42019" />
+    <Annotation designname="RIGHT SHELL 3X8X2 W/BOW/ANGLE" />
+    <Annotation maingroupid="208" />
+    <Annotation maingroupname="BRICKS WITH SPECIAL BOWS AND ANGLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.048659" sY="0.305685" sZ="0.09" angle="148.6538" ax="0.2806" ay="0.6787" az="-0.6787" tx="0.4426" ty="0.1" tz="-1.1575" />
+    <Box sX="0.371098" sY="0.4582" sZ="0.007708" angle="120.6202" ax="0.0142" ay="0.5697" az="-0.8217" tx="0.5836" ty="0.4933" tz="-0.8813" />
+    <Box sX="0.048659" sY="0.147741" sZ="0.09" angle="148.6538" ax="0.2806" ay="0.6787" az="-0.6787" tx="-0.2447" ty="0.1" tz="-0.4682" />
+    <Box sX="0.390445" sY="0.944817" sZ="0.09" angle="115.7984" ax="0.5525" ay="0.6257" az="-0.5507" tx="3.4667" ty="1.7" tz="-0.0032" />
+    <Box sX="0.390445" sY="0.954265" sZ="0.09" angle="108.3386" ax="0.4913" ay="0.7206" az="-0.4892" tx="1.6471" ty="1.2305" tz="-0.0087" />
+    <Box sX="0.855065" sY="0.857618" sZ="0.041131" angle="100.3887" ax="0.4881" ay="0.5131" az="-0.706" tx="3.438" ty="1.3256" tz="-1.1314" />
+    <Box sX="0.855065" sY="0.746438" sZ="0.01764" angle="89.5838" ax="0.4029" ay="0.6139" az="-0.6788" tx="1.8152" ty="0.9356" tz="-1.1804" />
+    <Box sX="0.777327" sY="0.390001" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="5.2127" ty="1.44" tz="0" />
+    <Box sX="0.789999" sY="0.79" sZ="0.085996" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="5.2" ty="1.056" tz="-1.2" />
+    <Box sX="0.790001" sY="0.892278" sZ="0.085996" angle="180" ax="0" ay="-0.537" az="0.8436" tx="5.2" ty="1.4549" tz="-1.1419" />
+    <Box sX="0.776182" sY="0.39" sZ="0.271388" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="5.2138" ty="1.2414" tz="-0.8064" />
+    <Box sX="0.431262" sY="0.39" sZ="0.268392" angle="171.2131" ax="-0.0768" ay="0.705" az="-0.705" tx="0.6606" ty="0.4149" tz="0" />
+    <Box sX="0.882975" sY="0.065" sZ="0.391886" angle="175.6982" ax="-0.0352" ay="0.7035" az="-0.7098" tx="3.5887" ty="1.3303" tz="0.327" />
+    <Box sX="1.13529" sY="0.065" sZ="0.368838" angle="163.7684" ax="-0.1412" ay="0.6967" az="-0.7033" tx="1.7712" ty="0.8714" tz="0.3242" />
+    <Box sX="0.790001" sY="0.39" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.1" tz="0" />
+    <Box sX="0.390445" sY="0.667594" sZ="0.108758" angle="102.3532" ax="0.4224" ay="0.803" az="-0.4204" tx="0.2259" ty="0.4881" tz="0.0015" />
+    <Box sX="0.048659" sY="0.071835" sZ="0.09" angle="148.6538" ax="0.2806" ay="0.6787" az="-0.6787" tx="1.0775" ty="0.1" tz="-1.7919" />
+    <Box sX="0.065" sY="0.932156" sZ="0.195558" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.125" ty="0.2056" tz="-0.5422" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="4.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="6" angle="0" ax="1" ay="0" az="0" tx="4.4" ty="0.96" tz="-2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="6" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-2">
+      29:0:1,29:0:1,29:0:1,29:0:1,22:1:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,
+      29:0:1,29:0:1,22:2:1,29:0:1,22:2:1,
+      29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.78981,0,0,0,14.96172,0,0,0,14.09342" centerOfMass="3.14529,1.13245,-0.47989" mass="3.54999995232" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-2" maxX="6" maxY="2.0981" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-2" maxX="6" maxY="2.0981" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

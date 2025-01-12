@@ -3,6 +3,9 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Philippe Hurbain [Philo]
 	Editted for LDD by: Stephan
+	Last modification: 2024-12-27
+	Comments: v0.0: Initial creation [Stephan] 2023-08-21
+	v0.1: Updated decoration surface [Stephan] 2024-12-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>

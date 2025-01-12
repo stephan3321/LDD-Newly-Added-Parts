@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-10-20
+	Comments: v0.0: Initial creation [jester] 2024-09-04
+	v0.1: Updated outlines [Stephan] 2024-10-20
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42860" />
+    <Annotation designname="HAT, W/ 1.5 SHAFT, NO. 2" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.4641922505" sY="0.2679149853" sZ="0.358457349" angle="91.0125" ax="-0.1294" ay="0.9831" az="-0.1295" tx="-0.0094" ty="0.7244" tz="-0.3629" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.23036" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.32016657,0,0,0,0.33470453,0,0,0,0.29927241" centerOfMass="0.0009547472,0.4967927411,-0.241659075" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6861" minY="-0.1567" minZ="-0.9722" maxX="0.6861" maxY="1.1503" maxZ="0.4885" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6861" minY="-0.1567" minZ="-0.9722" maxX="0.6861" maxY="1.1503" maxZ="0.4885" />
+  </GeometryBounding>
+</LEGOPrimitive>

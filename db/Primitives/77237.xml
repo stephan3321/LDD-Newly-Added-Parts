@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-11-17
+	Comments: v0.0: Initial creation [jester] 2021-08-21
+	v0.1: Updated 3D model [jester] 2024-10-11
+	v0.2: Updated outlines [Stephan] 2024-11-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="77237" />
+    <Annotation designname="CREATURE, NO. 140" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.4989689451" sY="0.6526682281" sZ="0.6782235706" angle="40.9839" ax="-0.7928" ay="-0.1732" az="-0.5844" tx="0.6805" ty="1.9025" tz="-0.6727" />
+    <Box sX="0.4989689451" sY="0.6526682281" sZ="0.6782235706" angle="33.0061" ax="-1" ay="0" az="0" tx="3.2042" ty="1.9079" tz="-0.3467" />
+    <Box sX="0.7484876676" sY="0.2681975269" sZ="1.148759117" angle="0" ax="1" ay="0" az="0" tx="0.3844" ty="0.2782" tz="-0.8038" />
+    <Box sX="0.751831367" sY="0.2681975269" sZ="1.160147538" angle="0" ax="1" ay="0" az="0" tx="3.6237" ty="0.2775" tz="-0.01" />
+    <Box sX="1.578658838" sY="0.2725078964" sZ="0.5291746604" angle="43.9604" ax="-1" ay="0" az="0" tx="2" ty="5.1424" tz="-1.1744" />
+    <Box sX="0.653954506" sY="0.7442111874" sZ="1.035421064" angle="0" ax="1" ay="0" az="0" tx="0.5266" ty="0.9642" tz="-0.743" />
+    <Box sX="0.653954506" sY="0.7442145252" sZ="1.035421064" angle="0" ax="1" ay="0" az="0" tx="3.4611" ty="0.9642" tz="-0.0627" />
+    <Box sX="1.375643938" sY="0.8525263885" sZ="0.6289228593" angle="25.2392" ax="1" ay="0" az="0" tx="2" ty="2.857" tz="-1.1321" />
+    <Box sX="1.578658838" sY="0.8352236652" sZ="1.225991567" angle="0" ax="1" ay="0" az="0" tx="2" ty="3.889" tz="-0.573" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="45" ax="-1" ay="0" az="0" tx="1.2" ty="5.1512" tz="-1.9346">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="6" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="6" angle="0" ax="1" ay="0" az="0" tx="2.8" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.409" ty="5.0531" tz="-0.4011" />
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="3.591" ty="5.0531" tz="-0.4011" />
+    <Axel type="11" length="0.58" requireGrabbing="0" startCapped="1" endCapped="0" angle="92.1812" ax="0.1915" ay="0.9626" az="0.1915" tx="2" ty="5.5317" tz="0.452" />
+    <Custom2DField type="23" width="2" height="2" angle="22.5" ax="1" ay="0" az="0" tx="1.6" ty="5.6847" tz="0.0824">
+      29:0,29:0,29:0,
+      29:0,0:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.1981291,0,0,0,2.8080924,0,0,0,5.2300367" centerOfMass="2,3.151207651,-0.4322614062" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.385" minY="0" minZ="-1.9839" maxX="4.3897" maxY="6.2879" maxZ="1.1729" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.385" minY="0" minZ="-1.9839" maxX="4.3897" maxY="6.2879" maxZ="1.1729" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

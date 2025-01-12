@@ -3,9 +3,10 @@
 	Derived from: LDraw Parts Library
 	Orginal Author: Vincent Messenet [Cheenzo]
 	Editted for LDD by: Stephan
-	Last modification: 2023-10-06
+	Last modification: 2024-09-29
 	Comments: v0.0: Initial creation [Stephan] 2023-06-03
-	v0.1: Corrected decoration surfaces [Kuramapika1] 2023-0
+	v0.1: Corrected decoration surfaces [Kuramapika1] 2023-08-25
+	v0.2: Updated decoration surface [jester] 2024-09-29
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -17,7 +18,6 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="11" />
   </Annotations>
-  <DefaultCamera lat="-0.082926" lon="0.165773"/>
   <Collision>
     <Box sX="0.0055" sY="0.47" sZ="0.159789" angle="0" ax="1" ay="0" az="0" tx="-0.2655" ty="0.48" tz="0" />
     <Box sX="0.0055" sY="0.47" sZ="0.159789" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.48" tz="-0.2655" />

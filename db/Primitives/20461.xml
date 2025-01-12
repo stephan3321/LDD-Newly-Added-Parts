@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
-	Created for LDD by: Stephan
-	Last modification: 2024-06-29
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-09-13
 	Comments: v0.0: Initial creation [The LEGO Group]
 	v0.2: Added decoration surfaces [Stephan] 2024-06-29
 	v0.3: Improved UV lay-out [Stephan] 2024-06-29
+	v0.4: Updated decoration surfaces [jester] 2024-09-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -25,7 +28,7 @@
     <Box sX="0.348441" sY="0.06" sZ="0.07" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.0029" ty="0.08" tz="-0.28" />
     <Box sX="0.035" sY="0.2395" sZ="0.2125" angle="120" ax="0.5774" ay="-0.5774" az="0.5774" tx="0" ty="0.5425" tz="0.165" />
     <Box sX="0.323346" sY="0.013446" sZ="0.13607" angle="90" ax="-1" ay="0" az="0" tx="0.0212" ty="0.8031" tz="-0.3266" />
-    <Box sX="0.194154" sY="0.027792" sZ="0.355423" angle="121.8091" ax="-0.5565" ay="-0.5875" az="-0.5875" tx="-0.2738" ty="0.9563" tz="-0.0757" />
+    <Box sX="0.194154" sY="0.027792" sZ="0.355423" angle="121.8095" ax="-0.5565" ay="-0.5875" az="-0.5875" tx="-0.2738" ty="0.9563" tz="-0.0757" />
   </Collision>
   <Connectivity>
     <Hinge type="12" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.2255" ty="1.125" tz="0" />
@@ -48,5 +51,5 @@
   <GeometryBounding>
     <AABB minX="-0.373" minY="0" minZ="-0.35" maxX="0.3555" maxY="1.475" maxZ="0.45" />
   </GeometryBounding>
-  <Decoration faces="7" subMaterialRedirectLookupTable="0,6,0,0,6,6,6" />
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
 </LEGOPrimitive>

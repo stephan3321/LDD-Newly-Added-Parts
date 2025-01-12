@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-07-21
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated 3D mesh and decoration surface [jester] 2024-09-22
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16000" />
+    <Annotation designname="MINI ARM, RIGHT, UPPER PART" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.06920339704" sY="0.3127450252" sZ="0.08894174337" angle="167.0707" ax="0.0339" ay="0.8889" az="-0.4569" tx="-0.1551" ty="-0.1304" tz="0.1937" />
+    <Box sX="0.1316686475" sY="0.1447599137" sZ="0.08894171357" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.2091" ty="-0.2695" tz="0.5282" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="15" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0.15" ty="0" tz="0" />
+    <Hinge type="16" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.19" ty="-0.315" tz="0.72" />
+    <Hinge type="141" oriented="0" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="-0.19" ty="-0.315" tz="0.62" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.013238754,0,0,0,0.010007077,0,0,0,0.0059980144" centerOfMass="-0.162592177,-0.198277318,0.267144367" mass="0.167" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3956" minY="-0.526" minZ="-0.2601" maxX="0.31" maxY="0.2637" maxZ="0.77" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3956" minY="-0.526" minZ="-0.2601" maxX="0.31" maxY="0.2637" maxZ="0.77" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>

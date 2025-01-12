@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-10-20
+	Comments: v0.0: Initial creation [jester] 2024-09-04
+	v0.1: Updated outlines [Stephan] 2024-10-20
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37705" />
+    <Annotation designname="BREAD, NO. 1" />
+    <Annotation maingroupid="249" />
+    <Annotation maingroupname="FOODSTUFF" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1770276374" sY="0.1574918549" sZ="0.2054249348" angle="0" ax="1" ay="0" az="0" tx="-0.9377" ty="0.1838" tz="0.0257" />
+    <Box sX="0.2962313883" sY="0.2037988215" sZ="0.448005411" angle="0" ax="1" ay="0" az="0" tx="-0.563" ty="0.2294" tz="0" />
+    <Box sX="0.2962313244" sY="0.2036665798" sZ="0.08975952778" angle="0" ax="1" ay="0" az="0" tx="0.0133" ty="0.2292" tz="0.3582" />
+    <Box sX="0.2962313244" sY="0.2036665798" sZ="0.08975957535" angle="0" ax="1" ay="0" az="0" tx="0.0133" ty="0.2292" tz="-0.3582" />
+    <Box sX="0.7628309313" sY="0.0182586561" sZ="0.3005244261" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4695" tz="0" />
+    <Box sX="0.1770276374" sY="0.1574918549" sZ="0.2054249348" angle="180" ax="0" ay="1" az="0" tx="0.9377" ty="0.1838" tz="0.0257" />
+    <Box sX="0.2962311419" sY="0.2037988215" sZ="0.448005411" angle="180" ax="0" ay="1" az="0" tx="0.563" ty="0.2294" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.1187841,0,0,0,0.55646029,0,0,0,0.48620135" centerOfMass="-0.001290082932,0.269784991,-0.001083225012" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.1785" minY="0" minZ="-0.5336" maxX="1.1759" maxY="0.5396" maxZ="0.5314" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1785" minY="0" minZ="-0.5336" maxX="1.1759" maxY="0.5396" maxZ="0.5314" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
