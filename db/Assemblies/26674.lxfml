@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan, 2024-11-06
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="26674"/>
+		<Annotation designname="PNEUMATIC PUMP 1X1X6 NO.2"/>
+		<Annotation maingroupid="388"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+    <Annotation wire="19484,194841"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="26674" uuid="76df46d3-7ab1-4428-9294-5159b89c83fc">
+			<Part refID="0" designID="26674" materials="21,21">
+				<Bone refID="2" transformation="1.0000001192092896,0,0,0,-1.0000001192092896,0,0,0,-1.0000001192092896,-2.799999475479126,0.40000250935554504,-0.40000051259994507"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="19484" uuid="5e8d57d7-409c-4f5f-8579-69fa9211801e">
+			<Part refID="1" designID="19484" materials="21">
+				<Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,2.7977006435394287,0.40000379085540771,-0.4000011682510376"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="194841" uuid="3b1f809a-7e24-415c-a989-82accf08dd00">
+			<Part refID="2" designID="194841" materials="21">
+				<Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,2.7157003879547119,0.40000379085540771,-0.4000014066696167"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

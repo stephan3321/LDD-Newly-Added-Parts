@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!--
-Created for LDD by jester [2024-09-03]
-Updated by jester [2024-09-25]
+Updated for LDD by jester [2024-09-27]
 -->
-<LXFML versionMajor="5" versionMinor="0" name="66614">
+<LXFML versionMajor="5" versionMinor="0" name="84638">
 	<Meta>
 		<Environment name="Standard"/>
-		<Annotation aliases="66614"/>
+		<Annotation aliases="84638"/>
 		<Annotation platformid="200"/>
 		<Annotation platformname="SYSTEM"/>
 		<Annotation maingroupid="240"/>
 		<Annotation maingroupname="MINI FIGURE"/>
-		<Annotation designname="MINI UPPER PART W/ HOOK"/>
+		<Annotation designname="MINI UPPERPART W.HOOK, LEFT"/>
 		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
-		<PartMap part="3820" offset="0,0,0" relativeTo="16000" relativeToOffset="-0.198995,-0.315856,0.632942" />
 	</Meta>
 	<Bricks>
     <Brick refID="0" designID="3814">
@@ -24,25 +22,25 @@ Updated by jester [2024-09-25]
     </Brick>
     <Brick refID="1" designID="3818">
       <Part refID="1" designID="3818" materials="21,0" decoration="0">
-        <Bone refID="1" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.2199882269,0.91003537178039551,0">
+        <Bone refID="1" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.21998822689056397,0.91003537178039551,0">
         </Bone>
       </Part>
     </Brick>
     <Brick refID="2" designID="3819">
       <Part refID="2" designID="3819" materials="21,0" decoration="0">
-        <Bone refID="2" transformation="0.98325502872467041,0.18223553895950317,0,-0.18223553895950317,0.98325502872467041,0,0,0,1,1.01998823881,0.91003543138504028,0">
+        <Bone refID="2" transformation="0.98325490951538086,0.18223550915718079,0,-0.18223550915718079,0.98325490951538086,0,0,0,1,1.01998826861381532,0.91003537178039551,0">
         </Bone>
       </Part>
     </Brick>
     <Brick refID="3" designID="3820">
       <Part refID="3" designID="3820" materials="21">
-        <Bone refID="3" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.46421086789,0.63493484258651733,0.76999998092">
+        <Bone refID="3" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.464210845530033114,0.63493484258651733,0.7699999809265137">
         </Bone>
       </Part>
     </Brick>
-    <Brick refID="4" designID="65611">
-      <Part refID="4" designID="65611" materials="21">
-        <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,1.26421088725,0.63493484258651733,0.76700007915">
+    <Brick refID="4" designID="2531">
+      <Part refID="4" designID="2531" materials="21">
+        <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,1.26421079039573672,0.63493484258651733,0.7699998617172241">
         </Bone>
       </Part>
     </Brick>

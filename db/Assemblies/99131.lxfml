@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by jester [2024-09-27]
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<EBT_SCENE_PREFS_LEGO_modelLOD item0="4"/>
+		<Environment name="Standard"/>
+		<Annotation aliases="99131"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI LOWER PART 23MM [2022-current]"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="3815">
+      <Part refID="0" designID="3815" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,2.4000036716461182,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="99101">
+      <Part refID="1" designID="99101" materials="21,0" decoration="0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.000499963760376,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="99100">
+      <Part refID="2" designID="99100" materials="21,0" decoration="0">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0.80050000548362732,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

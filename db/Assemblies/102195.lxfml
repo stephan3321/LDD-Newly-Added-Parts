@@ -2,7 +2,7 @@
 <!--
 Created for LDD by jester [2024-09-03]
 -->
-<LXFML versionMajor="5" versionMinor="0" name="66614">
+<LXFML versionMajor="5" versionMinor="0" name="102195">
 	<Meta>
 		<Annotation platformid="200"/>
 		<Annotation platformname="SYSTEM"/>
@@ -13,17 +13,17 @@ Created for LDD by jester [2024-09-03]
 	<Bricks>
 		<Brick refID="0" designID="3814">
 			<Part refID="0" designID="3814" materials="21,0,0">
-				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-2,0,0"/>
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
 			</Part>
 		</Brick>
 		<Brick refID="1" designID="3322">
 			<Part refID="1" designID="3322" materials="21">
-				<Bone refID="1" transformation="0.98325490951538086,-0.18223552405834198,0,0.18223552405834198,0.98325490951538086,0,0,0,1,-2.2278547286987305,0.83149194717407227,0"/>
+				<Bone refID="1" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.22785425186,0.91149324178695679,0"/>
 			</Part>
 		</Brick>
 		<Brick refID="2" designID="3322">
 			<Part refID="2" designID="3322" materials="21">
-				<Bone refID="2" transformation="-0.98325496912002563,-0.18223519623279572,0,0.18223519623279572,-0.98325496912002563,0,0,0,1,-0.97214585542678833,0.83149182796478271,0"/>
+				<Bone refID="2" transformation="-0.98325496912002563,-0.18223552405834198,0,0.18223552405834198,-0.98325496912002563,0,0,0,1,1.0278543532,0.91149318218231201,0"/>
 			</Part>
 		</Brick>
 	</Bricks>

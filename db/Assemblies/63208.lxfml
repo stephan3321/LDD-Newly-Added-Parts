@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated for LDD by jester [2024-09-27]
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="63208"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER P. W/ARM COR.KNOB"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="3814">
+      <Part refID="0" designID="3814" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="62691">
+      <Part refID="1" designID="62691" materials="21">
+        <Bone refID="1" transformation="0.98325479030609131,-0.18223582208156586,0,0,0,1.0000003576278687,-0.18223579227924347,-0.98325502872467041,0,-0.219988226890564,0.91003537178039551,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="3819">
+      <Part refID="2" designID="3819" materials="21,0" decoration="0">
+        <Bone refID="2" transformation="0.98325490951538086,0.18223550915718079,0,-0.18223550915718079,0.98325490951538086,0,0,0,1,1.0199882388114929,0.91003537178039551,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3820">
+      <Part refID="3" designID="3820" materials="21">
+        <Bone refID="3" transformation="0.98325490951538086,0.18223550915718079,0,-0.18223550915718079,0.98325490951538086,0,0,0,0.99999988079071045,1.264210857450962046,0.63493484258651733,0.7699999809265137">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

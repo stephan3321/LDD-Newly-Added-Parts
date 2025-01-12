@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Added for LDD by Stephan [2024-09-29]
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="34777"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI ARMOUR W/ ARMS 2K"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+	</Meta>
+	<Bricks>
+  <Brick refID="0" designID="98127">
+      <Part refID="0" designID="98127" materials="21,0">
+        <Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,0.8,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="16000">
+      <Part refID="1" designID="16000" materials="21,0,0" decoration="0">
+        <Bone refID="1" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.21388822793960572,0.62213528156280514,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="16001">
+      <Part refID="2" designID="16001" materials="21,0,0" decoration="0">
+        <Bone refID="2" transformation="0.9832538366317749,0.18224130570888519,0,-0.18224130570888519,0.9832538366317749,0,0,0,1,1.01388809084892272,0.62213623523712154,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3820">
+      <Part refID="3" designID="3820" materials="21">
+        <Bone refID="3" transformation="0.98325490951538086,-0.18223550915718079,0,0.18223550915718079,0.98325490951538086,0,0,0,1,-0.458110842853784564,0.34703469276428224,0.7699999809265137">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="3820">
+      <Part refID="4" designID="3820" materials="21">
+        <Bone refID="4" transformation="0.9832538366317749,0.18224130570888519,0,-0.18224130570888519,0.9832538366317749,0,0,0,1,1.25811228156089782,0.34703695774078374,0.7699998617172241">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

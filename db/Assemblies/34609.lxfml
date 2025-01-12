@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by jester [2024-09-27]
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="34609"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI ARMOUR W/ ARMS,NO.1"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+		<PartMap part="3820" offset="0,0,0" relativeTo="16000" relativeToOffset="-0.198995,-0.315856,0.632942" />
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="28680">
+      <Part refID="0" designID="28680" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="3818">
+      <Part refID="1" designID="3818" materials="21,0" decoration="0">
+        <Bone refID="1" transformation="0.98162716627120972,-0.19080908596515656,0,0.19080908596515656,0.98162716627120972,0,0,0,1,-0.2250441312789917,0.57502138614654537,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="3819">
+      <Part refID="2" designID="3819" materials="21,0" decoration="0">
+        <Bone refID="2" transformation="0.98162716627120972,0.19080908596515656,0,-0.19080908596515656,0.98162716627120972,0,0,0,1,1.02604429423809049,0.57002139091491697,-0.0000002384185791">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3820">
+      <Part refID="3" designID="3820" materials="21">
+        <Bone refID="3" transformation="0.98327726125717163,0.18211498856544495,0,-0.18211498856544495,0.98327726125717163,0,0,0,1,1.272658318281173686,0.29706251621246337,0.7699997425079346">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="3820">
+      <Part refID="4" designID="3820" materials="21">
+        <Bone refID="4" transformation="0.98162716627120972,-0.19080908596515656,0,0.19080908596515656,0.98162716627120972,0,0,0,1,-0.4716581106185913,0.30206239223480227,0.7699999809265137">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>
