@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95320"/>
+    <Annotation designname="MINI BOXING GLOVE, LEFT"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.152171" sY="0.235319" sZ="0.38227" angle="180" ax="0" ay="0" az="1" tx="0.004965" ty="0.001502" tz="0.39227"/>
+    <Box sX="0.229072" sY="0.21752" sZ="0.233034" angle="180" ax="0" ay="0" az="1" tx="-0.035701" ty="0.041724" tz="0.573014"/>
+    <Box sX="0.195186" sY="0.323595" sZ="0.173367" angle="180" ax="0" ay="0" az="1" tx="0.007966" ty="-0.008946" tz="0.547998"/>
+    <Box sX="0.195186" sY="0.112756" sZ="0.114894" angle="180" ax="0.295643" ay="0" az="0.955298" tx="-0.06152" ty="0.356969" tz="0.423093"/>
+    <Box sX="0.195186" sY="0.220856" sZ="0.160029" angle="180" ax="0.989354" ay="0" az="-0.14553" tx="0.085067" ty="0.04143" tz="0.396587"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="17" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.05"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.233539,0,0,0,0.206788,0,0,0,0.100172" centerOfMass="0.020047,0.077634,0.164305" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.311814" minY="-0.358697" minZ="-0.55" maxX="0.351908" maxY="0.513966" maxZ="0.87861"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.311814" minY="-0.358697" minZ="-0.55" maxX="0.351908" maxY="0.513966" maxZ="0.87861"/>
+  </GeometryBounding>
+</LEGOPrimitive>

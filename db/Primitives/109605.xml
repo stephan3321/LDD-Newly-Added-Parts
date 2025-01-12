@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-10-09
+	Comments: v0.0: Initial creation [jester] 2024-10-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="109605" />
+    <Annotation designname="SKIRT, NO. 288" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.8656076931" sY="0.005000045765" sZ="0.391830031" angle="90" ax="1" ay="0" az="0" tx="0.4591" ty="-0.3871" tz="-0.4378" />
+    <Box sX="0.2769117122" sY="0.005000045765" sZ="0.1832210738" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.4822" ty="-0.2059" tz="-0.1283" />
+    <Box sX="0.2769117122" sY="0.005000045765" sZ="0.1832210738" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.2777" ty="-0.2059" tz="-0.1283" />
+    <Box sX="0.8656076931" sY="0.005000045765" sZ="0.1241474843" angle="90" ax="1" ay="0" az="0" tx="0.4591" ty="-0.933" tz="-0.4378" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.28664409,0,0,0,0.39401392,0,0,0,0.54614403" centerOfMass="-0.4275458455,-0.7652423531,0.003269970417" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6176" minY="-1.5765" minZ="-0.4459" maxX="1.3625" maxY="0.046" maxZ="0.4525" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6176" minY="-1.5765" minZ="-0.4459" maxX="1.3625" maxY="0.046" maxZ="0.4525" />
+  </GeometryBounding>
+</LEGOPrimitive>

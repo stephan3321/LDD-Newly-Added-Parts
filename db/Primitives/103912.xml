@@ -6,6 +6,7 @@
 	Last modification: 2024-09-13
 	Comments: v0.0: Initial creation [jester] 2024-09-11
 	v0.1: Updated outlines [Stephan] 2024-09-13
+	v0.2: Updated decoration surfaces [Jester] 2024-09-27
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -66,5 +67,5 @@
   <GeometryBounding>
     <AABB minX="-0.3683" minY="0" minZ="-0.35" maxX="0.3555" maxY="1.4783" maxZ="0.45" />
   </GeometryBounding>
-  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
 </LEGOPrimitive>
