@@ -6,6 +6,7 @@
 	Last modification: 2024-09-04
 	Comments: v0.0: Initial creation [jester] 2024-09-03
 	v0.1: Updated outlines [Stephan] 2024-09-04
+	v0.2: Updated decoration surface [jester] 2024-09-29
 -->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
@@ -42,7 +43,7 @@
     <Box sX="0.07962503184" sY="0.09217616655" sZ="0.1961065548" angle="80.7978" ax="0.0674" ay="0.021" az="0.9975" tx="-0.4836" ty="0.0048" tz="1.2317" />
   </Collision>
   <Connectivity>
-    <Hinge type="15" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0.158" ty="0" tz="0" />
+    <Hinge type="15" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0.15" ty="0" tz="0" />
     <Axel type="6" length="0.3334884" grabbing="1" startCapped="0" endCapped="0" angle="114.1241" ax="0" ay="1" az="0" tx="-0.2504" ty="-0.1775" tz="1.6859" />
     <Slider type="42" length="0.3334883" startCapped="0" endCapped="0" angle="179.968" ax="0.8378" ay="0.0004" az="0.546" tx="-0.2746" ty="0.1559" tz="1.631" />
   </Connectivity>

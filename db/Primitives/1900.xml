@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LEGO Builder App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: jester
+	Last modification: 2024-11-24
+	Comments: v0.0: Initial creation [jester] 2024-10-10
+	v0.1: Updated outlines [Stephan] 2024-11-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1900;100730" />
+    <Annotation designname="HUBCAP, DIA. 17.82, NO. 1" />
+    <Annotation maingroupid="267" />
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="60.198" ax="-0.0772" ay="-0.0446" az="0.996" tx="-0.5009" ty="0.2892" tz="0.2284" />
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="120.066" ax="-0.0258" ay="-0.0447" az="0.9987" tx="-0.5009" ty="-0.2892" tz="0.2284" />
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="180" ax="0" ay="-0.0447" az="0.999" tx="0" ty="-0.5783" tz="0.2284" />
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="120.066" ax="-0.0258" ay="0.0447" az="-0.9987" tx="0.5009" ty="-0.2892" tz="0.2284" />
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="60.198" ax="-0.0772" ay="0.0446" az="-0.996" tx="0.5009" ty="0.2892" tz="0.2284" />
+    <Box sX="0.06499464939" sY="0.260403926" sZ="0.05843205366" angle="5.1222" ax="-1" ay="0" az="0" tx="0" ty="0.5783" tz="0.2284" />
+    <Box sX="0.3544509148" sY="0.2046420014" sZ="0.06540050638" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0005" tz="0.2536" />
+    <Box sX="0.3544509148" sY="0.2046420014" sZ="0.06540050638" angle="120" ax="0" ay="0" az="-1" tx="0.0004" ty="-0.0003" tz="0.2536" />
+    <Box sX="0.3544509148" sY="0.2046420014" sZ="0.06540050638" angle="120" ax="0" ay="0" az="1" tx="-0.0004" ty="-0.0003" tz="0.2536" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.3175716,0,0,0,0.32395,0,0,0,0.62347764" centerOfMass="0,0,0.164517276" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8844" minY="-0.8851" minZ="-0.1645" maxX="0.8844" maxY="0.8851" maxZ="0.1645" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8844" minY="-0.8851" minZ="-0.1645" maxX="0.8844" maxY="0.8851" maxZ="0.1645" />
+  </GeometryBounding>
+</LEGOPrimitive>

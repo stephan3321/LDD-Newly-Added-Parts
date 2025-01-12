@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2024-09-25
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated 3D mesh [jester] 2024-09-25
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2531" />
+    <Annotation designname="MINI CLAW" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.01105883663" sY="0.038135592" sZ="0.06348181197" angle="114.4226" ax="0" ay="-1" az="0" tx="-0.1938" ty="0" tz="0.6219" />
+    <Box sX="0.03408531391" sY="0.07299141692" sZ="0.06348181197" angle="101.8455" ax="0" ay="-1" az="0" tx="-0.0684" ty="0" tz="0.6991" />
+    <Box sX="0.03408531391" sY="0.07299141692" sZ="0.06348181197" angle="59.5631" ax="0" ay="-1" az="0" tx="0.0998" ty="0" tz="0.6786" />
+    <Box sX="0.03408531391" sY="0.07299141692" sZ="0.06348181197" angle="1.7893" ax="0" ay="-1" az="0" tx="0.208" ty="0" tz="0.5363" />
+    <Box sX="0.03408531391" sY="0.07299141692" sZ="0.06348181197" angle="38.8687" ax="0" ay="1" az="0" tx="0.1672" ty="0" tz="0.3772" />
+    <Box sX="0.1254627281" sY="0.1254627281" sZ="0.06348181197" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.075" />
+    <Box sX="0.06731594926" sY="0.06731594926" sZ="0.1773001191" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.1244" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.2131814" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.1064" tz="0.5006" />
+    <Hinge type="17" oriented="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="-0.05" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.0095279651,0,0,0,0.010183743,0,0,0,0.0014427169" centerOfMass="0.0258569428,-2.21562551E-10,0.18573344" mass="0.095" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2961" minY="-0.1994" minZ="-0.55" maxX="0.3045" maxY="0.1994" maxZ="0.8015" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2961" minY="-0.1994" minZ="-0.55" maxX="0.3045" maxY="0.1994" maxZ="0.8015" />
+  </GeometryBounding>
+</LEGOPrimitive>
